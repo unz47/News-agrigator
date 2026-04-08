@@ -29,7 +29,7 @@ claude -p "collect-news タスクを実行して" --allowedTools bash,web_search
   "articles": [
     {
       "title": "記事タイトル",
-      "summary": "2-3行の日本語要約",
+      "summary": "10行程度の日本語要約",
       "url": "ソースURL",
       "collectedAt": "2026-04-08T07:00:00+09:00"
     }
