@@ -3,33 +3,33 @@
   "category": "frontend",
   "articles": [
     {
-      "title": "Next.js 16.2の採用報告が拡大 next devが約4倍高速化、Agent DevToolsを試験導入",
-      "summary": "Vercelが3月18日にリリースしたNext.js 16.2について、4月8日時点でも企業導入や移行事例の報告が相次いでいる。next devの起動時間が約400%、レンダリングが約50%高速化され、Turbopackにはサブリソース完全性（SRI）対応・Server Fast Refresh・200以上のバグ修正が盛り込まれた。AI対応では、create-next-appのテンプレートにAGENTS.mdが追加され、ブラウザコンソールログをターミナルへ転送する機能や、AIエージェントにReact DevToolsとNext.js診断情報へのアクセスを与える実験的Agent DevToolsが搭載されている。",
-      "url": "https://nextjs.org/blog/next-16-2",
+      "title": "Next.js 16.2がリリース Turbopackの200以上の改善とAI関連機能を強化",
+      "summary": "Vercelは3月にNext.js 16.2をリリースし、4月時点で企業の採用事例が拡大している。Turbopackには200以上のバグ修正、Fast Refresh、WASM Workers、Subresource Integrity対応、動的import tree-shakingといった改善が盛り込まれ、起動時間と描画速度も大幅に向上した。AI連携ではcreate-next-appへのAGENTS.md追加やブラウザログ転送、実験的なnext-browserといった機能が導入され、エージェント駆動開発を公式に下支えする方向性が明確になっている。",
+      "url": "https://nextjs.org/blog/next-16",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "Next.js 16.2のAI改善が「コーディングエージェントに本当に効く」かを徹底検証",
-      "summary": "Marketing Scoopは4月、Next.js 16.2のAI関連改善が実際のコーディングエージェント運用にどこまで寄与するかを詳細に検証した記事を公開した。AGENTS.md、ブラウザログ転送、devサーバーのロックファイル取り扱い、Agent DevToolsという4つの新機能について、Claude CodeやCursor、各種MCPツールとの連携シナリオで効果を測定し、特にエラー再現とテレメトリ取得の自動化フェーズで生産性向上が顕著だと報告。@vercel/next-browserによる構造化されたブラウザ検査も「エージェント時代のフレームワークの基準」になり得ると評価している。",
-      "url": "https://www.marketingscoop.com/developer/what-changed-in-next-js-16-2-ai-improvements-and-which-features-actually-help-coding-agents/",
+      "title": "Next.js 16.2バックポート版が配布 streaming hangやCVE対応を含むセキュリティ修正",
+      "summary": "Releasebotの追跡ログによれば、Next.jsはv16.2に加えてバックポートされたバグ修正版もリリースし、streaming fetchのハング、node_modules内のserver actions変換、maxPostponedStateSize強制（CVE-2026-27979）、image lruディスクキャッシュ、プライバシー配慮のdev websocketブロック、http-proxyパッチ（CVE-2026-29057）といった安定性・セキュリティ修正を提供した。本番環境に近いプロジェクトでも早期のパッチ適用が推奨されている。",
+      "url": "https://releasebot.io/updates/vercel/next-js",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "TypeScript 6.0が正式リリース strictがデフォルト有効、Temporal型と#/サブパスimportを導入",
-      "summary": "Microsoftは3月末にTypeScript 6.0を正式リリースした。TypeScript 7（Goネイティブポート）への橋渡しと位置付けられ、新機能としてメソッドの型推論強化、`#/`サブパスimport、es2025ターゲット/lib、Temporal API用の型、いくつかの標準ライブラリ追加が含まれる。デフォルト値も大きく変わり、strictはtrueがデフォルト、moduleはesnext、targetはES2025となった。targetの下限がES2015に引き上げられes5は非推奨となるため、レガシーコードベースの移行戦略が改めて議論されている。",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/",
+      "title": "TypeScript 6.0が2026年に登場 React 20やNext.jsと結びつくフルスタック潮流",
+      "summary": "Mediumの解説記事はTypeScript 6.0の新機能と、React 20・Next.js・フルスタックJavaScriptの進化を結びつけて整理している。メソッドの型推論強化、`#/`サブパスimport、Temporal API用の型、ES2025ターゲット対応、strict/moduleのデフォルト変更といった変更点が、React Server ComponentsやNext.jsのサーバーファースト設計と親和性を高めており、2026年のフルスタック開発の新しいベースラインを形成しているとまとめている。",
+      "url": "https://medium.com/@mernstackdevbykevin/typescript-6-0-in-2026-the-evolution-of-full-stack-javascript-is-here-bd662846a5a2",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "InfoWorld「TypeScript 6.0が登場 7.0への大規模な地ならし」",
-      "summary": "InfoWorldはTypeScript 6.0について、Goで書き直されたネイティブコンパイラを採用するTypeScript 7.0に向けた地ならしリリースだと位置付けた。JavaScript版コンパイラに基づく事実上最後のメジャー版とされ、Temporal API、新しい型推論、ES2025対応など実用的な機能拡張に加え、後方互換性に影響する破壊的変更も少なくない。Microsoftは大規模モノレポにおいてTypeScript 7.0が最大10倍のコンパイル高速化を実現するとしており、6.0ユーザは7.0プレビューでの早期検証を推奨されている。",
-      "url": "https://www.infoworld.com/article/4149659/typescript-6-0-arrives.html",
+      "title": "State of TypeScript 2026 型安全とエコシステム成熟度の最新動向",
+      "summary": "The Dev Newsletterが公開した「State of TypeScript 2026」は、TypeScriptがJavaScriptエコシステムの事実上の標準言語として浸透した現状を整理した特集である。strictモードのデフォルト化、Temporal型、Goネイティブコンパイラに向けた移行計画、React・Next.js・Angularとの統合強化など、2026年のTypeScript利用者が押さえるべき論点が網羅されている。AIエージェントによるコード生成との相性の良さもあらためて評価されている。",
+      "url": "https://devnewsletter.com/p/state-of-typescript-2026/",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "JS主要フレームワークが収束フェーズへ React・Next.js・Vue・Angular・Svelteの2026年動向",
-      "summary": "Nucampのレポートによれば、2026年のJavaScriptフレームワークは「細粒度リアクティビティ」「サーバーファースト・レンダリング」「コンパイラ駆動の最適化」「AI支援ワークフロー」の4テーマに収束しつつある。Angularはsignalsを標準化し、VueはVapor Modeで仮想DOMを迂回、ReactはReact Compilerでより宣言的でリアクティブなパターンへ移行し、Next.jsはプロダクション向けメタフレームワークとしての地位を確立。TypeScriptが事実上のベースラインとなり、型安全性とAIによる自動補完・自動修正の質を底上げしている。",
-      "url": "https://www.nucamp.co/blog/javascript-framework-trends-in-2026-what-s-new-in-react-next.js-vue-angular-and-svelte",
+      "title": "React・Next.js・Node.jsが牽引する2026年フルスタック変革",
+      "summary": "Kanhasoftは2026年のフルスタックイノベーションを論じる記事を公開し、React・Next.js・Node.jsの3者が連携することで「サーバーファースト・リアクティビティ」「コンパイラ駆動の最適化」「AI支援の開発ワークフロー」という新たな潮流が定着したと分析している。従来のSPA中心アーキテクチャから、Next.jsのApp RouterとReact Server Componentsを軸にしたハイブリッド構成への移行が進み、コード品質と開発体験の両面で改善が得られているとしている。",
+      "url": "https://kanhasoft.com/blog/react-next-js-node-js-the-full%E2%80%91stack-innovations-changing-software-in-2026/",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     }
   ]

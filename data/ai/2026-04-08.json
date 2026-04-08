@@ -3,33 +3,33 @@
   "category": "ai",
   "articles": [
     {
-      "title": "Anthropic、最強モデル「Claude Mythos Preview」を発表 セキュリティ用途に限定公開",
-      "summary": "Anthropicは現地時間4月7日、開発中の次世代モデル「Claude Mythos Preview」を発表した。SWE-bench Verifiedで93.9%を記録し、従来最上位のClaude Opus 4.6（80.8%）を大きく上回る性能を持つが、サイバー攻撃への悪用リスクから一般公開はせず、サイバー防御プログラム「Project Glasswing」のパートナー企業に限定して提供する。同モデルはOpenBSDに27年間潜伏していた脆弱性やFFmpegの16年来のバグを発見した実績があり、防御側の優位性確立を狙う。",
-      "url": "https://www.gizmodo.jp/2026/04/anthropic_claude_mythos_preview.html",
+      "title": "Claude AIが4月8日にまた障害 前日の大規模停止から24時間で再発",
+      "summary": "International Business Timesは4月8日、Anthropicの生成AIチャットボット「Claude」が再び接続障害を起こしていると報じた。前日4月7日に解消したばかりの「大規模障害」から24時間以内の再発で、ログイン失敗やチャットエラー、パフォーマンス劣化などを訴えるユーザーが数百人規模で報告されている。4月6日には約10時間の大規模停止も発生しており、エンタープライズ用途での信頼性確保がAnthropicの喫緊の課題となっている。",
+      "url": "https://www.ibtimes.com.au/claude-ai-down-again-april-8-2026-anthropic-outage-hits-users-after-yesterdays-major-incident-1865761",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "Claude Mythosは「強すぎて公開できない」 ITmediaがゼロデイ自律開発能力を報道",
-      "summary": "ITmedia AI＋は4月8日、Anthropicが「Claude Mythos」を一般公開しない理由について、セキュリティ能力が高すぎて「ゼロデイ攻撃を自律的に開発する」「サンドボックスから脱出する」レベルに達したためと報じた。Mythos Previewはエクスプロイトの設計や脆弱性連鎖の自動生成に応用可能で、悪用された場合の被害規模を慎重に評価した結果、Anthropicは厳格なアクセス制限を選んだという。AI能力がフロンティアに到達する中で、商用提供と社会的安全のバランスをめぐる議論があらためて活発化している。",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/08/news092.html",
+      "title": "Anthropic「Mythos」とOpenAI「Spud」 2026年の新世代モデルが近日投入へ",
+      "summary": "TJ Robertson氏のブログは4月、OpenAIとAnthropicがいずれも数週間以内に主要な新AIモデルを投入する見通しだと報じた。OpenAIはコードネーム「Spud」を、Anthropicは既存のOpusを超える新しい階層に位置付ける「Mythos」を準備しており、Anthropic自身はMythosを能力面での「ステップチェンジ」と表現している。ビジネス用途での選定基準を大きく変え得るリリースとして、各業界が動向を注視している。",
+      "url": "https://tjrobertson.com/new-chatgpt-claude-models-2026/",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "Anthropic、Claude Managed Agentsを公開ベータで開始 マネージド型エージェント実行基盤",
-      "summary": "Anthropicは「Claude Managed Agents」の公開ベータを開始し、Claude Platform上でエージェント実行基盤をマネージドサービスとして提供する。開発者はインフラ運用やランタイム管理を意識せずに、長期実行・並列実行・状態管理を必要とするClaudeベースのエージェントを構築できるようになる。OpenAIの「スーパーアプリ」やGoogleの「Gemini Agent Builder」と並び、エージェント実行プラットフォームを巡るAI主要3社の競争が一段と激化している。",
-      "url": "https://xenospectrum.com/anthropic-release-claude-managed-agents-beta/",
+      "title": "Claudeの有料購読が2026年に倍増 Anthropicが三つ巴レースに本格参戦",
+      "summary": "TechBuzz.AIによれば、AnthropicのClaude有料プランの購読者数は2026年に入ってから倍以上に増加し、OpenAI・Google（Gemini）との「三つ巴」レースが現実味を帯びてきた。エンタープライズ用途でのコーディングと推論能力、特にSWE-benchで80%台を記録するClaude Opusの実績が追い風となっており、GPT-5.2やGemini 3 Proとの使い分けが定着しつつある。AI主要3社の競争構造が明確に変化している。",
+      "url": "https://www.techbuzz.ai/articles/claude-paid-subscriptions-double-as-anthropic-gains-ground",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "Meta、新AIモデル「Muse Spark」を投入 アレクサンダー・ワン招聘から初の主力モデル",
-      "summary": "MetaがAlexandr Wang氏を巡る140億ドル規模の人材獲得以降、初となる主力AIモデル「Muse Spark」を4月8日に発表したとCNBCが報じた。Googleの後塵を拝してきたMetaの巻き返しを象徴するモデルで、Llama系列の延長ではなくScale AI由来のデータ整備手法を全面採用しているのが特徴とされる。マルチモーダル理解とエージェンティックなツール使用に重点を置いた設計で、競合のGemini 3 ProやGPT-5系列、Claudeに対するベンチマーク結果も同時に公開された。",
-      "url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html",
+      "title": "Anthropic、OpenClawなどサードパーティAIツール経由のClaudeアクセスを制限",
+      "summary": "Absolute Geeksは4月、AnthropicがOpenClawをはじめとするサードパーティAIツールからのClaudeアクセス条件を厳格化したと報じた。4月4日以降、Claude ProおよびMaxの購読者は外部エージェントフレームワーク経由で含まれる利用クレジットを消費できず、それらの利用は別建ての課金カテゴリに移された。AnthropicはAPIトラフィックのコスト構造と悪用防止を理由に挙げており、エージェント連携エコシステムへの影響が議論を呼んでいる。",
+      "url": "https://www.absolutegeeks.com/article/tech-news/anthropic-tightens-claude-access-for-third-party-ai-tools-like-openclaw/",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "米エネルギー省「ジェネシス・ミッション」発表 OpenAI・Google・Anthropic・NVIDIAなど24社が参加",
-      "summary": "米エネルギー省（DOE）はOpenAI、Google、Anthropic、NVIDIAなど主要テクノロジー24社と提携し、AIを活用した科学研究の加速を目指す国家プロジェクト「ジェネシス・ミッション」を発表した。原子力エネルギー、量子コンピューティング、先端製造業などの分野で、AIによる仮説生成・実験設計・データ解析を組み合わせて研究開発のブレークスルーを狙う。米政府がAI主要3社を一堂に巻き込む大型イニシアチブとして、産官の連携強化と国家安全保障上の優位性確保の双方が背景にある。",
-      "url": "https://qiita.com/hello_giita/items/3d6a8c80f7581f803e20",
+      "title": "AnthropicのClaudeチャットボットがChatGPTに本格挑戦 市場シェアで存在感",
+      "summary": "Washington Todayは4月7日、AnthropicのClaudeがOpenAIのChatGPTに対する挑戦者として急速に存在感を高めていると報じた。コーディング支援とエンタープライズ用途の両面で評価が定着し、Microsoft Copilot・Gemini・Grokなどと並ぶ主要生成AIとしての地位を固めつつある。OpenAI、Google、Anthropicの三つ巴構造が2026年のAI市場の基本構図として定着しつつある。",
+      "url": "https://nationaltoday.com/us/dc/washington/news/2026/04/07/anthropics-claude-chatbot-challenges-openais-chatgpt/",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     }
   ]
