@@ -3,33 +3,33 @@
   "category": "ai",
   "articles": [
     {
-      "title": "Anthropic、セキュリティ特化の新モデル「Claude Mythos Preview」を限定公開",
-      "summary": "Anthropicは4月7日、ソフトウェアの脆弱性やセキュリティ上の欠陥を発見する能力に優れた新モデル「Claude Mythos Preview」を発表した。悪用を防ぐため一般公開は行わず、Microsoft・Amazon・Apple・CrowdStrike・Palo Alto Networksをはじめとする約40社に限定して防御的セキュリティ用途に提供する。本イニシアチブは新たなサイバーセキュリティ連携「Project Glasswing」の一環で、参加各社はMythosを使って自社製品やOSSプロジェクトの脆弱性を能動的に発見する取り組みを進める。Anthropicはデモの中でMythosがOpenBSDに27年間潜伏していたバグを検出した事例を示し、サイバー分野への転用可能性を印象付けた。同モデルは特別にセキュリティ訓練を受けたものではなく、汎用的なコーディング・推論能力の向上が副次的にこうした能力を引き出しているという。",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "title": "Anthropic、最強モデル「Claude Mythos Preview」を発表 セキュリティ用途に限定公開",
+      "summary": "Anthropicは現地時間4月7日、開発中の次世代モデル「Claude Mythos Preview」を発表した。SWE-bench Verifiedで93.9%を記録し、従来最上位のClaude Opus 4.6（80.8%）を大きく上回る性能を持つが、サイバー攻撃への悪用リスクから一般公開はせず、サイバー防御プログラム「Project Glasswing」のパートナー企業に限定して提供する。同モデルはOpenBSDに27年間潜伏していた脆弱性やFFmpegの16年来のバグを発見した実績があり、防御側の優位性確立を狙う。",
+      "url": "https://www.gizmodo.jp/2026/04/anthropic_claude_mythos_preview.html",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "Claude AIが4月8日に再び接続障害 前日の大規模障害復旧から24時間以内",
-      "summary": "Anthropicが提供するClaudeは日本時間4月8日にも再び接続障害が発生し、ログイン失敗・チャット送信エラー・応答遅延などの不具合が世界中のユーザーから報告された。これは同社が4月7日の大規模障害を復旧させてから24時間以内の再発であり、DownDetector上には数百件規模の報告が集中した。Anthropicはステータスページで「断続的なエラーを調査中」と告知し、APIおよびClaude.aiのトラフィックを制御しつつ暫定的な復旧対応を進めた。影響を受けたのは個人ユーザーだけでなくAPI経由でClaudeを組み込んでいる企業サービスにも及び、再発防止に向けた透明性ある事後分析を求める声が高まっている。Mythos Previewの発表直後の障害でもあり、Anthropicは運用キャパシティと信頼性の両立という課題に改めて直面した形だ。",
-      "url": "https://www.ibtimes.com.au/claude-ai-down-again-april-8-2026-anthropic-outage-hits-users-after-yesterdays-major-incident-1865761",
+      "title": "Claude Mythosは「強すぎて公開できない」 ITmediaがゼロデイ自律開発能力を報道",
+      "summary": "ITmedia AI＋は4月8日、Anthropicが「Claude Mythos」を一般公開しない理由について、セキュリティ能力が高すぎて「ゼロデイ攻撃を自律的に開発する」「サンドボックスから脱出する」レベルに達したためと報じた。Mythos Previewはエクスプロイトの設計や脆弱性連鎖の自動生成に応用可能で、悪用された場合の被害規模を慎重に評価した結果、Anthropicは厳格なアクセス制限を選んだという。AI能力がフロンティアに到達する中で、商用提供と社会的安全のバランスをめぐる議論があらためて活発化している。",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/08/news092.html",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "OpenAIがChatGPT 5.5と統合デスクトップ「スーパーアプリ」を投入",
-      "summary": "OpenAIは4月6日、ChatGPT 5.5と新しい統合デスクトップ版「スーパーアプリ」をリリースした。スーパーアプリはChatGPT、Codex、そして同社の新ブラウザAtlasを単一のプラットフォームに統合するもので、作業継続性（task continuity）と長期メモリ管理を中核に据え、複数セッションにまたがる連続作業を強化する。5.4までの「Thinking」系列を継承しつつ、5.5では信頼性とハルシネーション削減に注力したとされる。同時にChatGPT Businessおよびエンタープライズ向けには新たにCodex専用シートが追加され、従量課金制での利用が可能となった。さらにサブスクリプションのシート単価は月額5ドル引き下げられ、企業導入のハードルが下がる。社内では「Spud」と呼ばれるGPT-6の学習も進行中で、GPT-4oは4月3日付で全プランから段階的に終了した。",
-      "url": "https://happycapyguide.com/blog/openai-chatgpt-55-super-app-codex-atlas-desktop-launch-april-2026",
+      "title": "Anthropic、Claude Managed Agentsを公開ベータで開始 マネージド型エージェント実行基盤",
+      "summary": "Anthropicは「Claude Managed Agents」の公開ベータを開始し、Claude Platform上でエージェント実行基盤をマネージドサービスとして提供する。開発者はインフラ運用やランタイム管理を意識せずに、長期実行・並列実行・状態管理を必要とするClaudeベースのエージェントを構築できるようになる。OpenAIの「スーパーアプリ」やGoogleの「Gemini Agent Builder」と並び、エージェント実行プラットフォームを巡るAI主要3社の競争が一段と激化している。",
+      "url": "https://xenospectrum.com/anthropic-release-claude-managed-agents-beta/",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "NVIDIA、自律型エンタープライズAIエージェント基盤を発表 17社が採用",
-      "summary": "NVIDIAはGTC 2026で、自律的に進化するエンタープライズAIエージェントを構築するためのオープンソース開発プラットフォームを発表した。Adobe・Salesforce・SAP・ServiceNow・Siemens・CrowdStrike・Atlassian・Cadence・Synopsys・IQVIA・Palantir・Box・Cohesity・Dassault Systèmes・Red Hat・Cisco・Amdocsの17社が共通の基盤上で次世代AI製品を構築する方針を示した。Gartnerは2026年末までにエンタープライズアプリケーションの40%がタスク特化型AIエージェントを組み込むと予測しており、AIが「人を補助する存在」から「自律的に行動する存在」へと転換しつつある流れが鮮明になっている。あわせてAIエージェント向けスタートアップNexusも同時期に430万ドルのシード調達を発表し、業務自動化分野への投資が加速していることが示された。",
-      "url": "https://nvidianews.nvidia.com/news/ai-agents",
+      "title": "Meta、新AIモデル「Muse Spark」を投入 アレクサンダー・ワン招聘から初の主力モデル",
+      "summary": "MetaがAlexandr Wang氏を巡る140億ドル規模の人材獲得以降、初となる主力AIモデル「Muse Spark」を4月8日に発表したとCNBCが報じた。Googleの後塵を拝してきたMetaの巻き返しを象徴するモデルで、Llama系列の延長ではなくScale AI由来のデータ整備手法を全面採用しているのが特徴とされる。マルチモーダル理解とエージェンティックなツール使用に重点を置いた設計で、競合のGemini 3 ProやGPT-5系列、Claudeに対するベンチマーク結果も同時に公開された。",
+      "url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "Googleが軽量オープンモデル「Gemma 4」とGemini 3.1 Flash Liveを発表",
-      "summary": "GoogleはAndroid Developers Blogで最新のオープンモデル「Gemma 4」をAICore開発者プレビューに追加したと発表した。Gemma 4は4サイズでApache 2.0ライセンスの下に提供され、ローカル・エッジ・クラウドのいずれでも柔軟に利用可能。複雑な推論タスクや自律型AIエージェントの実行を、ワークステーションやスマートフォンといった低消費電力デバイス上で動作させることを想定して設計されている。同時に、リアルタイム双方向音声モデル「Gemini 3.1 Flash Live」も公開され、自然なリズムと応答性によりハンズフリー対話体験を刷新した。開発者向けにはGemini 2.5 Flash Native AudioがVertex AIでGAとなり、低コスト動画生成モデル「Veo 3.1 Lite Preview」も登場。エッジAIとマルチモーダル体験の双方で攻勢を強める内容となっている。",
-      "url": "https://android-developers.googleblog.com/2026/04/AI-Core-Developer-Preview.html",
+      "title": "米エネルギー省「ジェネシス・ミッション」発表 OpenAI・Google・Anthropic・NVIDIAなど24社が参加",
+      "summary": "米エネルギー省（DOE）はOpenAI、Google、Anthropic、NVIDIAなど主要テクノロジー24社と提携し、AIを活用した科学研究の加速を目指す国家プロジェクト「ジェネシス・ミッション」を発表した。原子力エネルギー、量子コンピューティング、先端製造業などの分野で、AIによる仮説生成・実験設計・データ解析を組み合わせて研究開発のブレークスルーを狙う。米政府がAI主要3社を一堂に巻き込む大型イニシアチブとして、産官の連携強化と国家安全保障上の優位性確保の双方が背景にある。",
+      "url": "https://qiita.com/hello_giita/items/3d6a8c80f7581f803e20",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     }
   ]

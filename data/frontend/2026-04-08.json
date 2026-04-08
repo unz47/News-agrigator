@@ -3,33 +3,33 @@
   "category": "frontend",
   "articles": [
     {
-      "title": "Next.js 16.2が正式リリース 開発サーバー約4倍高速化とAgent DevToolsを試験導入",
-      "summary": "Vercelは3月にNext.js 16.2を正式リリースし、4月に入ってもアップデート採用事例の報告が相次いでいる。next devの起動時間が約400%高速化し、レンダリングも約50%高速化されたほか、デフォルトの500エラーページも刷新された。Turbopackにはサブリソース完全性（SRI）対応、Server Fast Refresh、200以上のバグ修正が盛り込まれ、安定性と体感速度の双方が底上げされた。AI対応としてはcreate-next-appのテンプレートにAGENTS.mdが追加され、ブラウザコンソールログおよびエラーをターミナルへ転送する機能、さらにAIエージェントにReact DevToolsとNext.js診断情報へのアクセスを提供する実験的な「Agent DevTools」が搭載された。16.2では安定版のAdapter APIや共有テスト基盤、プロバイダ横断の協業モデルも導入され、フレームワークの拡張性が一段と強化されている。",
-      "url": "https://nextjs.org/blog/next-16-1",
+      "title": "Next.js 16.2の採用報告が拡大 next devが約4倍高速化、Agent DevToolsを試験導入",
+      "summary": "Vercelが3月18日にリリースしたNext.js 16.2について、4月8日時点でも企業導入や移行事例の報告が相次いでいる。next devの起動時間が約400%、レンダリングが約50%高速化され、Turbopackにはサブリソース完全性（SRI）対応・Server Fast Refresh・200以上のバグ修正が盛り込まれた。AI対応では、create-next-appのテンプレートにAGENTS.mdが追加され、ブラウザコンソールログをターミナルへ転送する機能や、AIエージェントにReact DevToolsとNext.js診断情報へのアクセスを与える実験的Agent DevToolsが搭載されている。",
+      "url": "https://nextjs.org/blog/next-16-2",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "TypeScript 7 ネイティブプレビューがVisual Studio 2026 Insidersで利用可能に",
-      "summary": "Microsoftは4月、次世代TypeScriptコンパイラ「TypeScript 7」のネイティブプレビューをVisual Studio 2026 Insidersで利用可能にしたと発表した。TypeScript 7はコンパイラおよびツールをGo言語で書き直したネイティブポートで、大規模コードベースにおけるコンパイル時間を最大10倍改善し、共有メモリによるマルチスレッド並列化の恩恵を開発者が直接受けられる。橋渡しとなるTypeScript 6.0はTemporal API用の型を組み込み、targetの下限をES2015に引き上げるなど破壊的変更を含むが、現行のJavaScriptコードベースに基づく最後のリリースと位置付けられる。TypeScript 7の初期プレビューでは、既存プロジェクトをそのままビルドしつつネイティブ速度の恩恵を確認できるため、モノレポや大規模エンタープライズでの検証が加速しそうだ。",
-      "url": "https://developer.microsoft.com/blog/typescript-7-native-preview-in-visual-studio-2026",
+      "title": "Next.js 16.2のAI改善が「コーディングエージェントに本当に効く」かを徹底検証",
+      "summary": "Marketing Scoopは4月、Next.js 16.2のAI関連改善が実際のコーディングエージェント運用にどこまで寄与するかを詳細に検証した記事を公開した。AGENTS.md、ブラウザログ転送、devサーバーのロックファイル取り扱い、Agent DevToolsという4つの新機能について、Claude CodeやCursor、各種MCPツールとの連携シナリオで効果を測定し、特にエラー再現とテレメトリ取得の自動化フェーズで生産性向上が顕著だと報告。@vercel/next-browserによる構造化されたブラウザ検査も「エージェント時代のフレームワークの基準」になり得ると評価している。",
+      "url": "https://www.marketingscoop.com/developer/what-changed-in-next-js-16-2-ai-improvements-and-which-features-actually-help-coding-agents/",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "Vue 3.6.0-beta.9登場 Vapor Modeとalien signalsで仮想DOMを捨てる新時代",
-      "summary": "Vue.jsコアチームは4月、Vue 3.6.0-beta.9を公開した。本ベータでは新たな反応性エンジン「alien signals」が取り込まれており、ホットパスのコンポーネントでは仮想DOMを迂回するコンパイル戦略「Vapor Mode」が実用段階に近づいている。Vapor Modeは従来の仮想DOMオーバーヘッドを排除してメモリ使用量と更新コストを大幅に削減する狙いで、React CompilerやSolidJSが示した方向性に対するVueとしての回答でもある。なお、Vue 3.5.31は3月25日に安定版としてリリースされており、既存プロダクトはまずそちらに追随することが推奨される。Vapor Modeの安定版提供は2026年中頃以降の見込みで、コミュニティでは大型プロジェクトへの段階的な採用を検証する動きが広がっている。",
-      "url": "https://vueschool.io/articles/news/vue-js-2025-in-review-and-a-peek-into-2026/",
+      "title": "TypeScript 6.0が正式リリース strictがデフォルト有効、Temporal型と#/サブパスimportを導入",
+      "summary": "Microsoftは3月末にTypeScript 6.0を正式リリースした。TypeScript 7（Goネイティブポート）への橋渡しと位置付けられ、新機能としてメソッドの型推論強化、`#/`サブパスimport、es2025ターゲット/lib、Temporal API用の型、いくつかの標準ライブラリ追加が含まれる。デフォルト値も大きく変わり、strictはtrueがデフォルト、moduleはesnext、targetはES2025となった。targetの下限がES2015に引き上げられes5は非推奨となるため、レガシーコードベースの移行戦略が改めて議論されている。",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "Vite 8.0 GA Rolldown統合と「Vite+」開発 VoidZeroがオールインワン化を加速",
-      "summary": "Viteコアチームは3月12日にVite 8.0を正式リリースし、4月に入っても主要フレームワークとプラグインの互換性アップデートが続いている。Vite 8ではRolldownとの統合が大幅に進み、ブラウザターゲットの見直し、devtoolsの強化、CSS周りの改善、そしてマイグレーションガイドを伴う一連の破壊的変更が導入された。プラグインエコシステムに対する影響が大きく、各OSSプロジェクトはこぞって対応版をリリースしている。加えて、Evan You氏率いるVoidZeroは、Viteとoxcツールチェーンを土台とするオールインワンの開発者向けツールキット「Vite+」をMITライセンスのOSSとして公開した。リンター・フォーマッタ・テストランナー・バンドラを統合し、JavaScriptフロントエンドアプリの標準的な足回りを単一プロジェクトで提供することを目指す。",
-      "url": "https://laurentcazanove.com/blog/state-of-vue-vite-2026-amsterdam-recap",
+      "title": "InfoWorld「TypeScript 6.0が登場 7.0への大規模な地ならし」",
+      "summary": "InfoWorldはTypeScript 6.0について、Goで書き直されたネイティブコンパイラを採用するTypeScript 7.0に向けた地ならしリリースだと位置付けた。JavaScript版コンパイラに基づく事実上最後のメジャー版とされ、Temporal API、新しい型推論、ES2025対応など実用的な機能拡張に加え、後方互換性に影響する破壊的変更も少なくない。Microsoftは大規模モノレポにおいてTypeScript 7.0が最大10倍のコンパイル高速化を実現するとしており、6.0ユーザは7.0プレビューでの早期検証を推奨されている。",
+      "url": "https://www.infoworld.com/article/4149659/typescript-6-0-arrives.html",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "CSS 2026が本格始動 @starting-style・view-transition・grid-lanesがベースライン到達",
-      "summary": "2026年はCSS仕様の実装が各ブラウザで一気に足並みを揃えた年となっている。display:noneからのエントリーアニメーションをJavaScriptタイミングハックなしで実現する@starting-styleがベースラインに到達し、animation-timeline: scroll()とview()もFirefox・Safariが追従したことで、スクロール駆動アニメーションがプロダクション利用可能となった。View Transitionsも@view-transition { navigation: auto }の構文で同一オリジン間のMPAナビゲーションをまたいで利用できるようになり、masonryレイアウトはCSS WGがdisplay: grid-lanesとして収束させSafariが先行実装、Chrome・Firefoxも追随中だ。加えて、@mixin --name { ... } と@apply --nameによるネイティブMixinや、型チェックとフォールバックが可能になった強化版attr()、角形状を制御するcorner-shapeなど、これまで外部ライブラリや複雑なSVGマスクが必要だった表現がCSSネイティブで書ける時代に入っている。",
-      "url": "https://blog.logrocket.com/css-in-2026/",
+      "title": "JS主要フレームワークが収束フェーズへ React・Next.js・Vue・Angular・Svelteの2026年動向",
+      "summary": "Nucampのレポートによれば、2026年のJavaScriptフレームワークは「細粒度リアクティビティ」「サーバーファースト・レンダリング」「コンパイラ駆動の最適化」「AI支援ワークフロー」の4テーマに収束しつつある。Angularはsignalsを標準化し、VueはVapor Modeで仮想DOMを迂回、ReactはReact Compilerでより宣言的でリアクティブなパターンへ移行し、Next.jsはプロダクション向けメタフレームワークとしての地位を確立。TypeScriptが事実上のベースラインとなり、型安全性とAIによる自動補完・自動修正の質を底上げしている。",
+      "url": "https://www.nucamp.co/blog/javascript-framework-trends-in-2026-what-s-new-in-react-next.js-vue-angular-and-svelte",
       "collectedAt": "2026-04-08T22:00:00+09:00"
     }
   ]
