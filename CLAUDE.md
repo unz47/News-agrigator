@@ -1,55 +1,80 @@
 # Daily News Collector
 
 ## プロジェクト概要
-毎朝 Claude Code で実行して、3カテゴリのニュースを収集し、JSONファイルとして保存するプロジェクト。
-Next.js SSG でビルドして Vercel にデプロイする。
+毎朝ニュースをWeb検索で収集し、JSONファイルとして保存。Next.js SSGでビルドしてS3に静的サイトとしてデプロイする。
 
-## ニュース収集タスク
+## 重要な制約
+- **絶対に新しいブランチを作成しない。必ず `main` ブランチで作業すること。**
+- AWS CLIが必要な操作は `bash scripts/deploy.sh` で実行すること
+- deploy.sh のスキップは禁止。必ず実行すること。
 
-以下のコマンドで実行:
+## タスク: collect-news
+
+以下の手順を順番に実行する。
+
+### Step 1: mainブランチを最新化
+
+**新しいブランチを作成してはいけない。**
+
+```bash
+git checkout main || git switch main
+git pull origin main --rebase
 ```
-claude -p "collect-news タスクを実行して" --allowedTools bash,web_search
-```
 
-### 実行内容
-1. 今日の日付で以下の3カテゴリのニュースを **各5件** Web検索で収集
-2. 各カテゴリに対応するJSONファイルを `data/{category}/YYYY-MM-DD.json` に書き出し
-3. `git add . && git commit -m "📰 YYYY-MM-DD ニュース収集" && git push`
+### Step 2: Web検索でニュース収集
 
-### カテゴリ
-- `general` : 一般ニュース（政治・経済・社会・国際）
-- `ai` : AI・LLM関連ニュース
-- `frontend` : フロントエンド開発ニュース（React, Angular, Vue, TypeScript, CSS, Web標準）
+以下の3カテゴリについて、Web検索で**本日の日本語ニュース**を各3〜5件収集する。
 
-### JSONフォーマット
+**カテゴリ別の検索クエリ:**
+- フロントエンド: "Angular OR TypeScript OR React OR Next.js OR CSS OR Web標準 最新ニュース"
+- AI・LLM: "AI OR LLM OR 生成AI OR Claude OR GPT OR Gemini 最新ニュース"
+- 一般: "日本 世界 主要ニュース 今日"
+
+**収集ルール:**
+- 昨日以前の古いニュースは除外
+- 要約は2〜3文の日本語で、ポイントが伝わるように書く
+- URLは検索結果から取得した実在URLのみ使用（推測で生成しない）
+
+### Step 3: JSONファイルに保存
+
+収集したニュースを `data/{category}/YYYY-MM-DD.json` に保存する。
+
+| カテゴリ | ディレクトリ |
+|---|---|
+| 一般 | `data/general/` |
+| AI・LLM | `data/ai/` |
+| フロントエンド | `data/frontend/` |
+
+**JSONフォーマット:**
 ```json
 {
-  "date": "2026-04-08",
+  "date": "YYYY-MM-DD",
   "category": "general",
   "articles": [
     {
       "title": "記事タイトル",
-      "summary": "10行程度の日本語要約",
+      "summary": "2-3文の日本語要約",
       "url": "ソースURL",
-      "collectedAt": "2026-04-08T07:00:00+09:00"
+      "collectedAt": "ISO 8601 タイムスタンプ"
     }
   ]
 }
 ```
 
-## 技術スタック
-- Next.js 15 (App Router, SSG with `output: 'export'`)
-- React 19
-- TypeScript は使用しない（軽量に保つ）
-- Vercel でホスティング（無料枠）
+### Step 4: ビルド & S3デプロイ
 
-## ディレクトリ構成
+**このステップは必ず実行すること。スキップ禁止。**
+
+```bash
+bash scripts/deploy.sh
 ```
-data/
-  general/     # 一般ニュースJSON
-  ai/          # AI・LLMニュースJSON
-  frontend/    # フロントエンド開発ニュースJSON
-scripts/
-  collect-news.mjs   # Claude Code用の収集スクリプトテンプレート
-src/app/             # Next.js App Router
+
+### Step 5: Git commit & push to main
+
+**main ブランチに直接 push する。別ブランチを作らない。**
+
+```bash
+git add .
+git commit -m "📰 YYYY-MM-DD ニュース収集"
+git push origin main
 ```
