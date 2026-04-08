@@ -3,34 +3,34 @@
   "category": "ai",
   "articles": [
     {
-      "title": "Microsoft 日本に1兆6000億円投資 AIインフラとサイバーセキュリティ強化",
-      "summary": "米マイクロソフトは2026年から2029年までの4年間で日本に100億ドル（約1兆6000億円）を投資すると発表した。国内データセンターの新設や拡充を進め、さくらインターネットやソフトバンクと連携しAIインフラを共同開発する。2030年までに100万人規模のエンジニアや開発者を育成する人材育成プログラムも実施し、サイバーセキュリティ分野では内閣サイバーセキュリティセンターと脅威情報を共有するなど官民連携も強化する。2024年に発表された29億ドル投資からの大幅な拡大となり、日本のAI主導型成長を後押しする狙い。",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2098975.html",
-      "collectedAt": "2026-04-08T21:30:00+09:00"
+      "title": "Anthropic、セキュリティ特化の新モデル「Claude Mythos Preview」を限定公開",
+      "summary": "Anthropicは4月7日、ソフトウェアの脆弱性やセキュリティ上の欠陥を発見する能力に優れた新モデル「Claude Mythos Preview」を発表した。悪用を防ぐため一般公開は行わず、Microsoft・Amazon・Apple・CrowdStrike・Palo Alto Networksをはじめとする約40社に限定して防御的セキュリティ用途に提供する。本イニシアチブは新たなサイバーセキュリティ連携「Project Glasswing」の一環で、参加各社はMythosを使って自社製品やOSSプロジェクトの脆弱性を能動的に発見する取り組みを進める。Anthropicはデモの中でMythosがOpenBSDに27年間潜伏していたバグを検出した事例を示し、サイバー分野への転用可能性を印象付けた。同モデルは特別にセキュリティ訓練を受けたものではなく、汎用的なコーディング・推論能力の向上が副次的にこうした能力を引き出しているという。",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "2026年4月8日 働き方×AIニュース LLM経由のWeb集客成約率が30-40%に",
-      "summary": "2026年4月8日時点の働き方×AI関連レポートによると、ChatGPTなどのLLM経由でWebサイトを訪れたユーザーの成約率は30〜40%に達しているという分析が発表された。これは従来のGoogle検索経由の成約率を大きく上回る数字で、Web集客の常識が変わりつつあることを示している。同レポートではAmazon Bedrockを活用したText-to-SQLソリューションの実用化事例や、SNS Bluesky障害で話題となった「バイブ・コーディング」問題にも言及。AIツールを使いこなすリテラシーと品質保証の両立が企業にとって次の課題となっている。",
-      "url": "https://journal.omoshigo.link/trend/workai/20260408-19894/",
-      "collectedAt": "2026-04-08T21:30:00+09:00"
+      "title": "Claude AIが4月8日に再び接続障害 前日の大規模障害復旧から24時間以内",
+      "summary": "Anthropicが提供するClaudeは日本時間4月8日にも再び接続障害が発生し、ログイン失敗・チャット送信エラー・応答遅延などの不具合が世界中のユーザーから報告された。これは同社が4月7日の大規模障害を復旧させてから24時間以内の再発であり、DownDetector上には数百件規模の報告が集中した。Anthropicはステータスページで「断続的なエラーを調査中」と告知し、APIおよびClaude.aiのトラフィックを制御しつつ暫定的な復旧対応を進めた。影響を受けたのは個人ユーザーだけでなくAPI経由でClaudeを組み込んでいる企業サービスにも及び、再発防止に向けた透明性ある事後分析を求める声が高まっている。Mythos Previewの発表直後の障害でもあり、Anthropicは運用キャパシティと信頼性の両立という課題に改めて直面した形だ。",
+      "url": "https://www.ibtimes.com.au/claude-ai-down-again-april-8-2026-anthropic-outage-hits-users-after-yesterdays-major-incident-1865761",
+      "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "TEAMZ Summit 2026 東京・八芳園で開幕 Web3・AIの国際カンファレンス",
-      "summary": "日本最大級のWeb3・AIカンファレンス「TEAMZ Summit 2026」が2026年4月7日から8日にかけて東京・八芳園で開催されている。世界各国からAI企業のリーダーや投資家が集結し、生成AIの実装事例、マルチエージェント戦略、Web3とAIの融合、規制動向などをテーマに議論が行われている。国内外の有力スタートアップによるピッチや、大手企業によるAIユースケースの発表もあり、アジア太平洋地域におけるAI・Web3の最新動向を把握する重要なイベントとして注目されている。",
-      "url": "https://www.teamz.co.jp/news/ai-tech",
-      "collectedAt": "2026-04-08T21:30:00+09:00"
+      "title": "OpenAIがChatGPT 5.5と統合デスクトップ「スーパーアプリ」を投入",
+      "summary": "OpenAIは4月6日、ChatGPT 5.5と新しい統合デスクトップ版「スーパーアプリ」をリリースした。スーパーアプリはChatGPT、Codex、そして同社の新ブラウザAtlasを単一のプラットフォームに統合するもので、作業継続性（task continuity）と長期メモリ管理を中核に据え、複数セッションにまたがる連続作業を強化する。5.4までの「Thinking」系列を継承しつつ、5.5では信頼性とハルシネーション削減に注力したとされる。同時にChatGPT Businessおよびエンタープライズ向けには新たにCodex専用シートが追加され、従量課金制での利用が可能となった。さらにサブスクリプションのシート単価は月額5ドル引き下げられ、企業導入のハードルが下がる。社内では「Spud」と呼ばれるGPT-6の学習も進行中で、GPT-4oは4月3日付で全プランから段階的に終了した。",
+      "url": "https://happycapyguide.com/blog/openai-chatgpt-55-super-app-codex-atlas-desktop-launch-april-2026",
+      "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "主要LLMが専門特化へ 2026年はマルチモデル戦略がベストプラクティスに",
-      "summary": "2026年春時点で、ChatGPT・Claude・Geminiの主要LLMは得意領域の差が明確になっている。ChatGPTはGPT-5.4 Thinkingをリリースして創造性タスクに強く、GeminiはGemini 3.1 Proで推論性能を倍増し低コストの長文処理を得意とし、ClaudeはOpus 4.6とSonnet 4.6でコーディングや長時間タスクの自律実行に踏み込んでいる。2026年のベストプラクティスは、複数のモデルを用途に応じて使い分ける「マルチモデル戦略」とされ、企業ではAIエージェント実行への統合が急速に進んでいる。専門SaaSも知能の部品として再編されつつある。",
-      "url": "https://www.hsworking.com/post/chatgpt-vs-gemini-vs-claude-comparison-2026",
-      "collectedAt": "2026-04-08T21:30:00+09:00"
+      "title": "NVIDIA、自律型エンタープライズAIエージェント基盤を発表 17社が採用",
+      "summary": "NVIDIAはGTC 2026で、自律的に進化するエンタープライズAIエージェントを構築するためのオープンソース開発プラットフォームを発表した。Adobe・Salesforce・SAP・ServiceNow・Siemens・CrowdStrike・Atlassian・Cadence・Synopsys・IQVIA・Palantir・Box・Cohesity・Dassault Systèmes・Red Hat・Cisco・Amdocsの17社が共通の基盤上で次世代AI製品を構築する方針を示した。Gartnerは2026年末までにエンタープライズアプリケーションの40%がタスク特化型AIエージェントを組み込むと予測しており、AIが「人を補助する存在」から「自律的に行動する存在」へと転換しつつある流れが鮮明になっている。あわせてAIエージェント向けスタートアップNexusも同時期に430万ドルのシード調達を発表し、業務自動化分野への投資が加速していることが示された。",
+      "url": "https://nvidianews.nvidia.com/news/ai-agents",
+      "collectedAt": "2026-04-08T22:00:00+09:00"
     },
     {
-      "title": "国立情報学研究所 国産LLM「LLM-jp-4」をオープンソース公開 日本語でGPT-4oを上回る",
-      "summary": "国立情報学研究所（NII）は国産大規模言語モデル「LLM-jp-4」シリーズをオープンソースとして公開した。軽量な8Bモデルと高性能な32B-A3Bモデルの2種類があり、日本語ベンチマークでGPT-4oを上回る性能を達成したと報告されている。LLM-jp-4はMITライセンスで提供され、商用利用も含めて企業が自由にカスタマイズできる。デジタル庁の「ガバメントAI」事業でも国産LLM 7件が選定されており、政府の業務での試験導入が進められている。政府や企業のAI活用において、日本語に最適化された国産モデルの重要性が高まっている。",
-      "url": "https://media.image-pit.com/articles/japan/2026-04-04-nii-llm-jp-4-japanese-llm-open-source",
-      "collectedAt": "2026-04-08T21:30:00+09:00"
+      "title": "Googleが軽量オープンモデル「Gemma 4」とGemini 3.1 Flash Liveを発表",
+      "summary": "GoogleはAndroid Developers Blogで最新のオープンモデル「Gemma 4」をAICore開発者プレビューに追加したと発表した。Gemma 4は4サイズでApache 2.0ライセンスの下に提供され、ローカル・エッジ・クラウドのいずれでも柔軟に利用可能。複雑な推論タスクや自律型AIエージェントの実行を、ワークステーションやスマートフォンといった低消費電力デバイス上で動作させることを想定して設計されている。同時に、リアルタイム双方向音声モデル「Gemini 3.1 Flash Live」も公開され、自然なリズムと応答性によりハンズフリー対話体験を刷新した。開発者向けにはGemini 2.5 Flash Native AudioがVertex AIでGAとなり、低コスト動画生成モデル「Veo 3.1 Lite Preview」も登場。エッジAIとマルチモーダル体験の双方で攻勢を強める内容となっている。",
+      "url": "https://android-developers.googleblog.com/2026/04/AI-Core-Developer-Preview.html",
+      "collectedAt": "2026-04-08T22:00:00+09:00"
     }
   ]
 }
