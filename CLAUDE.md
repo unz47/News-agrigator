@@ -5,8 +5,7 @@
 
 ## 重要な制約
 - **絶対に新しいブランチを作成しない。必ず `main` ブランチで作業すること。**
-- AWS CLIが必要な操作は `bash scripts/deploy.sh` で実行すること
-- deploy.sh のスキップは禁止。必ず実行すること。
+- AWS CLIが必要な操作は GitHub Actions が自動実行するため、Claude Code 側では不要
 
 ## タスク: collect-news
 
@@ -61,15 +60,7 @@ git pull origin main --rebase
 }
 ```
 
-### Step 4: ビルド & S3デプロイ
-
-**このステップは必ず実行すること。スキップ禁止。**
-
-```bash
-bash scripts/deploy.sh
-```
-
-### Step 5: Git commit & push to main
+### Step 4: Git commit & push to main
 
 **main ブランチに直接 push する。別ブランチを作らない。**
 
