@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-08",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "国産LLM「LLM-jp-4」シリーズがNIIから公開、8B・32Bの2モデル構成",
+      "summary": "国立情報学研究所が新たな日本語最適化LLM「LLM-jp-4」を発表。軽量な8Bモデルと高性能な32B-A3Bモデルの2種類を提供。",
+      "url": "https://note.com/pika2_hikaru/n/n11992fb9e79e",
+      "collectedAt": "2026-04-08T21:00:00+09:00"
+    },
+    {
+      "title": "デジタル庁ガバメントAI「源内」で国産LLM 7件を選定",
+      "summary": "デジタル庁がガバメントAI「源内」における国産LLM試験導入の公募結果を発表。15件の応募から7件を選定。全府省庁約18万人に展開予定。",
+      "url": "https://www.digital.go.jp/news/10d55c63-b3e1-42b9-9cc5-93a06943ae0e",
+      "collectedAt": "2026-04-08T21:00:00+09:00"
+    },
+    {
+      "title": "2026年「フィジカルAI元年」へ NVIDIAのVLAモデルがロボット革命を加速",
+      "summary": "NVIDIAが推進する「フィジカルAI」が注目。視覚・言語・行動を統合するVLAモデルを搭載した自律ロボットが製造業を変えつつある。",
+      "url": "https://www.sbbit.jp/article/st/182182",
+      "collectedAt": "2026-04-08T21:00:00+09:00"
+    },
+    {
+      "title": "オープンソースLLMが商用モデルに追いついた2026年の転換点",
+      "summary": "オープンソースLLMがコーディング分野で商用モデルと同等の性能を達成。QwenやDeepSeek V4が注目され、MoE技術が鍵に。",
+      "url": "https://labmemo.com/opensource-llm-beginner-2026/",
+      "collectedAt": "2026-04-08T21:00:00+09:00"
+    },
+    {
+      "title": "リコーがLLMガードレールモデルをアップデート、出力の有害判別に対応",
+      "summary": "リコーがLlama-3.1ベースのセーフガードモデルを開発。入力だけでなくLLM出力の有害情報検知にも対応。14種類のラベルで自動ブロック。",
+      "url": "https://jp.ricoh.com/release/2025/1225_1",
+      "collectedAt": "2026-04-08T21:00:00+09:00"
+    }
+  ]
+}

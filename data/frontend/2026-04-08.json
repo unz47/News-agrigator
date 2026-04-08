@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-08",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "2026年フロントエンドの現状：Server-Firstが新常識に",
+      "summary": "2026年のフロントエンドは「Server-First」がキーワード。Reactがトップ、Next.jsがメタフレームワークの標準として拡大。",
+      "url": "https://prepr.io/blog/the-state-of-frontend-development-in-2026",
+      "collectedAt": "2026-04-08T21:00:00+09:00"
+    },
+    {
+      "title": "React Compilerが正式導入、手動のuseMemo/useCallbackが不要に",
+      "summary": "Reactの公式コンパイラが導入され、手動でのuseMemoやuseCallback追加が不要に。パフォーマンス最適化のアプローチが根本的に変わる。",
+      "url": "https://wearebrain.com/blog/frontend-trends-2026/",
+      "collectedAt": "2026-04-08T21:00:00+09:00"
+    },
+    {
+      "title": "TypeScriptフレームワーク案件単価相場：Next.jsの需要が急増",
+      "summary": "2026年3月時点のフリーランス案件単価ではNext.jsの需要が急増。Angularはエンタープライズで安定高単価。React+TS+Next.jsが最も汎用性高い。",
+      "url": "https://bizdev-tech.jp/typescript-framework/",
+      "collectedAt": "2026-04-08T21:00:00+09:00"
+    },
+    {
+      "title": "TypeScript+ReactがAI連携の現代標準に、MCPサーバ実装も容易",
+      "summary": "2026年はTypeScript+ReactがAI連携の標準スタック。Cursor/Claude Codeとの相性が良く、Node.jsでのMCPサーバ実装も容易。",
+      "url": "https://renue.co.jp/posts/javascript-toha-2026-react-node-typescript-ai-guide",
+      "collectedAt": "2026-04-08T21:00:00+09:00"
+    },
+    {
+      "title": "Angular vs React 2026年比較：AngularのSignals導入でパフォーマンス大幅向上",
+      "summary": "AngularのSignalsベースのリアクティビティがパフォーマンスを大幅向上。Reactは求人数優勢、Angularはエンタープライズでプレミアム単価。",
+      "url": "https://tech-insider.org/angular-vs-react-2026/",
+      "collectedAt": "2026-04-08T21:00:00+09:00"
+    }
+  ]
+}
