@@ -99,19 +99,7 @@ export default function NewsFeed({ data: { dates, data, categories } }) {
         {filtered.length === 0 && <div className="empty">ニュースがありません</div>}
       </main>
 
-      {/* Bottom Tab Bar - NEWS + SAVED only */}
-      <nav className="bottom-bar">
-        <div className="bottom-pill">
-          <div className="bottom-tab active">
-            <NewspaperIcon />
-            <span>NEWS</span>
-          </div>
-          <div className="bottom-tab">
-            <BookmarkIcon />
-            <span>SAVED</span>
-          </div>
-        </div>
-      </nav>
+      <div className="bottom-spacer" />
     </div>
   );
 }
