@@ -3,34 +3,34 @@
   "category": "ai",
   "articles": [
     {
-      "title": "Anthropic、セキュリティ特化の「Project Glasswing」発表 — 非公開モデル「Claude Mythos Preview」で脆弱性発見",
-      "summary": "gihyo.jpの報道によれば、Anthropicは重要ソフトウェアを保護する取り組み「Project Glasswing」を発表し、非公開の最先端モデル「Claude Mythos Preview」を脆弱性発見と修正支援に活用することを明らかにした。同モデルは熟練セキュリティ専門家を上回る水準で自律的に脆弱性やエクスプロイトを設計でき、OpenBSDに存在した27年前の未知の欠陥を発見した実績もある。商用公開は行わず、参加組織に研究プレビューとして提供される方針。",
-      "url": "https://gihyo.jp/article/2026/04/project-glasswing",
-      "collectedAt": "2026-04-09T08:30:00+09:00"
+      "title": "Anthropicが「Project Glasswing」始動、Apple・Google・AWSなど大手9社と非公開モデル「Claude Mythos Preview」で脆弱性発見へ",
+      "summary": "ITmediaの2026年4月8日報道によれば、Anthropicは重要ソフトウェアの脆弱性発見と修正を加速する官民連携イニシアチブ「Project Glasswing」を発表し、Apple、Google、Microsoft、AWS、NVIDIA、Cisco、CrowdStrike、Palo Alto Networks、Broadcom、Linux Foundationが参加する。中核には商用非公開の最先端モデル「Claude Mythos Preview」を据え、熟練セキュリティ専門家を上回る水準で自律的に脆弱性を発見する能力を活用。Anthropicは最大1億ドル相当のクレジット提供と400万ドルの寄付でセキュリティ防衛に注力する。",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/08/news056.html",
+      "collectedAt": "2026-04-09T18:00:00+09:00"
     },
     {
-      "title": "OpenAI、CodexのPay-as-you-goを法人チーム向けに提供開始",
-      "summary": "OpenAIは2026年4月2日、開発支援エージェント「Codex」のPay-as-you-goモデルをチーム向けに提供開始したことを公式ニュースで発表した。定額プランの利用上限を超える利用にも従量課金で柔軟に対応できるようになり、エージェント型コーディングの本格導入を進める企業を後押しする狙い。使用量の上限管理や可視化機能も強化され、複数プロジェクトでのCodex活用がしやすくなる。",
-      "url": "https://openai.com/news/",
-      "collectedAt": "2026-04-09T08:30:00+09:00"
+      "title": "AnthropicがGoogleのTPUを大規模導入、BroadcomとあわせてGW級の計算容量を確保",
+      "summary": "GIGAZINEの2026年4月7日報道によれば、Claude開発元のAnthropicがGoogleおよびBroadcomと契約を締結し、次世代TPUを大規模導入する計画を明らかにした。確保する計算容量は数ギガワット規模で、2027年には3ギガワット以上に達する見通し。急増するClaude需要に対応してインフラを一気に拡大する狙いで、GoogleにとってもTPUを外部の主要AIラボに供給する戦略的な勝利となった。エヌビディアGPU依存からの分散化が進む象徴的な動きとして注目される。",
+      "url": "https://gigazine.net/news/20260407-anthropic-google-tpu-broadcom/",
+      "collectedAt": "2026-04-09T18:00:00+09:00"
     },
     {
-      "title": "OpenAI・Anthropic・GoogleがFrontier Model Forumで連携、中国AIによるモデル蒸留対策で情報共有",
-      "summary": "Qiitaに公開された2026年4月最新AIニュース解説によれば、OpenAI・Anthropic・Googleなど主要フロンティアAI企業はFrontier Model Forumを通じて連携し、中国系AI企業による大手モデルの蒸留や知的財産流出に対抗するため、情報共有とガバナンス強化の枠組みを構築していることが明らかになった。4月上旬の共同発表では、セキュリティ防衛と技術保護を両立する新ガイドラインの策定も示唆されており、業界全体の動きとして注目されている。",
-      "url": "https://qiita.com/hello_giita/items/3d6a8c80f7581f803e20",
-      "collectedAt": "2026-04-09T08:30:00+09:00"
+      "title": "Anthropicの年換算売上が300億ドル超に急拡大、初めてOpenAIを上回りIPO観測も",
+      "summary": "BigGoニュースの2026年4月7日報道によれば、Anthropicの年換算収益は2025年末時点の約90億ドルから2026年4月時点で約300億ドルに達し、初めてOpenAIを上回ったとされる。年間100万ドル以上を支出する法人顧客は2月の500社から4月には1000社超に倍増しており、Claudeを軸とした企業向け需要が爆発的に伸長している。早ければ2026年10月にもIPOを実施する観測も浮上しており、生成AI業界の勢力図が大きく塗り替わりつつある。",
+      "url": "https://biggo.jp/news/202604071552_Anthropic_Revenue_Surpasses_OpenAI_Google_TPU_Deal",
+      "collectedAt": "2026-04-09T18:00:00+09:00"
     },
     {
-      "title": "Google、Gemini 3.1 Flash-Lite / Flash LiveとGoogle AI Studioの強化を発表",
-      "summary": "フィデックス社の最新AI動向まとめ記事によれば、Googleは2026年4月上旬のアップデートでGemini 3.1 Flash-LiteとFlash Liveを発表し、低レイテンシとリアルタイム応答性能を大幅に向上させた。併せてGoogle AI Studioにもマルチモーダル入出力機能や開発エージェント連携機能が拡充され、エンタープライズでの生成AI統合開発が一段と容易になった。コスト効率と推論性能のバランスを追求するラインアップ拡充が特徴的だ。",
-      "url": "https://www.fidx.co.jp/%E3%80%902026%E5%B9%B4%E6%98%A5%E7%89%88%E3%80%91openai%E3%83%BBanthropic%E3%83%BBgoogle%E3%81%AE%E6%9C%80%E6%96%B0ai%E5%8B%95%E5%90%91%E3%82%9210%E5%88%86%E3%81%A7%E7%B7%8F%E3%81%BE%E3%81%A8%E3%82%81/",
-      "collectedAt": "2026-04-09T08:30:00+09:00"
+      "title": "OpenAI・Anthropic・Googleが連携、中国系AIによるモデル蒸留対策で情報共有を強化",
+      "summary": "Bloombergの2026年4月6日報道によれば、OpenAI・Anthropic・Googleの3社はFrontier Model Forumを通じた情報共有の枠組みを強化し、中国系AI企業が米国の最先端モデルから蒸留などで成果物を抽出することを阻止する動きを強めている。共同発表では新たなセキュリティガイドラインの策定方針も示されており、米中AI競争が技術保護の局面に入ったことが鮮明になった。フロンティアモデルの知財ガバナンスは業界全体の喫緊課題となっている。",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china",
+      "collectedAt": "2026-04-09T18:00:00+09:00"
     },
     {
-      "title": "Claudeが4時間49分の長時間タスク処理に到達、2026年は「マルチモデル戦略」が主流に",
-      "summary": "arpable.comの2026年版LLM比較によれば、ソフトウェア開発タスクを遂行できる連続処理時間はClaude Opus 4.5で4時間49分に到達し、AIが一人のエンジニアを代替できる領域が急速に広がっている。2026年のベストプラクティスは単一モデルではなく、コーディング=Claude、低コスト長文処理=Gemini、創造性重視=ChatGPTのようにタスクごとに使い分ける「マルチモデル戦略」が標準化しつつあり、企業導入も本格運用フェーズに移行している。",
-      "url": "https://arpable.com/artificial-intelligence/generative-ai/llm-comparison-top5-ai-models/",
-      "collectedAt": "2026-04-09T08:30:00+09:00"
+      "title": "ChatGPTにGPT-5.4 Thinking・File Library・CarPlay対応など多数の新機能",
+      "summary": "imidefの2026年4月5日記事によれば、ChatGPTは4月時点でGPT-5.4 Thinkingの追加、Deep Research機能のアップグレード、File Library、ショッピングツール、CarPlay対応、インタラクティブラーニングといった大型アップデートを段階的に展開している。長考型の推論モデルが標準UIに統合され、ファイルや過去の会話を横断的に参照できる体験が強化された。コーディングやリサーチ用途での利用シーンが一段と広がり、競合のClaude・Geminiとの差別化を図る動きが鮮明になっている。",
+      "url": "https://imidef.com/en/2026-04-05-chatgpt-new-features-april-2026",
+      "collectedAt": "2026-04-09T18:00:00+09:00"
     }
   ]
 }
