@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-09",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、セキュリティ特化の「Project Glasswing」発表 — 非公開モデル「Claude Mythos Preview」で脆弱性発見",
+      "summary": "gihyo.jpの報道によれば、Anthropicは重要ソフトウェアを保護する取り組み「Project Glasswing」を発表し、非公開の最先端モデル「Claude Mythos Preview」を脆弱性発見と修正支援に活用することを明らかにした。同モデルは熟練セキュリティ専門家を上回る水準で自律的に脆弱性やエクスプロイトを設計でき、OpenBSDに存在した27年前の未知の欠陥を発見した実績もある。商用公開は行わず、参加組織に研究プレビューとして提供される方針。",
+      "url": "https://gihyo.jp/article/2026/04/project-glasswing",
+      "collectedAt": "2026-04-09T08:30:00+09:00"
+    },
+    {
+      "title": "OpenAI、CodexのPay-as-you-goを法人チーム向けに提供開始",
+      "summary": "OpenAIは2026年4月2日、開発支援エージェント「Codex」のPay-as-you-goモデルをチーム向けに提供開始したことを公式ニュースで発表した。定額プランの利用上限を超える利用にも従量課金で柔軟に対応できるようになり、エージェント型コーディングの本格導入を進める企業を後押しする狙い。使用量の上限管理や可視化機能も強化され、複数プロジェクトでのCodex活用がしやすくなる。",
+      "url": "https://openai.com/news/",
+      "collectedAt": "2026-04-09T08:30:00+09:00"
+    },
+    {
+      "title": "OpenAI・Anthropic・GoogleがFrontier Model Forumで連携、中国AIによるモデル蒸留対策で情報共有",
+      "summary": "Qiitaに公開された2026年4月最新AIニュース解説によれば、OpenAI・Anthropic・Googleなど主要フロンティアAI企業はFrontier Model Forumを通じて連携し、中国系AI企業による大手モデルの蒸留や知的財産流出に対抗するため、情報共有とガバナンス強化の枠組みを構築していることが明らかになった。4月上旬の共同発表では、セキュリティ防衛と技術保護を両立する新ガイドラインの策定も示唆されており、業界全体の動きとして注目されている。",
+      "url": "https://qiita.com/hello_giita/items/3d6a8c80f7581f803e20",
+      "collectedAt": "2026-04-09T08:30:00+09:00"
+    },
+    {
+      "title": "Google、Gemini 3.1 Flash-Lite / Flash LiveとGoogle AI Studioの強化を発表",
+      "summary": "フィデックス社の最新AI動向まとめ記事によれば、Googleは2026年4月上旬のアップデートでGemini 3.1 Flash-LiteとFlash Liveを発表し、低レイテンシとリアルタイム応答性能を大幅に向上させた。併せてGoogle AI Studioにもマルチモーダル入出力機能や開発エージェント連携機能が拡充され、エンタープライズでの生成AI統合開発が一段と容易になった。コスト効率と推論性能のバランスを追求するラインアップ拡充が特徴的だ。",
+      "url": "https://www.fidx.co.jp/%E3%80%902026%E5%B9%B4%E6%98%A5%E7%89%88%E3%80%91openai%E3%83%BBanthropic%E3%83%BBgoogle%E3%81%AE%E6%9C%80%E6%96%B0ai%E5%8B%95%E5%90%91%E3%82%9210%E5%88%86%E3%81%A7%E7%B7%8F%E3%81%BE%E3%81%A8%E3%82%81/",
+      "collectedAt": "2026-04-09T08:30:00+09:00"
+    },
+    {
+      "title": "Claudeが4時間49分の長時間タスク処理に到達、2026年は「マルチモデル戦略」が主流に",
+      "summary": "arpable.comの2026年版LLM比較によれば、ソフトウェア開発タスクを遂行できる連続処理時間はClaude Opus 4.5で4時間49分に到達し、AIが一人のエンジニアを代替できる領域が急速に広がっている。2026年のベストプラクティスは単一モデルではなく、コーディング=Claude、低コスト長文処理=Gemini、創造性重視=ChatGPTのようにタスクごとに使い分ける「マルチモデル戦略」が標準化しつつあり、企業導入も本格運用フェーズに移行している。",
+      "url": "https://arpable.com/artificial-intelligence/generative-ai/llm-comparison-top5-ai-models/",
+      "collectedAt": "2026-04-09T08:30:00+09:00"
+    }
+  ]
+}

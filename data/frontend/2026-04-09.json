@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-09",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.2リリース：next devが約400%高速化、Turbopackに200以上の修正を適用",
+      "summary": "Vercelは2026年3月18日にNext.js 16.2をリリースし、next devの起動時間が約400%高速化、レンダリングも約50%高速化するなど開発体験を大幅に改善した。エラーページの再設計、Turbopackの200以上のバグ修正、AI機能の改善も盛り込まれており、16系の成熟度が一段と高まっている。大規模アプリ開発での体感速度改善が特に大きく、本番移行を検討する開発チームの関心を集めている。",
+      "url": "https://github.com/vercel/next.js/releases",
+      "collectedAt": "2026-04-09T08:30:00+09:00"
+    },
+    {
+      "title": "Angular 21.2がリリース、テンプレート内でアロー関数が利用可能に",
+      "summary": "Ninja Squadの解説記事によれば、Angular 21.2.0はv21系の2回目のマイナーリリースで、テンプレート内でアロー関数を直接利用できる機能、ネストコンポーネントでのアニメーショントリガー制御、ユーザー入力値とモデル値を同期する新ユーティリティtransformedValueなど、開発者体験を向上させる機能が追加された。v21系の安定運用とシグナル機能の成熟が進み、エンタープライズ案件でのAngular採用が再び加速している。",
+      "url": "https://blog.ninja-squad.com/2026/02/26/what-is-new-angular-21.2",
+      "collectedAt": "2026-04-09T08:30:00+09:00"
+    },
+    {
+      "title": "React 19.2の新機能総まとめ：＜Activity＞・useEffectEvent・cacheSignalで非同期処理が進化",
+      "summary": "株式会社一創の技術解説記事によれば、React 19.2は＜Activity＞コンポーネント、useEffectEventフック、cacheSignalなどを軸に非同期処理とパフォーマンス最適化を強化した。＜Activity＞は非表示部分の事前レンダリングと状態保持によりナビゲーションを高速化し、useEffectEventは副作用の再実行を抑えてバグを防ぐ。DevToolsのパフォーマンストラックも追加され、デバッグと可視化が強化されている。",
+      "url": "https://www.issoh.co.jp/tech/details/9427/",
+      "collectedAt": "2026-04-09T08:30:00+09:00"
+    },
+    {
+      "title": "2026年版：今すぐ使いこなしたいモダンCSS機能13選",
+      "summary": "Zenn公開の解説記事では、2026年に押さえておくべきモダンCSS機能13選が紹介されている。スクロール駆動アニメーションをCSSだけで完結させるscroll-timeline、アンカーポジショニングによるツールチップ配置、:scroll-button()疑似要素、text-wrap balance/pretty、相対色関数など、JavaScript不要で実装できる機能が拡充されており、Web標準ベースのUI実装が一段と現実的になっている。",
+      "url": "https://zenn.dev/tcool/articles/4eaf9529aca917",
+      "collectedAt": "2026-04-09T08:30:00+09:00"
+    },
+    {
+      "title": "2026年はTypeScript×Next.js×AI駆動開発が高単価案件の主流に",
+      "summary": "ITフリーランスメディアの2026年フレームワーク比較記事によれば、Next.jsのSSR/SSG性能改善とVercelエコシステム拡大を背景に、TypeScript×Next.jsの需要が急増しており、AI駆動開発スキルを組み合わせた高単価案件が月額100〜130万円台に達している。Angularもstrict TypeScript運用でエンタープライズ領域の安定需要を維持しており、2026年は用途ごとにフレームワークを使い分けるマルチフレームワーク戦略が主流となっている。",
+      "url": "https://bizdev-tech.jp/typescript-framework/",
+      "collectedAt": "2026-04-09T08:30:00+09:00"
+    }
+  ]
+}
