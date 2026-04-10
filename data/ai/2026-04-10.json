@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-10",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、Claude Opus 4.6を発表：1Mトークン窓とSWE-bench 65.3%でエージェント開発が新段階へ",
+      "summary": "Anthropicは2026年2月5日にClaude Opus 4.6を公開し、Opus系として初の1Mトークンコンテキスト窓をベータ提供した。コーディング能力・長時間のエージェントタスク維持・大規模コードベースでの信頼性が大きく改善し、SWE-bench Verifiedで65.3%という新記録を達成。価格は従来と同じ$5/$25（入出力100万トークンあたり）で、claude.aiやAPI、主要クラウドから利用できる。",
+      "url": "https://www.anthropic.com/news/claude-opus-4-6",
+      "collectedAt": "2026-04-10T08:00:00+09:00"
+    },
+    {
+      "title": "OpenAIがGPT-5.4を公開、OSWorld-Verified 75%で『コンピュータ操作』が実用水準に",
+      "summary": "OpenAIは2026年3月5日にGPT-5.4をChatGPT・API・Codexへ一斉投入し、コンピュータ操作ベンチマークOSWorld-Verifiedで75%（GPT-5.2は47.3%、人間の平均72.4%）を記録した。個別の発言の誤りは33%減少、1Mトークンのコンテキストに対応し、トークン効率も大幅改善。3月17日にはGPT-5.4 miniとnanoも追加され、Pro版・Thinking版とともに複数バリアント体制となった。",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "collectedAt": "2026-04-10T08:00:00+09:00"
+    },
+    {
+      "title": "Google DeepMind、Gemini 3.1 Proを一般公開：推論ベンチマーク12部門で首位",
+      "summary": "Google DeepMindは2026年2月19日にGemini 3.1 Proをリリースし、Gemini 3 Proから2倍以上の推論能力向上、トラックされる18ベンチマークのうち12部門で首位を獲得した。1Mトークン入力・65Kトークン出力に対応し、Geminiアプリ、Gemini API、Vertex AI、NotebookLM、Gemini CLI、Android Studioなどから利用可能。GPQA Diamondでは94.3%という高スコアを達成している。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "collectedAt": "2026-04-10T08:00:00+09:00"
+    },
+    {
+      "title": "NTTデータ、2026年度中にIT開発の大半を生成AIで自動化する方針を発表",
+      "summary": "日経BPなどの報道によれば、NTTデータグループは2026年度中にITシステム開発の大半を生成AIで自動化する方針を発表した。要件定義からコード生成・テスト・運用までを一気通貫で自動化することで工数削減とコスト最適化を狙う。楽天やソフトバンクも国産生成AI基盤や大規模GPU計算基盤の整備を進めており、日本企業の『AIを業務に組み込む』フェーズが本格化している。",
+      "url": "https://bookplus.nikkei.com/atcl/column/020500658/020500001/",
+      "collectedAt": "2026-04-10T08:00:00+09:00"
+    },
+    {
+      "title": "三菱UFJリサーチ＆コンサルティング、生成AIが人手不足の打開策となるかを分析",
+      "summary": "三菱UFJリサーチ＆コンサルティングは2026年4月の『今月のグラフ』で、生成AIが人手不足の打開策となりうるかを分析したレポートを公開した。労働投入量の減少が続く日本経済において、生成AIによる省力化・業務自動化の効果と限界を整理。企業側には導入コストと成果の評価、個人側にはAIと共働するためのスキル更新が求められると指摘している。",
+      "url": "https://www.murc.jp/library/economyresearch/periodicals/graph_month/watch_2604/",
+      "collectedAt": "2026-04-10T08:00:00+09:00"
+    }
+  ]
+}
