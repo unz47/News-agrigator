@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-11",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7開発進捗公開、Go製ネイティブ移植でビルド最大10倍高速化へ",
+      "summary": "Microsoftは2025年12月のProject Corsa進捗レポートに続き、2026年に入ってもTypeScript 7（Goネイティブ実装）の開発を継続しており、エディタ向け言語サービスとコマンドラインコンパイラが既にプレビュー段階で日常業務に試用できる水準に達している。TypeScript 6.0は6.x系最終版として位置付けられ、TypeScript 7の正式版リリースに向けた橋渡しとなる。",
+      "url": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/",
+      "collectedAt": "2026-04-11T08:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16でCache ComponentsとTurbopack安定版、DevTools MCPが登場",
+      "summary": "Next.js 16はCache Components、Turbopackの安定化、DevTools MCP（Model Context Protocol）、Proxy設定などの新機能を備え、PPR（部分的プリレンダリング）に明示的なキャッシュ制御とAI支援デバッグを組み合わせて拡張している。Node.js 20.9以上が必須となり、React 19の最新機能にネイティブ対応する。",
+      "url": "https://www.issoh.co.jp/tech/details/9596/",
+      "collectedAt": "2026-04-11T08:00:00+09:00"
+    },
+    {
+      "title": "React Compiler v1.0後の浸透でuseMemo/useCallbackがレガシー化",
+      "summary": "2025年10月にv1.0がリリースされたReact Compilerは、2026年に入り採用が急拡大している。useMemo、useCallback、React.memoを手作業で用いる最適化はレガシーとみなされるようになり、ビルド時にコンパイラがメモ化と性能チューニングを自動で行うため、通常の開発ではほぼ不要となった。",
+      "url": "https://blog.logrocket.com/8-trends-web-dev-2026/",
+      "collectedAt": "2026-04-11T08:00:00+09:00"
+    },
+    {
+      "title": "ECMAScript 2025がSet methodsとIterator helpersを標準化、WinterCGがEcmaへ移管",
+      "summary": "ECMAScript 2025ではSet methods、Iterator helpers、Import Attributesが正式に追加され、ブラウザとランタイム双方で急速に実装が進んでいる。加えて、サーバーレス/エッジランタイムの相互運用を議論してきたWinterCGはEcma Internationalに移り「WinterTC」として活動を続けている。",
+      "url": "https://blog.logrocket.com/8-trends-web-dev-2026/",
+      "collectedAt": "2026-04-11T08:00:00+09:00"
+    },
+    {
+      "title": "Angularがsignalsとzonelessチェンジ検知を搭載、2026年のエンタープライズで存在感",
+      "summary": "2026年のAngularはsignalsとzonelessチェンジ検知の提供により、リアクティビティとレンダリング性能が大きく改善された。大規模開発・エンタープライズ案件での採用が継続的に増えており、単価も安定して高い水準にあるとされ、TypeScriptをベースとする堅牢なフレームワークとして再評価されている。",
+      "url": "https://www.nucamp.co/blog/javascript-framework-trends-in-2026-what-s-new-in-react-next.js-vue-angular-and-svelte",
+      "collectedAt": "2026-04-11T08:00:00+09:00"
+    }
+  ]
+}

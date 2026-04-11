@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-11",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Claude Opus 4.5、SWE-bench 80.9%でコーディング世界最強モデルの座を維持",
+      "summary": "Anthropicの最新モデルClaude Opus 4.5は、ソフトウェアエンジニアリング評価ベンチマークのSWE-benchで80.9%を記録し、OpenAI GPT-5.2やGoogle Gemini 3 Proを上回る精度を達成している。コーディング、エージェント、PC操作の各カテゴリで性能が強化され、あいまいな指示からの意図把握能力が大幅に向上したと評価されている。",
+      "url": "https://chatgpt-lab.com/n/ne74c877f41d1",
+      "collectedAt": "2026-04-11T08:00:00+09:00"
+    },
+    {
+      "title": "Gartnerが4月10日にAIエージェントの見解を発表、「自律・半自律ソフトウェア」と定義",
+      "summary": "Gartnerは2026年4月10日にAIエージェントとエージェント型AIに関する見解をまとめて発表し、AIエージェントを「デジタルおよび物理環境で状況を認識し、意思決定を行い、目標達成のために行動する自律・半自律ソフトウェア」と定義した。2026年は生成AIから実運用エージェントへの転換点として位置付けられている。",
+      "url": "https://www.gartner.co.jp/ja/newsroom/press-releases/pr-20250514-ai-agent",
+      "collectedAt": "2026-04-11T08:00:00+09:00"
+    },
+    {
+      "title": "3大生成AIの役割分担が鮮明化、2026年はコーディングClaude・長文Gemini・創造ChatGPT",
+      "summary": "2026年時点で生成AI主要3モデルの得意領域の差が明確になり、コーディングや技術・法務文書の正確性ではClaude、低コストかつ長文処理と日本語品質ではGemini、創造的な文書やブレインストーミング用途ではChatGPTの強みが評価されている。企業はユースケースに応じた使い分けが主流となりつつある。",
+      "url": "https://www.worktypeslab.com/chatgpt-gpt52-gemini3-claude-opus45-comparison-2025/",
+      "collectedAt": "2026-04-11T08:00:00+09:00"
+    },
+    {
+      "title": "「長考」時間の管理が2026年のAI活用テーマに、推論モデルの実装に悩みも",
+      "summary": "日経クロステックは、2026年のユーザー企業の大きな課題として「AIにどれだけ長考させるか」を挙げた。推論系モデルの普及によりプロンプト入力から最終成果物の出力までの時間が長大化する傾向が強まっており、コスト・スループット・精度のバランス調整が実装上の重要な論点になっている。",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00692/122500178/",
+      "collectedAt": "2026-04-11T08:00:00+09:00"
+    },
+    {
+      "title": "Forrester「2026年はAIエージェント前提アプリへの転換点」、MCPサーバー普及も加速",
+      "summary": "Forresterは2026年を、アプリケーションが「人間中心のUI」からAIエージェントを前提とした構造へ移行する転換期と位置付けた。2026年までにエンタープライズアプリケーションベンダーの30%が独自のMCP（Model Context Protocol）サーバーを公開するとの予測もあり、エージェント経由でのアプリ連携が標準化しつつある。",
+      "url": "https://jp.ext.hp.com/techdevice/ai/ai_explained_44/",
+      "collectedAt": "2026-04-11T08:00:00+09:00"
+    }
+  ]
+}
