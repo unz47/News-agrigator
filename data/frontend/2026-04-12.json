@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-12",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.2リリース、開発サーバー起動が約87%高速化・SSRも約50%改善",
+      "summary": "2026年3月18日に公開されたNext.js 16.2は、16.1比で開発サーバー起動が約87%高速化し、サーバーサイドレンダリングも約50%高速化されるなどパフォーマンスが大幅に向上した。デバッグ機能も強化され、大規模アプリの開発体験が改善している。",
+      "url": "https://codezine.jp/news/detail/23717",
+      "collectedAt": "2026-04-12T08:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16安定版、TurbopackデフォルトとReact Compiler対応",
+      "summary": "Next.js 16ではTurbopackが安定版となり`next dev`/`next build`のデフォルトに採用された。React Compilerによる自動メモ化が標準対応となり、不要な再レンダリングの削減が組み込みで実現される。",
+      "url": "https://nextjs.org/blog/next-16",
+      "collectedAt": "2026-04-12T08:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16の「Cache Components」と`use cache`ディレクティブ",
+      "summary": "Next.js 16で導入されたCache Componentsは、`use cache`ディレクティブを中心にページ・コンポーネント・関数単位のキャッシュを明示的に制御できる新しい仕組み。App Routerでのキャッシュ設計がより柔軟になり、段階的なキャッシュ戦略が構築しやすくなった。",
+      "url": "https://www.issoh.co.jp/tech/details/9596/",
+      "collectedAt": "2026-04-12T08:00:00+09:00"
+    },
+    {
+      "title": "React 19.2の新機能 View Transitions / useEffectEvent / Activity",
+      "summary": "Next.js 16のApp RouterはReact 19.2の機能を取り込み、ページ遷移を滑らかに表現するView Transitions、イベントハンドラを切り出すuseEffectEvent、バックグラウンドレンダリング用のActivityなどが利用可能になった。UXとパフォーマンス両面で新しい表現力が得られる。",
+      "url": "https://engineering.nifty.co.jp/blog/36184",
+      "collectedAt": "2026-04-12T08:00:00+09:00"
+    },
+    {
+      "title": "TypeScriptフレームワーク比較2026、React+Next.jsが案件単価でリード",
+      "summary": "2026年のTypeScriptフレームワーク比較では、React+Next.jsフルスタックが汎用性・案件数・単価のバランスで最優位とされ、実務3年以上で月額80〜100万円の案件を狙える水準に達すると分析された。AngularはエンタープライズDI、Vue.jsは学習コスト重視といった棲み分けが明確化している。",
+      "url": "https://bizdev-tech.jp/typescript-framework/",
+      "collectedAt": "2026-04-12T08:00:00+09:00"
+    }
+  ]
+}

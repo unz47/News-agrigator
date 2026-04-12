@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-12",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "2026年は「マルチモデル戦略」が主流、Claude・GPT・Geminiの使い分けが定着",
+      "summary": "2026年のLLM活用では、コーディングはClaude、低コストの長文処理はGemini、創造性重視はChatGPTなど、用途ごとに得意領域を使い分ける「マルチモデル戦略」がベストプラクティスとして定着した。ベンダーロックイン回避やフォールバック設計が重視され、複数APIの併用が企業のAI導入で主流となっている。",
+      "url": "https://renue.co.jp/posts/llm-api-comparison-openai-claude-gemini-deepseek-2026",
+      "collectedAt": "2026-04-12T08:00:00+09:00"
+    },
+    {
+      "title": "Anthropic「Claude Opus 4.6」、SWE-benchで80.9%達成しコーディング性能を強化",
+      "summary": "Anthropicが2026年2月に公開したClaude Opus 4.6は、100万トークンのコンテキストウィンドウ(ベータ)に対応し、エージェント的なタスクを長く維持できる能力を強化している。SWE-benchでは80.9%の精度を達成し、GDPval-AA評価ではGPT-5.2を約144 Elo上回る結果を示した。",
+      "url": "https://www.anthropic.com/news/claude-opus-4-6",
+      "collectedAt": "2026-04-12T08:00:00+09:00"
+    },
+    {
+      "title": "OpenAI GPT-5.2 / Claude 4.6 / Gemini 3など7モデル、法人向け「Tachyon 生成AI」に搭載",
+      "summary": "エムシーディースリー株式会社は、法人向け生成AIサービス「Tachyon 生成AI」に最先端7モデル(GPT-5.2、Claude 4.6、Gemini 3など)を搭載したと発表した。業務用途に応じて最適なモデルを切り替えて利用できる仕組みで、エンタープライズ領域でのマルチモデル活用を後押しする。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000080.000058133.html",
+      "collectedAt": "2026-04-12T08:00:00+09:00"
+    },
+    {
+      "title": "有料生成AIの利用制限を比較、ChatGPT・Gemini・Claude・Gensparkの違いは",
+      "summary": "2026年4月時点の有料AIサービス(ChatGPT、Gemini、Claude、Genspark)の利用制限・解除タイミングを比較した記事が公開された。利用枠の計測方法やピーク時の制限発動条件が各社で異なるため、ユーザーは業務負荷に合わせた契約プラン選定が重要になる。",
+      "url": "https://marketing-ai.biz/2026/04/11/llm-tool-comparison/",
+      "collectedAt": "2026-04-12T08:00:00+09:00"
+    },
+    {
+      "title": "日経xTECH「AIにどれだけ『長考』させるか、それが2026年の悩みどころ」",
+      "summary": "日経クロステックは、2026年のLLM活用における最大の論点として、モデルに「どれだけ長考させるか」(reasoning時間・トークン配分)の最適化を挙げた。応答品質とコスト・レイテンシのトレードオフが運用設計の中核課題となり、推論時間の制御機能が各社APIで進化している。",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00692/122500178/",
+      "collectedAt": "2026-04-12T08:00:00+09:00"
+    }
+  ]
+}
