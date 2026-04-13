@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-13",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、GPT-5.2を正式発表 知識労働に特化した最上位モデルをChatGPT/APIで展開",
+      "summary": "OpenAIはプロフェッショナル向けの知識労働に最適化した「GPT-5.2」を発表した。ChatGPTの有料プランからInstant/Thinking/Proの順で展開され、APIも全開発者に開放。GDPvalベンチマークで初めて人間の専門家水準を上回る成果を示したとしている。",
+      "url": "https://openai.com/index/introducing-gpt-5-2/",
+      "collectedAt": "2026-04-13T08:00:00+09:00"
+    },
+    {
+      "title": "Anthropic、Claude Opus 4.6とSonnet 4.6で100万トークンのコンテキストを正式提供開始",
+      "summary": "AnthropicはClaude Opus 4.6およびSonnet 4.6向けに1Mトークンのコンテキストウィンドウを標準料金で一般提供開始した。20万トークン超のリクエストもベータヘッダ不要で自動対応し、長大な文書やコードベース全体を扱うエージェント活用が本格化する。",
+      "url": "https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-6",
+      "collectedAt": "2026-04-13T08:00:00+09:00"
+    },
+    {
+      "title": "Claude Opus 4.6、SWE-benchで80.9%を記録しGPT-5.2やGemini 3 Proを上回る",
+      "summary": "Claude Opus 4.6は複雑なソフトウェアエンジニアリング課題を評価するSWE-benchで80.9%の精度を達成し、OpenAI GPT-5.2やGoogle Gemini 3 Proを上回ったと報告されている。長時間にわたる自律コーディング能力の進化が改めて示された形だ。",
+      "url": "https://renue.co.jp/posts/llm-api-comparison-openai-claude-gemini-deepseek-2026",
+      "collectedAt": "2026-04-13T08:00:00+09:00"
+    },
+    {
+      "title": "Anthropic、サイバーセキュリティ特化の「Claude Mythos Preview」を11社にProject Glasswingで提供",
+      "summary": "Anthropicは4月7日、サイバーセキュリティ脆弱性の発見と修正に特化した「Claude Mythos Preview」を発表した。Project Glasswingとして選定された11社・組織に限定提供され、防御的セキュリティ領域でのLLM活用を本格化させる。",
+      "url": "https://releasebot.io/updates/anthropic",
+      "collectedAt": "2026-04-13T08:00:00+09:00"
+    },
+    {
+      "title": "法人向け生成AI「Tachyon 生成AI」が最先端7モデルを搭載 GPT-5.2・Claude 4.6・Gemini 3 Proなど",
+      "summary": "エムシーディースリーは法人向け生成AIサービス「Tachyon 生成AI」にGPT-5.2、Claude Opus 4.6、Gemini 3 Proなど最先端7モデルを新たに搭載した。ベンダーロックインを避けつつ用途に応じたマルチモデル戦略を実現する構成で、エンタープライズ需要の取り込みを狙う。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000080.000058133.html",
+      "collectedAt": "2026-04-13T08:00:00+09:00"
+    }
+  ]
+}

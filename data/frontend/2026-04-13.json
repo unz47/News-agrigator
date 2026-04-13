@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-13",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.2リリース 開発サーバー起動が約4倍高速化、Turbopack改善も",
+      "summary": "Vercelは3月18日にNext.js 16.2をリリースし、next devの起動が約400%、描画が約50%高速化した。Turbopackの安定運用やServer Fast Refresh、SRI対応、200以上のバグ修正に加え、create-next-appへのAGENTS.md同梱などAI関連の改善も盛り込まれた。",
+      "url": "https://releasebot.io/updates/vercel/next-js",
+      "collectedAt": "2026-04-13T08:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16、React Compiler 1.0を統合しビルトインで安定サポート",
+      "summary": "Next.js 16はReact Compiler 1.0のリリースに合わせてビルトインサポートを安定化した。コンポーネントの自動メモ化により不要な再レンダリングが削減され、TurbopackもdevとbuildのデフォルトとしてGAとなったことで、パフォーマンス最適化が標準機能として提供される。",
+      "url": "https://nextjs.org/blog/next-16",
+      "collectedAt": "2026-04-13T08:00:00+09:00"
+    },
+    {
+      "title": "React 19.2が正式公開 View Transitions・useEffectEvent・Activityコンポーネントを追加",
+      "summary": "React 19.2が公開され、View Transitions API、useEffectEventフック、Activityコンポーネントなどが追加された。Next.js 16のApp Routerは最新のReact Canaryを採用しており、これらの新機能をフレームワークレベルで素早く利用できる構成となっている。",
+      "url": "https://javascript-conference.com/blog/react-19-2-updates-performance-activity-component/",
+      "collectedAt": "2026-04-13T08:00:00+09:00"
+    },
+    {
+      "title": "TypeScript 5.9.3が最新パッチに ネイティブポート版6.0・7.0は2026年内の公開を目指す",
+      "summary": "TypeScriptの最新パッチは5.9.3で、import defer構文やtsc --initのプリセット強化、型チェックの約11%高速化が含まれる。Microsoftが進めるGo実装のネイティブポートはTypeScript 6.0/7.0として2026年内の公開を目指しており、開発者のアップグレード計画に影響を与えそうだ。",
+      "url": "https://www.infoworld.com/article/4100582/microsoft-steers-native-port-of-typescript-to-early-2026-release.html",
+      "collectedAt": "2026-04-13T08:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16の新「use cache」ディレクティブ登場 従来の暗黙キャッシュからopt-inへ転換",
+      "summary": "Next.js 16で導入されたCache Componentsは、新しい「use cache」ディレクティブを中心としたopt-in型のキャッシュ戦略を採る。従来の暗黙的なキャッシュ挙動から明示指定へと転換することで、予測しやすいパフォーマンスとデータ鮮度の両立を狙っている。",
+      "url": "https://dev.to/x4nent/complete-guide-to-nextjs-16-react-192-in-production-rsc-security-view-transitions-turbopack-5090",
+      "collectedAt": "2026-04-13T08:00:00+09:00"
+    }
+  ]
+}
