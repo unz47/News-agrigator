@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-14",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、Long-Term Benefit Trustの新メンバーを発表 ガバナンス体制を強化",
+      "summary": "Anthropicは4月14日、同社のミッション維持を担う長期利益トラスト（Long-Term Benefit Trust）の新たな任命を発表した。AI開発の高度化に伴う社会的リスクに対応するため、外部有識者を追加してガバナンス体制を強化し、Claudeシリーズの安全性・公益性を担保する仕組みを拡充する狙い。",
+      "url": "https://www.anthropic.com/news",
+      "collectedAt": "2026-04-14T08:00:00+09:00"
+    },
+    {
+      "title": "GPT-6のリリース噂、4月14日投入は未確認も月内ローンチ観測が高まる",
+      "summary": "一部で取り沙汰された「GPT-6を4月14日に公開」との噂は公式には確認されていないが、OpenAI関係者がX上で「来週」のローンチを示唆しており、PolymarketはGPT-6が4月30日までに公開される確率を78％と予測している。フロンティアモデル競争は一段と加速している。",
+      "url": "https://findskill.ai/blog/gpt-6-release-date/",
+      "collectedAt": "2026-04-14T08:00:00+09:00"
+    },
+    {
+      "title": "Anthropic、Google・Broadcomとのパートナーシップ拡大 コンピュート基盤を増強",
+      "summary": "AnthropicはGoogleおよびBroadcomとのパートナーシップ拡大を発表し、TPUを中心とする大規模コンピュート基盤を確保する。Claude Opus 4.6の100万トークン対応モデルや次世代モデルの学習・推論需要に対応するためのインフラ投資が本格化しており、ランレート売上は300億ドルを突破したとされる。",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "collectedAt": "2026-04-14T08:00:00+09:00"
+    },
+    {
+      "title": "OpenAI・Anthropic・Google、中国による「モデル模倣」対抗で連携強化",
+      "summary": "米主要AI3社はFrontier Model Forumを通じて情報共有を進め、敵対的蒸留（adversarial distillation）による中国企業のモデル模倣を阻止する枠組みを運用している。4月上旬の合意を受け、APIレベルでの出力制限やセキュリティ強化が継続的に実施されていることが明らかになっている。",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china",
+      "collectedAt": "2026-04-14T08:00:00+09:00"
+    },
+    {
+      "title": "Gemini 3.1 Flash-Liteに「thinking levels」 推論の深さを4段階で制御",
+      "summary": "Googleが公開したGemini 3.1 Flash-Liteはminimal/low/medium/highの4段階で推論の深さを指定できる「thinking levels」を搭載し、従来のFlashより応答速度が45％向上した。入力トークン単価はProの8分の1、バッチAPIではさらに50％割引となり、大規模・定型タスクでのコスト最適化が加速している。",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/04/news080.html",
+      "collectedAt": "2026-04-14T08:00:00+09:00"
+    }
+  ]
+}
