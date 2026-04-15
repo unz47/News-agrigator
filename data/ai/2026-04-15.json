@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-15",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Claude Haiku 3（claude-3-haiku-20240307）が4月19日に廃止へ、Haiku 4.5への移行を推奨",
+      "summary": "Anthropicは旧モデルClaude Haiku 3の廃止予定日を2026年4月19日に設定したと公表した。エンドポイント利用者には最新のClaude Haiku 4.5への移行が推奨されており、API利用中のアプリケーションは切り替え作業が急務となっている。",
+      "url": "https://platform.claude.com/docs/ja/release-notes/overview",
+      "collectedAt": "2026-04-15T08:00:00+09:00"
+    },
+    {
+      "title": "Claude Sonnet 4.5 / 4の1Mトークンコンテキストβが4月30日で終了、Opus 4.6などへ移行を案内",
+      "summary": "AnthropicはClaude Sonnet 4.5およびSonnet 4向けの1Mトークンコンテキスト・ベータを2026年4月30日に終了すると発表した。以降はcontext-1m-2025-08-07ヘッダーが無効となり、200kトークンを超えるリクエストはエラーとなるため、Sonnet 4.6またはOpus 4.6への移行が必要となる。",
+      "url": "https://platform.claude.com/docs/ja/release-notes/overview",
+      "collectedAt": "2026-04-15T08:00:00+09:00"
+    },
+    {
+      "title": "2026年4月の生成AI比較更新、Claude Opus 4.6・GPT-5.4・Gemini 3.1 Proが主要選択肢に",
+      "summary": "2026年4月時点の比較では、コーディング用途にClaude Opus 4.6、低コストの長文処理にGemini 3.1 Pro、創造性重視の用途にGPT-5.4といった棲み分けが明確化している。企業では用途ごとに複数モデルを使い分ける「マルチモデル戦略」がベストプラクティスとされている。",
+      "url": "https://qiita.com/Ito_110/items/aec48308533ca491ad57",
+      "collectedAt": "2026-04-15T08:00:00+09:00"
+    },
+    {
+      "title": "LLM API徹底比較2026：GPT-5・Claude Opus 4.6・Gemini 2.5・DeepSeekの料金と性能",
+      "summary": "2026年版のLLM API比較記事が更新され、OpenAI GPT-5、Claude Opus 4.6、Gemini 2.5、DeepSeekの料金と推論性能が整理された。各モデルは得意領域と価格が大きく異なり、用途別のコスト最適化や自社ワークフローに沿ったモデル選定が競争力の鍵となっている。",
+      "url": "https://renue.co.jp/posts/llm-api-comparison-openai-claude-gemini-deepseek-2026",
+      "collectedAt": "2026-04-15T08:00:00+09:00"
+    },
+    {
+      "title": "Anthropic、Claude Sonnet 4.5を「メソッド俳優」と説明 感情的な文脈で特定パターンが活性化",
+      "summary": "Anthropicは2026年4月、Claude Sonnet 4.5について「メソッド俳優（method actor）」のような性質を持つと説明した。感情的に喚起力のある文脈が提示された際に特定の応答パターンが活性化する傾向があるとし、挙動の解釈や安全性評価の観点で議論を呼んでいる。",
+      "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+      "collectedAt": "2026-04-15T08:00:00+09:00"
+    }
+  ]
+}

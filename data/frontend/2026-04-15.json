@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-15",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "CSS :has()セレクタがついに「Widely available」へ 2026年4月に主要ブラウザでベースライン化",
+      "summary": "親要素を子要素の状態で選択できる:has()セレクタが2026年4月ごろに「Widely available」ステータスへ移行する見通しとなった。全主要ブラウザでの安定利用が可能になることで、JavaScriptを用いない宣言的なUI制御がさらに普及する見込みだ。",
+      "url": "https://zenn.dev/tcool/articles/4eaf9529aca917",
+      "collectedAt": "2026-04-15T08:00:00+09:00"
+    },
+    {
+      "title": "CSS Snapshot 2026が公開、最新のCSS仕様群を総合的に整理",
+      "summary": "W3CはCSS Snapshot 2026を公表し、現時点で相互運用可能なCSS仕様群を一覧化した。::scroll-button()や::scroll-marker()など新しい擬似要素やスクロール駆動アニメーションなど、モダンCSS機能の標準化状況が整理されており、実装者の参照ドキュメントとして位置づけられる。",
+      "url": "https://triple-underscore.github.io/css-snapshot-ja.html",
+      "collectedAt": "2026-04-15T08:00:00+09:00"
+    },
+    {
+      "title": "TypeScript × React × Next.jsが2026年フロントエンド市場で最も需要の高いスタックに",
+      "summary": "@SOHOの案件データによれば、TypeScript・React・Next.jsの実務経験3年以上を持つフリーランスエンジニアの平均月単価は85〜110万円に達している。SSR/SSGによる高速化需要とVercelエコシステムの普及を背景に、フロントエンド領域で最も需要の高い技術スタックとなっている。",
+      "url": "https://atsoho.com/blog/ts-react-nextjs-demand-2026",
+      "collectedAt": "2026-04-15T08:00:00+09:00"
+    },
+    {
+      "title": "2026年フロントエンド学習ロードマップが更新、AI駆動開発とReact・Next.jsを統合",
+      "summary": "2026年4月に更新された学習ロードマップでは、React・Next.js・Node.jsにAI駆動開発スキルを組み合わせる学習コースが推奨されている。生成AIを前提とした設計・実装フローが標準化しつつあり、TypeScriptの型設計力とAI活用スキルが差別化の軸と位置づけられている。",
+      "url": "https://note.com/monotein/n/nee7d900f0d5f",
+      "collectedAt": "2026-04-15T08:00:00+09:00"
+    },
+    {
+      "title": "TypeScriptフレームワーク比較2026：Angular・Vue・React・NestJS＋Next.jsの使い分けを整理",
+      "summary": "2026年最新版のTypeScriptフレームワーク比較記事では、大規模エンタープライズ向けのAngular、学習コストとバランスに優れるVue、エコシステムの厚みで優位に立つReact、API向けのNestJSといった各特性が整理された。プロジェクトの要件・チーム構成・将来の保守性を基に選定する実務指針が示されている。",
+      "url": "https://bizdev-tech.jp/typescript-framework/",
+      "collectedAt": "2026-04-15T08:00:00+09:00"
+    }
+  ]
+}
