@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-16",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.2がリリース、パフォーマンスとデバッグ機能が大幅強化",
+      "summary": "Next.js 16.2がリリースされ、開発サーバーの起動が約87%高速化、本番レンダリングが25-60%向上した。Turbopackでは200以上の修正が含まれ、Server Fast Refreshなどの新機能が追加された。",
+      "url": "https://codezine.jp/news/detail/23717",
+      "collectedAt": "2026-04-16T08:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16.2でAIエージェント向け機能を強化、DevTools MCPが進化",
+      "summary": "Next.js 16.2ではDevTools MCPの改善やAIエージェント向け機能が強化された。AIコーディングアシスタントがアプリのルーティング・キャッシュ・レンダリング動作を理解して開発を支援できるようになった。",
+      "url": "https://nextjs.org/blog/next-16-2-ai",
+      "collectedAt": "2026-04-16T08:00:00+09:00"
+    },
+    {
+      "title": "2026年のWeb開発の基本となる変化、AIとの協業が前提に",
+      "summary": "フロントエンド開発の標準がReact + TypeScript + Next.jsに固まりつつある中、AIとの協業を前提とした開発ツールへのシフトが加速している。Cursor 3のエージェント統合など開発体験が大きく変化している。",
+      "url": "https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8",
+      "collectedAt": "2026-04-16T08:00:00+09:00"
+    },
+    {
+      "title": "TypeScript × React × Next.jsが2026年フロントエンド市場で最も需要の高い技術スタックに",
+      "summary": "2026年のフロントエンド市場でTypeScript + React + Next.jsがデファクトスタンダードに。実務経験3年以上のフリーランスエンジニアの月単価は85万〜110万円で、生成AIスキルの追加によりさらに高単価案件が狙える状況。",
+      "url": "https://atsoho.com/blog/ts-react-nextjs-demand-2026",
+      "collectedAt": "2026-04-16T08:00:00+09:00"
+    }
+  ]
+}

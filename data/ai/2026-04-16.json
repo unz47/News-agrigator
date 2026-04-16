@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-16",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "ソフトバンク、国産LLM「Sarashina」活用の生成AIサービスを6月から提供開始",
+      "summary": "ソフトバンクがOracle Alloy採用の「Cloud PF Type A」上で、国産大規模言語モデル「Sarashina」を活用した生成AIサービスを2026年6月から順次提供すると発表。企業や自治体におけるデータ主権を備えたAI活用ニーズに対応する。",
+      "url": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260416_02/",
+      "collectedAt": "2026-04-16T08:00:00+09:00"
+    },
+    {
+      "title": "Geminiアプリ、ChatGPTやClaudeからのチャット履歴・メモリーのインポート機能を提供開始",
+      "summary": "GoogleがGeminiアプリにChatGPTやClaudeからチャット履歴やメモリーをインポートできる機能を展開開始した。最大5GBのzipファイルに対応し、AIプラットフォーム間の乗り換えが大幅に容易になった。",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/27/news087.html",
+      "collectedAt": "2026-04-16T08:00:00+09:00"
+    },
+    {
+      "title": "Claude Opus 4.6の100万トークン対応が追加料金なしで一般提供開始",
+      "summary": "AnthropicがClaude Opus 4.6とSonnet 4.6の100万トークンコンテキストウィンドウを正式にGA化した。追加料金・レート制限なしで利用可能となり、1リクエストあたりの画像・PDFページ上限も600に拡大された。",
+      "url": "https://codezine.jp/news/detail/23694",
+      "collectedAt": "2026-04-16T08:00:00+09:00"
+    },
+    {
+      "title": "GPT-5.1・Gemini 3・Claude 4.5の最新アップデートと使い分け戦略",
+      "summary": "主要AIモデルの最新バージョン比較記事が公開された。2026年はマルチモデル戦略が主流となり、文章作成はChatGPT、長文要約はClaude、Google連携はGeminiと用途別に使い分けるベストプラクティスが推奨されている。",
+      "url": "https://thinkit.co.jp/article/38762",
+      "collectedAt": "2026-04-16T08:00:00+09:00"
+    }
+  ]
+}
