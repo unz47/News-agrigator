@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-17",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.2リリース：Turbopackの大幅改善でdev起動が87%高速化",
+      "summary": "Next.js 16.2がリリースされ、Turbopackに200以上の修正と改善が加えられた。デフォルトアプリケーションでの起動速度がNext.js 16.1比で約87%高速化され、デバッグ機能の改善やAIエージェント向け機能の強化も含まれている。",
+      "url": "https://nextjs.org/blog/next-16-2",
+      "collectedAt": "2026-04-17T23:30:00Z"
+    },
+    {
+      "title": "Next.js 16.2 Turbopack詳細：プロダクションビルドもデフォルトバンドラーに",
+      "summary": "Turbopackが開発・プロダクション両ビルドで安定版に到達し、新規Next.jsプロジェクトのデフォルトバンドラーとなった。Next.js 15.3以降の開発セッションの50%以上、プロダクションビルドの20%がすでにTurbopackで動作している。",
+      "url": "https://nextjs.org/blog/next-16-2-turbopack",
+      "collectedAt": "2026-04-17T23:30:00Z"
+    },
+    {
+      "title": "2026年フロントエンド総括：Signalsの標準化議論がTC39で進行中",
+      "summary": "Angular、Vue、Solid、Svelteが採用するリアクティビティ機構「Signals」がTC39で標準化議論に入った。変更されたデータに直接依存するDOM要素のみを更新する仕組みで、フレームワーク横断的なWeb標準となる可能性がある。",
+      "url": "https://www.taolis.net/articles/frontend-development-2026-metaframeworks-signals-server-first",
+      "collectedAt": "2026-04-17T23:30:00Z"
+    },
+    {
+      "title": "TypeScript × React × Next.jsが2026年フロントエンド求人の80%以上を占める",
+      "summary": "2026年現在、求人票の80%以上にTypeScript・React・Next.jsの3キーワードが含まれ、事実上のデファクトスタンダードとなった。フルスタックかつ生成AIで開発速度を高められるエンジニアの需給が最も逼迫するプロファイルとなっている。",
+      "url": "https://atsoho.com/blog/ts-react-nextjs-demand-2026",
+      "collectedAt": "2026-04-17T23:30:00Z"
+    }
+  ]
+}

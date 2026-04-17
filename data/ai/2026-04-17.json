@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-17",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAIが生命科学特化モデル「GPT-Rosalind」を発表、創薬・ゲノミクス研究を加速",
+      "summary": "OpenAIが4月17日、生命科学と創薬研究に特化したAIモデル「GPT-Rosalind」を発表した。50種類以上の生物学ワークフローで訓練され、遺伝子データ解析や創薬ターゲットの優先順位付けを支援する。Amgen、Moderna、Allen Instituteなどが既に研究ワークフローに適用中。",
+      "url": "https://openai.com/index/introducing-gpt-rosalind/",
+      "collectedAt": "2026-04-17T23:30:00Z"
+    },
+    {
+      "title": "星新一賞でAI小説が席巻、受賞4作中3作がAI使用で審査員が辞退表明",
+      "summary": "第13回日経「星新一賞」一般部門で受賞した4作品のうち3作品がAIを使って執筆されていたことが判明した。審査員の最相葉月氏が「AIの文章はもう読みたくない」と次回の選考辞退を表明し、主催事務局は「人力小説部門」の新設を議論している。",
+      "url": "https://www.nikkei.com/article/DGXZQOUD0684S0W6A400C2000000/",
+      "collectedAt": "2026-04-17T23:30:00Z"
+    },
+    {
+      "title": "Claude Mythos Preview、攻撃能力の高さに各国金融規制当局が緊急対応",
+      "summary": "Anthropicが4月7日に発表した「Claude Mythos Preview」は、ゼロデイ脆弱性を数千件発見し攻撃コード作成にも成功するなど、サイバーセキュリティ能力が突出。米英カナダの金融規制当局が同時に緊急協議を開始し、一般公開は見送られた。",
+      "url": "https://techtarget.itmedia.co.jp/tt/news/2604/16/news06.html",
+      "collectedAt": "2026-04-17T23:30:00Z"
+    },
+    {
+      "title": "Anthropic元研究者が「世界は危機に」と警告、AI開発競争で安全理念が無力化",
+      "summary": "Anthropicを退職した研究者が日本経済新聞の取材に応じ、AI開発競争の激化により安全性を重視する理念が無力化されていると警告した。企業間の性能競争が安全対策よりも優先される現状に強い懸念を示している。",
+      "url": "https://www.nikkei.com/article/DGXZQOGN14CLZ0U6A410C2000000/",
+      "collectedAt": "2026-04-17T23:30:00Z"
+    }
+  ]
+}
