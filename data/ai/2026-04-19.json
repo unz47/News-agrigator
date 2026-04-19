@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-19",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "【AWS CDK】API Gateway 29秒タイムアウト × Bedrock Agent + SageMaker LLM 推論の非同期化パターン完全解説",
+      "summary": "API Gatewayの29秒タイムアウト制限とBedrock Agent（Claude 3.5 Sonnet）でのRAG検索やSageMaker LLM推論を組み合わせた際の課題を解説。WebSocket APIを活用した非同期化パターンをCDK TypeScriptの実装コード付きで紹介している。",
+      "url": "https://qiita.com/hidetarou2013@github/items/ef3bb6e4633ae7ddc5a9",
+      "collectedAt": "2026-04-19T09:00:00+09:00"
+    },
+    {
+      "title": "【2026年最新版】AI導入事例15選｜業界別の成功パターンと失敗しない導入ステップ",
+      "summary": "2026年時点のAI導入事例を業界別に15件紹介。企業のAI活用が「試験導入」から「本格運用」フェーズへ移行する中、成功パターンと段階的な導入ステップを体系的に解説している。",
+      "url": "https://ai-media.co.jp/2026/04/19/1000-ai-case-studies-2026/",
+      "collectedAt": "2026-04-19T09:00:00+09:00"
+    },
+    {
+      "title": "2026年4月第3週 ITインフラ・ハードウェア最新動向 〜AI基盤を支える物理層の革新と地政学〜",
+      "summary": "AI基盤を支えるインフラの週次レポート。AIサーバー用DRAMの価格が前年比約95%高騰しサーバーコストの50%超をメモリが占める状況や、ラピダスの2nm製造計画、NVIDIAの量子コンピューティング新プラットフォーム「Ising」などを紹介。",
+      "url": "https://www.kishioka-design.net/entry/2026/04/19/093855",
+      "collectedAt": "2026-04-19T09:00:00+09:00"
+    }
+  ]
+}

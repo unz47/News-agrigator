@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-19",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "JetBrains、IntelliJ IDEAのJavaScript/TypeScript/HTML/CSSコア機能を無償化",
+      "summary": "JetBrainsはIntelliJ IDEA 2026.1より、これまでUltimate版限定だったJavaScript、TypeScript、HTML、CSSのコア機能を無償のCommunity版にも開放すると発表した。基本的なReactサポートも含まれ、フロントエンド開発者のIDE選択肢が広がる。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2095995.html",
+      "collectedAt": "2026-04-19T09:00:00+09:00"
+    },
+    {
+      "title": "2026年フロントエンド技術ガイド：React 19・Svelte 5・Tailwind v4以降の世界",
+      "summary": "2026年のフロントエンド開発は「高速化」と「サーバー機能の統合」が標準化するフェーズに入った。React 19の安定稼働、Svelte 5のリアクティビティ再定義、Rust製ツールチェーンによるビルド革命が主要なトレンドとして解説されている。",
+      "url": "https://qiita.com/YushiYamamoto/items/9845784d14428db90fce",
+      "collectedAt": "2026-04-19T09:00:00+09:00"
+    },
+    {
+      "title": "2026年のフロントエンド開発を変える次世代フレームワークの兆し",
+      "summary": "TanStackエコシステムの拡大によりデータ・状態・フォーム・ルーティングを一つの流れとして扱うフロントエンドロジック層の事実上の標準が形成されつつある。エッジデプロイをデフォルトとする流れも加速しており、開発者に求められるスキルセットが変化している。",
+      "url": "https://www.iamjava.com/article0179/",
+      "collectedAt": "2026-04-19T09:00:00+09:00"
+    }
+  ]
+}
