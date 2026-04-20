@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-20",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "AIエージェントが「同僚」へ進化、Claude Opus 4.7発表で自律作業能力が大幅向上",
+      "summary": "AIは「使うもの」から「一緒に働く同僚」へと急速に進化しており、複雑なワークフローを自律的にこなすAIエージェントが主流となりつつある。Anthropicが4月16日に発表した最新モデル「Claude Opus 4.7」はSWE-benchで87.6%を記録し、自律的なソフトウェアエンジニアリング能力を大幅に引き上げた。",
+      "url": "https://journal.omoshigo.link/trend/workai/20260420-19922/",
+      "collectedAt": "2026-04-20T23:00:00+09:00"
+    },
+    {
+      "title": "Cursor社、評価額500億ドルで20億ドル超の資金調達を協議中",
+      "summary": "AIコードエディタ「Cursor」を開発するCursor社が、評価額500億ドル（約7.5兆円）で20億ドル以上の資金調達を投資家と協議している。2026年末までに年換算売上高60億ドル超を目指しており、AI開発支援市場の急成長を象徴する動きとなっている。",
+      "url": "https://www.azcoo.com/archives/2952",
+      "collectedAt": "2026-04-20T23:00:00+09:00"
+    },
+    {
+      "title": "Anthropic「Claude Design」発表、AIデザインツール市場に参入しFigma株が急落",
+      "summary": "Anthropicが4月17日にAIデザインツール「Claude Design」をリサーチプレビューとして公開した。テキスト指示からモックアップやプロトタイプを即座に生成でき、Claude Codeへのハンドオフ機能も搭載する。発表翌日にFigma株が約7%下落し、デザインツール市場への影響が注目されている。",
+      "url": "https://note.com/hirokimiyano/n/n315d99672b43",
+      "collectedAt": "2026-04-20T23:00:00+09:00"
+    },
+    {
+      "title": "Google「Gemma 4」をApache 2.0で公開、商用利用可能なマルチモーダルモデル",
+      "summary": "Googleが次世代オープンモデル「Gemma 4」を4月2日に公開した。Apache 2.0ライセンスにより商用利用・改変が自由で、テキスト・画像・動画・音声のマルチモーダル処理に対応する。31B DenseモデルはMMLU Proで85.2%を記録し、ローカルLLM市場に大きなインパクトを与えている。",
+      "url": "https://gihyo.jp/article/2026/04/gemma-4",
+      "collectedAt": "2026-04-20T23:00:00+09:00"
+    }
+  ]
+}

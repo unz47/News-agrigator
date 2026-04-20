@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-20",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Anthropic「Claude Design」がフロントエンド開発ワークフローを変革",
+      "summary": "Anthropicが発表したAIデザインツール「Claude Design」は、テキスト指示からUIモックアップやプロトタイプを即座に生成できる。Claude Codeへのハンドオフバンドル機能により、デザインからフロントエンド実装への移行が大幅に効率化され、開発者の作業フローに大きな変化をもたらす可能性がある。",
+      "url": "https://news.mynavi.jp/article/20260418-4355711/",
+      "collectedAt": "2026-04-20T23:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16.3.0-canary.2リリース、React View TransitionsやActivityコ��ポーネントに対応準備",
+      "summary": "Vercelが4月18日にNext.js 16.3.0-canary.2をリリースした。React 19.2のView Transitions、useEffectEvent、Activityコンポーネントなどの新機能を先行導入し、React Compilerの1.0安定版サポートも含まれる。Turbopackのさらなる最適化により、開発サーバーの起動速度が大幅に向上している。",
+      "url": "https://github.com/vercel/next.js/releases",
+      "collectedAt": "2026-04-20T23:00:00+09:00"
+    },
+    {
+      "title": "OpenAI Codex「Computer Use」プラグイン公開、フロントエンドUIテスト自動化に期待",
+      "summary": "OpenAIが4月16日にCodex for Mac向け「Computer Use」プラグインを公開した。Macのアクセシビリティ機能を通じてAIエージェントがアプリやファイルを直接操作可能になり、フロントエンドのUIテスト自動化やE2Eテストの効率化に対する開発者の期待が高まっている。",
+      "url": "https://qiita.com/ishisaka/items/993f352dc288d909ae03",
+      "collectedAt": "2026-04-20T23:00:00+09:00"
+    }
+  ]
+}
