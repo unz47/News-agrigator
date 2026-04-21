@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-21",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "AnthropicがAmazon製AIチップ確保に1000億ドル以上の投資を発表、AmazonもAnthropicに最大250億ドル追加出資",
+      "summary": "AnthropicはAWSのTrainium製AIチップを確保するため、今後10年間で1000億ドル以上をAWSに投資すると発表した。一方AmazonもAnthropicに最大250億ドルを追加出資し、AI基盤インフラの垂直統合を加速させる。2026年末までにTrainium2とTrainium3を合わせて約1GWの推論・学習能力が確保される見込み。",
+      "url": "https://gigazine.net/news/20260421-amazon-anthropic-invest/",
+      "collectedAt": "2026-04-21T23:35:00+09:00"
+    },
+    {
+      "title": "0G FoundationとAlibaba Cloud、Qianwen LLMをオンチェーンAIエージェントに統合",
+      "summary": "0G FoundationがAlibaba Cloudの大規模言語モデル「Qianwen（通義千問）」を分散型ブロックチェーンインフラに統合した。トークンゲートアクセスにより、初の商用オンチェーンAIアプリケーションの一つを実現する。AIとブロックチェーン技術の融合が新たな段階に入った。",
+      "url": "https://coinspectator.com/cryptonews/2026/04/21/0g-and-alibaba-plug-qianwen-llm-straight-into-onchain-ai-agents/",
+      "collectedAt": "2026-04-21T23:35:00+09:00"
+    },
+    {
+      "title": "Vercelのデータ流出、原因はサポート終了のAIツール「Context.ai」",
+      "summary": "Next.js開発元のVercelがセキュリティインシデントを公表。従業員が使用していたサードパーティAIツール「Context.ai」のOAuth認証情報が侵害され、Google Workspaceアカウントを経由して一部の顧客環境変数にアクセスされた。AIツールのサプライチェーンリスクが改めて浮き彫りとなった。",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/21/news071.html",
+      "collectedAt": "2026-04-21T23:35:00+09:00"
+    }
+  ]
+}

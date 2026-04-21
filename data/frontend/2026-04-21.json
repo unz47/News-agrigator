@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-21",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Vercel侵害：OAuthサプライチェーン攻撃がプラットフォーム環境変数のリスクを露呈",
+      "summary": "トレンドマイクロがVercelセキュリティインシデントの技術分析を公開。OAuthサプライチェーンにおける信頼関係が従来の境界防御を回避するラテラルムーブメントの経路を生み出すことを指摘した。Vercelの環境変数のうち「sensitive」設定されていないものが暗号化されず読み取り可能な状態だったことが判明している。",
+      "url": "https://www.trendmicro.com/ja_jp/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "collectedAt": "2026-04-21T23:35:00+09:00"
+    },
+    {
+      "title": "Vercelの内部システムへ不正アクセス、Next.jsへのサプライチェーン型サイバー攻撃リスクも浮上",
+      "summary": "クラウドプラットフォームVercelの内部システムへの不正アクセスが確認され、Next.jsフレームワークへのサプライチェーン型攻撃リスクも浮上している。ShinyHuntersと名乗る攻撃者がBreachForumsに内部データベースやAPIキーの販売を投稿し、約200万米ドルでの売却を試みた。",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/vercel-internal-system-breach-nextjs-supply-chain-risk/",
+      "collectedAt": "2026-04-21T23:35:00+09:00"
+    },
+    {
+      "title": "Vercel AIツール侵害により顧客の認証情報が流出、環境変数のローテーションを推奨",
+      "summary": "Vercelが4月19日に特定した内部システムへの不正アクセスにより、一部顧客のクレデンシャルが侵害された。環境変数に含まれるAPIキー、データベース認証情報、署名キーで「sensitive」に設定されていないものは、早急にローテーションすることが推奨されている。",
+      "url": "https://biggo.jp/news/202604210054_Vercel_Breach_Exposes_Credentials_via_AI_Tool",
+      "collectedAt": "2026-04-21T23:35:00+09:00"
+    }
+  ]
+}
