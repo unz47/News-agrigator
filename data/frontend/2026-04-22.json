@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-22",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7.0 Beta発表、GoベースコンパイラでTypeScript 6.0の約10倍の高速化を実現",
+      "summary": "MicrosoftがTypeScript 7.0 Betaを発表した。コンパイラをTypeScriptからGoに完全移植し、ネイティブコード速度と共有メモリ並列処理により約10倍の高速化を実現。型チェックロジックは6.0と構造的に同一で互換性を維持しつつ、--buildersフラグで複数プロジェクトの同時ビルドにも対応する。",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/",
+      "collectedAt": "2026-04-22T12:00:00+09:00"
+    },
+    {
+      "title": "GitHub Copilot Pro新規登録を一時停止、エージェント型AIのコスト増大でOpusモデルも削除",
+      "summary": "GitHubがCopilot Pro/Pro+/Studentの新規サインアップを一時停止した。エージェント型ワークフローの急増でコンピュート需要が爆発的に増加し、週次運用コストが年初からほぼ倍増したことが原因。ProプランからはOpusモデルが削除され、開発者のAIツール選定に大きな影響を与えている。",
+      "url": "https://biggo.jp/news/202604220330_GitHub-Copilot-halts-new-pro-subscriptions-removes-top-AI-model",
+      "collectedAt": "2026-04-22T12:00:00+09:00"
+    },
+    {
+      "title": "Node.js 26リリース、年次リリースモデル移行前の最後のメジャーバージョン",
+      "summary": "Node.js 26が4月22日にリリースされた。従来の年2回リリースから年1回へ移行する新スケジュール適用前の最後のバージョンとなる。10月にLTSへ移行予定で、次のNode.js 27からは全リリースがLTS版となる新モデルが適用される。",
+      "url": "https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule",
+      "collectedAt": "2026-04-22T12:00:00+09:00"
+    }
+  ]
+}
