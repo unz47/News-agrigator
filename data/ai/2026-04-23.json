@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-23",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAIがGPT-5.5「Spud」をリリース、ChatGPTとCodexに搭載",
+      "summary": "OpenAIが最新モデル「GPT-5.5」（コードネーム「Spud」）をリリースした。コーディング、コンピュータ操作、オフィスワークで大幅な性能向上を実現し、複数ステップのワークフローをより自律的に処理できる。Plus・Pro・Business・Enterpriseユーザー向けに提供開始された。",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "collectedAt": "2026-04-23T09:00:00+09:00"
+    },
+    {
+      "title": "AlibabaがQwen3.6-27Bをオープンソース公開、27Bで397B MoEモデル超えの性能",
+      "summary": "AlibabaのQwenチームが27Bパラメータの高密度モデル「Qwen3.6-27B」をApache 2.0ライセンスで公開した。SWE-bench Verifiedで77.2%を達成し、自社の397B MoEモデルを上回る性能を記録。262Kトークンのコンテキストウィンドウを持ち、100万トークンまで拡張可能。",
+      "url": "https://gigazine.net/gsc_news/en/20260423-qwen-3-6-27b/",
+      "collectedAt": "2026-04-23T09:00:00+09:00"
+    },
+    {
+      "title": "国内AIエージェント動向まとめ（2026年4月23日号）",
+      "summary": "国内のAIエージェント市場の最新動向をまとめた定期レポート。LINEヤフーの新AIブランド「Agent i」始動やAmazonによるAnthropicへの追加出資など、国内外のAIエージェント関連の主要ニュースを網羅的に紹介している。",
+      "url": "https://note.com/yasuhitoo/n/nfc5476ff07be",
+      "collectedAt": "2026-04-23T09:00:00+09:00"
+    },
+    {
+      "title": "生成AIウィークリー：画像生成の実用化、デザインAIの台頭、リサーチエージェントの本格到来",
+      "summary": "4月17日〜23日の生成AI分野の週間まとめ。画像生成AIが実務をサポートする実用的なツールへ進化し、デザインAIの製品化が加速している。より強力なリサーチエージェントの登場により、AIの活用領域が大幅に拡大している。",
+      "url": "https://blog.greeden.me/en/2026/04/23/april-17-april-23-2026-weekly-generative-ai-news-roundup-the-practical-rise-of-image-thinking-the-emergence-of-design-ai-and-the-full-scale-arrival-of-research-agents/",
+      "collectedAt": "2026-04-23T09:00:00+09:00"
+    }
+  ]
+}

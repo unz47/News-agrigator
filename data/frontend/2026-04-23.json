@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-23",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "GPT-5.5搭載のCodexがフロントエンド開発を大幅強化、アプリ内ブラウザでUI修正が可能に",
+      "summary": "OpenAIが4月23日にリリースしたGPT-5.5がCodexに搭載され、フロントエンド開発で前モデルo3を70%の勝率で上回る性能を発揮する。アプリ内ブラウザでUIをリアルタイムプレビューし、画面上の要素をクリックしてフィードバックすることでコードが自動修正される機能が追加された。",
+      "url": "https://9to5mac.com/2026/04/23/openai-upgrades-chatgpt-and-codex-with-gpt-5-5-a-new-class-of-intelligence-for-real-work/",
+      "collectedAt": "2026-04-23T09:00:00+09:00"
+    },
+    {
+      "title": "Qwen3.6-27B登場、20GB級GPUで動くローカルコーディングLLMの実力を検証",
+      "summary": "Alibabaが公開した27Bパラメータの高密度モデル「Qwen3.6-27B」を、ローカルLLMとしてコーディング支援に活用する方法を検証した記事。20GB級GPUで動作可能で、SWE-bench Verifiedで77.2%を達成し、開発者のローカル環境でのコード支援ツールとしての可能性を示した。",
+      "url": "https://warokai.com/2026/04/23/qwen3-6-27b-local-llm-review/",
+      "collectedAt": "2026-04-23T09:00:00+09:00"
+    },
+    {
+      "title": "Blueskyが画像サイズ上限を4000×4000ピクセルに拡大、Webプラットフォームの機能を拡充",
+      "summary": "分散型SNS「Bluesky」がバージョン1.121で画像解像度の上限を4000×4000ピクセルに拡大した。最大ファイルサイズは2MBで、高解像度デバイスでの表示品質が向上する。ATプロトコル上に構築されたオープンなWebプラットフォームとして着実に進化を続けている。",
+      "url": "https://gigazine.net/news/20260423-bluesky-4000-resolution-limit/",
+      "collectedAt": "2026-04-23T09:00:00+09:00"
+    }
+  ]
+}
