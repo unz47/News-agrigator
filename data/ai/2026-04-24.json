@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-24",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "デジタル庁、政府AI「源内」をオープンソースとして公開 商用利用もOK",
+      "summary": "デジタル庁は4月24日、政府の生成AI利用環境「源内」のWebインターフェースとAIアプリ開発テンプレートをGitHubでオープンソース公開した。行政実務用RAG（AWS）、LLMセルフデプロイ（Azure）、法制度AIアプリ（Google Cloud）の実装が含まれ、商用利用可能なライセンスで民間との共創を目指す。",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news103.html",
+      "collectedAt": "2026-04-24T09:00:00+09:00"
+    },
+    {
+      "title": "Google Cloud Next 26発表まとめ：第8世代TPU・Gemini Enterprise Agent Platform",
+      "summary": "Google Cloud Next '26の発表まとめ記事。トレーニング専用「TPU 8t」と推論専用「TPU 8i」の第8世代TPU 2種を発表し、前世代比最大3倍高速なAIモデルトレーニングを実現。Gemini Enterprise Agent Platformにより、企業が自律型AIエージェントを本格運用するための統合基盤を提供する。",
+      "url": "https://www.gamebusiness.jp/article/2026/04/24/26767.html",
+      "collectedAt": "2026-04-24T09:00:00+09:00"
+    },
+    {
+      "title": "働き方×AIニュース：AIエージェント統合管理ツールやClaude新モデルの自律セキュリティ検査",
+      "summary": "4月24日のAI関連ニュースまとめ。新興企業BANDがAIエージェント専用の統合管理「ユニバーサル・オーケストレーター」を発表。Anthropicの新モデル「Claude Mythos Preview」はソフトウェア脆弱性を自律的に発見し攻撃コードまで作成可能。NVIDIAのKaggle事例ではGPT-5.4 Pro、Gemini 3.1 Pro、Claude Opus 4.6の3エージェントが60万行超のコードで1位を獲得した。",
+      "url": "https://journal.omoshigo.link/trend/workai/20260424-19945/",
+      "collectedAt": "2026-04-24T09:00:00+09:00"
+    }
+  ]
+}

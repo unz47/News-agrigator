@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-24",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7.0 Beta公開：Goベース新コンパイラで最大10倍の高速化を実現",
+      "summary": "MicrosoftがTypeScript 7.0 Betaを公開し、コンパイラをGoへ完全移行した初のリリースとなった。VS Codeの150万行のコードベースで型チェックが77秒から7.5秒に短縮され、メモリ使用量も約3分の1に削減。npmから@typescript/native-preview@betaでインストールでき、tsgoコマンドで利用可能。",
+      "url": "https://codezine.jp/news/detail/24036",
+      "collectedAt": "2026-04-24T09:00:00+09:00"
+    },
+    {
+      "title": "Vercelセキュリティ侵害：AIツール経由のOAuthサプライチェーン攻撃の全容と対策",
+      "summary": "Vercelの内部システムがサードパーティAIツール「Context.ai」経由のOAuthサプライチェーン攻撃で侵害された。攻撃者はContext.ai社員のマルウェア感染を起点にVercel従業員のGoogle Workspaceアカウントを乗っ取り、一部顧客の非センシティブ環境変数にアクセス。Next.jsユーザーを含む全Vercel利用者に環境変数のローテーションが推奨されている。",
+      "url": "https://www.trendmicro.com/ja_jp/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "collectedAt": "2026-04-24T09:00:00+09:00"
+    },
+    {
+      "title": "Vercelセキュリティインシデント実践対応：フロントエンド開発者が取るべき技術項目",
+      "summary": "Vercel 2026年4月セキュリティインシデントに対してフロントエンド開発者が実施すべき技術的対応をまとめた解説記事。データベース接続文字列、APIキー、JWTシークレットなど非センシティブ設定の環境変数を優先的にローテーションし、再デプロイで反映させる必要がある。OAuth連携のセキュリティレビュー確立も推奨されている。",
+      "url": "https://zenn.dev/awesome_kou/articles/vercel-security-incident-response",
+      "collectedAt": "2026-04-24T09:00:00+09:00"
+    }
+  ]
+}
