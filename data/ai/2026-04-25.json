@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-25",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、最新AIモデル「GPT-5.5」を公開 エージェント型AIとして大幅進化",
+      "summary": "OpenAIは最新AIモデル「GPT-5.5」の提供を開始した。コード生成・デバッグ、オンラインリサーチ、データ分析など複雑な自律型タスクを、ユーザーの継続的な指示なしで完遂するエージェンティック能力を備えている。ChatGPTおよびCodexのPlus・Pro・Business・Enterpriseユーザーに提供されている。",
+      "url": "https://gihyo.jp/article/2026/04/gpt-5-5",
+      "collectedAt": "2026-04-25T09:00:00+09:00"
+    },
+    {
+      "title": "中国DeepSeek、最新AIモデル「V4」を発表 100万トークン対応でフロンティアモデルに迫る性能",
+      "summary": "中国のAI企業DeepSeekが最新AIモデル「V4」の提供を開始した。V4-Pro（1.6Tパラメータ）とV4-Flash（284Bパラメータ）の2モデルを展開し、いずれも100万トークンのコンテキスト長をサポート。中国製半導体を使用しながらフロンティアモデルに匹敵する性能を実現し、Claude Opus 4.7やGPT-5.5を大幅に下回る価格設定となっている。",
+      "url": "https://www.nikkei.com/article/DGXZQOGM245SF0U6A420C2000000/",
+      "collectedAt": "2026-04-25T09:00:00+09:00"
+    },
+    {
+      "title": "ソフトウェアリリース未経験者がAnthropic主催Opus 4.6ハッカソンで優勝、AI製品に求められるものとは",
+      "summary": "Anthropic主催の「Built with Opus 4.6」ハッカソンで、それまでソフトウェアをリリースした経験がなかった参加者が優勝した。生成AIを活用することで開発経験の壁を越えられることを示す事例として注目されており、AI製品に求められる要素についても考察されている。",
+      "url": "https://gigazine.net/news/20260425-anthropic-hackathon/",
+      "collectedAt": "2026-04-25T09:00:00+09:00"
+    }
+  ]
+}
