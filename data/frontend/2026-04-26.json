@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-26",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7.0ベータ版公開、Go言語への移行で10倍の高速化を実現",
+      "summary": "Microsoftが4月21日にTypeScript 7.0ベータ版を公開した。コンパイラがGo言語に完全移行し、コンパイル速度が平均10倍に向上。新コマンド「tsgo」によるマルチコア並列型チェックが可能になり、大規模プロジェクトの開発体験が大幅に改善される。正式リリースは2026年6〜7月の予定。",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/",
+      "collectedAt": "2026-04-26T09:00:00+09:00"
+    },
+    {
+      "title": "GitHub Copilot個人向けプランの新規登録を一時停止、エージェント型需要急増で制限強化",
+      "summary": "GitHubが4月21日にCopilot Pro/Pro+/Studentの新規サブスクリプション受付を一時停止した。エージェント型ワークフローの普及により計算需要が急増したことが原因。ProプランからはOpusモデルが除外され利用制限も強化される。既存ユーザーは引き続き利用可能で、Freeプランの新規登録は継続。",
+      "url": "https://github.blog/jp/2026-04-21-changes-to-github-copilot-individual-plans/",
+      "collectedAt": "2026-04-26T09:00:00+09:00"
+    },
+    {
+      "title": "VercelでOAuthサプライチェーン攻撃が発覚、AIツール経由で環境変数に不正アクセス",
+      "summary": "Vercelが4月19日にセキュリティインシデントを公表した。サードパーティ製AIツール「Context.ai」のOAuth認証情報が侵害され、攻撃者が社員のGoogle Workspaceアカウント経由で一部の環境変数にアクセス。sensitiveフラグ付き変数は暗号化されており安全だが、AIツール連携のリスク管理の重要性が浮き彫りになった。",
+      "url": "https://xenospectrum.com/vercel-security-incident-ai-tool-environment-variables/",
+      "collectedAt": "2026-04-26T09:00:00+09:00"
+    }
+  ]
+}

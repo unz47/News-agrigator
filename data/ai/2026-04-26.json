@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-26",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "GoogleがAnthropicに最大400億ドル（約6.3兆円）の巨額投資を発表",
+      "summary": "Googleを傘下に持つAlphabetがAIスタートアップAnthropicに対し最大400億ドルの投資計画を発表した。まず100億ドルを現金で投じ、評価額は3500億ドルで算定。Anthropicは2027年以降にGoogle Cloudから5GW規模の演算能力供給を受け、年間売上は300億ドルを突破する勢いで急成長している。",
+      "url": "https://gigazine.net/news/20260426-google-invest-up-to-40-billion-anthropic/",
+      "collectedAt": "2026-04-26T09:00:00+09:00"
+    },
+    {
+      "title": "OpenAI動画生成AI「Sora」が本日4月26日でWebアプリのサービスを終了",
+      "summary": "OpenAIの動画生成AI「Sora」のWebアプリ体験が4月26日をもってサービスを終了した。1日あたり約15億円の計算コストに対し収益が大幅に不足しビジネスモデルが破綻。日本アニメの著作権問題やDisney社との10億ドル提携崩壊も影響した。APIは9月24日まで利用可能。",
+      "url": "https://kantanstart.com/entry/sora-end-date-20260426",
+      "collectedAt": "2026-04-26T09:00:00+09:00"
+    },
+    {
+      "title": "OpenAIが最新モデル「GPT-5.5」を発表、エージェント型AIとして大幅進化",
+      "summary": "OpenAIが4月24日にGPT-5.5およびGPT-5.5 Proをリリースした。エージェント型コーディングや自律的なタスク完遂能力が大幅に向上し、コードの作成・デバッグからデータ分析、ドキュメント作成まで複数ツールを横断して作業を完了できる。GPT-5.4と同等のレイテンシでより効率的に動作する。",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "collectedAt": "2026-04-26T09:00:00+09:00"
+    }
+  ]
+}
