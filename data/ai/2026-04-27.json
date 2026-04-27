@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-27",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Amazon、Anthropicに最大250億ドルの追加出資を発表し提携を大幅拡大",
+      "summary": "AmazonはAI大手Anthropicに50億ドル（約7,500億円）の追加出資を発表し、将来的に最大200億ドルの追加投資も計画。累計投資額は最大330億ドル（約5兆円）規模となる。AnthropicはAWSのAIチップ「Trainium」を優先活用し、今後10年で1,000億ドル超をAWSインフラに投じることを約束した。",
+      "url": "https://sustainablejapan.jp/2026/04/27/amazon-anthropic/124601",
+      "collectedAt": "2026-04-27T09:00:00+09:00"
+    },
+    {
+      "title": "AI業界に9兆円規模の投資が集中、Anthropicは16ヶ月で売上30倍成長",
+      "summary": "Google・AmazonからAnthropicへの計約650億ドル（約9兆7,500億円）規模の投資コミットが明らかになった。Anthropicは年率換算で5〜6倍の成長を遂げ、16ヶ月で売上30倍を達成。半年後のIPOも視野に入っており、AI業界への巨額資本流入が加速している。",
+      "url": "https://www.shindanshi-shinblog.com/entry/2026/04/27/070000",
+      "collectedAt": "2026-04-27T09:00:00+09:00"
+    },
+    {
+      "title": "OpenAI、最新AIモデル「GPT-5.5」を発表しエージ���ンティックAIが大幅進化",
+      "summary": "OpenAIは4月23日に最新モデル「GPT-5.5」を発表した。100万トークンのコンテキストウィンドウを搭載し、コード作成・調査・分析などのマルチステップ作業をユーザーの指示なしで完遂する自律型エージェント能力を大幅強化。APIは入力100万トークンあたり5ドル、出力30ドルで提供開始された。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2104275.html",
+      "collectedAt": "2026-04-27T09:00:00+09:00"
+    },
+    {
+      "title": "国��AIエージェント実装が加���、中小企業から大手SIerまで導入拡大",
+      "summary": "国内でのAIエージェント実装が本格化している。コミクスはGASとGemini APIを活用し建設・住宅業界の図面転記や書類作成を低コストで自動化。大学でのAIリテラシー教育や大手SIerによる業界特化サービスも広がり、AIエージェントの活用が実務レベルで急速に浸透している。",
+      "url": "https://note.com/yasuhitoo/n/ne76acc7127c2",
+      "collectedAt": "2026-04-27T09:00:00+09:00"
+    }
+  ]
+}

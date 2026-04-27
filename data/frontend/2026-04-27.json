@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-27",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7.0ベータ版公開、Go言語への移植でコンパイル速度10倍に",
+      "summary": "Microsoftは4月21日、TypeScript 7.0 Betaを公開した。コンパイラをGo言語に完全移植し、従来比最大10倍の高���化を実現。新コマンド「tsgo」で利用可能で、型チェックやビルダーの並列実行数も調整できる。過去10年のテストスイートで互換性を検証済み。",
+      "url": "https://www.publickey1.jp/blog/26/typescript_70typescriptgo10.html",
+      "collectedAt": "2026-04-27T09:00:00+09:00"
+    },
+    {
+      "title": "Node.jsがリリースサイクルを10年ぶりに刷新、年1回リリースで全バージョンLTS化",
+      "summary": "Node.jsプロジェクトは従来の年2回リリースから年1回（4月）に変更し、全リリースをLTS版とする方針を発表した。西暦ベースのメジャーバージョンとAlphaチャネルの新設も導入。大半のユーザーがLTS版のみ利用していた実態を反映した10年ぶりの大改革となる。",
+      "url": "https://www.publickey1.jp/blog/26/nodejslts.html",
+      "collectedAt": "2026-04-27T09:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16.2リリース、Turbopackの200以上の改善でdev起動87%高速化",
+      "summary": "Vercelは3月にNext.js 16.2をリリースした。Turbopackの200以上のバグ修正と改善により、devサーバー起動が16.1比で約87%高速化。Server Fast Refreshでサーバーサイドのホットリロードも67-100%高速化され、Server Componentsのペイロードデシリアライゼーションも最大350%高速化された。",
+      "url": "https://nextjs.org/blog/next-16-2",
+      "collectedAt": "2026-04-27T09:00:00+09:00"
+    },
+    {
+      "title": "Angular 21.2リリースとReact Foundation設立、フレームワーク競争が新局面へ",
+      "summary": "Angular 21.2.10が4月22日にリリースされSignals採用でバンドルサイズ約18%削減を実現。一方、2月にはReact FoundationがLinux Foundation傘下で設立され、Amazon・Meta・Microsoftなど8社が参画。2026年のフレームワーク競争はサーバーファースト・コンパイラ最適化・AI統合に収斂している。",
+      "url": "https://www.nucamp.co/blog/javascript-framework-trends-in-2026-what-s-new-in-react-next.js-vue-angular-and-svelte",
+      "collectedAt": "2026-04-27T09:00:00+09:00"
+    }
+  ]
+}
