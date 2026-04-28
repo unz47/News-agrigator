@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-28",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "ソフトバンクとMODE、生成AIとIoT活用で建設・製造現場の意思決定高度化へ資本・業務提携",
+      "summary": "ソフトバンクとMODE, Inc.は28日、生成AIとIoTの活用による建設や製造現場のデータに基づく意思決定の高度化を目的とした資本・業務提携契約を締結したと発表した。現場データをリアルタイムに分析し、AIが最適な判断を支援する仕組みの構築を目指す。",
+      "url": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260428_01/",
+      "collectedAt": "2026-04-28T09:00:00+09:00"
+    },
+    {
+      "title": "OpenAI、AIエージェント特化のスマートフォンを開発中か ミン＝チー・クオ氏が報告",
+      "summary": "サプライチェーンアナリストのミン＝チー・クオ氏の報告によると、OpenAIがAIエージェントを中核とした独自スマートフォンの開発に着手しているという。プロセッサ開発パートナーとしてMediaTekとQualcommを選定し、2028年の量産開始を目標としている。従来のアプリに代わりAIエージェントが主要インターフェースとなる構想だ。",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/28/news053.html",
+      "collectedAt": "2026-04-28T09:00:00+09:00"
+    },
+    {
+      "title": "Xiaomi、Claude Opus 4.6に迫るAIモデル「MiMo-V2.5-Pro」をオープンモデルとして公開",
+      "summary": "Xiaomiは、1.02兆パラメータのAIモデル「MiMo-V2.5-Pro」をMITライセンスでオープンモデルとして公開した。SWE-bench Proで57.2、τ3-Benchで72.9を達成し、Claude Opus 4.6やGPT-5.4に匹敵するベンチマーク性能を示している。開発者がより低コストでAIエージェントを構築できる選択肢として注目される。",
+      "url": "https://gigazine.net/news/20260428-xiaomi-mimo-v2-5-pro/",
+      "collectedAt": "2026-04-28T09:00:00+09:00"
+    },
+    {
+      "title": "OpenAI、Codexエージェント自動管理ツール「Symphony」を開発 プルリク件数5倍の事例も",
+      "summary": "OpenAIは、コーディングエージェント「Codex」を大規模に自動管理するオーケストレーションツール「Symphony」を発表した。JiraやLinearなどの作業管理ツールと連携し、タスクごとに専用エージェントを割り当てて自律的にコード変更を進める。社内チームではマージされたPR数が3週間で5倍に増加した事例もあるという。",
+      "url": "https://gigazine.net/news/20260428-openai-symphony/",
+      "collectedAt": "2026-04-28T09:00:00+09:00"
+    }
+  ]
+}

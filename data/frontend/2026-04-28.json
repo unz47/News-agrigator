@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-28",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "GitHub Copilot、6月1日より従量課金制へ移行 トークン消費量ベースの「AI Credits」方式に",
+      "summary": "GitHubは27日（現地時間）、AIコーディング支援ツール「GitHub Copilot」の全プランを6月1日から従量課金制に切り替えると発表した。従来の「プレミアムリクエストユニット」を廃止し、トークン消費量に応じた「GitHub AI Credits」方式に移行する。コード補完やNext Edit Suggestionsはクレジットを消費せず引き続き利用可能。",
+      "url": "https://github.blog/jp/2026-04-28-github-copilot-is-moving-to-usage-based-billing/",
+      "collectedAt": "2026-04-28T09:00:00+09:00"
+    },
+    {
+      "title": "「GitHub Copilot」従量課金で定額使い放題時代が終焉か 開発者への影響を分析",
+      "summary": "GitHub Copilotが従量課金制へ移行することで、TypeScriptやReactなど大規模プロジェクトでの利用コストが変動する可能性がある。Proプランは月10ドル分、Pro+は月39ドル分のAIクレジットが付与される。5月初旬には請求プレビュー機能が提供され、開発者は移行前にコスト感を把握できる。",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/28/news051.html",
+      "collectedAt": "2026-04-28T09:00:00+09:00"
+    },
+    {
+      "title": "GitHub Copilotが従量課金制への移行を発表、処理内容に応じて「AI Credits」を消費する形式に",
+      "summary": "GitHub Copilotの従量課金制移行により、AIエージェント機能やチャットなどの高度な機能にはクレジットが必要となる。基本的なコード補完は無料で継続されるため、日常的なフロントエンド開発への影響は限定的だが、AIを活用したリファクタリングやテスト生成など高度な機能の利用頻度が高い開発者にはコスト増の可能性がある。",
+      "url": "https://gigazine.net/news/20260428-github-copilot-usage-based/",
+      "collectedAt": "2026-04-28T09:00:00+09:00"
+    }
+  ]
+}
