@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-29",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "GitHub Copilot Code Review、6月1日からGitHub Actions minutesを消費する仕様に変更",
+      "summary": "GitHubが、GitHub Copilot Code Reviewの利用が6月1日からGitHub Actions minutesを消費するようになると発表した。従来は無制限だったAIコードレビュー機能にリソース制限が適用され、CI/CDパイプラインの運用コストに影響を与える可能性がある。",
+      "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+      "collectedAt": "2026-04-29T09:00:00+09:00"
+    },
+    {
+      "title": "Vercel、OAuthサプライチェーン攻撃によるセキュリティインシデントへの対応を継続",
+      "summary": "Vercelが4月19日に公表したセキュリティインシデントへの対応が続いている。サードパーティAIツール「Context.ai」のOAuth認証侵害を起点とした攻撃で、機密マークのない環境変数が漏洩した可能性があり、Next.jsやVercelを利用するフロントエンド開発者にシークレットのローテーションが推奨されている。",
+      "url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
+      "collectedAt": "2026-04-29T09:00:00+09:00"
+    },
+    {
+      "title": "JavaScript Weekly 783号発行、フロントエンドエコシステムの最新動向まとめ",
+      "summary": "JavaScript Weekly 783号が4月28日に発行され、pnpm 11.0のリリースやGitHub Copilotの従量課金制移行など、フロントエンド開発に影響する最新動向が取り上げられた。pnpm 11ではSQLiteベースのストアインデックスによるインストール高速化やネイティブパッケージ公開機能が追加された。",
+      "url": "https://javascriptweekly.com/latest",
+      "collectedAt": "2026-04-29T09:00:00+09:00"
+    }
+  ]
+}

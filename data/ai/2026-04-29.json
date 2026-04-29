@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-29",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAIがAWSと1,000億ドル規模の戦略的提携を発表",
+      "summary": "OpenAIとMicrosoftの独占契約解消を受け、OpenAIとAWSが1,000億ドル規模の複数年にわたる戦略的提携を発表した。Amazon Bedrock上でOpenAIモデルを直接提供する計画で、企業ユーザーは特定のクラウドに縛られずにOpenAIの技術を利用できるようになる。",
+      "url": "https://note.com/ai_intel_report/n/nba73ec3def61",
+      "collectedAt": "2026-04-29T09:00:00+09:00"
+    },
+    {
+      "title": "GitHub Copilot、6月1日から全プラン従量課金制へ移行",
+      "summary": "GitHubがAIコーディング支援ツール「GitHub Copilot」の全プランを6月1日から従量課金制に移行すると発表した。月額料金は据え置きだがトークン消費量ベースの「AIクレジット」方式に変更され、エージェント型コーディングの普及に伴う定額制の限界が背景にある。",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/28/news051.html",
+      "collectedAt": "2026-04-29T09:00:00+09:00"
+    },
+    {
+      "title": "IBM、AIファースト開発パートナー「IBM Bob」を一般提供開始",
+      "summary": "IBMがAIファーストの開発パートナー「IBM Bob」の一般提供を開始した。計画からコーディング、テスト、デプロイ、モダナイゼーションまで開発ライフサイクル全体をカバーし、エンタープライズ向けのガバナンスとセキュリティ管理機能を備えている。",
+      "url": "https://newsroom.ibm.com/2026-04-28-introducing-ibm-bob-ai-development-partner-that-takes-enterprises-from-ai-assisted-coding-to-production-ready-software",
+      "collectedAt": "2026-04-29T09:00:00+09:00"
+    },
+    {
+      "title": "JALとGMO、羽田空港でヒューマノイドロボット実証実験を国内初実施へ",
+      "summary": "JALグランドサービスとGMO AI&ロボティクス商事が、羽田空港でヒューマノイドロボット活用の実証実験を国内初で開始すると発表した。人型ロボット「Unitree G1」「UBTECH Walker E」を使い、手荷物の搭降載や機内清掃などの省人化を2028年まで検証し、2029年以降の実用化を目指す。",
+      "url": "https://news.yahoo.co.jp/articles/be4e0a50fbfead239a96cc3aad6176a4647e9de2",
+      "collectedAt": "2026-04-29T09:00:00+09:00"
+    }
+  ]
+}

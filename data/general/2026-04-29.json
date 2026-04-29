@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-29",
+  "category": "general",
+  "articles": [
+    {
+      "title": "イーロン・マスク対OpenAI裁判、証言3日目で法廷攻防が激化",
+      "summary": "OpenAIの創設をめぐるイーロン・マスク対OpenAI裁判の3日目がカリフォルニア州オークランドの連邦裁判所で行われた。マスクは反対尋問で「質問は私を騙すために設計されている」と反発し、OpenAIが非営利の使命から逸脱して営利化を進めたかどうかが最大の争点となっている。",
+      "url": "https://www.cnbc.com/2026/04/29/musk-altman-live-updates-day-3-open-ai-trial.html",
+      "collectedAt": "2026-04-29T09:00:00+09:00"
+    },
+    {
+      "title": "OpenAIとMicrosoftの独占契約が終了、マルチクラウド時代へ",
+      "summary": "OpenAIとMicrosoftが2019年以来続いていた独占契約を正式に終了し、OpenAIはAWSやGoogle Cloudなど任意のクラウドで製品を提供可能となった。MicrosoftのIPライセンスは2032年まで維持されるが非独占的なものに変更され、AGI条項も撤廃された。",
+      "url": "https://biggo.jp/news/202604290027_OpenAI_Microsoft_End_Cloud_Exclusivity_Deal",
+      "collectedAt": "2026-04-29T09:00:00+09:00"
+    },
+    {
+      "title": "SusHi Tech Tokyo 2026、アジア最大級のイノベーションカンファレンスが東京で開催",
+      "summary": "東京ビッグサイトで4月27日〜29日にアジア最大級のイノベーションカンファレンス「SusHi Tech Tokyo 2026」が開催中。約750社のスタートアップが出展し約6万人の来場を見込む過去最大規模のイベントで、最終日の29日にはスタートアップピッチの決勝戦も行われる。",
+      "url": "https://www.businessinsider.jp/article/2604-sushi-tech-tokyo-2026/",
+      "collectedAt": "2026-04-29T09:00:00+09:00"
+    }
+  ]
+}
