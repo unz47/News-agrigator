@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-30",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "AI投資で異次元競争、テック大手4社の設備投資が計116兆円規模に",
+      "summary": "日本経済新聞は、Amazon・Microsoft・Alphabet・Metaの大手4社が2026年のデータセンター等の設備投資を計7,250億ドル（約116兆円）に上方修正し、前年比76%増となる計画を報じた。Metaは売上高の約6割をAI投資に充てる見通しで、各社ともAIインフラ増強への先行投資を加速させている。",
+      "url": "https://www.nikkei.com/article/DGXZQOGN2809V0Y6A420C2000000/",
+      "collectedAt": "2026-04-30T09:00:00+09:00"
+    },
+    {
+      "title": "Mistral AI、Claude Sonnet 4.5超えのオープンモデル「Mistral Medium 3.5」を公開",
+      "summary": "フランスのMistral AIは、128億パラメータのAIモデル「Mistral Medium 3.5」をオープンモデルとしてリリースした。多くのベンチマークでClaude Sonnet 4.5を上回る性能を達成し、4基のGPUで動作可能。数十言語に対応し画像入力もサポートする。コーディングエージェント「Mistral Vibe」もクラウド対応となった。",
+      "url": "https://gigazine.net/news/20260430-mistral-medium-3-5",
+      "collectedAt": "2026-04-30T09:00:00+09:00"
+    },
+    {
+      "title": "NVIDIAが視覚・音声・言語統合のオープンモデル「Nemotron 3 Nano Omni」を発表",
+      "summary": "NVIDIAは、視覚・音声・動画・テキストを単一の推論ループで処理できるオムニモーダルモデル「Nemotron 3 Nano Omni」を発表した。総パラメータ300億・アクティブパラメータ30億のMoEアーキテクチャを採用し、MambaとTransformerのハイブリッド構成でメモリと計算効率を最大4倍改善。Qwen3 30Bと比較して9倍のスループットを実現する。",
+      "url": "https://gigazine.net/news/20260430-nvidia-ai-nemotron-3-nano-omni/",
+      "collectedAt": "2026-04-30T09:00:00+09:00"
+    },
+    {
+      "title": "Google Gemini、ファイル生成機能を追加しドキュメント・スプレッドシートの直接作成が可能に",
+      "summary": "Googleは、AIアシスタントGeminiにファイル生成機能を追加した。Googleドキュメント、スプレッドシート、スライド、PDF、Word、Excel、CSV、Markdownなど多数の形式でファイルを生成し、ダウンロードやGoogleドライブへのエクスポートが可能になった。また、Geminiの自動車向け展開も発表された。",
+      "url": "https://jetstream.blog/2026/04/30/gemini-file-generation/",
+      "collectedAt": "2026-04-30T09:00:00+09:00"
+    }
+  ]
+}

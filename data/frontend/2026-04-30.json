@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-30",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Adobe Photoshop 27.6リリース、Firefly Image 5搭載でGenerative Fillが大幅強化",
+      "summary": "Adobeは4月30日、Photoshop 27.6をリリースした。新たにFirefly Image 5をGenerative Fillに統合し、テクスチャ・ライティング・エッジ処理がImage 4から大幅に向上。2Dカットアウトを3Dのように回転させる「Rotate Object」機能や、ガラス面の反射を自動除去する「Remove Reflections」機能も追加された。",
+      "url": "https://blog.adobe.com/jp/publish/2026/04/30/cc-design-photoshop-2604update",
+      "collectedAt": "2026-04-30T09:00:00+09:00"
+    },
+    {
+      "title": "Adobe Firefly AIアシスタント パブリックベータ版公開、Creative Cloud横断でAIエージェントが制作支援",
+      "summary": "Adobeは「Firefly AIアシスタント」のパブリックベータ版を公開した。自然言語の指示でPhotoshop・Lightroom・Premiere Pro・Illustratorなど複数アプリを横断し、複雑なワークフローをAIエージェントが自動実行する。Creative Cloud ProまたはFirefly有料プランのユーザーが対象で、専用の生成AIクレジットが毎日無料付与される。",
+      "url": "https://cginterest.com/2026/04/30/adobe%E3%80%81%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96ai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97/",
+      "collectedAt": "2026-04-30T09:00:00+09:00"
+    },
+    {
+      "title": "生成AI導入の10大リスクと対策、フロントエンド開発での実践ガイドが公開",
+      "summary": "AIニュースメディアAINOWは4月30日、生成AI導入における10大リスクと対策をまとめた実践ガイドを公開した。プロンプトインジェクションがOWASPの「LLM Top 10」で最大脅威に位置づけられており、RAGベースのシステムやCopilot型ツールを利用するフロントエンド開発現場でのセキュリティ対策の重要性を解説している。",
+      "url": "https://ainow.ai/2026/04/30/278019/",
+      "collectedAt": "2026-04-30T09:00:00+09:00"
+    }
+  ]
+}
