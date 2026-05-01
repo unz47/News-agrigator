@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-01",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7 Beta、Visual Studio 2026 18.6 Insiders 3でデフォルト有効に",
+      "summary": "MicrosoftはVisual Studio 2026 18.6 Insiders 3で、Go言語に移植されたTypeScript 7 Betaをデフォルトで有効にしたと発表した。TypeScript 7はコンパイル速度が従来比10倍に向上し、Bloomberg・Canva・Figma・Google・Vercelなど複数企業のプレリリーステストでもビルド時間の大幅短縮が報告されている。正式リリースは2026年6〜7月頃の見込み。",
+      "url": "https://devblogs.microsoft.com/visualstudio/typescript-7-beta-now-enabled-by-default-in-visual-studio-2026-18-6-insiders-3/",
+      "collectedAt": "2026-05-01T09:00:00+09:00"
+    },
+    {
+      "title": "Vercel、デプロイ時にlintとtypecheckを自動実行する「Native Deployment Checks」を全チームに提供開始",
+      "summary": "Vercelは、デプロイごとにlintとtypecheckをビルドと並行して自動実行する「Native Deployment Checks」を全チームに提供開始した。package.jsonのスクリプトを自動検出して実行し、チェック失敗時にはVercel Agentが原因を調査して修正案を提案する。プルリクエストの品質ゲートとしてプロダクションデプロイをブロックする設定も可能。",
+      "url": "https://vercel.com/changelog/native-deployment-checks",
+      "collectedAt": "2026-05-01T09:00:00+09:00"
+    },
+    {
+      "title": "Vite 8.0正式リリース、Rustベースの新バンドラ「Rolldown」採用で本番ビルドが10〜30倍高速化",
+      "summary": "Vite開発チームはVite 8.0を正式リリースし、従来のesbuild+Rollupの二重バンドラ体制からRustベースの「Rolldown」に統一した。本番ビルドのパフォーマンスがRollup比で10〜30倍向上し、フルバンドルモード・モジュールレベルの永続キャッシュ・Module Federation対応など、統一バンドラならではの新機能が実現された。",
+      "url": "https://www.publickey1.jp/blog/26/vite_80rustrolldown.html",
+      "collectedAt": "2026-05-01T09:00:00+09:00"
+    }
+  ]
+}
