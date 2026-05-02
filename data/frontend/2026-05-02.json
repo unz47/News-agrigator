@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-02",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Vercel Sandbox、外部Postgres DBへの直接接続に対応 Neon・Supabase・AWS RDS等をサポート",
+      "summary": "Vercelは5月1日、Vercel SandboxがNeon、Supabase、AWS RDS、Prisma Postgresなどのホスト型PostgreSQLデータベースへの直接接続をサポートしたと発表。Sandboxのファイアウォールがpostgresプロトコルのスタートアップシーケンスを検出しTLSアップグレードを待ってからドメインポリシーを適用する仕組みで実現した。",
+      "url": "https://vercel.com/changelog",
+      "collectedAt": "2026-05-02T09:00:00+09:00"
+    },
+    {
+      "title": "State of JS 2025調査結果: TypeScript専用開発者が40%に到達、73%がJSから移行済み",
+      "summary": "2026年2月に公開されたState of JavaScript 2025の調査結果によると、TypeScriptのみで開発する割合が40%（2024年の34%から増加）に達し、プレーンJavaScript専用はわずか6%まで減少。Viteはビルドツール満足度98%を記録し、React利用者は83.6%だが不満率も16%に上る。TypeScript 7のGo移植発表も追い風となった。",
+      "url": "https://www.infoq.com/news/2026/03/state-of-js-survey-2025/",
+      "collectedAt": "2026-05-02T09:00:00+09:00"
+    },
+    {
+      "title": "Deno 2.7リリース: Temporal API対応、Windows ARMサポート、npm overridesをサポート",
+      "summary": "Deno 2.7がリリースされ、JavaScriptの新しい日付/時刻API「Temporal API」への対応、Windows ARM環境のサポート、npm overridesの対応が追加された。2026年時点でNode.js・Deno・Bunの3ランタイム選定が実務レベルで行われるようになり、TypeScriptファーストプロジェクトにはDenoが有力な選択肢として定着しつつある。",
+      "url": "https://www.taolis.net/articles/deno-2-7-vs-bun-1-3-vs-nodejs-24-server-side-js-runtime-selection-criteria-2026",
+      "collectedAt": "2026-05-02T09:00:00+09:00"
+    }
+  ]
+}

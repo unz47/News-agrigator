@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-02",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Alphabet Q1 2026決算、Google Cloud収益63%増 AI設備投資を最大1,900億ドルに上方修正",
+      "summary": "GoogleのAlphabetがQ1 2026決算を発表し、売上高1,099.6億ドル（前年比+22%）、純利益625.8億ドル（+81%）と市場予想を大幅に上回った。Google Cloudは収益63%増の200億ドルに達し、Gemini Enterpriseの有料月間ユーザーも前四半期比40%増。2026年のAI設備投資を1,800〜1,900億ドルに上方修正した。",
+      "url": "https://www.sbbit.jp/article/cont1/185259",
+      "collectedAt": "2026-05-02T09:00:00+09:00"
+    },
+    {
+      "title": "Adobe、Photoshop/LightroomにAIモデル「Firefly Image 5」搭載 画像全体のスタイル変換を実現",
+      "summary": "AdobeはPhotoshop 27.6とLightroomのアップデートをリリースし、新世代AIモデル「Firefly Image 5」を搭載した。自然言語の指示で画像全体の時間帯変更や被写体のポーズ変更が可能になり、Generative Fillの品質も大幅に向上。オブジェクト回転やリフレクション除去など新機能も追加された。",
+      "url": "https://blog.adobe.com/jp/publish/2026/04/30/cc-design-photoshop-2604update",
+      "collectedAt": "2026-05-02T09:00:00+09:00"
+    },
+    {
+      "title": "生成AI主要8サービス料金早見表2026年5月版、GPT-5.5・Claude Opus 4.7・Gemini 3.1比較",
+      "summary": "Business Insider Japanが2026年5月時点の主要生成AIサービス8社の料金体系を比較した。GPT-5.5、Claude Opus 4.7、Gemini 3.1 Proなど最新モデルの月額・従量課金料金や機能差を網羅的にまとめ、GitHub CopilotやCursorの従量課金制への移行トレンドも解説している。",
+      "url": "https://www.businessinsider.jp/article/2605-how-much-did-major-generative-ai-service-fees-become-in-may-2026/",
+      "collectedAt": "2026-05-02T09:00:00+09:00"
+    }
+  ]
+}
