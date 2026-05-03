@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-03",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "【2026年5月第1週】今週のAIニュース：Microsoft-OpenAI契約再構築と米中AI地政学の本格化",
+      "summary": "今週の主要AIニュースとして、4月27日にMicrosoftとOpenAIが独占販売契約を解消しAWS・Google Cloudでも提供可能になったこと、中国がMetaによるAIエージェント企業Manusの20億ドル買収を阻止したこと、テック大手4社のAI設備投資が前年比76%増の約116兆円に達する見通しであることが報じられた。",
+      "url": "https://www.shindanshi-shinblog.com/entry/2026/05/03/070000",
+      "collectedAt": "2026-05-04T08:30:00+09:00"
+    },
+    {
+      "title": "NvidiaのフィジカルAI推進、アジアパートナー企業の株価上昇を牽引",
+      "summary": "Nvidiaとの事業提携やAI製品コラボレーションを発表した韓国LGエレクトロニクス、台湾Nanya Technology、中国企業などアジア各国のパートナー企業の株価が上昇している。NvidiaのフィジカルAI（ロボティクス・自動運転等）への注力が、アジアのサプライチェーン全体に波及効果をもたらしている。",
+      "url": "https://www.japantimes.co.jp/business/2026/05/03/nvidia-ai-asia-rally/",
+      "collectedAt": "2026-05-04T08:30:00+09:00"
+    },
+    {
+      "title": "AI議論から「サステナビリティ」が消えている問題を指摘",
+      "summary": "AI技術の急速な発展と巨額投資が続く中で、環境負荷やエネルギー消費といったサステナビリティの観点がAI業界の議論から抜け落ちている問題を指摘するコメンタリー。データセンターの電力消費増大やAI学習に必要な計算資源の環境コストについて警鐘を鳴らしている。",
+      "url": "https://www.japantimes.co.jp/commentary/2026/05/03/world/sustainability-issues-ai/",
+      "collectedAt": "2026-05-04T08:30:00+09:00"
+    }
+  ]
+}
