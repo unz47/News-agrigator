@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-04",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "米国防総省が8社のAI企業と機密ネットワーク契約を締結、Anthropicはブラックリスト指定で除外",
+      "summary": "米国防総省はOpenAI、Google、Microsoft、Nvidia、AWS、SpaceX、Oracle、Reflectionの8社と機密ネットワーク（IL6/IL7）へのAI展開契約を締結した。Anthropicは戦争でのAI利用に安全性ガードレールを求めたため「サプライチェーンリスク」としてブラックリスト指定され除外された。",
+      "url": "https://www.ghacks.net/2026/05/04/pentagon-signs-ai-deals-with-openai-google-microsoft-nvidia-and-others-cutting-out-anthropic/",
+      "collectedAt": "2026-05-04T23:18:00+00:00"
+    },
+    {
+      "title": "イーロン・マスクが法廷証言で語った「AIは人類最大のツールとなるのか最大の敵となるのか」",
+      "summary": "イーロン・マスクが法廷での証言において、AIが人類にとって最大のツールとなりうる一方で最大の脅威ともなりうると発言した。AI技術の急速な発展に伴うリスクと可能性について、法廷の場で自身の見解を展開した。",
+      "url": "https://japan.news-pravda.com/world/2026/05/04/60953.html",
+      "collectedAt": "2026-05-04T23:18:00+00:00"
+    },
+    {
+      "title": "「愛」のメールが世界を襲った日──生成AIが武装する2026年のサイバー脅威",
+      "summary": "2000年5月4日のILOVEYOUウイルスから26年、現在はフィッシングメールの82.6%がAI生成コンテンツを含む時代に突入している。生成AI技術がサイバー攻撃の武器として悪用される現状と、AI時代のセキュリティ対策の必要性を解説。",
+      "url": "https://innovatopia.jp/cyber-security/cyber-security-news/100282/",
+      "collectedAt": "2026-05-04T23:18:00+00:00"
+    }
+  ]
+}
