@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-05",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Pinecone、AIエージェント向けナレッジエンジン「Nexus」を発表",
+      "summary": "ベクトルデータベース大手のPineconeが、AIエージェント特化のナレッジエンジン「Nexus」を発表した。従来のRAG技術の課題を解決し、コンパイル済みベクトルアーティファクトによりエージェントの推論を高速化する。新たな宣言型クエリ言語「KnowQL」やMarketplace（90以上の本番用ナレッジアプリ）も同時に導入された。",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/05/05/pinecone-providing-compiled-vector-artifacts-to-accelerate-ai-agents/5219380",
+      "collectedAt": "2026-05-05T23:14:00+00:00"
+    },
+    {
+      "title": "医療AI・画像生成AI・教育AIの最新動向まとめ",
+      "summary": "FDAが1300以上のAI医療機器を承認する一方で現場定着に課題が残る。画像生成AIモデルの導入はチャットボット更新の約6.5倍のダウンロード増を記録。また教育現場でのChatGPT効果を主張した有力論文が分析不整合を理由に撤回された。",
+      "url": "https://journal.omoshigo.link/trend/workai/20260505-19970/",
+      "collectedAt": "2026-05-05T23:14:00+00:00"
+    }
+  ]
+}
