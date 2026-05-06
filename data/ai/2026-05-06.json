@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-06",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、ChatGPTの新デフォルトモデル「GPT-5.5 Instant」を発表",
+      "summary": "OpenAIがChatGPTのデフォルトモデルを「GPT-5.3 Instant」から「GPT-5.5 Instant」に置き換えた。新モデルはハルシネーションを52.5%削減し、医療・法律・金融分野での正確性を大幅に向上。AIME 2025数学テストで81.2点を達成し、過去の会話やファイルを参照するパーソナライゼーション機能も搭載された。",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/06/news022.html",
+      "collectedAt": "2026-05-06T09:00:00+09:00"
+    },
+    {
+      "title": "フィジカルAI最新動向：早稲田大発MSACT、双腕ロボット精密操作の成功率を大幅改善",
+      "summary": "早稲田大学・緒方研究室がACTに多段空間注意モジュールを組み込んだ「MSACT」を発表。ALOHA双腕プラットフォームでの全400試行における成功率はMSACTが53.00%でACTの23.25%を大きく上回った。EnergyFlowは拡散ポリシーから報酬信号を抽出し、模倣学習と強化学習の接続を進めた。",
+      "url": "https://note.com/yasuhitoo/n/n58aafebed94e",
+      "collectedAt": "2026-05-06T09:00:00+09:00"
+    },
+    {
+      "title": "米国AI関連企業決算まとめ：AMD・Arista等、AIインフラ需要の堅調さが確認",
+      "summary": "5月5日発表の米国企業決算では、AMD、Arista Networks、Shopify等のAI関連企業が業績を報告した。AIインフラ需要の強さが各社の業績に反映され、データセンター向け半導体やネットワーク機器の需要が引き続き堅調であることが確認された。企業ごとのキャッシュフロー創出力にも注目が集まった。",
+      "url": "https://www.fptrendy.com/2026/05/06/us-earnings-summary-2026-05-05-ai-infrastructure/",
+      "collectedAt": "2026-05-06T09:00:00+09:00"
+    }
+  ]
+}
