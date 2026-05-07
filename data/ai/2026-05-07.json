@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-07",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "EU、AI規制法を修正し性的画像の無断生成を年内に禁止へ",
+      "summary": "EUの主要機関は7日、包括的なAI規制法の修正で大筋合意し、本人の許可なく性的画像を生成するAIサービスを年内に禁止する方針を決定した。各国で同意なく性的画像が生成される被害が社会問題化したことを受け、12月2日から罰則付きの規制が適用される見通し。",
+      "url": "https://www.nikkei.com/article/DGXZQOGR075I60X00C26A5000000/",
+      "collectedAt": "2026-05-07T23:09:18+00:00"
+    },
+    {
+      "title": "Anthropic、金融業界向けAIエージェント10種とMicrosoft 365統合を同時発表",
+      "summary": "Anthropicは金融サービス向けに10種類のAIエージェントテンプレートを公開し、同時にMicrosoft 365のClaudeプラグインも一般公開した。テンプレートはピッチブック作成、KYCスクリーニング、月次決算、財務モデル構築などをカバーし、Excel・PowerPoint・Wordで直接利用可能となっている。",
+      "url": "https://www.ebisuda.net/tech/2026/05/07/anthropicm365ai10excelpowerpointword-anthropic-ships-ten-finance-ai-agents-and-m/",
+      "collectedAt": "2026-05-07T23:09:18+00:00"
+    },
+    {
+      "title": "GitHubトレンドまとめ（2026年5月7日）：AIエージェント時代の「実用化」が加速",
+      "summary": "5月7日のGitHubトレンドでは、AIエージェントの「実用化」加速が顕著に表れた。競争軸がモデル性能から「業務への組み込み」へシフトし、ブラウザ操作やシステム制御を行うエージェントフレームワーク、コスト効率を重視したローカルファーストのアーキテクチャが注目を集めている。",
+      "url": "https://qiita.com/mori790/items/8f3b9dcefdd62a014fe3",
+      "collectedAt": "2026-05-07T23:09:18+00:00"
+    }
+  ]
+}
