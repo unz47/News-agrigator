@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-08",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "ChatGPTがシェア4割を切る 急伸するClaude、安定のGemini――生成AI三極化の兆し",
+      "summary": "Apptopiaの調査によると、米国の生成AIチャットbot市場でChatGPTのシェアが初めて4割を下回った。Claudeが急成長しGeminiも安定的にシェアを伸ばす「三極化」の構図が鮮明になっている。高頻度利用層は全体の8.5%まで拡大している。",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/08/news033.html",
+      "collectedAt": "2026-05-08T23:00:00+09:00"
+    },
+    {
+      "title": "国立国会図書館、「AI動向」に関する調査資料を無料公開中",
+      "summary": "国立国会図書館が「AIを巡る動き」をテーマに関連調査資料をまとめて無料公開した。AIやロボティクス技術の発展概要、ディープフェイク問題、AIの軍事利用、科学研究でのAI導入動向など幅広い分野をカバーしている。",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news109.html",
+      "collectedAt": "2026-05-08T23:00:00+09:00"
+    },
+    {
+      "title": "Google・Microsoft・xAIが米政府のAIモデル事前テストプログラムに参加合意",
+      "summary": "Google DeepMind、Microsoft、xAIの3社がAI標準・イノベーションセンター（CAISI）と合意し、AIモデルの公開前に米政府による安全性評価を受けることになった。OpenAIとAnthropicに続く参画で、主要AI企業の安全性評価体制が整う。",
+      "url": "https://www.euronews.com/next/2026/05/08/tech-giants-agree-to-us-government-ai-testing",
+      "collectedAt": "2026-05-08T23:00:00+09:00"
+    }
+  ]
+}
