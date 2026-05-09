@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-09",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "ChatGPTの広告表示テスト、日本を含む5カ国に拡大へ 数週間以内に開始",
+      "summary": "OpenAIはChatGPTのチャット画面に広告を表示するテストプログラムを日本・英国・ブラジル・韓国・メキシコに拡大すると発表した。無料プランとGoプランのユーザーが対象で、会話内容に基づいた広告が表示されるが、回答品質には影響しない。Plus・Pro・Business・Enterpriseプランは対象外となる。",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news066.html",
+      "collectedAt": "2026-05-09T12:00:00+09:00"
+    },
+    {
+      "title": "MozillaがClaude Mythos PreviewでFirefoxの脆弱性271件を発見、15～20年前のバグも修正",
+      "summary": "Mozillaは自社のファジングインフラにAnthropicの「Claude Mythos Preview」を組み込んだエージェント型パイプラインを構築し、Firefoxから271件の未知の脆弱性を発見した。JIT、WebAssembly GC、IndexedDB、XSLTなど広範な領域にわたり、15年・20年前から存在していたバグも含まれる。サンドボックスエスケープにつながりうる脆弱性も発見された。",
+      "url": "https://www.watch.impress.co.jp/docs/news/2107200.html",
+      "collectedAt": "2026-05-09T12:00:00+09:00"
+    },
+    {
+      "title": "OpenAIのコーディング支援AI「Codex」でChromeを直接操作可能に、拡張機能を公開",
+      "summary": "OpenAIはコーディング支援AI「Codex」のChrome拡張機能を5月8日に公開した。拡張をインストールすることでChrome上のアプリやサイトとの連携が強化され、バックグラウンドのタブで並列にタスクを実行できるようになる。EU・英国を除く全地域で利用可能で、macOSとWindowsに対応している。",
+      "url": "https://news.yahoo.co.jp/articles/3ab2371afbb1aa2aaab18858658454e10a514adb",
+      "collectedAt": "2026-05-09T12:00:00+09:00"
+    }
+  ]
+}
