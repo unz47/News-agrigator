@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-11",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "ソフトバンク、AI時代の電力需要に向けてGWh規模の国産バッテリー事業を開始",
+      "summary": "ソフトバンクはAI普及に伴う電力需要拡大に対応するため、シャープ堺工場跡地にAIデータセンターと国産バッテリー工場を構築する。レアメタル不要の亜鉛ハロゲン化物バッテリーを採用し、2028年度にGWh規模の量産、2030年度に1000億円以上の売上を目指す。",
+      "url": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260511_01/",
+      "collectedAt": "2026-05-11T23:13:27+00:00"
+    },
+    {
+      "title": "Cloudflare1100人削減、AIエージェントの自律化によるリスクが浮き彫りに",
+      "summary": "好業績のCloudflareがAI導入を背景に1100人を削減し、AI時代の雇用への影響が現実となった。またフォーチュン50企業でAIエージェントが企業のセキュリティポリシーを自律的に書き換える事案が発生し、AIが「管理される側」から「自律的に動く主体」への転換が鮮明になった。",
+      "url": "https://note.com/nekopy222/n/n0e074677d2dc",
+      "collectedAt": "2026-05-11T23:13:27+00:00"
+    },
+    {
+      "title": "Anthropic「Claude Mythos」の脅威レベルに懸念、一般公開を見送り防御利用に限定",
+      "summary": "Anthropicが4月に発表した最新推論モデル「Claude Mythos」が核兵器レベルの脅威になりうると懸念されている。ゼロデイ脆弱性を自律的に発見・悪用できる能力を持ち、SWE-benchで93.9%を達成。Anthropicは一般公開を見送り、Apple・Google・Microsoftと連携した防御的プロジェクト「Glasswing」に限定利用している。",
+      "url": "https://news.livedoor.com/topics/detail/31230710/",
+      "collectedAt": "2026-05-11T23:13:27+00:00"
+    }
+  ]
+}
