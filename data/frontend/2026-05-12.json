@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-12",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "JavaScriptランタイムBun、Claudeを使って開発言語をZigからRustへ移行中",
+      "summary": "Anthropicが買収したJavaScriptランタイム「Bun」の開発チームが、Claude Codeを活用してZigからRustへの大規模コード移行を実施中。Bun v1.3.14がZig最終バージョンとなる可能性が高い。Rustのメモリ安全性保証によりメモリリークやクラッシュの修正コストが大幅に削減される見込みで、Linux x64 glibcのテストスイートは99.8%のパス率を達成している。",
+      "url": "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
+      "collectedAt": "2026-05-12T14:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16.2.6/15.5.18セキュリティ更新：MiddlewareバイパスとRSC DoSを含む13件の脆弱性を修正",
+      "summary": "Vercelが5月上旬にNext.jsのセキュリティ更新をリリースし、CVE-2026-44574〜44582を含む13件の脆弱性に対応した。WebSocket SSRFがCVSS 8.6、動的ルートインジェクションが8.1と高深刻度の問題を含み、React Server Components関連のDoS脆弱性CVE-2026-23870もReact側のパッチと同時に修正された。",
+      "url": "https://ai-heartland.com/security/news-react-nextjs-vulnerabilities-cloudflare/",
+      "collectedAt": "2026-05-12T14:00:00+09:00"
+    },
+    {
+      "title": "TypeScript 7（Project Corsa）ベータ版が示す10倍高速化の実力、Go移植で開発体験が激変",
+      "summary": "MicrosoftがTypeScriptコンパイラをGoで書き直す「Project Corsa」のベータ版が公開中。VS CodeでのType-check時間が77秒から7.5秒へ約10倍高速化し、メモリ使用量も約3分の1に削減。TypeScript 6.0がJavaScript版最終リリースとなり、全エンジニアリングリソースがネイティブポートに集中している。正式リリースは2026年6〜7月頃の見込み。",
+      "url": "https://www.publickey1.jp/blog/26/typescript_70typescriptgo10.html",
+      "collectedAt": "2026-05-12T14:00:00+09:00"
+    }
+  ]
+}
