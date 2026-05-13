@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-13",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google「Gemini Intelligence」発表、AndroidをAI知能システムに進化させる",
+      "summary": "Googleが「The Android Show: I/O Edition 2026」でGemini Intelligenceを発表。Androidを従来のOSからAI駆動の「知能システム」へ進化させ、アプリ間の境界を越えてタスクを自律的に完了するAppFunctions機能を導入。2026年夏からGalaxy・Pixelで順次展開予定。",
+      "url": "https://gigazine.net/news/20260513-gemini-intelligence-ai-android/",
+      "collectedAt": "2026-05-13T23:09:53Z"
+    },
+    {
+      "title": "Google、AI特化の次世代ノートPC「Googlebook」発表、2026年秋に5社から発売",
+      "summary": "Googleが生成AI「Gemini」を中核に据えた新型ノートPC「Googlebook」を発表。AndroidとChromeOSを融合した新カテゴリのPCで、Acer・ASUS・Dell・HP・Lenovoの5社から2026年秋に発売予定。「Magic Pointer」機能でカーソル位置のコンテンツをAIが理解し最適な提案を行う。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/13/news104.html",
+      "collectedAt": "2026-05-13T23:09:53Z"
+    },
+    {
+      "title": "AIでインフラ点検が進化：トラックカメラのデータをAI解析し道路損傷を予測",
+      "summary": "トラック等に搭載されたカメラのデータをAIで解析し、道路の損傷の種類を特定して悪化の速度を予測するシステムが注目されている。自治体が深刻な損傷になる前に修繕の優先順位を決められるようになり、現場点検の人的コスト削減にも貢献。",
+      "url": "https://journal.omoshigo.link/trend/workai/20260513-20005/",
+      "collectedAt": "2026-05-13T23:09:53Z"
+    }
+  ]
+}

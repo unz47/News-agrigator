@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-13",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Google「Googlebook」をチラ見せ、AndroidとChromeOSを融合した新カテゴリのノートPC",
+      "summary": "Googleが「Googlebook」の概要を公開した。AndroidとChromeOSを融合したまったく新しいカテゴリのノートPCで、Chromebookも継続される。Web開発者にとって新たなターゲットプラットフォームが登場し、フロントエンド開発環境への影響が注目される。",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2605/13/news059.html",
+      "collectedAt": "2026-05-13T23:09:53Z"
+    },
+    {
+      "title": "GoogleがAndroidベースのノートPC「Googlebook」を発表、Gemini Intelligenceのためにゼロから設計",
+      "summary": "Googleの新ノートPC「Googlebook」はGemini Intelligenceのためにゼロから設計された。プロンプト入力でカスタムウィジェットを作成でき、GmailやCalendarを連携したダッシュボードの構築が可能。Webアプリのプラットフォームとして新しい開発ターゲットになる。",
+      "url": "https://gigazine.net/news/20260513-googlebook/",
+      "collectedAt": "2026-05-13T23:09:53Z"
+    },
+    {
+      "title": "Google、Gemini Intelligence搭載ノートPC「Googlebook」を正式発表、Acer等5社から今秋発売",
+      "summary": "Acer・ASUS・Dell・HP・Lenovoの5メーカーからGooglebookが今秋発売される。Geminiを活用した「Magic Pointer」機能がカーソル位置のWebコンテンツを理解し最適な提案を行う。ChromeOS後継として、フロントエンド開発者にとってレスポンシブデザインやWeb標準対応の新たな課題となる。",
+      "url": "https://www.gdm.or.jp/pressrelease/2026/0513/634302",
+      "collectedAt": "2026-05-13T23:09:53Z"
+    }
+  ]
+}
