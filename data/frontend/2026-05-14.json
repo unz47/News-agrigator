@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-14",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Microsoft Edge、AIブラウザー機能を統合 「Copilot モード」は終了へ",
+      "summary": "Microsoftは5月14日、Webブラウザ「Edge」のAI関連機能を大幅にアップデートした。複数タブを横断してCopilotが情報を比較・要約する機能や、閲覧履歴を踏まえた回答機能がEdge本体に直接統合される。2025年7月に実験的に導入された「Copilot モード」は役目を終え提供終了となる。",
+      "url": "https://news.mynavi.jp/article/20260514-4457977/",
+      "collectedAt": "2026-05-14T10:00:00+09:00"
+    },
+    {
+      "title": "TanStackのnpmパッケージ42件にマルウェア混入、GitHub Actions経由で認証情報窃取のリスク",
+      "summary": "React向け人気ライブラリ「TanStack」の公式npmパッケージ42件にマルウェアが混入していたことが判明した（CVE-2026-45321、CVSS 9.6）。攻撃者はGitHub ActionsのOIDC trusted publisher連携を悪用し、正規の公開経路から悪意あるバージョンを配布。AWS・GCP・GitHub等の認証情報が窃取される可能性がある。",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/tanstack-npm-malware-github-actions-breach/",
+      "collectedAt": "2026-05-14T10:00:00+09:00"
+    },
+    {
+      "title": "Next.js 5月セキュリティリリース：13件の脆弱性に対応、CVE-2026-23870など重大なDoS脆弱性も修正",
+      "summary": "Vercelは5月のNext.jsセキュリティリリースで13件のアドバイザリに対応した。React Server ComponentsのDoS脆弱性CVE-2026-23870（CVSS 7.5）やミドルウェアバイパス、SSRF、キャッシュポイズニング等が含まれる。React 19.0.6/19.1.7/19.2.6およびNext.js 15.5.18/16.2.6へのアップグレードが推奨される。",
+      "url": "https://vercel.com/changelog/next-js-may-2026-security-release",
+      "collectedAt": "2026-05-14T10:00:00+09:00"
+    }
+  ]
+}
