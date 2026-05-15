@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-15",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "「さらばJavaScript」橋渡し的リリース「TypeScript 6.0」で何が変わった？",
+      "summary": "TypeScript 6.0はJavaScriptコードベースによる最後のメジャーリリースとなり、Go言語によるネイティブ実装「TypeScript 7.0」への橋渡しと位置付けられている。strictがデフォルトtrue、targetのデフォルトがes2025に変更され、target: es5やmoduleResolution node10などが非推奨エラーとなった。",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news052.html",
+      "collectedAt": "2026-05-15T23:30:00+09:00"
+    },
+    {
+      "title": "Apple iOS 26.5公開、WebKitを含む61件の脆弱性を修正 - Web開発者にも早期更新推奨",
+      "summary": "AppleがiOS 26.5をリリースし、カーネル、WebKit、Wi-Fiなど61件のCVEベース脆弱性を修正した。WebKit関連だけで17件のセキュリティ修正が含まれ、悪意あるWebサイト経由のゼロクリック攻撃への対策が強化されている。",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/15/news042.html",
+      "collectedAt": "2026-05-15T23:30:00+09:00"
+    },
+    {
+      "title": "JavaScriptランタイムBun、Claude AIで96万行をZigからRustへ移行しmainブランチへマージ完了",
+      "summary": "Anthropic傘下のBunが、Claude AIエージェントを使用しZigからRustへの96万行の大規模移行をわずか6日間で完了、PRがmainブランチにマージされた。Bun v1.3.14がZig最終版となり、canaryビルドからRust版が利用可能になった。Zigコミュニティの「AI禁止ポリシー」が移行の一因とされる。",
+      "url": "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
+      "collectedAt": "2026-05-15T23:30:00+09:00"
+    }
+  ]
+}

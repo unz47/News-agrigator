@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-15",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "1200万トークン処理の新LLM「SubQ」、ClaudeとGPTが批判し合いながら研究する「Aris」など生成AI技術5つを解説",
+      "summary": "テクノエッジの生成AIウィークリーで、1200万トークンを一度に処理できる新LLM「SubQ」や、ClaudeとGPTが相互批判しながら研究を進めるマルチエージェントシステム「Aris」など、最新の生成AI技術5つが紹介された。無検閲動画生成モデル「Sulphur 2」やロボット制御AI「MolmoAct2」も取り上げられている。",
+      "url": "https://www.techno-edge.net/article/2026/05/15/5068.html",
+      "collectedAt": "2026-05-15T23:30:00+09:00"
+    },
+    {
+      "title": "Anthropic「Claude for Small Business」発表、各種SaaSと連携し中小企業の業務を代行",
+      "summary": "Anthropicが中小企業向け新サービス「Claude for Small Business」を発表した。Google Workspace、Microsoft 365、PayPal、Canva、DocuSignなど主要SaaSと連携し、給与計算、月次決算、営業キャンペーン、請求書回収など多様な業務をAIが代行する。",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news094.html",
+      "collectedAt": "2026-05-15T23:30:00+09:00"
+    },
+    {
+      "title": "PwCがAnthropicと提携拡大、3万人のスタッフにClaude研修を実施",
+      "summary": "PwCがAnthropicとの提携を大幅に拡大し、Claude CodeとClaude Coworkを全社展開する計画を発表した。3万人のスタッフにClaudeのトレーニングを実施し、クライアント向け業務にAIツールをより深く活用する「Claude-native」な金融ビジネスグループを創設する。",
+      "url": "https://winbuzzer.com/2026/05/15/pwc-is-deploying-claude-to-build-technology-execut-xcxwbn/",
+      "collectedAt": "2026-05-15T23:30:00+09:00"
+    },
+    {
+      "title": "NVIDIAファンCEO「AIエージェントによるビジネス構造の激変、遅れることは許されない」",
+      "summary": "NVIDIAのジェンスン・ファンCEOが、AIエージェントがビジネスの構造を根本的に変革すると断言した。あらゆる企業がAIエージェントの活用に遅れを取ることは許されないと強調し、企業のAI導入加速を促した。",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/15/news007.html",
+      "collectedAt": "2026-05-15T23:30:00+09:00"
+    }
+  ]
+}
