@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-16",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js May 2026セキュリティリリース：13件のCVEに対応、セルフホスト環境は即時パッチ推奨",
+      "summary": "Vercelが調整されたセキュリティリリースを公開し、DoS・ミドルウェアバイパス・SSRF・キャッシュポイズニング・XSSにわたる13件の脆弱性に対処した。特にCVE-2026-44578のWebSocket SSRFは全セルフホスト環境に影響し、15.5.18および16.2.6へのアップグレードが必要。",
+      "url": "https://vercel.com/changelog/next-js-may-2026-security-release",
+      "collectedAt": "2026-05-16T10:00:00+09:00"
+    },
+    {
+      "title": "TypeScript 7.0 Project Corsa：Go書き換えで型チェック10倍高速化、プレビュー版が安定稼働中",
+      "summary": "MicrosoftがTypeScriptコンパイラをGoで完全書き換えする「Project Corsa」のプレビューが安定稼働段階に。VS Codeで150万行の型チェックが77秒から7.5秒に短縮される。3月にリリースされたTypeScript 6.0が最後のJavaScript製メジャーバージョンとなる。",
+      "url": "https://www.nandann.com/blog/typescript-6-0-release-features-go-compiler-7-0",
+      "collectedAt": "2026-05-16T10:00:00+09:00"
+    },
+    {
+      "title": "Rust製JSツールチェーンが主流に：Biome・Rolldown・OxcがフロントエンドDXを革新",
+      "summary": "Rust製のフロントエンド開発ツールが2026年に入り主流化。Rolldownは1月に1.0 RCに到達しVite 8のデフォルトバンドラーに採用、Biomeは新規プロジェクトの標準リンター/フォーマッターとなりつつある。従来のツールを10〜100倍の速度で置き換える動きが加速している。",
+      "url": "https://zenn.dev/crebo_tech/articles/001-rust-js-toolchain",
+      "collectedAt": "2026-05-16T10:00:00+09:00"
+    }
+  ]
+}

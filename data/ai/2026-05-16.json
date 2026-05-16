@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-16",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "最先端AI「クロード・ミュトス」悪用リスク、G7で金融リスク対策の協調を議論",
+      "summary": "G7財務相会議でAnthropicの最先端AI「クロード・ミュトス」の悪用リスクが主要議題となった。全主要OSでゼロデイ脆弱性を自律発見できる能力が指摘されており、金融分野での国際的なサイバー防衛策の協調について議論が開始された。",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121241000",
+      "collectedAt": "2026-05-16T10:00:00+09:00"
+    },
+    {
+      "title": "EY、攻撃者視点で生成AIリスクを検証する「AIレッドチーミング」サービス提供開始",
+      "summary": "EYストラテジー・アンド・コンサルティングが、生成AI搭載アプリケーションのセキュリティリスクを攻撃者視点で包括的に評価する「エンドツーエンドAIレッドチーミング」の提供を開始した。スコーピングから報告まで5フェーズでAI特有のリスクを可視化し経営判断に資するレポートを提供する。",
+      "url": "https://cloud.watch.impress.co.jp/docs/news/2108902.html",
+      "collectedAt": "2026-05-16T10:00:00+09:00"
+    },
+    {
+      "title": "Google I/O 2026（5月19日開催）でGemini新モデル発表見込み",
+      "summary": "5月19日開催のGoogle I/O 2026でGeminiの新モデル「Gemini Spark」が発表される見込み。Geminiウェブ版に「Gemini Spark BETA」のポップアップが出現しており、GPT-5.5レベルの性能が予想されている。動画生成の「Gemini Omni」モデルのリーク情報も注目されている。",
+      "url": "https://gigazine.net/news/20260515-google-gemini-spark/",
+      "collectedAt": "2026-05-16T10:00:00+09:00"
+    }
+  ]
+}
