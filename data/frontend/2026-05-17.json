@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-17",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.2のTurbopack大幅高速化：開発起動87%高速、Server Fast Refresh搭載",
+      "summary": "Next.js 16.2がリリースされ、Turbopackの大幅な性能改善が実現した。デフォルトアプリでの起動時間が16.1比で約87%高速化し、新機能Server Fast Refreshにより変更モジュールのみがリロードされるためサーバーサイドのホットリロードが大幅に効率化。200件以上のTurbopack修正も含まれる。",
+      "url": "https://nextjs.org/blog/next-16-2",
+      "collectedAt": "2026-05-17T10:00:00+09:00"
+    },
+    {
+      "title": "CSS Anchor Positioning全ブラウザ対応：HTML・CSSだけでポップオーバーが完全実装可能に",
+      "summary": "CSS Anchor PositioningがChrome・Firefox 147・Safari 26の全主要ブラウザで利用可能となり、Baseline 2026としてWeb標準入りした。JavaScriptなしで要素の相対位置制御が可能になり、Popover APIとの組み合わせでHTMLとCSSだけの完全なポップオーバーUIが構築できる。",
+      "url": "https://zenn.dev/ubie_dev/articles/anchor-positioning-popover",
+      "collectedAt": "2026-05-17T10:00:00+09:00"
+    },
+    {
+      "title": "2026年フロントエンド技術ガイド：React 19・Svelte 5・Tailwind v4以降の世界",
+      "summary": "2026年のフロントエンド開発は「高速化」と「サーバー機能統合」の標準化フェーズに突入した。React 19の安定稼働、Svelte 5のリアクティビティ再定義、Rust製ツールチェーンによるビルド革命が主要テーマ。TypeScriptの基準線化とAIアシスト開発の浸透が加速している。",
+      "url": "https://qiita.com/YushiYamamoto/items/9845784d14428db90fce",
+      "collectedAt": "2026-05-17T10:00:00+09:00"
+    }
+  ]
+}

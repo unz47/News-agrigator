@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-17",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、評価額9000億ドル超で500億ドルの資金調達を計画　OpenAI超え視野に",
+      "summary": "Anthropicが評価額9000億ドル（約141兆円）超で500億ドル規模の資金調達を計画していることが判明した。実現すればOpenAI（8520億ドル）を上回り世界最高評価のAI企業となる。2月の3800億ドルからわずか3ヶ月で2.3倍と急騰し、SpaceXとの22万GPU提携も追い風となっている。",
+      "url": "https://news.yahoo.co.jp/articles/a61ae527c370c2e3ec86fc617f4cb2eeb6649ed5",
+      "collectedAt": "2026-05-17T10:00:00+09:00"
+    },
+    {
+      "title": "OpenAI、GPT-5.5 InstantをChatGPTの新デフォルトモデルに展開　幻覚率52.5%削減",
+      "summary": "OpenAIがGPT-5.5 Instantを無料版ChatGPTのデフォルトモデルとして展開した。前モデルGPT-5.3 Instantから大幅に改善され、医療・法律・金融分野での幻覚発生率を52.5%削減。同時にリアルタイム音声APIモデル3種とサイバーセキュリティ特化モデルGPT-5.5-Cyberも公開された。",
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "collectedAt": "2026-05-17T10:00:00+09:00"
+    },
+    {
+      "title": "Anthropic、Claude Managed Agentsに「Dreaming」機能追加　エージェントの自律学習が可能に",
+      "summary": "Anthropicが開発者カンファレンス「Code with Claude」で、Claude Managed Agentsに「Dreaming」機能を発表した。エージェントがセッション間に過去の実行を振り返りパターンを抽出し、自律的にメモリを更新する仕組み。法律AI企業Harveyではタスク完了率が約6倍に向上した。",
+      "url": "https://siliconangle.com/2026/05/06/anthropic-letting-claude-agents-dream-dont-sleep-job/",
+      "collectedAt": "2026-05-17T10:00:00+09:00"
+    }
+  ]
+}
