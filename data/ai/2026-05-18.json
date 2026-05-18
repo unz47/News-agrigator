@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-18",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "ソフトバンク「SoftBank World 2026」7月14日開催を発表、AXによる社会変革がテーマ",
+      "summary": "ソフトバンクが最大規模の法人向けイベント「SoftBank World 2026」を7月14日に開催すると発表した。テーマは「AX for Japan」で、AIトランスフォーメーションがもたらす社会変革と事業成長を支える最先端テクノロジーが紹介される。登録受付は5月18日から開始。",
+      "url": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260518_01/",
+      "collectedAt": "2026-05-18T10:00:00+09:00"
+    },
+    {
+      "title": "NVIDIAが1分間の動画を生成できるAI「SANA-WM」を発表、カメラ制御も精密に",
+      "summary": "NVIDIAが1分間の高品質動画を生成できるAI「SANA-WM」を発表した。カメラの移動やアングルを精密に制御できる点が特徴で、映像制作ワークフローへの応用が期待される。動画生成AI分野での競争が一層激化している。",
+      "url": "https://gigazine.net/news/20260518-nvidia-sana-wm/",
+      "collectedAt": "2026-05-18T10:00:00+09:00"
+    },
+    {
+      "title": "マルタ政府が全国民にChatGPT Plusを無料提供へ、AI講座修了が条件",
+      "summary": "マルタ政府がAI講座の修了者に1年間ChatGPT Plusを無料で利用可能にする制度を発表した。国家レベルでのAIリテラシー向上と国民のAI活用促進を目指す取り組みとして国際的に注目を集めている。",
+      "url": "https://gigazine.net/news/20260518-malta-chatgpt-plus/",
+      "collectedAt": "2026-05-18T10:00:00+09:00"
+    },
+    {
+      "title": "Microsoft、社内開発で使用されるClaude Codeライセンスのキャンセルを開始か",
+      "summary": "Microsoftが社内開発で使用されていたAnthropic製Claude Codeのライセンスキャンセルを開始したと報じられた。自社のGitHub Copilot推進の一環とみられ、AI開発ツール市場における競争の鮮明化を示している。",
+      "url": "https://gigazine.net/news/20260518-microsoft-discontinued-claude-code/",
+      "collectedAt": "2026-05-18T10:00:00+09:00"
+    },
+    {
+      "title": "アリゾナ大学卒業式で元Google CEOのAIスピーチに学生がブーイング",
+      "summary": "アリゾナ大学の卒業式でAIについてスピーチを始めた元Google CEOエリック・シュミットに対し、学生たちがブーイングを浴びせた。AI技術の社会的受容をめぐる世代間の温度差と、テック業界への不信感が浮き彫りとなった。",
+      "url": "https://gigazine.net/news/20260518-university-arizona-boo-eric-schmidt-ai/",
+      "collectedAt": "2026-05-18T10:00:00+09:00"
+    }
+  ]
+}

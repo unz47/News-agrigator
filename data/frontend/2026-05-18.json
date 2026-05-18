@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-18",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Microsoft Edge、保存済みパスワードを起動時に平文でメモリへ読み込む仕様を変更へ",
+      "summary": "Microsoft Edgeが起動時に保存済みパスワードを平文のままメモリへ読み込んでいた仕様を変更すると発表した。多層防御（defense-in-depth）の強化として、ブラウザのパスワードマネージャーのセキュリティ改善が図られる。",
+      "url": "https://gigazine.net/news/20260518-microsoft-edge-saved-password/",
+      "collectedAt": "2026-05-18T10:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16.2.6/15.5.18セキュリティリリース：DoS・SSRF・XSSなど13件のCVEに対応",
+      "summary": "VercelがNext.js 16.2.6と15.5.18をリリースし、DoS、SSRF、XSS、キャッシュポイズニングなど13件のセキュリティ脆弱性に対応した。React Server Componentsの上流脆弱性（CVE-2026-23870）も含まれ、セルフホスト環境では即時アップグレードが強く推奨されている。",
+      "url": "https://vercel.com/changelog/next-js-may-2026-security-release",
+      "collectedAt": "2026-05-18T10:00:00+09:00"
+    },
+    {
+      "title": "Remix 3ベータプレビュー公開：Reactに依存しない新フルスタックフレームワークへ進化",
+      "summary": "Remix 3のベータプレビューが公開された。React・React Routerへの依存を脱却し、JSXベースの独自コンポーネントモデルを採用。明示的な再レンダリングトリガーやリロード可能なFramesなど、新しいアーキテクチャでフルスタック開発を再定義する。",
+      "url": "https://remix.run/blog/remix-3-beta-preview",
+      "collectedAt": "2026-05-18T10:00:00+09:00"
+    }
+  ]
+}
