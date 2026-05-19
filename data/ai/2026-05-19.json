@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-19",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google I/O 2026開幕、Gemini 3.5 FlashとGemini Omniを発表",
+      "summary": "Google I/O 2026が5月19日に開幕し、Gemini 3.5 Flashが発表された。3.1 Proを上回るコーディング・エージェント・マルチモーダルのベンチマーク性能を持ち、本日からGeminiアプリやAPIで利用可能。また動画生成が可能なGemini Omniモデルも発表された。",
+      "url": "https://9to5google.com/2026/05/19/google-io-2026-news/",
+      "collectedAt": "2026-05-19T10:00:00+09:00"
+    },
+    {
+      "title": "Anthropic、SDK・MCPツール企業のStainlessを3億ドル超で買収",
+      "summary": "AnthropicがSDKおよびMCPサーバツール開発企業のStainlessを買収した。StainlessはTypeScript・Python・Go等の複数言語向けSDKをAPIの仕様から自動生成するツールを提供しており、OpenAIやGoogleも利用していた。買収額は3億ドル以上と報じられている。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/19/news059.html",
+      "collectedAt": "2026-05-19T10:00:00+09:00"
+    },
+    {
+      "title": "Google、Android XRオーディオグラスをこの秋発売へ",
+      "summary": "Google I/O 2026でAndroid XR対応のオーディオグラスが発表された。Geminiへの終日アクセスが可能で、応答はウィスパーで耳元に直接届けられる。Gentle Monster、Warby Parker、Samsungと共同開発し、AndroidおよびiOSデバイスと連携する。",
+      "url": "https://www.macrumors.com/2026/05/19/google-io-2026-roundup/",
+      "collectedAt": "2026-05-19T10:00:00+09:00"
+    },
+    {
+      "title": "AI時代の働き方変革：情報の構造化スキルが鍵に",
+      "summary": "2026年5月19日の働き方×AIニュースでは、AIに記録や要約を任せ、人間は意思決定や関係構築に集中する役割分担の重要性が指摘された。専門性の高い対話から情報を抽出しアクションプランに落とし込む「情報の構造化スキル」がプロフェッショナルの必須能力になるとされている。",
+      "url": "https://journal.omoshigo.link/trend/workai/20260519-20017/",
+      "collectedAt": "2026-05-19T10:00:00+09:00"
+    }
+  ]
+}

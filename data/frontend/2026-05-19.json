@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-19",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Google I/O 2026、「エージェントWeb」時代に向けたChrome 15の新機能を発表",
+      "summary": "Google I/O 2026でChromeの15の新機能が発表された。HTML-in-Canvas APIやDeclarative Partial Updates、スクロールトリガーアニメーション、スコープ付きView Transitionsなど、AIエージェントがWebサイトを構築・操作できる新機能群が披露された。",
+      "url": "https://developer.chrome.com/blog/chrome-at-io26",
+      "collectedAt": "2026-05-19T10:00:00+09:00"
+    },
+    {
+      "title": "Next.js 2026年5月セキュリティリリース、13件の脆弱性に対応",
+      "summary": "VercelがNext.jsのセキュリティリリースを公開し、DoS攻撃、ミドルウェアバイパス、SSRF、キャッシュポイズニング、XSSなど13件の脆弱性に対応した。React Server ComponentsやCache Componentsに関する高深刻度の問題も含まれ、即時アップグレードが推奨されている。",
+      "url": "https://vercel.com/changelog/next-js-may-2026-security-release",
+      "collectedAt": "2026-05-19T10:00:00+09:00"
+    },
+    {
+      "title": "Google I/O 2026、Web UIの最新進化を紹介",
+      "summary": "Google I/O 2026のセッション「What's new in Web UI」で、Soft Navigations APIによるSPAのCore Web Vitals計測対応や、ネイティブCSSとHTMLプリミティブによるパフォーマンスの高いインタラクティブUI構築手法が紹介された。",
+      "url": "https://io.google/2026/explore/pa-keynote-10",
+      "collectedAt": "2026-05-19T10:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16.2がAI支援開発向け機能を強化、起動速度4倍に",
+      "summary": "Next.js 16.2ではnext dev起動速度が従来比約4倍、レンダリング速度も25〜60%向上した。AIエージェント向けにAGENTS.mdファイルの自動生成機能が追加され、Turbopackも200件超のバグ修正を含む大幅な改善が行われた。",
+      "url": "https://codezine.jp/news/detail/23717",
+      "collectedAt": "2026-05-19T10:00:00+09:00"
+    }
+  ]
+}
