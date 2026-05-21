@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-21",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google I/O 2026でGemini 3.5 FlashやAIエージェント「Gemini Spark」を発表",
+      "summary": "Google I/O 2026で新AIモデル「Gemini 3.5 Flash」が発表され即日利用可能に。他モデル比4倍の出力速度を誇る。常時稼働型AIエージェント「Gemini Spark」も発表され、チャット型AIからエージェント型AIへの進化を印象づけた。",
+      "url": "https://weel.co.jp/media/innovator/google-i-o/",
+      "collectedAt": "2026-05-21T10:00:00+09:00"
+    },
+    {
+      "title": "AIグラス「Ray-Ban Meta」「Oakley Meta」が5月21日より日本で発売",
+      "summary": "MetaとEssilorLuxotticaのAIグラス「Ray-Ban Meta（Gen 2）」と「Oakley Meta」が5月21日に日本で販売開始。1200万画素の超広角カメラや3K動画撮影機能を搭載し、音声操作でAIアシスタントを利用できる。価格は7万3700円から。",
+      "url": "https://www.wwdjapan.com/articles/2403824",
+      "collectedAt": "2026-05-21T10:00:00+09:00"
+    },
+    {
+      "title": "AMD Ryzen AI Max PRO 400シリーズ発表、最大192GBメモリでAI処理に対応",
+      "summary": "AMDがComputex 2026に先駆けてRyzen AI Max PRO 400シリーズを発表。最大192GBの統合メモリを搭載し160GBをVRAMとして割り当て可能で、3000億パラメータ級LLMの実行に対応する。HPやLenovoがパートナーとして名を連ねている。",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2110347.html",
+      "collectedAt": "2026-05-21T10:00:00+09:00"
+    },
+    {
+      "title": "Google Antigravity 2.0公開、エージェントファーストの開発プラットフォームに進化",
+      "summary": "Google I/O 2026でAntigravity 2.0が発表された。VS Codeフォークからデスクトップアプリ・CLI・SDK・マネージドエージェントの4面構成に進化し、Gemini 3.5 Flashをデフォルトモデルとして搭載。AIエージェント開発のワークフローを刷新する。",
+      "url": "https://www.watch.impress.co.jp/docs/news/2110200.html",
+      "collectedAt": "2026-05-21T10:00:00+09:00"
+    }
+  ]
+}

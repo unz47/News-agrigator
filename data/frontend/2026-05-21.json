@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-21",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Google I/O 2026開発者向けハイライト：Antigravity 2.0とGeminiエージェントツール",
+      "summary": "Google I/O 2026でWeb開発者向けの主要アップデートが発表された。AI StudioからAntigravityへのコードエクスポートによる新しい開発ワークフローや、Firebase GenkitのAIワークロード強化など、フロントエンド開発にAIが深く統合される方向性が示された。",
+      "url": "https://blog.google/intl/ja-jp/company-news/technology/google-io-2026-developer-highlights/",
+      "collectedAt": "2026-05-21T10:00:00+09:00"
+    },
+    {
+      "title": "Google Chrome 148セキュリティアップデート、Critical含む16件の脆弱性修正",
+      "summary": "Googleが5月19日にChrome 148のセキュリティアップデートをリリースし、16件の脆弱性を修正した。WebRTCの解放後使用やUIの不適切な実装など深刻度最高のCritical評価が2件含まれており、早急なアップデートが推奨されている。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2110427.html",
+      "collectedAt": "2026-05-21T10:00:00+09:00"
+    },
+    {
+      "title": "Google I/O 2026で出た新機能、もう使える機能はどれ？時系列で整理",
+      "summary": "Google I/O 2026で発表された多数の新機能について、即日利用可能なもの・近日公開予定のものを時系列で整理した記事。Gemini 3.5 Flashは即日利用可能、AI Modeのグローバル展開やスマートグラスは今秋以降の提供予定となっている。",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2110624.html",
+      "collectedAt": "2026-05-21T10:00:00+09:00"
+    }
+  ]
+}
