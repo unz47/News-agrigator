@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-22",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google I/O 2026で「Gemini Omni」と「Gemini 3.5 Flash」を発表",
+      "summary": "Googleが5月20日のGoogle I/O 2026で新AIモデル「Gemini Omni」と「Gemini 3.5 Flash」を発表した。Gemini Omniはテキスト・画像・動画からコンテンツを生成・編集でき、Gemini 3.5 Flashは最先端の知能と自律行動能力を兼ね備えている。Google検索にもGemini 3.5 Flashが搭載される。",
+      "url": "https://www.techno-edge.net/article/2026/05/20/5079.html",
+      "collectedAt": "2026-05-22T10:00:00+09:00"
+    },
+    {
+      "title": "NVIDIAが金融業界向けAIエージェント戦略を本格展開",
+      "summary": "NVIDIAが金融業界の「クオンツ運用」向けに複数のAIエージェントが連携するシステムを開発し、金融シグナルの発見を自動化する仕組みを提案している。調査では回答者の約21%がすでにAIエージェントを導入済みで、89%がAI活用により収益増加・コスト削減を達成したと報告されている。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000613.000012662.html",
+      "collectedAt": "2026-05-22T10:00:00+09:00"
+    },
+    {
+      "title": "NVIDIA決算で最高益、ファンCEO「世界にいずれ数十億のAIエージェント」",
+      "summary": "NVIDIAが2026年5月の決算で最高益を記録した。ジェンスン・ファンCEOは「世界にいずれ数十億のAIエージェントが存在するようになる」とビジョンを語った。AI半導体の需要は引き続き旺盛で、金融・医療など幅広い産業への展開が加速している。",
+      "url": "https://www.nikkei.com/article/DGXZQOGN160GB0W6A510C2000000/",
+      "collectedAt": "2026-05-22T10:00:00+09:00"
+    },
+    {
+      "title": "デジタル庁「ガバメントAI」国産LLMの大規模実証が今夏開始へ",
+      "summary": "デジタル庁が推進する「ガバメントAI」プロジェクトで、2026年夏頃に国産LLMの試験導入が計画されている。全府省庁約18万人の職員を対象とした大規模実証で、日本企業が開発したLLMが業務に活用される。機密情報保護と業務効率化の両立が目標とされている。",
+      "url": "https://www.digital.go.jp/en/policies/genai",
+      "collectedAt": "2026-05-22T10:00:00+09:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-22",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 2026年5月セキュリティリリースで13件の脆弱性を修正",
+      "summary": "Vercelが5月にNext.jsの重要セキュリティリリースを公開し、WebSocket SSRF（CVSS 8.6）や動的ルートインジェクション（CVSS 8.1）など13件の脆弱性を修正した。Next.js 15.5.18/16.2.6で対応済みで、React Server Componentsを利用するプロジェクトは早急なアップデートが推奨されている。",
+      "url": "https://vercel.com/changelog/next-js-may-2026-security-release",
+      "collectedAt": "2026-05-22T10:00:00+09:00"
+    },
+    {
+      "title": "Rustベースのフロントエンドツールチェーンが主流に、Biome・Rolldownの採用拡大",
+      "summary": "2026年のフロントエンド開発では、Rustで書かれたBiome・Oxc・Rolldownなどのツールが従来のESLint+Prettier+Webpackを置き換えつつある。BiomeはPrettierの25倍、ESLintの15倍高速で、Rolldownは1月にRC版に到達しVite 8のデフォルトバンドラーに採用された。",
+      "url": "https://zenn.dev/crebo_tech/articles/001-rust-js-toolchain",
+      "collectedAt": "2026-05-22T10:00:00+09:00"
+    },
+    {
+      "title": "2026年フロントエンド開発：メタフレームワークがプロジェクト開始のデフォルトに",
+      "summary": "2026年のフロントエンド開発では、Next.js・Astro・SvelteKit・Remixなどのメタフレームワークが新規プロジェクトのデフォルトの出発点となっている。Reactは44.7%のシェアで首位を維持し、Astroがゼロ JSアプローチで本番投入レベルに到達。TanStack Startも型安全なフルスタック開発で注目を集めている。",
+      "url": "https://www.taolis.net/articles/frontend-development-2026-metaframeworks-signals-server-first",
+      "collectedAt": "2026-05-22T10:00:00+09:00"
+    }
+  ]
+}
