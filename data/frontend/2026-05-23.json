@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-23",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "FigmaがAIデザインエージェントをベータ公開、自然言語でUI生成が可能に",
+      "summary": "Figmaが新たなAIデザインエージェントの限定ベータ版を開始した。自然言語プロンプトでUI生成、デザインバリエーション探索、既存画面の編集が可能で、複数エージェントの同時実行にも対応する。AnthropicやOpenAIのCLIツールとの連携も発表され、コーディング環境とデザインの統合が進んでいる。",
+      "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "collectedAt": "2026-05-23T09:00:00+09:00"
+    },
+    {
+      "title": "Next.js 2026年5月セキュリティリリース、13件の脆弱性を一斉修正",
+      "summary": "Vercelが13件のセキュリティアドバイザリに対応したNext.jsリリースを公開した。React Server Componentsの上流脆弱性CVE-2026-23870をはじめ、DoS・ミドルウェアバイパス・SSRF・キャッシュポイズニング・XSSの脆弱性が修正された。WAFでは防げない脆弱性群のため、Next.js 16.2.6/15.5.18への即時アップデートが強く推奨されている。",
+      "url": "https://vercel.com/changelog/next-js-may-2026-security-release",
+      "collectedAt": "2026-05-23T09:00:00+09:00"
+    },
+    {
+      "title": "TypeScript 6.0正式リリース、JavaScript版最終版としてGo移行への架け橋に",
+      "summary": "TypeScript 6.0がJavaScript製の最終リリースとして正式公開された。7.0以降はGo言語による「Project Corsa」コンパイラへ移行し、VS Codeの150万行のコード型チェックが77秒から7.5秒に短縮される見込み。strict:trueのデフォルト化や--target es5の非推奨化など、次世代への移行準備が進められている。",
+      "url": "https://codezine.jp/news/detail/23762",
+      "collectedAt": "2026-05-23T09:00:00+09:00"
+    },
+    {
+      "title": "Meta、8000人解雇と同時にAI全振りへ――7000人をAI部署に異動",
+      "summary": "Metaが約8000人の解雇を開始すると同時に、約7000人を新しいAI関連部門へ再配置した。ザッカーバーグCEOは社内ツールで従業員の操作を追跡しAI学習に活用していたことがリーク音声で発覚。解雇・AI投資・社員監視が同時に明るみに出る異例の展開となり、テック企業のAI戦略の過激さが浮き彫りになった。",
+      "url": "https://www.nikkei.com/article/DGXZQOGN21DDN0R20C26A5000000/",
+      "collectedAt": "2026-05-23T09:00:00+09:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-23",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAIのAIモデルが80年未解決の幾何学予想を自律的に反証",
+      "summary": "OpenAIの内部AIモデルが、1946年にポール・エルデシュが提唱した離散幾何学の中心的予想を自律的に反証した。125ページに及ぶ証明を生成し、フィールズ賞受賞者のティモシー・ガワーズ氏が検証・承認。幾何学の問題に代数的整数論を融合させる独創的手法が「AIが補助役を超えた」画期的成果と評価されている。",
+      "url": "https://news.yahoo.co.jp/articles/e20bdea23ae48c8584c51823933219ccb763a439",
+      "collectedAt": "2026-05-23T09:00:00+09:00"
+    },
+    {
+      "title": "Google I/O 2026で個人向けAIエージェント「Gemini Spark」発表",
+      "summary": "Google I/O 2026で、24時間365日自律的にタスクを処理する個人向けAIエージェント「Gemini Spark」が発表された。Gmail・Google Docs・Sheetsと連携し、クレジットカード明細の分析やメール要約をデバイスを閉じても動作し続けるクラウドベースのエージェントとして提供される。新モデル「Gemini 3.5 Flash」も同時に発表された。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/20/news068.html",
+      "collectedAt": "2026-05-23T09:00:00+09:00"
+    },
+    {
+      "title": "OpenAI、日本政府にサイバー防御特化AI「GPT-5.5-Cyber」提供へ",
+      "summary": "OpenAIがサイバーセキュリティ特化モデル「GPT-5.5-Cyber」を日本政府と一部企業に提供すると発表した。NSA元長官でOpenAI取締役のポール・ナカソネ氏が来日し、日本を重要パートナーと位置づけた。脆弱性研究の加速と重要インフラ保護を目的とした「Trusted Access for Cyber」プログラムの一環として展開される。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000014/",
+      "collectedAt": "2026-05-23T09:00:00+09:00"
+    },
+    {
+      "title": "日立がAnthropicと戦略的提携、グループ29万人にClaude導入へ",
+      "summary": "日立製作所がAnthropic PBCと戦略的パートナーシップを締結し、グループ約29万人にClaudeなどのAIを導入すると発表した。10万人をAI人材に育成する大型プロジェクトを実施し、両社で「Frontier AI Deployment Center」を設立。北米・欧州・アジアを横断する体制でLumada 3.0の強化と社会インフラ向けAI実装を推進する。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/19/news120.html",
+      "collectedAt": "2026-05-23T09:00:00+09:00"
+    }
+  ]
+}
