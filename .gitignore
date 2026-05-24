@@ -4,3 +4,13 @@ out/
 .vercel
 .env
 .env.local
+
+# Nix / direnv
+.direnv/
+result
+result-*
+
+# Nix / direnv
+.direnv/
+result
+result-*
