@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-24",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "xAIがGrokに「Connectors」を大幅拡充、外部サービス連携でAIプラットフォーム化を加速",
+      "summary": "xAIは5月22日、Grokで利用できる外部サービス連携機能「Connectors」を大幅に拡充した。Vercel、Canva、Gamma、S&P Globalに加え、SharePoint、Outlook、Google Workspace、Notion、GitHub、Linearなどと接続可能になり、MCP Serverによるカスタム連携にも対応。AIチャットボットから統合型プロダクティビティプラットフォームへの転換を図っている。",
+      "url": "https://x.ai/news/grok-connectors",
+      "collectedAt": "2026-05-24T09:00:00+09:00"
+    },
+    {
+      "title": "テクノエッジ生成AIウィークリー：ローカルCPU動作の日本語TTS「Supertonic 3」やPixal3Dなど5技術を解説",
+      "summary": "テクノエッジの生成AIウィークリー（5月24日公開）で、完全ローカルかつCPUで動作する日本語対応の軽量TTSモデル「Supertonic 3」が紹介された。対応言語が5言語から31言語に拡大し、約9,900万パラメータでブラウザやエッジデバイスでも動作する。また写真から忠実な3Dモデルを生成する「Pixal3D」なども解説された。",
+      "url": "https://www.techno-edge.net/article/2026/05/24/5094.html",
+      "collectedAt": "2026-05-24T09:00:00+09:00"
+    },
+    {
+      "title": "Google I/O 2026まとめ：Gemini Omni・AIエージェント「Gemini Spark」・AIスマートグラスなど発表",
+      "summary": "Google I/O 2026（5月19日開催）の主要発表が注目を集めている。新モデル「Gemini Omni」はテキスト・画像・音声・動画を統合処理し、24時間稼働の個人向けAIエージェント「Gemini Spark」も発表された。Samsung共同開発のAIスマートグラスは今秋発売予定で、Google検索も25年以上ぶりに刷新される。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2110048.html",
+      "collectedAt": "2026-05-24T09:00:00+09:00"
+    },
+    {
+      "title": "医療現場のAI活用が急拡大、利用医師が63%に上昇も正確性への懸念は根強く",
+      "summary": "Doximityの「2026 State of AI in Medicine Report」によると、94%の医師がAIを利用中または関心があると回答し、実際の利用率は2025年春の47%から63%に上昇した。一方で71%の医師がAIの正確性と信頼性を最大の懸念として挙げており、臨床現場での信頼構築が課題となっている。",
+      "url": "https://note.com/nekopy222/n/n612f9d8ce722",
+      "collectedAt": "2026-05-24T09:00:00+09:00"
+    }
+  ]
+}

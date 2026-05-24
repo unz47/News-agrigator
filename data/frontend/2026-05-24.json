@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-24",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 2026年5月セキュリティリリース：React Server Components含む13件の脆弱性を修正",
+      "summary": "Vercelが5月6日に公開したNext.jsセキュリティリリースで、React Server Componentsの脆弱性（CVE-2026-23870）を含む13件のアドバイザリに対応した。DoS、ミドルウェアバイパス、SSRF、キャッシュポイズニング、XSSなど多岐にわたり、最大CVSSスコア8.6。Next.js 15.5.18または16.2.6へのアップグレードが推奨されている。",
+      "url": "https://vercel.com/changelog/next-js-may-2026-security-release",
+      "collectedAt": "2026-05-24T09:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16でTurbopackが安定版に、React Compiler 1.0も標準搭載",
+      "summary": "Next.js 16ではTurbopackがstable化され、next devおよびnext buildでデフォルト使用となった。またReact Compiler 1.0がビルトインサポートされ、コンポーネントの自動メモ化により不要な再レンダリングを手動コード変更なしで削減する。App RouterはReact 19.2の最新機能にも対応している。",
+      "url": "https://nextjs.org/docs/app/guides/upgrading/version-16",
+      "collectedAt": "2026-05-24T09:00:00+09:00"
+    },
+    {
+      "title": "2026年フロントエンド開発の潮流：メタフレームワーク・Rustツールチェーン・TanStackエコシステム",
+      "summary": "2026年のフロントエンド開発では、Next.js・Astro・SvelteKitなどのメタフレームワークが新規プロジェクトのデフォルトとなり、SWCやBiomeなどRust製ツールチェーンがビルド基盤を置き換えている。TanStack Query・DB・Form・AIなどが「フロントエンドのスイスアーミーナイフ」として急速に普及し、TypeScriptは専門的な開発の必須基準となっている。",
+      "url": "https://www.taolis.net/articles/frontend-development-2026-metaframeworks-signals-server-first",
+      "collectedAt": "2026-05-24T09:00:00+09:00"
+    },
+    {
+      "title": "2026年AIコーディングエージェントまとめ：Claude Code・Cursor・Copilotなど比較",
+      "summary": "2026年5月時点のAIコーディングエージェントを網羅的に比較した記事がQiitaで公開された。Claude Code、Cursor、GitHub Copilot、Clineなど主要ツールの特徴や使い分けが解説されており、AIの進化によりコード生成のスピードが飛躍的に向上し、開発の重心が実装から設計へ移りつつあると指摘している。",
+      "url": "https://qiita.com/ochtum/items/8fd5952e920da136dd94",
+      "collectedAt": "2026-05-24T09:00:00+09:00"
+    }
+  ]
+}
