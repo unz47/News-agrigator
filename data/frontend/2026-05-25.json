@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-25",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "動画ダウンローダー「yt-dlp」がBunを非推奨化、AIコーディング偏重にリスクありとの判断",
+      "summary": "動画ダウンローダー「yt-dlp」の開発チームがJavaScriptランタイム「Bun」のサポートを非推奨化すると発表した。BunがAIによるコード生成に過度に依存している点が将来的なリスクと判断された。今後はZigベースのBunに限定してサポートを継続する方針を示している。",
+      "url": "https://gigazine.net/news/20260525-yt-dlp-bun/",
+      "collectedAt": "2026-05-25T09:00:00+09:00"
+    },
+    {
+      "title": "Appleが画像圧縮AIコーデック「PICO」を発表、同じ画質でデータ量を最大3分の1に削減",
+      "summary": "Appleは機械学習ベースの画像圧縮コーデック「PICO（Perceptual Image Codec）」を発表した。AV1やVVCと比べて2.3〜3倍のビットレート削減を実現し、iPhone 17 Pro Maxで12MP画像を最短230msでエンコード可能。Web上の画像配信やモバイルアプリのパフォーマンス向上に大きく貢献する次世代画像フォーマットとして注目される。",
+      "url": "https://gigazine.net/news/20260525-ml-pico/",
+      "collectedAt": "2026-05-25T09:00:00+09:00"
+    },
+    {
+      "title": "「嘘のフォント」でAIだけ別の文章を読まされる「Noroboto」攻撃手法が公開",
+      "summary": "人間には普通の契約書に見えるのにAIだけが異なる文章を読み取ってしまう「Noroboto」と呼ばれる攻撃手法が公開された。Webフォントの仕組みを悪用し、視覚的な表示と機械的なテキスト解釈の間に乖離を生み出す技術で、CSSやWeb標準におけるフォントレンダリングの信頼性に疑問を投げかけている。",
+      "url": "https://gigazine.net/news/20260525-noroboto/",
+      "collectedAt": "2026-05-25T09:00:00+09:00"
+    }
+  ]
+}

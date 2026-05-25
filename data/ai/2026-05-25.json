@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-25",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "数千規模のAIエージェントをどう統制する？ IBMが製品群を発表",
+      "summary": "IBMは数千規模のAIエージェントを企業が大規模に設計・展開・連携・統制するための統合製品群を発表した。次世代IBM watsonx Orchestrateによるマルチエージェント・オーケストレーションや、リアルタイムデータ基盤IBM Confluentなどが含まれる。組み込み型ガバナンスと主権性の制御により、企業がAIを本格運用・大規模展開できるよう支援する。",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/25/news045.html",
+      "collectedAt": "2026-05-25T09:00:00+09:00"
+    },
+    {
+      "title": "ソフトバンク、「Infrinia AI Cloud OS」搭載「AIデータセンター GPUクラウド」を10月提供開始",
+      "summary": "ソフトバンクは独自開発の「Infrinia AI Cloud OS」を搭載したクラウドサービス「AIデータセンター GPUクラウド」を2026年10月より提供開始すると発表した。NVIDIA GB200 NVL72など最先端GPU搭載のAI計算基盤を活用し、AIモデルの学習から推論まで幅広いワークロードに対応する。日本国内のデータセンターで安全なデータ管理・運用を実現する。",
+      "url": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260525_01/",
+      "collectedAt": "2026-05-25T09:00:00+09:00"
+    },
+    {
+      "title": "ローマ教皇、AIの「武装解除」必要と訴え 政府の規制論議に一石",
+      "summary": "ローマ教皇レオ14世はAI時代の指針を示した初の回勅で、AIの「武装解除」と「人間中心の技術への転換」を求めた。技術が解放をもたらす一方でコンテンツモデレーターや採掘労働者などの「新たな形態の奴隷制」を生み出していると指摘した。発表イベントにはAnthropicの共同創業者も登壇し、テック企業と宗教指導者によるAI倫理の共同声明が実現した。",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-05-25/TFLOTEKK3NYI00",
+      "collectedAt": "2026-05-25T09:00:00+09:00"
+    },
+    {
+      "title": "NVIDIAがリアルタイム動画生成AI「LongLive-2.0」を公開、FP4量子化で軽量高品質を実現",
+      "summary": "NVIDIAのAI研究チームがリアルタイム動画生成モデル「LongLive-2.0」を公開した。FP4量子化を訓練段階から想定した設計により、メモリ使用量を19.4GBに削減しつつ生成速度を1.84倍に高速化した。長時間にわたり一貫性のある動画をリアルタイムで生成できる軽量かつ高品質なモデルとなっている。",
+      "url": "https://gigazine.net/news/20260525-nvidia-video-generation-ai-longlive-2/",
+      "collectedAt": "2026-05-25T09:00:00+09:00"
+    }
+  ]
+}
