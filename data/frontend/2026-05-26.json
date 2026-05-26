@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-26",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Deno 2.8リリース：deno ci・deno pack等の新コマンド追加、Node.js互換性76%に到達",
+      "summary": "Deno 2.8が5月22日にリリースされ、CI向けの再現性保証コマンド「deno ci」やnpmパッケージ作成の「deno pack」、脆弱性自動修正の「deno audit fix」など多数の新コマンドが追加された。Node.js互換性が76%に到達しBunを上回ったほか、TypeScript 6.0.3への更新やTC39 import defer提案のサポートも含まれている。",
+      "url": "https://deno.com/blog/v2.8",
+      "collectedAt": "2026-05-26T09:00:00+09:00"
+    },
+    {
+      "title": "Google I/O 2026でWebMCPを発表：AIエージェントとWebサイトの構造化通信を実現する新Web標準",
+      "summary": "Google I/O 2026でChromeチームがWebMCP（Web Model Context Protocol）を発表し、Chrome 149でのオリジントライアル開始を予告した。WebMCPはWebサイトがJavaScript関数やHTMLフォームを構造化ツールとしてブラウザベースのAIエージェントに公開できる新Web標準で、従来のDOM解析に頼る不安定なAIエージェント操作を根本的に解決する。Booking.com、Shopify、Instacartなど大手企業も参画を表明している。",
+      "url": "https://developer.chrome.com/blog/chrome-at-io26",
+      "collectedAt": "2026-05-26T09:00:00+09:00"
+    },
+    {
+      "title": "Next.jsとReactに13件の深刻な脆弱性が発見・修正 DoS・SSRF・認証バイパスに対応",
+      "summary": "VercelがNext.jsの緊急セキュリティリリースを実施し、React Server Componentsに関するDoS（CVE-2026-23870）やWebSocketのSSRF（CVE-2026-44578）など13件の脆弱性に対応した。最大CVSSスコア8.6の深刻な問題が含まれ、セルフホスト環境では認証情報やAPIキーが漏洩するリスクがある。Next.js 16.2.6または15.5.18への即時アップグレードが強く推奨されている。",
+      "url": "https://vercel.com/changelog/next-js-may-2026-security-release",
+      "collectedAt": "2026-05-26T09:00:00+09:00"
+    }
+  ]
+}

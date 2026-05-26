@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-26",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "ClickUp、従業員22%をレイオフし3,000のAIエージェントを導入 「100倍組織」構築へ",
+      "summary": "プロジェクト管理ツールのClickUpが従業員の22%にあたる約290人をレイオフし、代わりに約3,000のAIエージェントを社内に導入したと発表した。CEOは「コスト削減ではなくAI活用による組織再編」と位置づけ、残留社員には最大100万ドルの給与体系を導入。AIエージェントと社員の比率が3:1となり、AIによる人員置き換えが本格化した象徴として業界で注目を集めている。",
+      "url": "https://theaiinsider.tech/2026/05/26/clickup-cuts-22-of-staff-and-deploys-3000-ai-agents-in-radical-bet-on-productivity-over-headcount/",
+      "collectedAt": "2026-05-26T09:00:00+09:00"
+    },
+    {
+      "title": "Micron株19%急騰し時価総額1兆ドル突破 UBSがAI半導体需要で目標株価を約3倍に引き上げ",
+      "summary": "UBSがAI用高帯域メモリ（HBM）市場の急拡大を理由にMicron Technologyの目標株価を約3倍に引き上げたことで、同社株は5月26日に19%急騰し時価総額が1兆ドルを突破した。S&P 500とNasdaqも過去最高値を更新し、AI半導体需要がメモリ産業の構造変化を加速させている。",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/05/26/stock-market-today-may-26-micron-surges-after-ubs-lifts-price-target-on-ai-optimism/",
+      "collectedAt": "2026-05-26T09:00:00+09:00"
+    },
+    {
+      "title": "AI時代の働き方が転換期に ClickUpレイオフに見る「AIをどう使い、どう向き合うか」の本質論",
+      "summary": "AIと働き方の最新動向をまとめた記事。ClickUpの大規模レイオフが「AIによる人員置き換え」の現実フェーズ突入を象徴する一方、AI負債（導入後の運用管理コスト増大）の問題も浮上している。議論は「AIで何ができるか」から「AIをどう使い、どう向き合うか」へと本質的な転換期を迎えている。",
+      "url": "https://journal.omoshigo.link/trend/workai/20260526-20038/",
+      "collectedAt": "2026-05-26T09:00:00+09:00"
+    }
+  ]
+}
