@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-27",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "JavaScript不要、「PWA」をインストールする新しいHTML要素がChromeとEdgeでテスト中",
+      "summary": "Google ChromeとMicrosoft Edgeで、HTMLに1行追加するだけでPWAのインストールボタンを設置できる新しい<install>要素がテスト開始された。JavaScriptが不要で、installurl属性を使えば別のWebアプリのインストールボタンも設置可能。promptactionやvalidationstatuschangedなどのイベントハンドリングにも対応し、PWAの導入障壁を大幅に下げる。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2111684.html",
+      "collectedAt": "2026-05-27T23:11:42+00:00"
+    },
+    {
+      "title": "Google、モダンなWeb開発を支援するエージェントスキル「Modern Web Guidance」を公開",
+      "summary": "GoogleがGoogle I/O 2026で「Modern Web Guidance」を早期プレビュー公開した。アクセシビリティ・パフォーマンス・セキュリティに配慮したモダンWeb開発のガイダンスをコーディングエージェントに読み込ませるスキルとして提供され、ターミナルからガイドを検索してエージェントのコンテキストに渡せる。Gemini CLIやClaude Codeなど主要なAIコーディングツールで利用可能。",
+      "url": "https://gihyo.jp/article/2026/05/modern-web-guidance",
+      "collectedAt": "2026-05-27T23:11:42+00:00"
+    },
+    {
+      "title": "「Prompt API」が安定版に、超効率モデル「Gemma 197M」もChromeの組み込みAI機能が拡充",
+      "summary": "Google Chromeの組み込みAI機能「Prompt API」が安定版として正式リリースされた。Gemini NanoとGemma 197Mモデルを搭載し、ブラウザ上でローカルにAI推論を実行できる。Gemma 197Mは超軽量な専門モデルで、要約やテキスト分析などのタスク特化APIをより多くのデバイスに展開可能にする。Web開発者はオンデバイスAI機能をWebアプリに直接統合できるようになった。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2112093.html",
+      "collectedAt": "2026-05-27T23:11:42+00:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-27",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google I/Oで見えたGeminiの進化 検索やGmailなど日常の体験はどう変わる？",
+      "summary": "マイナビニュースが5月27日、Google I/O 2026で発表されたGemini関連アップデートの日常体験への影響を解説した。Google検索のAIモードにGemini 3.5 Flashがデフォルト搭載され、従来比4倍の高速応答を実現。GmailにはAI Overviewsによる長文スレッド要約やAI Inboxフィルタリング機能が導入され、日常のGoogle体験が大きく変わる。",
+      "url": "https://news.mynavi.jp/article/20260527-4506251/",
+      "collectedAt": "2026-05-27T23:11:42+00:00"
+    },
+    {
+      "title": "Python Starlette「BadHost」脆弱性で数百万のAIエージェントが危険にさらされる",
+      "summary": "PythonのWebフレームワーク「Starlette」に重大な脆弱性「BadHost」（CVE-2026-48710）が発見された。HTTPホストヘッダーに1文字挿入するだけでパス認証をバイパスでき、FastAPIを通じてvLLM・LiteLLM・MCPサーバーなど数百万のAIツールに影響する。Starlette 1.0.1で修正済みで、即時アップデートが推奨されている。",
+      "url": "https://gigazine.net/gsc_news/en/20260527-millions-ai-agents-imperiled-vulnerability-starlette/",
+      "collectedAt": "2026-05-27T23:11:42+00:00"
+    },
+    {
+      "title": "DuckDuckGoのユーザー数が急増 Google I/OでのAI強化発表を受けプライバシー志向の流れ加速",
+      "summary": "Google I/O 2026でAIを検索に深く統合しオプトアウト不可と発表したことを受け、DuckDuckGoの米国アプリインストール数が前週比平均18.1%増、ピーク時30.5%増と急増した。iOS単体では最大69.9%の伸びを記録。AI機能をすべて無効化したnoai.duckduckgo.comへのアクセスも前週比22.7%増加し、AI強制に反発するユーザーの流れが鮮明になっている。",
+      "url": "https://gigazine.net/news/20260527-not-google-but-duckduckgo/",
+      "collectedAt": "2026-05-27T23:11:42+00:00"
+    },
+    {
+      "title": "Anthropic、「Claude Code」向けセキュリティ監査プラグインを無償提供 脆弱性をリアルタイム検出・修正",
+      "summary": "Anthropicは5月27日、Claude Code向け公式プラグイン「security-guidance」を無償公開した。ファイル編集時のパターンマッチ、ターン終了時のバックグラウンドレビュー、コミット時の詳細なエージェントレビューの3層でコードの脆弱性をリアルタイムに検出・修正する。社内利用ではセキュリティ関連レビューコメントが30〜40%減少したという。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2112164.html",
+      "collectedAt": "2026-05-27T23:11:42+00:00"
+    }
+  ]
+}
