@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-28",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "GitHub Copilotプラン変更で変わるもの、変わらないもの ― 6月1日の従量課金移行に向けて",
+      "summary": "GitHub Copilotが6月1日からリクエストベース課金から「AI Credits」方式の従量課金制に移行する。コード補完とNext Edit Suggestionsは全プランで引き続きAIクレジット不要だが、Copilot code reviewのプライベートリポジトリ利用ではGitHub Actions minutesも消費する扱いに変更される。法人向けには6〜8月にAIクレジット増額の移行支援が予定されている。",
+      "url": "https://gihyo.jp/article/2026/05/sd-github-copilot-update",
+      "collectedAt": "2026-05-28T23:14:57+00:00"
+    },
+    {
+      "title": "AWS、Webブラウザからインストール不要で使えるコーディングAIエージェント「Kiro Web」プレビュー公開",
+      "summary": "AWSがWebブラウザから直接利用できるコーディングAIエージェント「Kiro Web」をプレビュー公開した。デスクトップIDEのインストール不要で仕様駆動開発・AIチャット・エージェント機能にアクセスでき、自律モードでは要件確認からコーディング・検証・PR作成まで自動で行える。フロントエンド開発を含む幅広いWeb開発に対応する。",
+      "url": "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+      "collectedAt": "2026-05-28T23:14:57+00:00"
+    },
+    {
+      "title": "Docker専用AIエージェント「Gordon」正式リリース、無料アカウントでも利用可能に",
+      "summary": "Docker社のAIエージェント「Gordon」が正式リリースされ、無料アカウントでも利用可能になった。Dockerfileの最適化やコンテナエラーの診断・修正を支援し、Docker DesktopとCLIの両方で利用できる。Webアプリケーション開発におけるコンテナ環境の構築・トラブルシューティングをAIがサポートする。",
+      "url": "https://www.itmedia.co.jp/news/spv/2605/28/news090.html",
+      "collectedAt": "2026-05-28T23:14:57+00:00"
+    }
+  ]
+}

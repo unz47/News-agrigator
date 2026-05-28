@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-28",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "国産AI開発へ製造業連合 旭化成など30社、ソフトバンク系に出資検討",
+      "summary": "ソフトバンクが設立した国産AI開発の新会社「日本AI基盤モデル開発」に、旭化成・富士通・安川電機など30社程度が新たに出資を検討していることが判明した。NEC・ホンダ・ソニーグループの4社を中核に、日本が強みを持つ製造業現場で使う「フィジカルAI」実現に向けた幅広い協力体制を構築する。",
+      "url": "https://www.nikkei.com/article/DGXZQOUC24B8X0U6A420C2000000/",
+      "collectedAt": "2026-05-28T23:14:57+00:00"
+    },
+    {
+      "title": "1500ドルで作った格安AI「HRM-Text」が70億パラメータLLMに匹敵、NVIDIA「LongLive-2.0」など生成AI技術5つを解説",
+      "summary": "テクノエッジが最新の生成AI技術5つを解説。わずか1500ドルで構築し70億パラメータLLMに匹敵する性能を持つ「HRM-Text」や、長時間AI動画生成の速度・メモリ問題を解決するNVIDIA「LongLive-2.0」（学習2.15倍・推論1.84倍の高速化）などが紹介されている。",
+      "url": "https://www.techno-edge.net/article/2026/05/28/5115.html",
+      "collectedAt": "2026-05-28T23:14:57+00:00"
+    },
+    {
+      "title": "OpenAI、プライベートMCPサーバーを安全に接続できる「Secure MCP Tunnel」提供開始",
+      "summary": "OpenAIは5月28日、プライベートネットワーク内のMCPサーバーをインターネットに公開せずChatGPT・Codex・Responses APIに接続できる「Secure MCP Tunnel」の提供を開始した。送信専用HTTPS接続によりファイアウォールのインバウンドポートを開ける必要がなく、企業のオンプレミス環境からもAIサービスを安全に利用できる。",
+      "url": "https://gihyo.jp/article/2026/05/openai-secure-mcp-tunnel",
+      "collectedAt": "2026-05-28T23:14:57+00:00"
+    }
+  ]
+}
