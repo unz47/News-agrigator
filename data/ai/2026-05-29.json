@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-29",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、Claude Opus 4.8を一般提供開始 誠実さが飛躍的に向上しMythosに並ぶアライメント性能",
+      "summary": "AnthropicがフラグシップモデルClaude Opus 4.8を一般提供開始した。前世代Opus 4.7からコーディング・推論・エージェント能力が向上し、SWE-Bench Proで69.2%を記録。自身のコード欠陥を見逃す傾向が約4分の1に低減され、誠実さの大幅改善が特徴。新機能「Dynamic Workflows」では最大1,000の並列サブエージェントを起動可能。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000034/",
+      "collectedAt": "2026-05-29T23:09:37+00:00"
+    },
+    {
+      "title": "OpenAI、日本政府とサイバーセキュリティで協力 最新AI「GPT-5.5-Cyber」を金融機関に提供",
+      "summary": "OpenAIが29日、日本政府との協力による「日本サイバーアクションプラン」を発表した。サイバー防御特化型AI「GPT-5.5-Cyber」をまず金融機関に提供し、今後政府機関や重要インフラ企業に段階的に拡大する。日本のAI安全性研究所（AISI）とも安全性評価に関する覚書を締結し、米英に次ぐ3か国目の連携となった。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/",
+      "collectedAt": "2026-05-29T23:09:37+00:00"
+    },
+    {
+      "title": "Google「Nano Banana 2」「Nano Banana Pro」が一般提供開始 動画からの画像生成もサポート",
+      "summary": "GoogleがAI画像生成モデル「Nano Banana 2」（Gemini 3.1 Flash Image）と「Nano Banana Pro」（Gemini 3 Pro Image）の一般提供を開始した。Previewが取れてAPI経由で利用可能になり、Nano Banana 2は新たに動画からの画像生成をプレビュー機能として追加。最大4K解像度の画像生成や最大14枚の参照画像の組み合わせにも対応する。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
+      "collectedAt": "2026-05-29T23:09:37+00:00"
+    },
+    {
+      "title": "Anthropic、評価額9650億ドルで650億ドルの資金調達 Mythosクラスモデルを数週間内に一般公開へ",
+      "summary": "Anthropicが650億ドルの新規資金調達を完了し、評価額は9650億ドルとなりAIスタートアップとして世界最高額を更新した。同時にサイバーセキュリティ能力の高さから非公開としていた「Claude Mythos」に近い性能のモデルを今後数週間で一般提供すると発表。日本を含む米国外でも利用可能になる見通し。",
+      "url": "https://news.mynavi.jp/techplus/article/20260529-4518843/",
+      "collectedAt": "2026-05-29T23:09:37+00:00"
+    }
+  ]
+}

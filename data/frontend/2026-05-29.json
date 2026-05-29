@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-29",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Claude Code「Dynamic Workflows」発表 JSランタイムBunのRust移行を11日で完了",
+      "summary": "AnthropicがClaude Codeの新機能「Dynamic Workflows」を発表した。最大1,000の並列サブエージェントを起動し大規模コードベースの変更を自動化する。JavaScriptランタイムBunの開発者Jarred Sumnerがこの機能を活用し、BunのZigからRustへの全面書き換え（約75万行）を11日で完了。既存テストスイートの99.8%がパスした。",
+      "url": "https://www.gizmodo.jp/article/claude-opus-4-8/",
+      "collectedAt": "2026-05-29T23:09:37+00:00"
+    },
+    {
+      "title": "BenQ、プログラミング向け27型WQHDモニター「RD270Q」を6月3日発売",
+      "summary": "BenQ Japanがプログラミング特化の27インチWQHDモニター「RD270Q」を発表した。Nano Matte技術による反射防止、ライトテーマ・ダークテーマ・カラーペーパーの3つのコーディング専用カラーモード、144Hzリフレッシュレートを搭載。65W USB-C給電対応で直販価格65,000円（税込）。",
+      "url": "https://www.gdm.or.jp/pressrelease/2026/0529/636737",
+      "collectedAt": "2026-05-29T23:09:37+00:00"
+    },
+    {
+      "title": "Qualcomm、300ドル級ノートPC向け「Snapdragon C」を発表 Web開発の裾野拡大へ",
+      "summary": "QualcommがCOMPUTEX 2026に合わせてエントリー向けSoC「Snapdragon C」を発表した。300ドル台のWindows on Armノートを実現し、NPU搭載でローカルAI処理にも対応する。Acer・HP・Lenovoが搭載ノートPCを2026年後半に発売予定で、学生や小規模チームのWeb開発環境の選択肢が広がる。",
+      "url": "https://news.mynavi.jp/article/20260529-4518219/",
+      "collectedAt": "2026-05-29T23:09:37+00:00"
+    }
+  ]
+}
