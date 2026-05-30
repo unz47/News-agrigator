@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-30",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Cursor 3.6リリース、「Auto-review」モードでAI駆動開発のUXが大幅改善",
+      "summary": "5月29日にリリースされたCursor 3.6で、AIエージェントの実行制御を自動化する「Auto-review」モードが追加された。ホワイトリスト化されたコマンドは即座に実行、サンドボックス可能な操作は隔離環境で実行、それ以外は分類エージェントが判断する3段階方式を採用。Settings > Agents > Run Modeから設定可能で、カスタム指示による分類の調整にも対応する。",
+      "url": "https://cursor.com/changelog",
+      "collectedAt": "2026-05-30T12:00:00+09:00"
+    },
+    {
+      "title": "Gartner予測「2027年にはIDEが必要不可欠ではなくなる」 フロントエンド開発の前提が変わる",
+      "summary": "Gartnerが5月27日の報告書で、エージェント型コーディングツールの台頭によりIDEの役割が大きく変わると予測。制御・ガバナンス・検証の機能が自動化プラットフォーム側に移行し、コーディングアシスタント・AI特化型IDE・ターミナルベースエージェントなど複数のカテゴリが競合する新市場構造に移行しつつあると分析した。",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-05-20-gartner-says-the-market-for-enterprise-ai-coding-agents-is-entering-a-new-phase-of-expansion-and-competitive-realignment",
+      "collectedAt": "2026-05-30T12:00:00+09:00"
+    },
+    {
+      "title": "TSKaigi 2026でGraphQLスキーマ構築ライブラリのAPI設計が議論 開発体験を左右する設計思想",
+      "summary": "TSKaigi 2026カンファレンスにて、GraphQLスキーマ構築ライブラリのAPI設計に関する発表が行われた。TypeScriptの型システムを活かしたスキーマ定義の方法論や、開発体験（DX）を左右するライブラリ設計の原則が議論され、oRPCやtRPCなど型安全なAPIライブラリの設計哲学との比較も取り上げられた。",
+      "url": "https://speakerdeck.com/izumin5210/tskaigi-2026",
+      "collectedAt": "2026-05-30T12:00:00+09:00"
+    },
+    {
+      "title": "2026年版リセットCSSの最新動向まとめ モダンブラウザ対応の現在地",
+      "summary": "Web制作メディア「コリス」が2026年のモダンブラウザ環境に適したリセットCSSをまとめて紹介。@layer（カスケードレイヤー）の普及により詳細度管理の手法が変化し、論理プロパティやDVH単位の標準化に合わせてリセットCSS自体の設計思想も進化している。Popover APIやAnchor Positioningなど新APIへの対応状況も解説された。",
+      "url": "https://coliss.com/articles/build-websites/operation/css/css-reset-for-modern-browser.html",
+      "collectedAt": "2026-05-30T12:00:00+09:00"
+    }
+  ]
+}
