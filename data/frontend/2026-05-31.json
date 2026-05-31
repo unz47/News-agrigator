@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-31",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Deno 2.8リリース、過去最大のマイナーアップデート TypeScript 6.0.3対応とNode.js互換性75%超を達成",
+      "summary": "Deno 2.8が5月22日にリリースされ、過去最大のマイナーリリースとなった。TypeScript 6.0.3のサポート、import deferへの対応、Node.js互換性が42%から75%超に大幅改善された。新コマンドdeno transpileやdeno whyの追加、Chrome DevToolsでのネットワーク検査対応、CPUフレームグラフ機能など多数の新機能を搭載している。",
+      "url": "https://deno.com/blog/v2.8",
+      "collectedAt": "2026-05-31T09:00:00+09:00"
+    },
+    {
+      "title": "Next.js 2026年5月セキュリティリリース、13件の脆弱性を一斉修正 最大CVSS 8.6",
+      "summary": "Vercelが5月6日にNext.jsの協調的セキュリティリリースを公開し、DoS・SSRF・XSS・キャッシュポイズニングなど13件の脆弱性を修正した。最も深刻なCVE-2026-44578（WebSocket SSRF、CVSS 8.6）ではサーバーを踏み台にした内部通信攻撃が可能だった。修正版はNext.js 15.5.18および16.2.6で、13.x・14.xへのパッチ提供はない。",
+      "url": "https://www.aandgweb.co.jp/next-js-may-2026-security-release/",
+      "collectedAt": "2026-05-31T09:00:00+09:00"
+    },
+    {
+      "title": "Vite 8.0がRust製バンドラRolldownを正式採用 ビルド速度が最大30倍に高速化",
+      "summary": "Vite 8.0が開発・本番ビルドをRust製バンドラRolldownに統一し、従来のesbuild+Rollupのデュアル構成を解消した。実導入企業ではLinearのビルド時間が46秒から6秒に短縮されるなど10〜30倍の高速化を実現。既存のViteプラグインAPIとの完全互換性を維持しつつ、一貫した動作と最適化を提供している。",
+      "url": "https://www.publickey1.jp/blog/26/vite_80rustrolldown.html",
+      "collectedAt": "2026-05-31T09:00:00+09:00"
+    }
+  ]
+}

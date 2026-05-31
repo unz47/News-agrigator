@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-31",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "MetaがAIペンダントを開発中と報道 ウェアラブルAI戦略を拡大",
+      "summary": "GIGAZINEが5月31日に報じたところによると、MetaがAI機能を搭載したペンダント型ウェアラブルデバイスを開発中。2025年末に買収したAIデバイス企業Limitlessの技術を基盤とし、Ray-Ban MetaやOakley MetaなどAIグラスのラインナップ拡充とともに2026年下半期に1000万台の販売を目指す計画の一環とされている。",
+      "url": "https://gigazine.net/news/20260531-meta-reportedly-developing-ai-pendant/",
+      "collectedAt": "2026-05-31T09:00:00+09:00"
+    },
+    {
+      "title": "Anthropic、650億ドル調達で評価額9650億ドルに到達 OpenAIを追い抜き世界最高に",
+      "summary": "Anthropicが5月28日にシリーズHラウンドで650億ドルを調達し、評価額が9650億ドルに到達した。2月のシリーズGから約3か月で評価額が約2.5倍に拡大し、OpenAI（評価額8520億ドル）を抜いて未上場AI企業として世界最高の評価額となった。年間換算収益も470億ドルを突破している。",
+      "url": "https://www.itmedia.co.jp/news/articles/2605/29/news080.html",
+      "collectedAt": "2026-05-31T09:00:00+09:00"
+    },
+    {
+      "title": "Anthropic、Claude Opus 4.8を一般提供開始 誠実さとコーディング能力が大幅向上",
+      "summary": "Anthropicが5月28日にフラグシップモデルClaude Opus 4.8の一般提供を開始。前世代Opus 4.7からわずか42日でのリリースで、SWE-Bench Proで69.2%を記録しGPT-5.5の58.6%を上回った。コード品質の判断力が4倍向上しハルシネーション抑制も強化。価格は据え置きでファストモードは2.5倍に高速化された。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000034/",
+      "collectedAt": "2026-05-31T09:00:00+09:00"
+    },
+    {
+      "title": "Groq、NVIDIAとのライセンス契約後に6.5億ドルを再調達 AI推論ネオクラウドへ転換",
+      "summary": "AI推論チップで知られるGroqが既存投資家から最大6.5億ドルの資金調達を実施中とAxiosが5月28日に報じた。2025年末にNVIDIAと約200億ドルの非独占ライセンス契約を結び創業者ら主要人材が移籍した後、ハードウェア事業からAI推論ネオクラウド事業への転換を進めている。",
+      "url": "https://www.axios.com/2026/05/28/groq-650-million-nvidia",
+      "collectedAt": "2026-05-31T09:00:00+09:00"
+    }
+  ]
+}
