@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-01",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、Claude Opus 4.8をリリース — Dynamic Workflows機能で数百の並列サブエージェント実行が可能に",
+      "summary": "Anthropicが5月28日にフラグシップモデルClaude Opus 4.8の一般提供を開始。新機能「Dynamic Workflows」により計画立案から数百の並列サブエージェント実行、検証まで一貫して大規模タスクを処理可能になった。コード品質の判断力がOpus 4.7の約4倍に向上し、価格据え置きでファストモードは約2.5倍に高速化された。",
+      "url": "https://gihyo.jp/article/2026/05/claude-opus-4-8",
+      "collectedAt": "2026-06-01T09:00:00+09:00"
+    },
+    {
+      "title": "Mistral AI、Le ChatをVibeにリブランドしAIエージェント統合プラットフォームに刷新",
+      "summary": "フランスのMistral AIがAIアシスタント「Le Chat」を「Vibe」にリブランドし、チャット・コーディング・業務支援エージェントを統合したプラットフォームに刷新した。Work ModeでGoogle Workspace・Slack等と連携、Code Modeではクラウド上で非同期コーディングが可能。エアバスやBMWと提携し製造業向け「物理AI」にも進出する。",
+      "url": "https://news.livedoor.com/article/detail/31140828/",
+      "collectedAt": "2026-06-01T09:00:00+09:00"
+    },
+    {
+      "title": "国産AI新会社に東芝・日立など約15社が追加出資意向、100社体制を目指す",
+      "summary": "ソフトバンクらが設立した「日本AI基盤モデル開発」に東芝・日立製作所・ファナック・安川電機・JERAなど約15社が追加出資意向を表明し、参画企業は約30社に拡大。2027年までに1兆パラメータ規模の国産AIモデル開発を目指し、6月中に10社前後が出資決定の見込み。",
+      "url": "https://news.yahoo.co.jp/pickup/6582109",
+      "collectedAt": "2026-06-01T09:00:00+09:00"
+    },
+    {
+      "title": "Anthropic、Claude有料プランにプログラムクレジット制を6月15日から導入",
+      "summary": "Anthropicが6月15日よりClaude Pro/Max有料プランにプログラム使用専用の月次クレジットを導入する。Agent SDK・Claude Code GitHub Actions・サードパーティエージェントの利用が対話利用と分離され、Pro/Max 5X/Max 20Xでそれぞれ$20/$100/$200のクレジットが付与される。未使用分は翌月繰り越し不可。",
+      "url": "https://gihyo.jp/article/2026/05/claude-agent-sdk-credit",
+      "collectedAt": "2026-06-01T09:00:00+09:00"
+    }
+  ]
+}

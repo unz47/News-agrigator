@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-01",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TanStack npmサプライチェーン攻撃でOpenAI社員端末2台が侵害、macOSアプリは6月12日までに更新を",
+      "summary": "5月11日にTanStackのnpmパッケージがサプライチェーン攻撃「Mini Shai-Hulud」を受け、42パッケージ・84の悪意あるバージョンが公開された。OpenAIでは社員端末2台が侵害されアプリの署名鍵が影響を受けたため、macOSユーザーは6月12日までにChatGPT・Codexアプリの更新が必要。pnpmの1日遅延設定デフォルト化など対策が進んでいる。",
+      "url": "https://gihyo.jp/article/2026/05/mini-shai-hulud",
+      "collectedAt": "2026-06-01T09:00:00+09:00"
+    },
+    {
+      "title": "Node.js、今後は年1回リリースに移行しすべてのメジャーバージョンがLTS版に",
+      "summary": "Node.jsプロジェクトが今後のリリースサイクルを大幅に変更し、Node.js 27以降は年1回のリリースですべてのメジャーバージョンがLTS版になると発表した。Node.js 26が現行スケジュールの最終版となり、10月にActive LTSへ移行予定。従来の「偶数版のみLTS」方式が廃止される。",
+      "url": "https://www.publickey1.jp/blog/26/nodejslts.html",
+      "collectedAt": "2026-06-01T09:00:00+09:00"
+    },
+    {
+      "title": "pnpm 11.0リリース、新規パッケージの1日遅延解決をデフォルト有効にしサプライチェーン攻撃に対策",
+      "summary": "pnpm 11.0が4月28日にリリースされ、サプライチェーン攻撃対策としてminimumReleaseAge（1日遅延）やblockExoticSubdepsがデフォルトで有効になった。新規公開パッケージは24時間経過後に初めて解決対象となり、公開直後の危険な期間の露出を低減。Node.js 22以降が必須となりpure ESMに移行した。",
+      "url": "https://gihyo.jp/article/2026/04/pnpm-v11-release",
+      "collectedAt": "2026-06-01T09:00:00+09:00"
+    }
+  ]
+}
