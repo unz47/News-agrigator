@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-02",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Rust製JavaScriptバンドラ「Rolldown」がバージョン1.0に到達、ビルドツールVite 8.0で採用",
+      "summary": "VoidZeroが開発するRust製の高速JavaScriptバンドラ「Rolldown」が正式にバージョン1.0に到達した。Rollupの10〜30倍の速度を実現し、ビルドツールVite 8.0ではesbuild＋Rollupの二重構成を置き換えるデフォルトバンドラとして採用されている。セマンティックバージョニングに準拠しAPIの後方互換性が保証される。",
+      "url": "https://www.publickey1.jp/blog/26/rustjavascriptrolldown10vite_80.html",
+      "collectedAt": "2026-06-02T09:00:00+09:00"
+    },
+    {
+      "title": "Node.js、Dateに代わる日時処理「Temporal」がデフォルト有効化、主要ブラウザでも利用可能に",
+      "summary": "Node.jsでJavaScriptの新しい日時処理API「Temporal」がデフォルトで有効化された。TemporalはChrome、Edge、Firefox、Node.jsで利用可能となり、従来のDateオブジェクトの問題点（タイムゾーン処理の複雑さ、ミュータブルな設計など）を解消する。moment.jsやdate-fnsなどの外部ライブラリに依存しない日時処理が標準で実現される。",
+      "url": "https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html",
+      "collectedAt": "2026-06-02T09:00:00+09:00"
+    },
+    {
+      "title": "マイクロソフト、Webブラウザ上でリアルタイム3Dレンダリングを実現する「Babylon.js 9.0」正式リリース",
+      "summary": "マイクロソフトがWebブラウザ上でリアルタイム3Dレンダリングを実現するJavaScriptライブラリ「Babylon.js 9.0」を正式リリースした。照明計算の高速化、パーティクルエディタの搭載など新機能が追加され、ブラウザベースの3Dコンテンツ開発がさらに強化された。",
+      "url": "https://www.publickey1.jp/blog/26/web3dbabylonjs_90.html",
+      "collectedAt": "2026-06-02T09:00:00+09:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-02",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、Claude Mythosを15カ国以上の重要インフラ組織150社に展開拡大",
+      "summary": "Anthropicは最強AIモデル「Claude Mythos」のアクセスをProject Glasswingの一環として15カ国以上・150組織に拡大した。電力・水道・医療・通信・ハードウェアなど重要インフラ分野が対象で、初期パートナーのAppleに加え、より多くの産業分野へのセキュリティ対策支援を進めている。",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "collectedAt": "2026-06-02T09:00:00+09:00"
+    },
+    {
+      "title": "Anthropic、Glasswing拡大とともにMythosクラスモデルの一般公開を約束",
+      "summary": "Anthropicがセキュリティ脆弱性プログラム「Project Glasswing」を拡大し、Mythosクラスのモデルを数週間以内に全顧客へ提供すると発表した。当初は限定アクセスのみだったMythosだが、方針を転換し6〜12ヶ月以内の一般リリースへ向けて動いている。",
+      "url": "https://9to5mac.com/2026/06/02/anthropic-expands-glasswing-as-it-promises-public-claude-mythos-class-model-releases/",
+      "collectedAt": "2026-06-02T09:00:00+09:00"
+    },
+    {
+      "title": "Claude Mythosが10,000件以上のゼロデイ脆弱性を発見、エンタープライズのパッチサイクルに影響",
+      "summary": "AnthropicのClaude Mythosが数週間で10,000件以上のゼロデイ脆弱性を発見したことが報告された。従来のセキュリティ対策では対応しきれない規模であり、企業のパッチ適用サイクルの見直しが迫られている。AIによるセキュリティ検査の能力が人間を大幅に超える時代の到来を示している。",
+      "url": "https://finance.biggo.jp/news/202606021522_Anthropic_Mythos_Zero-Day_Threat",
+      "collectedAt": "2026-06-02T09:00:00+09:00"
+    },
+    {
+      "title": "働き方×AIニュース：AIエージェントPC時代の到来と自動車産業のAI革新",
+      "summary": "AIエージェントがPCに標準搭載される時代が到来し、スケジュール管理や事務作業をAIが自律的に代行する環境が整いつつある。自動車産業ではGMがAI・機械学習・デジタルツインの導入で従来15時間のプロセスを1分に短縮した事例も報告されている。",
+      "url": "https://journal.omoshigo.link/trend/workai/20260602-20057/",
+      "collectedAt": "2026-06-02T09:00:00+09:00"
+    }
+  ]
+}
