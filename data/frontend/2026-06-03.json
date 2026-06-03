@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-03",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "マイクロソフト、Windows上でLinuxコンテナを直接実行できる「WSL containers」を発表",
+      "summary": "Microsoft Build 2026で、Windows Subsystem for Linuxの新機能「WSL containers」が発表された。wslc.exeコマンドでLinuxコンテナの作成・実行・管理がWindows上で直接可能になり、ローカル開発やAI/MLワークフロー、コンテナ化されたテスト環境の構築が大幅に簡素化される。数ヶ月以内にパブリックプレビューとして提供予定。",
+      "url": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
+      "collectedAt": "2026-06-03T09:00:00+09:00"
+    },
+    {
+      "title": "マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Windows」を一般公開",
+      "summary": "Microsoft Build 2026で、UNIXの基本コマンド群をWindowsにネイティブ移植した「Coreutils for Windows」が一般公開された。ls・cat・grep・sedなどのコマンドがWindows上でそのまま使用でき、Web開発者のクロスプラットフォーム開発体験が大きく改善される。",
+      "url": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
+      "collectedAt": "2026-06-03T09:00:00+09:00"
+    },
+    {
+      "title": "マイクロソフト、AIエージェント向け分離実行環境「Microsoft Execution Containers（MXC）」を発表",
+      "summary": "Microsoft Build 2026で、AIエージェント向けのカスタマイズ可能な分離実行環境「Microsoft Execution Containers（MXC）」が発表された。TypeScript SDK（@microsoft/mxc-sdk）として提供され、AIエージェントが許可された範囲内で安全にコードを実行できる仕組みを実現する。",
+      "url": "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
+      "collectedAt": "2026-06-03T09:00:00+09:00"
+    }
+  ]
+}

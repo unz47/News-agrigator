@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-03",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI GPT-5.5・GPT-5.4とCodexがAmazon Bedrockで一般提供開始",
+      "summary": "OpenAIのフロンティアモデルGPT-5.5・GPT-5.4およびコーディングエージェントCodexがAmazon Bedrockで一般提供を開始した。料金はOpenAI直接利用と同額で追加料金なく、既存のAWSコミットメントにも適用される。数百万のAWS顧客がセキュリティやコンプライアンスの既存環境からOpenAIモデルを利用可能になった。",
+      "url": "https://tech-noisy.com/2026/06/03/openai-gpt-5-5-gpt-5-4-codex-amazon-bedrock-ga/",
+      "collectedAt": "2026-06-03T09:00:00+09:00"
+    },
+    {
+      "title": "マイクロソフト、自社開発した7つのAIモデル「Microsoft AI Models」を発表",
+      "summary": "マイクロソフトがMicrosoft Build 2026で自社開発した7つのAIモデル群「Microsoft AI Models」を発表した。コーディング向けMAI-Code-1-Flash、推論向けMAI-Thinking-1、画像編集向けMAI-Image-2.5、音声認識向けMAI Transcribe-1.5など用途別に最適化されたモデルが揃う。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/03/news077.html",
+      "collectedAt": "2026-06-03T09:00:00+09:00"
+    },
+    {
+      "title": "Uber、AI予算を4ヶ月で使い果たし従業員のAI利用に月額上限を設定",
+      "summary": "Uberが2026年のAI関連予算をわずか4ヶ月で使い果たしたことが報じられた。約5000人のエンジニアにClaude Codeなどを導入した結果、1人あたり月額500〜2000ドルのコストが発生。従業員1人あたり月額1500ドルの利用上限を新たに設け、社内ダッシュボードで使用量を追跡する仕組みを導入した。",
+      "url": "https://www.washingtontimes.com/news/2026/jun/3/uber-capping-internal-use-ai-coding-software-blowing-budget/",
+      "collectedAt": "2026-06-03T09:00:00+09:00"
+    },
+    {
+      "title": "NVIDIAとMicrosoftがAIエージェントPC向け新チップ「RTX Spark」を発表",
+      "summary": "NVIDIAとMicrosoftが、Windows PC上でAIエージェントを動作させるための新スーパーチップ「RTX Spark」を発表した。1ペタフロップのAI性能と最大128GBの統合メモリを搭載し、ASUS・Dell・HP・Lenovo・Microsoft Surface・MSIから今秋発売予定の薄型ノートPCやデスクトップPCに採用される。",
+      "url": "https://journal.omoshigo.link/trend/workai/20260603-20060/",
+      "collectedAt": "2026-06-03T09:00:00+09:00"
+    }
+  ]
+}
