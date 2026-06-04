@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-04",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google「Gemma 4 12B」発表 メモリ16GBのノートPCでも動作するマルチモーダルモデル",
+      "summary": "Googleがオープンウェイトの新AIモデル「Gemma 4 12B」を発表。約120億パラメーターながら16GBのVRAMでローカル実行可能で、エンコーダー不要のユニファイドアーキテクチャにより画像・音声を直接処理しレイテンシーを削減。Apache 2.0ライセンスで無料公開され、より大型の26B MoEモデルに迫るベンチマーク性能を実現した。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000055/",
+      "collectedAt": "2026-06-04T09:00:00+09:00"
+    },
+    {
+      "title": "米アルファベット、AI投資向け増資額を7600億円積み増し 投資家の引き合い強く",
+      "summary": "AlphabetがAI基盤強化のための増資額を当初の800億ドルから847.5億ドル（約13.5兆円）に拡大した。バークシャー・ハサウェイの100億ドル出資を含め投資家の引き合いが強い。2026年の設備投資は1800〜1900億ドルと前年比ほぼ倍増を見込み、AI競争の投資規模が拡大している。",
+      "url": "https://www.nikkei.com/article/DGXZQOGN03DL90T00C26A6000000/",
+      "collectedAt": "2026-06-04T09:00:00+09:00"
+    },
+    {
+      "title": "Computex 2026でNVIDIA DLSS 4.5 Ray Reconstruction発表、8月にリリース予定",
+      "summary": "NVIDIAがComputex 2026でDLSS 4.5 Ray Reconstructionを発表した。第2世代トランスフォーマーモデルにより35%多い計算能力と20%多いパラメーター処理を実現しつつ、前世代と同等の性能を維持。8月に全RTX GPUで利用可能になり、27タイトルが対応予定。Blender 5.3にも今秋対応する。",
+      "url": "https://www.nvidia.com/en-us/geforce/news/computex-2026-nvidia-geforce-rtx-announcements/",
+      "collectedAt": "2026-06-04T09:00:00+09:00"
+    }
+  ]
+}

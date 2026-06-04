@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-04",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "What's new in Svelte: June 2026 ─ SvelteKitリモートクエリ・フォーム機能が大幅強化",
+      "summary": "Svelte公式ブログが6月のアップデートを公開。SvelteKit 2.61.0でリモートクエリのawait対応やキャッシュ重複排除の共有、query.live()によるリアルタイムデータアクセス、リモートフォームのプログラマティックsubmit() APIが追加された。vite-plugin-svelte 7.1.0ではサーバー環境でのオプティマイザーが有効化された。",
+      "url": "https://svelte.dev/blog/whats-new-in-svelte-june-2026",
+      "collectedAt": "2026-06-04T09:00:00+09:00"
+    },
+    {
+      "title": "Google I/O 2026でChrome Web新機能15項目発表 ─ WebMCPやHTML-in-Canvas APIでエージェント時代へ",
+      "summary": "Google I/O 2026でChromeのWeb開発向け15の新機能が発表された。AIエージェントがWebサイトと構造的に連携できるオープン標準「WebMCP」のオリジントライアル開始、DOM要素をCanvas内で直接操作できる「HTML-in-Canvas API」、SPAのCore Web Vitals測定を可能にする「Soft Navigations API」など、エージェント時代のWeb構築を支援する機能群が揃った。",
+      "url": "https://developer.chrome.com/blog/chrome-at-io26",
+      "collectedAt": "2026-06-04T09:00:00+09:00"
+    },
+    {
+      "title": "TanStack npmサプライチェーン攻撃のポストモーテム公開 ─ 42パッケージ84バージョンが侵害",
+      "summary": "TanStackが5月のnpmサプライチェーン攻撃のポストモーテムを公開した。攻撃者がpull_request_targetの悪用とGitHub Actionsキャッシュポイズニングを連鎖させ、42の@tanstack/*パッケージの84バージョンに悪意あるコードを注入。正規のSLSA Build Level 3証明書付きで配布された初のnpmワームとなり、開発者に対しロックファイルの確認と認証情報のローテーションが強く推奨されている。",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "collectedAt": "2026-06-04T09:00:00+09:00"
+    }
+  ]
+}
