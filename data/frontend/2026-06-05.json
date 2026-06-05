@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-05",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Angular 22正式リリース Signal-First時代の到来、WebMCP対応でAIエージェント連携も",
+      "summary": "Angular 22が正式リリースされ、Signal FormsとResource APIが安定版に昇格した。OnPush変更検知がデフォルト化され、WebMCP対応によりAngularフォームをブラウザ上のAIエージェントのツールとして直接公開可能に。@Serviceデコレータやdebounced関数など開発者体験の向上も図られた。",
+      "url": "https://blog.ninja-squad.com/2026/06/03/what-is-new-angular-22.0",
+      "collectedAt": "2026-06-05T23:18:36+00:00"
+    },
+    {
+      "title": "Next.jsセキュリティアップデート 9件のCVEを一斉修正、WebSocket SSRF等の重大脆弱性に対応",
+      "summary": "VercelがCVE-2026-44574〜44582の9件のセキュリティ脆弱性を一斉公開し、Next.js 15.5.18と16.2.6で修正した。最大深刻度はWebSocket SSRFのCVSS 8.6で、ミドルウェアバイパスやキャッシュポイズニングも含まれる。RSC関連の脆弱性が半年で20件超に達しており早急な更新が推奨される。",
+      "url": "https://vercel.com/changelog/next-js-may-2026-security-release",
+      "collectedAt": "2026-06-05T23:18:36+00:00"
+    },
+    {
+      "title": "Node.js 26.0.0リリース 新日時API「Temporal」がデフォルト有効に",
+      "summary": "Node.js 26.0.0がCurrentリリースとして公開され、次世代日時API「Temporal」がデフォルトで有効化された。従来のDateオブジェクトの問題を解消する設計で、V8エンジン14.6を搭載。今後6か月間のCurrent期間を経てActive LTSに移行する予定。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2106560.html",
+      "collectedAt": "2026-06-05T23:18:36+00:00"
+    }
+  ]
+}
