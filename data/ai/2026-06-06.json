@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-06",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic IPO、SECに機密申請 評価額9650億ドルでOpenAIを抜く",
+      "summary": "Anthropicが6月1日にSECにIPOの機密申請を提出した。評価額は9650億ドル（約154兆円）に達し、年間売上高は前年90億ドルから470億ドルへと急成長。SpaceXやOpenAIと並ぶ史上最大級のテックIPOとして注目を集めている。",
+      "url": "https://gigazine.net/news/20260602-anthropic-ipo-confidential-draft/",
+      "collectedAt": "2026-06-06T09:00:00+09:00"
+    },
+    {
+      "title": "Code with Claude 2026、東京6月10日開催 Anthropic開発者カンファレンスが3都市展開",
+      "summary": "Anthropicの開発者カンファレンス「Code with Claude 2026」が東京で6月10日に開催される。サンフランシスコ・ロンドンに続く3都市目の開催で、ハンズオンワークショップやライブデモ、日英同時通訳が提供される。需要の高さから6月11日にExtended Dayも追加された。",
+      "url": "https://innovatopia.jp/ai/ai-news/100258/",
+      "collectedAt": "2026-06-06T09:00:00+09:00"
+    },
+    {
+      "title": "Anthropic Claude Marketplace発表、外部パートナーの業務ツールを一括調達可能に",
+      "summary": "AnthropicがClaude Marketplaceを発表し、MCPサーバーの発見やワークフローテンプレートの共有が可能になった。エンタープライズ顧客は既存のAnthropic契約の一部でパートナー製品を購入でき、企業のAIツール導入と活用を効率化する。",
+      "url": "https://xenospectrum.com/anthropic-claude-marketplace-launch/",
+      "collectedAt": "2026-06-06T09:00:00+09:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-06",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TanStack npmサプライチェーン攻撃のポストモーテム公式公開 42パッケージが被害",
+      "summary": "5月11日にTanStackの42パッケージがサプライチェーン攻撃を受けたポストモーテムが公開された。pull_request_targetの悪用とGitHub Actionsキャッシュポイズニングを連鎖させ、npmエコシステム全体で169パッケージに被害が拡大。影響を受けたバージョンをインストールした環境ではクレデンシャルの即時ローテーションが推奨されている。",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "collectedAt": "2026-06-06T09:00:00+09:00"
+    },
+    {
+      "title": "pnpm 11.0リリース サプライチェーン保護をデフォルト有効化",
+      "summary": "pnpm 11.0がリリースされ、新規公開の依存パッケージを1日後に解決対象とする保護機能がデフォルトで有効になった。npm CLIへのフォールバックが廃止され独自実装に移行し、設定ファイルも.npmrcからpnpm-workspace.yamlへ変更された。",
+      "url": "https://gihyo.jp/article/2026/04/pnpm-v11-release",
+      "collectedAt": "2026-06-06T09:00:00+09:00"
+    },
+    {
+      "title": "TypeScript 7がGoで書き直し コンパイル速度10倍・メモリ半減を実現",
+      "summary": "TypeScript 7がGoで書き直されるProject Corsaにより、VS Code規模のプロジェクトのビルドが77.8秒から7.5秒に短縮された。TypeScript 6.0が最後のJavaScript製リリースとなり、メモリ使用量は約50%削減。2026年後半の安定版リリースが見込まれている。",
+      "url": "https://qiita.com/GeneLab_999/items/6da0226a721bcf06cebe",
+      "collectedAt": "2026-06-06T09:00:00+09:00"
+    }
+  ]
+}
