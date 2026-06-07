@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-07",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Node.js 26.0.0リリース、Temporal APIがデフォルト有効化でDateを置き換え",
+      "summary": "Node.js 26がCurrentリリースとして公開され、JavaScriptの新しい日時API「Temporal」がデフォルトで有効化された。V8エンジンはv14.6に更新され、Temporalは不変オブジェクト・明示的タイムゾーン処理など従来のDateの問題点を解消する。Chrome・Edge・Firefoxでも利用可能になっている。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2106560.html",
+      "collectedAt": "2026-06-07T09:00:00+09:00"
+    },
+    {
+      "title": "What's new in Svelte: June 2026 ── リモートクエリAPI強化とTypeScript 6対応",
+      "summary": "Svelte公式ブログが6月のアップデートまとめを公開。SvelteKit 2.61.0でリモートクエリがイベントハンドラやasyncコールバックでawait可能になり、query.live()によるサブスクリプションAPIも追加された。言語ツールではTypeScript 6サポートも実装されている。",
+      "url": "https://svelte.dev/blog/whats-new-in-svelte-june-2026",
+      "collectedAt": "2026-06-07T09:00:00+09:00"
+    },
+    {
+      "title": "TanStackサプライチェーン攻撃でOpenAI社員端末2台が侵害されていたことが判明",
+      "summary": "5月のTanStack npmサプライチェーン攻撃に関して、OpenAIが社員端末2台が侵害されたことを公式に確認した。攻撃はGitHub Actionsキャッシュポイズニングを起点に169パッケージへ拡大するワーム型で、影響を受けた環境ではクレデンシャルの即時ローテーションが推奨されている。",
+      "url": "https://iototsecnews.jp/2026/05/15/openai-confirms-security-breach-via-tanstack-npm-supply-chain-attack/",
+      "collectedAt": "2026-06-07T09:00:00+09:00"
+    }
+  ]
+}

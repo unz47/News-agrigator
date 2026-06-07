@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-07",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAIのGPT-5.5とCodexがAWS/Amazon Bedrockで一般提供開始",
+      "summary": "OpenAIは最新モデルGPT-5.5・GPT-5.4およびCodexをAmazon Bedrockで一般提供すると発表した。企業は既存のAWSセキュリティ・コンプライアンス基盤を活かしてOpenAIモデルを導入でき、利用料はAWSクラウド契約に充当可能となる。",
+      "url": "https://gihyo.jp/article/2026/06/openai-on-aws",
+      "collectedAt": "2026-06-07T09:00:00+09:00"
+    },
+    {
+      "title": "Apple WWDC 2026が明日8日開幕、Gemini搭載の新Siriを発表へ",
+      "summary": "Appleの開発者会議WWDC 2026が6月8〜12日に開催される。目玉はGoogle Geminiベースで全面刷新されたSiriで、AppleはGoogleに年間約10億ドルを支払い1.2兆パラメータのカスタムモデルを採用。iOS 27ではClaude・ChatGPT・Geminiから選択可能になるとリークされている。",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "collectedAt": "2026-06-07T09:00:00+09:00"
+    },
+    {
+      "title": "NVIDIA、ローカルAI向け新SoC「RTX Spark」を発表 搭載PCは2026年秋に登場",
+      "summary": "NVIDIAがComputex 2026でWindows PC向けSoC「RTX Spark」を発表した。Blackwellアーキテクチャ GPU・20コアArm CPU・最大128GB統合メモリを搭載し、FP4で1PFLOPSのAI性能を実現。Microsoft・ASUS・Dell・HP・Lenovo・MSIから搭載PCが秋に発売予定。",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2606/01/news125.html",
+      "collectedAt": "2026-06-07T09:00:00+09:00"
+    }
+  ]
+}
