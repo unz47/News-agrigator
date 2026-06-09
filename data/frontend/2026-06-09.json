@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-09",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Safari 27 beta発表、58の新機能を搭載 CSS Grid LanesやカスタマイズSelectなど",
+      "summary": "AppleがWWDC26でSafari 27 betaを発表した。58の新機能と525のバグ修正を含む大型アップデートで、CSSのGrid Lanesによるマソンリーレイアウト、カスタマイズ可能なselect要素、:heading擬似クラス、スクロールアンカリングなどが追加された。",
+      "url": "https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/",
+      "collectedAt": "2026-06-09T23:09:12+00:00"
+    },
+    {
+      "title": "WWDC26 Webテクノロジーセッション公開、visionOS 27の没入型Web体験など紹介",
+      "summary": "AppleがWWDC26のWebテクノロジー関連セッション一覧を公開した。Safari 27の新機能詳細、WebAssembly JavaScript Promise Integration（JSPI）、visionOS 27での没入型Webサイト環境サポートなどWeb開発者向けの最新技術が紹介される。",
+      "url": "https://webkit.org/blog/17974/web-technology-sessions-at-wwdc26/",
+      "collectedAt": "2026-06-09T23:09:12+00:00"
+    },
+    {
+      "title": "iOS 27発表、アプリ起動速度30%向上・メモリ使用量20%削減を実現",
+      "summary": "AppleがWWDC26でiOS 27を発表。コードネーム「Rave」と呼ばれる今回のアップデートではアプリ起動速度が最大30%向上し、メモリ使用量が20%削減された。iPhone 11以降をサポートし、開発者向けbetaが即日提供開始された。",
+      "url": "https://gigazine.net/gsc_news/en/20260609-apple-wwdc26-ios-27/",
+      "collectedAt": "2026-06-09T23:09:12+00:00"
+    }
+  ]
+}

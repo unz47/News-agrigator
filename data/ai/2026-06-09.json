@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-09",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Apple WWDC26で次世代「Siri AI」発表、Google Gemini搭載のAIアシスタントへ進化",
+      "summary": "AppleがWWDC26で次世代AIアシスタント「Siri AI」を発表した。GoogleのGeminiモデルをベースにした独自カスタムモデルを搭載し、画面認識・アプリ横断操作・個人コンテキスト理解が可能になった。年間約10億ドル規模のGoogleとのライセンス契約が報じられている。",
+      "url": "https://www.gizmodo.jp/article/wwdc26_siri_ai_apple_intelligence_matome/",
+      "collectedAt": "2026-06-09T23:09:12+00:00"
+    },
+    {
+      "title": "中国、47兆円規模のAIデータセンター建設計画を準備 今後5年で全国整備",
+      "summary": "中国政府が今後5年間で約2兆元（約47兆円）を投じ全国にAIデータセンターネットワークを構築する計画を準備していることがBloombergの報道で判明した。Huaweiなど国内企業の技術を80%以上採用しNVIDIAやAMDなど米国製品を排除する方針。",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGCUVMKK3NY800",
+      "collectedAt": "2026-06-09T23:09:12+00:00"
+    },
+    {
+      "title": "WWDC26でFoundation Modelsフレームワーク発表、AIプロバイダーをコード変更なしで切り替え可能に",
+      "summary": "AppleがWWDC26で発表したFoundation Modelsフレームワークにより、開発者はApple Foundation Models・Claude・Geminiなど複数のAIプロバイダーをコード変更なしで切り替え可能になった。マルチモーダルプロンプトやVisionフレームワーク連携もサポートされる。",
+      "url": "https://www.techtimes.com/articles/318039/20260609/wwdc-2026-developer-tools-foundation-models-now-swaps-ai-providers-without-code-changes.htm",
+      "collectedAt": "2026-06-09T23:09:12+00:00"
+    },
+    {
+      "title": "日経平均、半導体・AI関連株主導で大幅反発 米半導体株高の流れ継続",
+      "summary": "6月9日の東京株式市場で日経平均株価が4営業日ぶりに大幅反発し、AI・半導体関連株が相場を牽引した。前日の米国市場での半導体株高の流れを引き継ぎ、午後にかけて上げ幅を拡大する展開となった。",
+      "url": "https://kabushiki.jp/news/753741",
+      "collectedAt": "2026-06-09T23:09:12+00:00"
+    }
+  ]
+}
