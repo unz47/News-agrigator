@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-10",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic「Code with Claude Tokyo」開催、新モデルClaude Fable 5を発表",
+      "summary": "Anthropicの開発者カンファレンス「Code with Claude」が6月10日に東京で開催された。サンフランシスコ・ロンドンに続く3都市目の開催で、新最上位モデル「Claude Fable 5」と「Mythos」クラスの導入が発表された。Claude Codeの最新機能デモやワークショップ、開発チームとの1on1セッションが行われた。",
+      "url": "https://codezine.jp/article/detail/24513",
+      "collectedAt": "2026-06-10T23:17:25+00:00"
+    },
+    {
+      "title": "Google Geminiで世界的な大規模障害発生、エラーコード1076が多発",
+      "summary": "6月10日にGoogle Geminiで大規模な障害が発生し、世界中のユーザーに影響が及んだ。エラーコード1076や1099が多発し、Web版・アプリ版を含む全プラットフォームで約90%の確率でエラーが出る状態となった。Gemini 3.1 Flash-Lite、3.5 Flash、3.1 Proなど複数のモデルが影響を受けた。",
+      "url": "https://did2memo.net/2026/06/10/google-gemini-something-went-wrong-1076-error/",
+      "collectedAt": "2026-06-10T23:17:25+00:00"
+    },
+    {
+      "title": "日銀6月利上げ予想が9割に迫る、15-16日の金融政策決定会合に注目",
+      "summary": "日銀が6月15〜16日に開く金融政策決定会合で追加利上げに踏み切るとの市場予想が約9割に達した。生鮮食品と特殊要因を除いたCPIは4月に前年比2.8%に伸びが高まり、植田総裁のタカ派姿勢も織り込まれている。一方で利上げ見送りの見方もあり、市場の注目が集まっている。",
+      "url": "https://www.nikkei.com/article/DGXZQOFL0423UTU6A600C2000000/",
+      "collectedAt": "2026-06-10T23:17:25+00:00"
+    }
+  ]
+}

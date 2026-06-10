@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-10",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "JSNation 2026ワークショップデー開催、React Server Componentsなど実践セッション",
+      "summary": "世界最大のJavaScriptカンファレンスJSNation 2026のワークショップデーがアムステルダムで開催された。React Server Components、Server Actions、フォーム実装など先進的なWeb開発手法に関する実践的なセッションが行われた。本カンファレンスは6月11日と15日に開催される。",
+      "url": "https://jsnation.com/",
+      "collectedAt": "2026-06-10T23:17:25+00:00"
+    },
+    {
+      "title": "CloudflareがVoidZero買収、Vite・Rolldown・Oxcの開発チームが傘下に",
+      "summary": "CloudflareがVue.js/Viteの作者Evan You氏率いるVoidZero社の買収を発表した。週間1.3億ダウンロードのVite、Rustベースバンドラ Rolldown、JavaScript/TypeScriptパーサOxc、テストツールVitestが全てCloudflare傘下に。オープンソース・ベンダー中立を継続し、100万ドルのViteエコシステム基金も設立された。",
+      "url": "https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html",
+      "collectedAt": "2026-06-10T23:17:25+00:00"
+    },
+    {
+      "title": "Next.js脆弱性CVE-2026-44574〜44582が一斉公開、最大CVSS 8.6で修正版リリース",
+      "summary": "Vercelが9件のNext.js脆弱性（CVE-2026-44574〜44582）を一斉公開した。最大はCVE-2026-44578（WebSocket SSRF、CVSS 8.6）で、動的ルート注入（CVSS 8.1）なども含まれる。修正版Next.js 15.5.18および16.2.6がリリースされ、早急なアップデートが推奨されている。",
+      "url": "https://ai-heartland.com/security/news-react-nextjs-vulnerabilities-cloudflare/",
+      "collectedAt": "2026-06-10T23:17:25+00:00"
+    }
+  ]
+}
