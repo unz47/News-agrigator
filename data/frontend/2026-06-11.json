@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-11",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "JSNation 2026本編がアムステルダムで開催、1500人のJS開発者が集結",
+      "summary": "世界最大のJavaScriptカンファレンス「JSNation 2026」の本編が6月11日にアムステルダムのKromhouthalで開催された。フルスタック開発、アーキテクチャ、セキュリティ、AI活用など最新のJavaScript/Web開発テーマについて講演やパネルディスカッションが行われた。6月15日にはリモートデーも予定されている。",
+      "url": "https://jsnation.com/",
+      "collectedAt": "2026-06-11T23:14:28+00:00"
+    },
+    {
+      "title": "Node.js、Dateに代わる日時処理API「Temporal」がデフォルト有効化 主要ブラウザでも利用可能に",
+      "summary": "Node.jsで新しい日時処理API「Temporal」がデフォルトで有効化された。従来のDateオブジェクトのタイムゾーン処理やパース信頼性の問題を解決する次世代Web標準APIで、Chrome・Edge・Firefoxでも既にサポート済み。Safariを除く主要環境で本格利用が可能になった。",
+      "url": "https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html",
+      "collectedAt": "2026-06-11T23:14:28+00:00"
+    },
+    {
+      "title": "Apple、macOS上にLinuxコンテナを統合する「Container machine」バージョン1.0リリース",
+      "summary": "AppleがWWDC26で発表した「Container machine」のバージョン1.0をリリースした。macOS上でLinuxコンテナを軽量仮想マシンとして統合し、ユーザーディレクトリの自動マッピングやファイルシステム共有により、macOSとLinux間をシームレスに行き来できる開発環境を実現する。",
+      "url": "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
+      "collectedAt": "2026-06-11T23:14:28+00:00"
+    }
+  ]
+}

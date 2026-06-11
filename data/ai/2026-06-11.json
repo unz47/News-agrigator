@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-11",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google、拡散型テキスト生成モデル「DiffusionGemma」公開 ローカルGPUで毎秒1000トークン超",
+      "summary": "Googleが新しい拡散型言語モデル「DiffusionGemma」を公開した。26Bパラメータ（推論時3.8Bアクティブ）のMoEモデルで、従来の自己回帰型と異なり複数トークンを一括生成する拡散方式を採用。NVIDIA H100で毎秒1000トークン超の速度を実現し、Apache 2.0ライセンスで提供される。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000079/",
+      "collectedAt": "2026-06-11T23:14:28+00:00"
+    },
+    {
+      "title": "NTT、「IOWNファンド」設立 NVIDIAに倣い外部技術取り込みへ 約800億円規模",
+      "summary": "NTTが次世代光通信基盤「IOWN」の実用化に向け、約800億円規模の投資ファンド「IOWN AI Fund」を設立すると発表した。SK Group、中華電信、日本政策投資銀行と共同運営し、光電融合技術やAI向け半導体への投資を通じてAI時代のインフラ整備を加速する。",
+      "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/11/news056.html",
+      "collectedAt": "2026-06-11T23:14:28+00:00"
+    },
+    {
+      "title": "マイクロソフトが「.NET Skills」公開、AIエージェントの.NET開発能力を拡張",
+      "summary": "マイクロソフトが「.NET Skills」を公開し、AIエージェントに.NETのコーディングとデバッグ知識を組み込めるようにした。Anthropicが提唱し業界標準となった「Agent Skills」フレームワークに準拠しており、AIエージェントによるソフトウェア開発支援の能力を大幅に拡張する。",
+      "url": "https://www.publickey1.jp/blog/26/net_skillsainet.html",
+      "collectedAt": "2026-06-11T23:14:28+00:00"
+    },
+    {
+      "title": "デル、ローカルでAIエージェントを動かすデスクトップPC「Dell Deskside Agentic AI」発表",
+      "summary": "デルがローカル環境でAIエージェントを実行するためのデスクトップPC「Dell Deskside Agentic AI」を発表した。NVIDIA GB10やGB300チップを搭載し、企業がクラウドに依存せず社内でAIエージェントを安全に運用できる環境を提供する。",
+      "url": "https://www.publickey1.jp/blog/26/aipcdell_deskside_agentic_ainvidia_gb10gb300.html",
+      "collectedAt": "2026-06-11T23:14:28+00:00"
+    }
+  ]
+}
