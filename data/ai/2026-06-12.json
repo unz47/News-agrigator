@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-12",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI・Google DeepMind・AnthropicのCEOがG7サミットに参加へ、AI規制を議論",
+      "summary": "6月15〜17日にフランス・エビアンで開催されるG7サミットに、OpenAI、Google DeepMind、Anthropicの各社トップが招待されたことが6月12日に報じられた。マクロン大統領がサム・アルトマン氏に直接招待状を送り、G7史上初めて主要AI企業3社が揃って参加する見通し。AI規制や合成DNA安全基準が主要議題となる。",
+      "url": "https://dataconomy.com/2026/06/12/ai-leaders-openai-google-deepmind-anthropic-g7-summit/",
+      "collectedAt": "2026-06-12T12:00:00+00:00"
+    },
+    {
+      "title": "Anthropic「Claude Fable 5」一般公開から3日、コーディング性能が圧倒的と話題に",
+      "summary": "6月9日に公開されたAnthropicのMythos級モデル「Claude Fable 5」が大きな反響を呼んでいる。SWE-Bench Proベンチマークでスコア80.3%を記録し、GPT-5.5（58.6%）やGemini 3.1 Pro（54.2%）を大きく上回った。入力10ドル/出力50ドル（100万トークンあたり）で、6月22日までは有料プラン加入者に無料提供中。",
+      "url": "https://www.watch.impress.co.jp/docs/news/2115813.html",
+      "collectedAt": "2026-06-12T12:00:00+00:00"
+    },
+    {
+      "title": "Microsoft Build 2026でAIコーディングモデル「MAI-Code-1-Flash」発表、OpenAI依存を軽減へ",
+      "summary": "Microsoftは6月初旬のBuild 2026カンファレンスで、自社開発のAIコーディングモデル「MAI-Code-1-Flash」や推論モデル「MAI-Thinking-1」など計7つのAIモデルを発表した。テキストからソースコードを生成する機能を備え、OpenAIへの依存軽減と開発者向けコスト削減を目指す戦略を鮮明にした。",
+      "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+      "collectedAt": "2026-06-12T12:00:00+00:00"
+    },
+    {
+      "title": "AI大手4社がDNA合成スクリーニング義務化を米議会に要請",
+      "summary": "OpenAI、Anthropic、Google DeepMind、Microsoft AIのCEOが6月5日付で米議会に共同書簡を送り、合成DNA提供者への義務的スクリーニングを求めた。AI技術の進展により生物兵器製造の技術的障壁が低下しているとの懸念を表明し、オンラインで容易に注文可能な合成DNA・RNAの悪用防止策を求めている。",
+      "url": "https://yellow.com/news/openai-anthropic-google-microsoft-synthetic-dna-congress-letter",
+      "collectedAt": "2026-06-12T12:00:00+00:00"
+    }
+  ]
+}

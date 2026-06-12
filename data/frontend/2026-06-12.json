@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-12",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "CloudflareがVite開発元VoidZeroを買収、Evan You率いるチームがCloudflare傘下に",
+      "summary": "Cloudflareは6月4日、Vite・Rolldown・Vitest等の開発元であるVoidZero社の買収を発表した。Viteは週間1億2900万ダウンロードを誇るフロントエンド開発の基盤ツールで、買収後もオープンソース・ベンダー中立を維持する方針。Viteエコシステム基金に100万ドルを拠出し、外部コントリビューターの支援も行う。",
+      "url": "https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html",
+      "collectedAt": "2026-06-12T12:00:00+00:00"
+    },
+    {
+      "title": "SvelteKit 2026年6月アップデート：テンプレート内宣言やTypeScript 6.0対応など",
+      "summary": "Svelte公式ブログが6月のアップデートを発表した。Svelte 5.56.0でテンプレート内での変数宣言が可能になり、vite-plugin-svelte 7.1.0ではサーバー環境でのオプティマイザー有効化が実現。またSvelte言語ツールがTypeScript 6.0をサポートし、SvelteKitのリモートクエリ機能も大幅に強化された。",
+      "url": "https://svelte.dev/blog/whats-new-in-svelte-june-2026",
+      "collectedAt": "2026-06-12T12:00:00+00:00"
+    },
+    {
+      "title": "Vite 8でRolldownパイプライン統合、ビルド速度4〜20倍高速化を実現",
+      "summary": "3月にリリースされたVite 8がフロントエンド開発現場での導入を加速させている。従来のesbuild＋Rollupの二重構成をRolldown単一パイプラインに置き換え、ビルド速度が4〜20倍向上した。Nuxt 4.1、SvelteKit、Astro 5.xがQ2 2026でVite 8サポートを出荷し、エコシステム全体への浸透が進んでいる。",
+      "url": "https://www.nexgismo.com/blog/cloudflare-voidzero-vite-8-rolldown-guide-2026-3",
+      "collectedAt": "2026-06-12T12:00:00+00:00"
+    },
+    {
+      "title": "TypeScript 6.0正式リリース後の影響まとめ：strict標準化でエラー増加の声も",
+      "summary": "3月に正式リリースされたTypeScript 6.0について、導入現場からの声が集まっている。strict: trueがデフォルト化されたことで既存プロジェクトでエラーが増加する事象が報告されている。TypeScript 6.0はJavaScriptベースコンパイラの最終版であり、Go言語で書き直されるTypeScript 7.0への橋渡しと位置付けられている。",
+      "url": "https://zenn.dev/1stscratch/articles/e9266ecc43c0ad",
+      "collectedAt": "2026-06-12T12:00:00+00:00"
+    }
+  ]
+}
