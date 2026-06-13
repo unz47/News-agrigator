@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-13",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropicが米政府の指示で「Claude Fable 5」と「Claude Mythos 5」の全世界での提供を停止",
+      "summary": "米Anthropicは6月12日、米商務省ルートニック長官による輸出管理指令を受け、6月9日にリリースしたばかりの先端AIモデル「Claude Fable 5」と「Claude Mythos 5」の提供を全世界で停止した。指令は国家安全保障上の懸念から外国人へのアクセスを制限するもので、技術的にユーザーを分離できないため全ユーザーが影響を受けている。",
+      "url": "https://gigazine.net/news/20260613-anthropic-claude-fable-mythos-suspend/",
+      "collectedAt": "2026-06-13T12:00:00+00:00"
+    },
+    {
+      "title": "米政府、国家安全保障上の懸念からAnthropicに先端AIモデルの提供停止を命令",
+      "summary": "米商務省は6月12日、国家安全保障上の懸念を理由にAnthropicのClaude Fable 5およびMythos 5の全世界での提供停止を命じた。輸出管理指令は米国外への輸出・再輸出だけでなく、米国内の外国籍従業員への提供も制限対象としている。Opus 4.8など他のClaudeモデルは引き続き利用可能。",
+      "url": "https://finance.biggo.jp/news/202606131350_Anthropic-Claude-Fable-5-Mythos-5-Shutdown",
+      "collectedAt": "2026-06-13T12:00:00+00:00"
+    },
+    {
+      "title": "Fable 5とMythos 5が公開わずか3日で利用停止に 米政府の輸出規制と開発者が意識すべきこと",
+      "summary": "6月9日にリリースされたClaude Fable 5とMythos 5がわずか3日で利用停止となった経緯を解説する記事。先端AIモデルの地政学的リスクが顕在化した事例として、集中型フロンティアAIへの依存リスクや代替手段確保の重要性が指摘されている。",
+      "url": "https://note.com/kazu_t/n/n8138e02885b9",
+      "collectedAt": "2026-06-13T12:00:00+00:00"
+    },
+    {
+      "title": "Anthropic、Fable 5/Mythos 5停止の補償として全ユーザーの利用制限をリセット",
+      "summary": "Anthropicは6月13日、Claude Fable 5とMythos 5の提供停止に伴う補償措置として、ProおよびMaxプランの全ユーザーの5時間ごと・週間の利用制限をリセットした。復旧時期は未定だが、Opus 4.8など他モデルへのフォールバックが推奨されている。",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2116946.html",
+      "collectedAt": "2026-06-13T12:00:00+00:00"
+    }
+  ]
+}

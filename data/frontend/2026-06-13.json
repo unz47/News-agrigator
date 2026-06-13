@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-13",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "フロントエンド開発を1人で回せた話：IBM BobとMCPで実現する爆速開発ワークフロー",
+      "summary": "AIコーディングツール「IBM Bob」とMCP（Model Context Protocol）を活用し、フロントエンド開発を1人で効率的に回すワークフローを紹介する記事。1日1ページのペースで開発しながらテストとアクセシビリティの基準も維持できたという実践的な事例を解説している。",
+      "url": "https://qiita.com/byeongheon-oh/items/58b069383d76b64677cf",
+      "collectedAt": "2026-06-13T12:00:00+00:00"
+    },
+    {
+      "title": "Angular v22正式リリース：Signal Formsが安定版に昇格、セレクターレスコンポーネントを導入",
+      "summary": "Googleは6月3日にAngular v22を正式リリースした。Signal FormsとAngular Ariaが安定版に昇格し、セレクターレスコンポーネントによりテンプレートへの直接インポートが可能になった。OnPushがデフォルトの変更検出戦略となり、VitestがユニットテストのプライマリエンジンとしてKarmaに代わって採用されている。",
+      "url": "https://dev.to/rigole/angular-22-is-here-everything-you-need-to-know-4g3c",
+      "collectedAt": "2026-06-13T12:00:00+00:00"
+    },
+    {
+      "title": "CSSのFlexとGridのGapにスタイルを指定できる「CSS Gap Decorations」がChrome 149で正式対応",
+      "summary": "Chrome 149で正式にサポートされた「CSS Gap Decorations」により、FlexboxやGridレイアウトのGapに装飾的なボーダーやスタイルを指定できるようになった。column-rule-insetやrow-rule-visibilityなどの新プロパティが追加され、従来の擬似要素によるワークアラウンドが不要になる。",
+      "url": "https://qiita.com/degudegu2510/items/0c067a232719212c4bfe",
+      "collectedAt": "2026-06-13T12:00:00+00:00"
+    },
+    {
+      "title": "TypeScript 7.0 BetaがVisual Studio 2026でデフォルト有効化、Go移植により10倍高速化を実現",
+      "summary": "MicrosoftはVisual Studio 2026 18.6 Insiders 3にてTypeScript 7.0 BetaをデフォルトのSDKとして有効化した。TypeScript 7.0はコンパイラをGo言語で書き直すことでNode.jsランタイムの中間層を排除し、コンパイル速度を従来の約10倍に向上させている。6.0で動作するコードは7.0でも同一の動作が保証される。",
+      "url": "https://devblogs.microsoft.com/visualstudio/typescript-7-beta-now-enabled-by-default-in-visual-studio-2026-18-6-insiders-3/",
+      "collectedAt": "2026-06-13T12:00:00+00:00"
+    }
+  ]
+}
