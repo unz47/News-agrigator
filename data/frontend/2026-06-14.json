@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-14",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "2026年5月ウェブ標準まとめ：CSS :open疑似クラスやメディア遅延読み込みがBaselineに追加",
+      "summary": "Chrome 148、Firefox 151、Safari 26.5が5月に安定版リリースされ、CSSの:open疑似クラス、名前だけで親を参照できるコンテナクエリ、カスタムプロパティを条件とするスタイルクエリ、<video>・<audio>のネイティブ遅延読み込みがBaseline Newly availableに追加された。",
+      "url": "https://www.aandgweb.co.jp/web-platform-may-2026-new-features/",
+      "collectedAt": "2026-06-14T12:00:00+00:00"
+    },
+    {
+      "title": "Next.js 16でTurbopackがデフォルト化、本番ビルドが最大5倍・Fast Refreshが最大10倍に高速化",
+      "summary": "Next.js 16ではRust製バンドラーTurbopackがデフォルトのバンドラーとなり、本番ビルドが2〜5倍、Fast Refreshが最大10倍高速化された。複数のCPUコアを効率的に活用することで、JavaScript製バンドラーと比較して大幅な開発体験の向上を実現している。",
+      "url": "https://zenn.dev/m_noto/articles/59223a9d2019af",
+      "collectedAt": "2026-06-14T12:00:00+00:00"
+    },
+    {
+      "title": "TanStack Startがフルスタックフレームワークとして注目を集め、RCステージに到達",
+      "summary": "TanStackがフロントエンド開発全般をカバーするエコシステムとして拡大を続け、フルスタックフレームワーク「TanStack Start」がRC段階に到達した。TypeScriptベースのサーバー関数により型安全なフルスタック開発が可能で、Next.jsに続く新たな選択肢として注目されている。",
+      "url": "https://qiita.com/kimdev/items/bd510dd0804673779278",
+      "collectedAt": "2026-06-14T12:00:00+00:00"
+    },
+    {
+      "title": "Rust製フロントエンドツールチェーンが主流に：Biome・Turbopack・Oxcの台頭",
+      "summary": "2026年のJavaScriptツールチェーンはRust製ツールが主流となるフェーズに入った。BiomeはESLint+Prettierと比較してフォーマッティング25倍・リント15倍の高速化を実現し、Turbopack・Oxc・Rolldownなど新世代ツールが従来のWebpackやBabelを置き換えつつある。",
+      "url": "https://zenn.dev/crebo_tech/articles/001-rust-js-toolchain",
+      "collectedAt": "2026-06-14T12:00:00+00:00"
+    }
+  ]
+}

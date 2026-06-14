@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-14",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Amazon、Anthropicの最新AIの安全性懸念を米政権に事前に伝えていたことが判明",
+      "summary": "AmazonのCEOアンディ・ジャシー氏が、Anthropicの最新モデル「Claude Fable 5」「Mythos 5」の安全性について米政府高官に懸念を伝えていたことが14日、関係者への取材で明らかになった。この報告が米政府による同モデルの全世界での提供停止命令の一因となった可能性がある。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/14/news019.html",
+      "collectedAt": "2026-06-14T12:00:00+00:00"
+    },
+    {
+      "title": "OpenAI、米複数州の司法長官が共同調査を開始 ChatGPTの安全対策を問題視か",
+      "summary": "米ニューヨーク州など複数州の司法長官がOpenAIに対する共同調査を開始し、広範な召喚状を送達したことが判明した。調査対象はChatGPTの安全対策、広告方針、未成年者保護、健康データの処理など多岐にわたり、OpenAI側は調査に協力すると表明している。",
+      "url": "https://www.nikkei.com/article/DGXZQOGN130UI0T10C26A6000000/",
+      "collectedAt": "2026-06-14T12:00:00+00:00"
+    },
+    {
+      "title": "OpenAI、GPT-5.2モデルの提供を終了しGPT-5.5への自動移行を実施",
+      "summary": "OpenAIは6月12日をもってChatGPTでのGPT-5.2（Instant・Thinking・Pro）の提供を終了し、全ユーザーをGPT-5.5に自動移行した。GPT-5.5は5月5日からデフォルトモデルとして展開されており、約90日間のレガシーサポート期間を経ての正式廃止となる。",
+      "url": "https://applech2.com/archives/20260613-openai-retire-gpt-5-2-models-june-12-2026.html",
+      "collectedAt": "2026-06-14T12:00:00+00:00"
+    },
+    {
+      "title": "生成AI主要8サービス料金早見表2026年6月版 価格据え置きで主力モデルが一斉に世代交代",
+      "summary": "Business Insider Japanの6月版料金早見表によると、ChatGPTはGPT-5.5 Instant、ClaudeはOpus 4.8、GeminiはGemini 3.5系へと各社の主力モデルが世代交代を遂げた。Google AI Ultraは月額36,400円の一択から14,500円の新プランが追加され大幅な値下げが実施された。",
+      "url": "https://www.businessinsider.jp/article/2606-how-much-did-major-generative-ai-service-fees-become-in-jun-2026/",
+      "collectedAt": "2026-06-14T12:00:00+00:00"
+    }
+  ]
+}
