@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-15",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "WASI 0.3が正式版に WebAssembly Componentの非同期処理が共通基盤として確立",
+      "summary": "ByteCode AllianceがWASI 0.3（WebAssembly System Interface Preview 3）の正式リリースを発表した。async func、stream<T>、future<T>などネイティブ非同期プリミティブがコンポーネントモデルに追加され、サーバーサイドWebAssemblyのI/O処理が大幅改善。Wasmtime 43+とjcoでサポートされる。",
+      "url": "https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html",
+      "collectedAt": "2026-06-15T23:16:35+00:00"
+    },
+    {
+      "title": "npm v12でinstallスクリプトがデフォルト無効に サプライチェーン攻撃対策を大幅強化",
+      "summary": "GitHubがnpm v12でのセキュリティ重大変更を発表。依存パッケージのpreinstall・install・postinstallスクリプトがデフォルトで実行されなくなり、Git依存やリモートURL依存も明示的な許可制に変更される。TanStack攻撃やAxios攻撃を受け、npmエコシステム最大のコード実行面を封じる措置となる。",
+      "url": "https://gihyo.jp/article/2026/06/npm-v12-install-opt-in",
+      "collectedAt": "2026-06-15T23:16:35+00:00"
+    },
+    {
+      "title": "Chrome 149でWebMCPのOrigin Trial開始 AIエージェント向けWeb標準が実装段階へ",
+      "summary": "Google I/O 2026で発表されたWebMCP標準がChrome 149でOrigin Trialとして提供開始された。WebMCPはJavaScript関数やHTMLフォームを構造化ツールとしてブラウザ内AIエージェントに公開する仕組みで、DOM解析に頼らない信頼性の高いエージェント操作を実現する。Firefox Q3、Safari Q4対応予定。",
+      "url": "https://www.infoq.com/news/2026/06/webmcp-web-agent-standard-chrome/",
+      "collectedAt": "2026-06-15T23:16:35+00:00"
+    }
+  ]
+}
