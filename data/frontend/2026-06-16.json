@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-16",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "MDN、MCPサーバーの試験提供を開始 — AI開発ツールからWeb技術ドキュメントへ直接アクセス可能に",
+      "summary": "Mozilla MDNがModel Context Protocol（MCP）対応サーバーの試験提供を開始した。Claude CodeやCursorなどのAI開発ツールからMDNのWeb技術ドキュメントへ直接アクセスでき、Web標準に基づいた正確なコーディング支援が実現する。フロントエンド開発でのAI活用が一段と加速すると見られる。",
+      "url": "https://gihyo.jp/article/2026/06/mdn-mcp-server",
+      "collectedAt": "2026-06-16T23:15:17+00:00"
+    },
+    {
+      "title": "Google、AIエージェント向けオープン文書仕様「Open Knowledge Format」を発表",
+      "summary": "Googleは、AIエージェントと人間の両方がドキュメントを効率的に活用するためのオープン仕様「Open Knowledge Format（OKF）」を発表した。構造化されたマークダウンベースのフォーマットで、Web開発ドキュメントやAPIリファレンスの機械可読性を大幅に向上させることを目指す。",
+      "url": "https://gihyo.jp/article/2026/06/open-knowledge-format",
+      "collectedAt": "2026-06-16T23:15:17+00:00"
+    },
+    {
+      "title": "Angular 22正式リリース — Signal Formsが安定版に、OnPushがデフォルトの変更検知戦略へ",
+      "summary": "Angular 22が正式リリースされ、Signal FormsとResource APIが安定版となった。Selectorless Componentsにより命名衝突が減少し、OnPushがデフォルトの変更検知戦略に昇格。TypeScript 6が必須となり、Zone.js不要のSignal駆動アーキテクチャへの移行が本格化した。",
+      "url": "https://www.angulararchitects.io/en/blog/angular-22-the-most-important-new-features-at-a-glance/",
+      "collectedAt": "2026-06-16T23:15:17+00:00"
+    }
+  ]
+}

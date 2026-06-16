@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-16",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "ソフトバンク×OpenAI、サイバーセキュリティサービス「Patching as a Service」を提供開始",
+      "summary": "ソフトバンクは6月16日、OpenAIの「GPT-5.5 Cyber」等の技術を活用したサイバーセキュリティ対策ソリューション「Patching as a Service」の提供開始を発表した。企業システムへの疑似攻撃による脆弱性発見から修復方針の策定、実装提案まで一気通貫で支援し、まず日本の重要インフラ企業向けに提供される。",
+      "url": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260616_02/",
+      "collectedAt": "2026-06-16T23:15:17+00:00"
+    },
+    {
+      "title": "OpenAIのAIでソフトバンクの脆弱性を1万件発見、孫正義氏「黒船襲来以来の危機」",
+      "summary": "ソフトバンクがOpenAIのサイバー防御AI技術で自社の約700の重要システムを診断したところ、1万件以上の脆弱性候補が検出された。孫正義会長はAIサイバー攻撃を「黒船襲来以来の危機」と表現し、OpenAIのサム・アルトマンCEOもサイバーセキュリティがAIの最重要応用分野の一つだと強調した。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/16/2000000095/",
+      "collectedAt": "2026-06-16T23:15:17+00:00"
+    },
+    {
+      "title": "Anthropic、Claudeのエージェント利用別枠化プラン変更を撤回 再検討へ",
+      "summary": "Anthropicは6月16日、6月15日から施行予定だったClaudeのサブスクリプション刷新計画を撤回したと発表した。対話利用とAgent SDK・GitHub Actions利用を別枠に分離し月次クレジット制とする計画だったが、ユーザーからの反発を受け今後のプラン変更に向け再検討中としている。",
+      "url": "https://www.techno-edge.net/article/2026/06/16/5187.html",
+      "collectedAt": "2026-06-16T23:15:17+00:00"
+    },
+    {
+      "title": "Google、リアルタイム音声翻訳モデル「Gemini 3.5 Live Translate」を70言語以上に展開",
+      "summary": "Googleは70以上の言語・2000以上の言語ペアに対応したリアルタイム音声翻訳モデル「Gemini 3.5 Live Translate」の一般提供を開始した。話者のイントネーション・テンポ・声質を保持したまま翻訳を行い、Google翻訳・Google Meet・Gemini Live APIで利用可能。",
+      "url": "https://codezine.jp/news/detail/24549",
+      "collectedAt": "2026-06-16T23:15:17+00:00"
+    }
+  ]
+}
