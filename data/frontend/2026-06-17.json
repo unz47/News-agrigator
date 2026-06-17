@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-17",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Cursor、GitHub対抗のGitフォージ「Origin」を発表 AIエージェント時代の開発基盤",
+      "summary": "AIコーディングツールCursorが、エージェント前提のGitフォージ「Origin」を発表した。複数のAIエージェントが同時にクローン・ブランチ・コミット・リベースする負荷を前提に設計され、ライブデモでは単一リポジトリで毎秒22.6コミットを実演。マージ衝突の自動解決やCI失敗のエージェント解決機能を備え、今秋の一般提供を予定。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/17/2000000100/",
+      "collectedAt": "2026-06-17T12:00:00+09:00"
+    },
+    {
+      "title": "SpaceX、開発者向けAIコーディングツール「Cursor」を9.6兆円で買収",
+      "summary": "SpaceXがAIコーディングアシスタント「Cursor」の開発元Anysphereを600億ドルで買収。CursorはVS Code系のエディタにAI機能を統合し、フロントエンド含むソフトウェア開発者に広く利用されている。SpaceXのAI部門と共同開発中の新モデルが近日中にリリース予定で、大幅な機能改善が見込まれる。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2117702.html",
+      "collectedAt": "2026-06-17T12:00:00+09:00"
+    },
+    {
+      "title": "Microsoft「Copilot Cowork」一般提供開始、開発者の複雑なタスクを自律実行",
+      "summary": "Microsoftが開発者向け自律型AIエージェント「Copilot Cowork」を一般提供開始した。コードレビュー、リファクタリング、テスト作成など複雑な開発タスクをエンドツーエンドで自律実行する。マルチモデル対応で従量課金制を採用し、Claude Coworkより30〜40%安価に設定されている。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2117699.html",
+      "collectedAt": "2026-06-17T12:00:00+09:00"
+    }
+  ]
+}

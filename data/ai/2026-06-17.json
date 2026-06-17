@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-17",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "SpaceX、AIコーディングツール「Cursor」を600億ドル（約9.6兆円）で買収",
+      "summary": "SpaceXは上場直後の巨額投資として、AIコーディングアシスタント「Cursor」開発元のAnysphereを600億ドル相当の全株式交換で買収すると発表した。Cursorは年間売上高約26億ドルに達しており、VC支援スタートアップの買収額としては史上最大規模。買収は2026年第3四半期に完了見込み。",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/17/news066.html",
+      "collectedAt": "2026-06-17T12:00:00+09:00"
+    },
+    {
+      "title": "G7サミットでAIワーキングランチ開催、Anthropic・OpenAI・Google CEOが参加",
+      "summary": "G7エビアンサミットで初のAIワーキングランチが開催され、AnthropicのDario Amodei、OpenAIのSam Altman、Google DeepMindのDemis Hassabisら約12名のテックリーダーが各国首脳と同席した。Amodeiは米国主導のAI連合を呼びかけ、Altmanは国際的なAI評価フォーラムの設立を提案した。",
+      "url": "https://www.cnbc.com/2026/06/17/g7-trump-ai-tech-leaders-openai-anthropic-google.html",
+      "collectedAt": "2026-06-17T12:00:00+09:00"
+    },
+    {
+      "title": "Microsoft「Copilot Cowork」一般提供開始、従量課金モデルでAIエージェントを展開",
+      "summary": "Microsoftは自律型AIエージェント「Copilot Cowork」の一般提供を開始した。複雑で長時間のマルチツールタスクをエンドツーエンドで実行し、完成した結果を返す機能を持つ。従量課金モデルを採用し、Fortune 500の半数以上がプレビュー中に利用。Anthropicの「Claude Cowork」より30〜40%安価とされる。",
+      "url": "https://gihyo.jp/article/2026/06/microsoft-copilot-cowork-ga",
+      "collectedAt": "2026-06-17T12:00:00+09:00"
+    },
+    {
+      "title": "ローカルLLM最適モデル選定ツール「whichllm」登場、実測ベンチマークでランク付け",
+      "summary": "自分のPCのハードウェア構成を自動認識し、実測ベンチマークデータに基づいて最適なローカルLLMモデルをランク付けするツール「whichllm」が紹介された。VRAMやRAM容量だけでなく実際の性能を考慮し、「とりあえず動く」ではなく「一番賢く使える」モデルを推薦する仕組み。",
+      "url": "https://www.techno-edge.net/article/2026/06/17/5192.html",
+      "collectedAt": "2026-06-17T12:00:00+09:00"
+    }
+  ]
+}
