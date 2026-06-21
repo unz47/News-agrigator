@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-21",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Vercel、AIエージェントフレームワーク「eve」をリリース ─ エージェントにおけるNext.jsを目指す",
+      "summary": "Vercelがオープンソースのエージェントフレームワーク「eve」をリリースした。ファイルシステムベースの設計で、ディレクトリ構造でエージェントを定義する。耐久実行、サンドボックス計算、ヒューマンインザループ承認など本番運用向け機能を標準搭載し、Slack・GitHub・Salesforceなど主要サービスと連携可能。",
+      "url": "https://gihyo.jp/article/2026/06/eve",
+      "collectedAt": "2026-06-21T23:11:00+00:00"
+    },
+    {
+      "title": "WordPressの管理画面をデスクトップOS風にできる無料プラグイン「Desktop Mode」登場、AI連携も可能",
+      "summary": "WordPressの管理画面をデスクトップOSのようなインターフェースに変換する無料プラグイン「Desktop Mode」が公開された。ウィンドウ管理やファイルマネージャーなどの機能を備え、AIとの連携機能も搭載している。Web開発のワークフロー改善に役立つツールとして注目されている。",
+      "url": "https://gigazine.net/news/20260621-desktop-mode/",
+      "collectedAt": "2026-06-21T23:11:00+00:00"
+    },
+    {
+      "title": "Svelte 2026年6月アップデート：SvelteKit Forms改善、TypeScript 6.0対応",
+      "summary": "Svelteの2026年6月の月例アップデートが公開された。SvelteKitのフォームとリモート関数が大幅に改善され、新しい.live()関数によりリアルタイムデータへのアクセスが容易に。Svelte言語ツールがTypeScript 6.0に対応し、マークアップ内での宣言が可能になるなど開発体験が向上した。",
+      "url": "https://svelte.dev/blog/whats-new-in-svelte-june-2026",
+      "collectedAt": "2026-06-21T23:11:00+00:00"
+    }
+  ]
+}
