@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-22",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Sakana AI「Fugu」正式リリース、マルチエージェントを1本のAPIで提供する新プロダクト",
+      "summary": "Sakana AIがマルチエージェント基盤モデル「Sakana Fugu」の一般提供を開始した。ユーザーからは単一のAPIに見えるが、裏では複数のフロンティアモデルを動的に指揮して回答を組み立てる仕組み。上位版Fugu UltraはTerminal-Bench 2.1でFable 5を上回る性能を公式報告している。",
+      "url": "https://zenn.dev/acntechjp/articles/c0ffbdf3d5c5d4",
+      "collectedAt": "2026-06-22T15:00:00+09:00"
+    },
+    {
+      "title": "「AI臭い文章を生成させない」ルール集、LLMに質の高い技術文書を書かせるスキルを技術書出版社代表が公開",
+      "summary": "ラムダノート代表の鹿野桂一郎氏が、LLMに高品質な日本語技術文書を生成させるためのルール集「japanese-tech-writing」を公開した。「重要なのは〜である」などLLM特有の冗長表現や曖昧な表現を排除し、論理的で読者が迷わず読める技術文書を生成するためのスキルセットとなっている。",
+      "url": "https://www.techno-edge.net/article/2026/06/22/5209.html",
+      "collectedAt": "2026-06-22T15:00:00+09:00"
+    },
+    {
+      "title": "AWS、インフラ構成とビジネスコンテキストも理解して脆弱性を推論する「AWS Continuum」発表",
+      "summary": "AWSが新サービス「AWS Continuum for code vulnerabilities」を発表した。AIを活用し、コードだけでなくインフラ構成・権限・ネットワークトポロジー・ビジネス優先度も理解した上でセキュリティ脆弱性を推論する。特定のAIモデルに依存しないモデル非依存の設計が特徴で、ゲーテッドプレビューとして提供開始。",
+      "url": "https://www.publickey1.jp/blog/26/awsaws_contiuumai.html",
+      "collectedAt": "2026-06-22T15:00:00+09:00"
+    },
+    {
+      "title": "AWS、AIエージェントがリポジトリを自動スキャンして技術的負債を指摘する「AWS Transform」プレビュー公開",
+      "summary": "AWSが「AWS Transform – continuous modernization」のプレビューを公開した。AIエージェントがリポジトリ全体を自動スキャンし、レガシーコードやフレームワーク移行が必要な箇所などの技術的負債を検出・指摘する。AWS Summit New Yorkで発表された一連のAI開発支援ツールの一つ。",
+      "url": "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
+      "collectedAt": "2026-06-22T15:00:00+09:00"
+    }
+  ]
+}

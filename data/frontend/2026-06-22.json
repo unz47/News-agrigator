@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-22",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "AWS Blocksとは何者か。Amplify・App Studioとの違いと、それぞれが目指すもの",
+      "summary": "AWSが発表したオープンソースTypeScriptフレームワーク「AWS Blocks」を解説。バックエンドのTypeScriptコードがそのままAWSインフラになる設計で、Vite+React（SPA）やNext.js・Nuxt・Astro（SSR）に対応する。AIエージェントによるコード生成を前提とした2026年型フレームワークとしてAmplifyやApp Studioとの設計思想の違いを比較している。",
+      "url": "https://zenn.dev/genda_jp/articles/8122f1cd49754c",
+      "collectedAt": "2026-06-22T15:00:00+09:00"
+    },
+    {
+      "title": "CloudflareがViteやRolldownの開発元VoidZeroの買収を発表、Viteエコシステムはオープンソース維持へ",
+      "summary": "Cloudflareが週間1.3億ダウンロードを誇るViteの開発元VoidZeroの買収を発表した。Vue.js・Vite開発者のEvan You氏が設立したVoidZeroは、Vite・Vitest・Rolldown・Oxc・Vite+をオープンソースかつベンダー中立で継続運営する。Cloudflareはエコシステム基金として100万ドルを拠出する。",
+      "url": "https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html",
+      "collectedAt": "2026-06-22T15:00:00+09:00"
+    },
+    {
+      "title": "WASI 0.3が正式版に、WebAssembly Componentの非同期処理が共通基盤として確立",
+      "summary": "ByteCode AllianceがWASI 0.3（WebAssembly System Interface Preview 3）の正式リリースを発表した。stream<T>やfuture<T>といった非同期プリミティブがComponent Modelにネイティブ統合され、サービスチェイニングによりマイクロサービス間の呼び出しをミリ秒からナノ秒に短縮可能になった。",
+      "url": "https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html",
+      "collectedAt": "2026-06-22T15:00:00+09:00"
+    }
+  ]
+}
