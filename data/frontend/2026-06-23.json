@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-23",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "GitHub、AIによる雑なプルリクエストを抑制へ。ユーザー当たりのPR数上限設定機能を導入",
+      "summary": "GitHubが、書き込み権限のない外部コントリビューターに対してオープンできるプルリクエスト数の上限を設定できる新機能を導入した。生成AIの普及でOSSプロジェクトへの大量のPR送信が問題化しており、メンテナーは上限設定と信頼できるコントリビューターのバイパスリストを管理できるようになった。",
+      "url": "https://www.publickey1.jp/blog/26/githubai_1.html",
+      "collectedAt": "2026-06-23T15:00:00+09:00"
+    },
+    {
+      "title": "Astro 7.0リリース ―Rust製コンパイラで大幅に高速化、コーディングエージェントにも対応",
+      "summary": "Astro開発チームがWeb開発フレームワークAstro 7.0をリリースした。コンパイラがGoからRustに書き直され、ビルドツールもRustベースのRolldownバンドラーを搭載するVite 8にアップグレードされた。Astro 6で実験的だったQueued Renderingがデフォルトとなり、Advanced Routingやバックグラウンドdevサーバーにも対応している。",
+      "url": "https://gihyo.jp/article/2026/06/astro-7",
+      "collectedAt": "2026-06-23T15:00:00+09:00"
+    },
+    {
+      "title": "GitHub、リポジトリのPRをコラボレーターのみに制限する設定が可能に",
+      "summary": "GitHubがパブリックリポジトリにおいて、プルリクエストの作成をコラボレーターのみに制限したり、完全に無効化したりする設定を導入した。AI生成コードによるPRの急増を受け、リポジトリオーナーがコントリビューションの品質管理をより柔軟に行えるようにする措置。PRの上限設定機能と合わせて段階的な制御が可能になった。",
+      "url": "https://www.publickey1.jp/blog/26/github_14.html",
+      "collectedAt": "2026-06-23T15:00:00+09:00"
+    }
+  ]
+}
