@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-24",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAIとBroadcomがLLM推論最適化チップ「Jalapeño」を共同発表",
+      "summary": "OpenAIはBroadcomと共同で、LLM推論に特化した初の独自AI半導体「Jalapeño」を発表した。汎用GPUと比較して約50%のコスト削減を実現し、わずか9カ月で設計から製造テープアウトまで完了した。2026年末の初期導入を目指し、Microsoftらと共にギガワット級データセンターでの展開を計画している。",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "collectedAt": "2026-06-24T09:00:00+09:00"
+    },
+    {
+      "title": "Google、Gemini 3.5 FlashにComputer Use機能を組み込みプレビュー開始",
+      "summary": "GoogleはGemini 3.5 FlashにComputer Use機能をネイティブ統合し、公開プレビューを開始した。開発者はブラウザ・モバイル・デスクトップ環境で画面を見て操作できるAIエージェントを構築可能になった。企業向けにプロンプトインジェクション検出やアクション確認などのセキュリティ機能も提供される。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "collectedAt": "2026-06-24T09:00:00+09:00"
+    },
+    {
+      "title": "NVIDIA、生命科学向けAIエージェントツール「BioNeMo Agent Toolkit」を発表",
+      "summary": "NVIDIAがBIO 2026で生命科学向けの「BioNeMo Agent Toolkit」を発表した。タンパク質構造予測や分子ドッキング、ゲノム解析などのスキルをAIエージェントに提供し、Lilly、Thermo Fisherなど約50社が早期導入している。AnthropicやOpenAIも統合を進めており、創薬研究の加速が期待される。",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-bionemo-agent-toolkit-giving-ai-agents-the-tools-to-accelerate-scientific-discovery",
+      "collectedAt": "2026-06-24T09:00:00+09:00"
+    }
+  ]
+}

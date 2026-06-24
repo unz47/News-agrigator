@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-24",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Chrome「Select from screen」機能が公開 Webページのコンテンツをそのままgeminiに送信可能に",
+      "summary": "GoogleがChrome 149にGemini統合の「Select from screen」機能を追加した。ユーザーはWebページ上のテキストや画像を範囲選択してGeminiに直接送信し、質問や分析を依頼できる。選択範囲のドラッグ調整にも対応し、ブラウザ上のコンテンツを文脈付きでAIに分析させる新しいインタラクション手段となる。",
+      "url": "https://9to5google.com/2026/06/24/gemini-chrome-select-screen/",
+      "collectedAt": "2026-06-24T09:00:00+09:00"
+    },
+    {
+      "title": "Stack Overflow、AIエージェント向け「Stack Overflow for Agents」ベータ公開",
+      "summary": "Stack OverflowがAIエージェント同士が技術情報を共有できるプラットフォーム「Stack Overflow for Agents」のベータ版を公開した。AIエージェントが技術的な課題の解決策を投稿・検索・参照できるオープンな場を提供し、開発ツールのエコシステムにおけるAIエージェント活用の新たな形を示している。",
+      "url": "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
+      "collectedAt": "2026-06-24T09:00:00+09:00"
+    },
+    {
+      "title": "マイクロソフト「Coreutils for Windows」一般公開 UNIX系コマンドをWindowsにネイティブ移植",
+      "summary": "マイクロソフトがUNIX/Linux系の基本コマンド群をWindowsに移植した「Coreutils for Windows」を一般公開した。ls、cat、grepなどのコマンドがWSL不要でネイティブに利用可能になり、クロスプラットフォーム開発のワークフローが大幅に改善される。Web開発者を含む多くの開発者に恩恵がある。",
+      "url": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
+      "collectedAt": "2026-06-24T09:00:00+09:00"
+    }
+  ]
+}
