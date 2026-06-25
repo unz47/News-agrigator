@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-25",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、Codexの利用実態をもとにAIエージェントが知識労働に与える影響を分析した研究を公開",
+      "summary": "OpenAIは25日、コーディングエージェント「Codex」の利用実態データをもとに、AIエージェントが知識労働全般に与える影響を分析した経済研究レポートを公開した。コーディング支援にとどまらず、データ分析・ワークフロー自動化・コンテンツ作成など幅広い業務での生産性変革を示し、あらゆる職種への活用拡大を提唱している。",
+      "url": "https://openai.com/index/codex-for-knowledge-work/",
+      "collectedAt": "2026-06-25T09:00:00+09:00"
+    },
+    {
+      "title": "OpenAI、サイバーセキュリティ防衛向け「GPT-5.5-Cyber」を限定プレビュー公開",
+      "summary": "OpenAIはサイバーセキュリティ防衛に特化した「GPT-5.5-Cyber」モデルを重要インフラ防衛担当者向けに限定公開した。大規模コードベースの脆弱性分析・攻撃パス追跡・パッチ作成とテストまで一貫して行え、CyberGymベンチマークで85.6%を達成。30社以上のセキュリティベンダーへのAPI統合も拡大された。",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/",
+      "collectedAt": "2026-06-25T09:00:00+09:00"
+    },
+    {
+      "title": "ノーベル化学賞のジョン・ジャンパー氏がGoogle DeepMindからAnthropicへ移籍、AI人材争奪戦が激化",
+      "summary": "AlphaFoldの開発を率い2024年ノーベル化学賞を受賞したジョン・ジャンパー氏が、約9年間在籍したGoogle DeepMindを離れAnthropicに入社すると発表した。同週にはGeminiの共同開発者ノーム・シャジア氏もOpenAIへの移籍を発表しており、AI業界の人材争奪戦が科学界最高の栄誉受賞者にまで及んでいる。",
+      "url": "https://gigazine.net/news/20260622-john-jumper-leave-google-deepmind-for-anthropic/",
+      "collectedAt": "2026-06-25T09:00:00+09:00"
+    }
+  ]
+}

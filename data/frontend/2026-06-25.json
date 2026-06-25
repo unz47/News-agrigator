@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-25",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7.0リリース候補版が登場、Go言語ベースのコンパイラで約10倍高速に",
+      "summary": "マイクロソフトはTypeScript 7.0のリリース候補版を公開した。約1年かけてTypeScriptコンパイラをGo言語にネイティブ移植し、共有メモリによる並列処理で従来の約10倍の速度を実現。Node.js不要でネイティブ実行が可能になり、TypeScript 6.0との互換パッケージも提供されるため段階的な移行が可能。",
+      "url": "https://gihyo.jp/article/2026/06/typescript-7-0-rc",
+      "collectedAt": "2026-06-25T09:00:00+09:00"
+    },
+    {
+      "title": "Next.js脆弱性9件が一斉公開、CVSS最大8.6のWebSocket SSRFを含む高深刻度の修正",
+      "summary": "Vercelが9件のCVE（CVE-2026-44574〜44582）を一斉公開し、WebSocket SSRF（CVSS 8.6）や動的ルートインジェクション（8.1）など高深刻度4件を含む。Next.js 15.5.18および16.2.6で修正済み。React Server Components関連のCVEは半年で20件超に達しており、SSR環境のセキュリティ対策の重要性が高まっている。",
+      "url": "https://ai-heartland.com/security/news-react-nextjs-vulnerabilities-cloudflare/",
+      "collectedAt": "2026-06-25T09:00:00+09:00"
+    },
+    {
+      "title": "Angular 22正式リリース、Signal-Firstの時代が本格到来",
+      "summary": "Angular 22が正式リリースされ、Signal FormsやAsynchronous Signalsが安定版となりSignal-Firstアーキテクチャが標準に。デフォルトのChange DetectionがOnPushに変更され、新規プロジェクトのテストランナーはVitestが標準となった。Selectorlessコンポーネントの導入によりテンプレートの表現力も大幅に向上している。",
+      "url": "https://angular.dev/events/v22",
+      "collectedAt": "2026-06-25T09:00:00+09:00"
+    }
+  ]
+}
