@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-26",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.3プレビュー版が公開、SPA並みの高速ナビゲーション「Instant Navigations」を搭載",
+      "summary": "Vercelが Next.js 16.3のプレビュー版を公開した。目玉機能の「Instant Navigations」はクライアント駆動のSPAの応答性をServer Componentsと両立させる新機能群で、ネイティブNode.jsストリームによるレンダリング改善やローカル開発の起動高速化も含まれる。安定版は数週間以内にリリース予定。",
+      "url": "https://nextjs.org/blog/next-16-3-instant-navigations",
+      "collectedAt": "2026-06-26T09:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16.3、AIエージェント向け機能を大幅強化、AGENTS.mdやSkillsを搭載",
+      "summary": "Next.js 16.3プレビュー版ではAIエージェント対応が大幅に強化された。Claude CodeやCursor等のエージェントがNext.jsプロジェクトを効率的に扱えるよう、ドキュメントをバンドルするAGENTS.mdやファーストパーティSkills、エラーをプロンプトとしてコピーできるInstant Insightなどの機能が追加された。",
+      "url": "https://nextjs.org/blog/next-16-3-ai-improvements",
+      "collectedAt": "2026-06-26T09:00:00+09:00"
+    },
+    {
+      "title": "Google Chrome 149に今週2回目のセキュリティ修正、決済・広告フィルター関連の脆弱性に対処",
+      "summary": "GoogleがChrome 149の安定チャネルをアップデートし、v149.0.7827.200/201を展開中。Mojoの整数オーバーフロー、Paymentsのuse-after-free、AdFilterのuse-after-freeの3件（いずれも深刻度High）が修正された。今週2回目のセキュリティ修正で、早急なアップデートが推奨されている。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2120211.html",
+      "collectedAt": "2026-06-26T09:00:00+09:00"
+    }
+  ]
+}
