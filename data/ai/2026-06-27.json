@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-27",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "セルフホスト型AIワークスペース「Odysseus」公開、ChatGPTやClaudeのようなローカルAI環境を無料で構築可能",
+      "summary": "セルフホスト型のAIワークスペース「Odysseus」が公開された。ChatGPTやClaudeに似たインターフェースで、ファイルアップロード・モデルダウンロード・Web検索・メール/カレンダー連携が可能。ローカル環境でAIチャットやエージェント、ディープリサーチ、ドキュメント作成などを実現できる。",
+      "url": "https://gigazine.net/news/20260627-odysseus/",
+      "collectedAt": "2026-06-27T09:00:00+09:00"
+    },
+    {
+      "title": "AIが実務基盤へ本格移行：Sakana AI「Fugu」一般提供開始やエージェント認証基盤の標準化が進む",
+      "summary": "6月27日時点のAI動向として、Sakana AIがマルチエージェント基盤「Fugu」の一般提供を開始し、複数のAIモデルを1つのAPIで束ねる技術が実用段階に入った。AIモデルはコーディング・科学・セキュリティなど高難度領域に拡大し、エージェントがSlackや社内ツール内で非同期に稼働する時代が到来している。",
+      "url": "https://eguweb.jp/ai/81081/",
+      "collectedAt": "2026-06-27T09:00:00+09:00"
+    },
+    {
+      "title": "今週のAI注目ニュース：Linux FoundationがAIエージェント認証規格「ANS」発表、生成AI悪用の立件も",
+      "summary": "6月21〜27日のAI関連ニュースとして、Linux FoundationがAIエージェントに信頼性ある身元を付与するオープン規格「Agent Name Service（ANS）」の立ち上げを発表した。一方、千葉県警は生成AIでランサムウェアを作成した19歳を含む中高生ら9人をサイバー犯罪で立件し、AI悪用への対策が課題となっている。",
+      "url": "https://note.com/hiroe28/n/n0f51e53eaec1",
+      "collectedAt": "2026-06-27T09:00:00+09:00"
+    }
+  ]
+}

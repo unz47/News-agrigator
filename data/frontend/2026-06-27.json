@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-27",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "ブラウザ訪問サイト自動保存ツール「Hister」公開、MCP連携でAIとの統合やローカルファイル検索も可能",
+      "summary": "Chrome・Firefox対応のブラウザ拡張「Hister」が公開された。訪問したWebサイトを自動的にローカルに保存しインデックス化する汎用検索エンジンで、定期自動取得で最新状態を維持できる。セルフホスト可能でMCPサーバー化にも対応し、AIエージェントとの連携やローカルファイル検索も実現する。",
+      "url": "https://gigazine.net/news/20260627-hister/",
+      "collectedAt": "2026-06-27T09:00:00+09:00"
+    },
+    {
+      "title": "Chrome 150ベータ版公開、デスクトップUI刷新やIndexedDBのSQLite移行で信頼性向上",
+      "summary": "Google Chrome 150のベータ版が公開された。デスクトップ版のUI刷新、PWAの同一サイト別オリジンへの移行機能、IndexedDB実装のSQLiteベースへの書き直しによる信頼性・パフォーマンス向上が主な変更点。安定版は6月30日にリリース予定で、macOS 12をサポートする最後のバージョンとなる。",
+      "url": "https://codezine.jp/news/detail/24483",
+      "collectedAt": "2026-06-27T09:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16.2の開発起動400%高速化とAIエージェント対応が注目、Turbopackで200超のバグ修正も",
+      "summary": "Next.js 16.2ではTurbopackの改善により開発起動が約400%高速化し、レンダリングも25〜60%向上した。AIエージェント向けの新機能としてAGENTS.mdの自動生成やバージョン対応ドキュメントのバンドルが追加された。Server Fast Refreshのデフォルト有効化やSRI対応など200件超のバグ修正も含まれる。",
+      "url": "https://www.infoq.com/news/2026/06/nextjs-6-2/",
+      "collectedAt": "2026-06-27T09:00:00+09:00"
+    }
+  ]
+}
