@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-28",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "React CompilerのRust移植版がNext.js 16.4に統合、ビルド速度40%以上向上",
+      "summary": "6月9日にマージされたReact CompilerのRust移植（PR #36173）がNext.js 16.4に統合される。Babelプラグインとしては従来のTypeScript版比3倍、Turbopackにネイティブリンクするとエンドツーエンドでビルド40%以上の高速化を実現。全1,725テストケースがパスし、同一出力を保証している。",
+      "url": "https://byteiota.com/react-compiler-rust-nextjs-16-4-faster-builds/",
+      "collectedAt": "2026-06-28T23:12:00+00:00"
+    },
+    {
+      "title": "AI最適化ツール「Elmo」がオープンソースで公開、主要AIでのWebサイト表示を無料で確認可能",
+      "summary": "ChatGPT・Google AI Overviews・Perplexity・Gemini・Copilot・Grokなど主要AIエンジンでの自サイトの表示状態を無料で確認できるオープンソースツール「Elmo」が公開された。セルフホストが可能で、AIによるWebサイトの理解度を分析するAEO（AI Engine Optimization）に活用できる。",
+      "url": "https://gigazine.net/news/20260628-elmo/",
+      "collectedAt": "2026-06-28T23:12:00+00:00"
+    },
+    {
+      "title": "Next.js 16.3プレビューでInstant Navigations追加、VercelがWebSocketサポートも開始",
+      "summary": "Next.js 16.3プレビューではInstant Navigationsとpartial prefetchingが追加され、SPA並みの高速なルート遷移が可能になった。またVercel FunctionsがWebSocket接続に対応し、チャット・AIストリーミング・コラボレーションアプリなどのリアルタイム機能の構築が容易になった。",
+      "url": "https://dev.to/erfanebrahimnia/nextjs-163-websocket-on-vercel-cnfast-instant-navigations-react-libraries-for-2026-what-rscs-43c4",
+      "collectedAt": "2026-06-28T23:12:00+00:00"
+    }
+  ]
+}
