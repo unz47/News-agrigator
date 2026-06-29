@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-29",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.2.6セキュリティリリース、RSCのDoS脆弱性（CVE-2026-23869）を修正",
+      "summary": "VercelはNext.js 16.2.6および15.5.18をリリースし、React Server Componentsに対するDoS脆弱性（CVSS 7.5）を修正した。特殊なHTTPリクエストによりApp RouterのServer Function エンドポイントで過剰なCPU使用が発生する問題で、13件のセキュリティアドバイザリに対応。全ユーザーに早急なアップグレードが推奨されている。",
+      "url": "https://vercel.com/changelog/summary-of-cve-2026-23869",
+      "collectedAt": "2026-06-29T09:00:00+09:00"
+    },
+    {
+      "title": "TanStackのnpmサプライチェーン攻撃、42パッケージに影響しpnpm 11のセキュリティ機能の重要性が浮き彫りに",
+      "summary": "2026年5月11日に発覚したTanStackへのサプライチェーン攻撃では、GitHub Actionsのキャッシュポイズニングを経て42パッケージの84バージョンが汚染された。週間1200万ダウンロードの@tanstack/react-routerも対象。pnpm 11ではサプライチェーン攻撃防止設定がデフォルト有効化されており、その重要性が改めて認識された。",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "collectedAt": "2026-06-29T09:00:00+09:00"
+    },
+    {
+      "title": "TypeScript 6.0が正式リリース、Go言語ベースのTypeScript 7.0への橋渡しに",
+      "summary": "TypeScript 6.0が正式リリースされ、JavaScriptコードベースに基づく最後のメジャーバージョンとなった。strict・module・targetのデフォルト値変更、ES2025のRegExp.escapeやTemporal API対応が追加された。次期TypeScript 7.0ではコンパイラがGoで書き直され、ネイティブ処理速度とマルチスレッド対応が実現される予定。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2095566.html",
+      "collectedAt": "2026-06-29T09:00:00+09:00"
+    },
+    {
+      "title": "CSS if()関数がChrome 137に導入、スタイルシート内のネイティブ条件付きスタイリングが可能に",
+      "summary": "Chrome 137でCSS if()関数が導入され、スタイルシート内でネイティブな条件付きスタイリングが可能になった。2026年にはcontrast-color()やshape()がBaseline Newly availableとなり、Anchor PositioningやScopeも主要ブラウザで出揃い、ツールチップ配置やスタイル局所化がCSSのみで実現可能になりつつある。",
+      "url": "https://blog.printemps.tokyo/blog/css-2026-browser-native-features",
+      "collectedAt": "2026-06-29T09:00:00+09:00"
+    }
+  ]
+}
