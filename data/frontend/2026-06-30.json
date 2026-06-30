@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-30",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Deno 2.9正式リリース、起動2倍速・メモリ半減に加え「Deno Desktop」を実験搭載",
+      "summary": "JavaScriptランタイムDeno 2.9が正式リリースされた。起動速度が2倍、メモリ消費が半分に改善されたほか、WebViewを用いてWeb技術でネイティブデスクトップアプリを構築できる「Deno Desktop」を実験的に搭載。CSSインポートやnpm/pnpm/yarn/Bunロックファイルの直接読み込みにも対応し、Node.jsからの移行がさらに容易になった。",
+      "url": "https://www.publickey1.jp/blog/26/deno_292webviewdeno_desktop.html",
+      "collectedAt": "2026-06-30T09:00:00+09:00"
+    },
+    {
+      "title": "TypeScript 7.0がリリース候補に到達、Go言語ベースのコンパイラで10倍高速化",
+      "summary": "MicrosoftがTypeScript 7.0のリリース候補版を公開した。約1年をかけてTypeScriptコンパイラをGo言語に移植する「Project Corsa」により、パース・型チェック・出力の各工程で共有メモリ並列処理を実現し、約10倍の高速化を達成。正式版は7月中のリリースが予定されており、TypeScript 6.0との併用も可能な互換パッケージが提供される。",
+      "url": "https://gihyo.jp/article/2026/06/typescript-7-0-rc",
+      "collectedAt": "2026-06-30T09:00:00+09:00"
+    },
+    {
+      "title": "CloudflareがVite・Rolldown開発元のVoidZeroを買収、フロントエンドツールチェーンをエコシステムに統合",
+      "summary": "CloudflareがVite、Vitest、Rolldown、Oxcなどの開発を主導するVoidZeroの買収を発表した。Vue.js・Viteの作者Evan You率いるチーム全員がCloudflareに参画する。Viteエコシステム基金に100万ドルを拠出し、全プロジェクトをオープンソースかつベンダー中立で維持する方針を明確にしている。",
+      "url": "https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html",
+      "collectedAt": "2026-06-30T09:00:00+09:00"
+    }
+  ]
+}

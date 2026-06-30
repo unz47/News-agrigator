@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-30",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "音楽ストリーミングのTidal、AI生成音楽のロイヤリティ停止・識別タグ表示の新ポリシーを発表",
+      "summary": "音楽ストリーミングサービスTidalが、100%AI生成と判定された楽曲へのロイヤリティ支払いを即時停止する新ポリシーを発表した。7月中旬からはアプリ内にAI識別ラベルを表示予定で、検出精度の向上に伴い対象を拡大する方針。アーティストの権利保護とリスナーへの透明性確保を目指す取り組みとして注目される。",
+      "url": "https://www.techno-edge.net/article/2026/06/30/5236.html",
+      "collectedAt": "2026-06-30T09:00:00+09:00"
+    },
+    {
+      "title": "Anthropic、企業向け「Claude apps gateway」をAmazon BedrockとGoogle Cloud向けに発表",
+      "summary": "Anthropicは企業向けのセルフホスト型コントロールプレーン「Claude apps gateway」を発表した。企業SSO認証、ポリシーの一元管理、ロールベースアクセス制御、ユーザー別コスト帰属を一つのステートレスコンテナで提供し、Claude Codeの企業利用を効率化する。Claude APIやAmazon Bedrock、Google Cloud間のフェイルオーバーにも対応。",
+      "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+      "collectedAt": "2026-06-30T09:00:00+09:00"
+    },
+    {
+      "title": "クアルコム、Pythonライクな新言語「Mojo」開発元のModular社を約6400億円で買収へ",
+      "summary": "クアルコムがAIソフトウェア企業Modularの買収を発表した。買収額は約39億ドル（約6400億円）の株式交換方式。ModularはLLVM・Swift開発者のChris Lattnerが設立し、高速AI言語「Mojo」とMAX推論エンジンを開発。クアルコムのAIデータセンター市場への本格参入の一環で、NVIDIAのソフトウェア・ロックインに対抗する狙い。",
+      "url": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
+      "collectedAt": "2026-06-30T09:00:00+09:00"
+    }
+  ]
+}
