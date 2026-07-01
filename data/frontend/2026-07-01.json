@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-01",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "「Google Chrome 150」安定版リリース、CSS text-fitやfocusgroup等の新機能追加とUI全面刷新",
+      "summary": "GoogleはChrome 150を安定版としてリリースした。CSS新機能として、テキストをボックス幅に自動フィットさせるtext-fitプロパティ、OSのアクセントカラーを取得するAccentColor/AccentColorTextシステムカラー、グラデーションボーダーをネイティブに実現するbackground-clip: border-area、polygon()の角丸対応など多数を追加。UIも角の丸いデザインに刷新され、セキュリティ修正は382件に上る。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2121358.html",
+      "collectedAt": "2026-07-01T09:00:00+09:00"
+    },
+    {
+      "title": "Astro 7.0正式リリース、Rust製コンパイラでビルド最大61%高速化しコーディングエージェントにも対応",
+      "summary": "Webフレームワーク「Astro 7.0」が正式リリースされた。コアコンパイラをGoからRustに書き直し、MarkdownとMDXの処理にRust製プロセッサ「Sätteri」を採用することでビルド速度を15〜61%改善。バンドラもVite 8（Rolldown統合）にアップグレードされた。AIコーディングエージェントの自動検出機能も搭載し、開発サーバーのバックグラウンド実行やJSON構造化ログ出力に対応する。",
+      "url": "https://gihyo.jp/article/2026/06/astro-7",
+      "collectedAt": "2026-07-01T09:00:00+09:00"
+    },
+    {
+      "title": "Vercel AI SDK 7リリース、AI Gatewayでリアルタイム音声エージェント構築が可能に",
+      "summary": "VercelはAI SDK 7をリリースし、AI Gatewayでリアルタイム音声エージェントの構築を可能にした。テキスト・画像・動画と同じAPI呼び出しで音声入出力を扱えるようになり、OpenAIやxAIのモデルに対応。Next.jsアプリケーションにリアルタイム音声会話・テキスト読み上げ・音声文字起こし機能を統合でき、プロバイダルーティングやコスト管理も既存のGateway機能で一元管理される。",
+      "url": "https://vercel.com/blog/ai-sdk-7",
+      "collectedAt": "2026-07-01T09:00:00+09:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-01",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropicが科学者向けAIワークベンチ「Claude Science」を公開、60以上の科学データベースと連携",
+      "summary": "Anthropicは科学研究向けAIワークベンチ「Claude Science」をパブリックベータとして公開した。ゲノミクス・プロテオミクス・化学情報学など60以上の科学データベースに接続し、文献調査・データ解析・図表作成・原稿執筆を単一環境で実行できる。NVIDIAのBioNeMoツールキットとも連携し、最大50件の研究プロジェクトに3万ドルのクレジットを提供する支援プログラムも発表された。",
+      "url": "https://gigazine.net/news/20260701-anthropic-claude-science/",
+      "collectedAt": "2026-07-01T09:00:00+09:00"
+    },
+    {
+      "title": "Anthropic「Claude Sonnet 5」発表、Opus 4.8に迫るエージェント性能を低価格帯で提供",
+      "summary": "Anthropicは最新AIモデル「Claude Sonnet 5」を発表した。コーディングやエージェントタスクでSonnet 4.6から大幅にスコアを向上させ、上位モデルOpus 4.8に迫る性能を実現。API価格は導入期間中100万入力トークンあたり2ドル・100万出力トークンあたり10ドルと低価格に設定された。全プラン（無料・Pro・Max・Team・Enterprise）で即日利用可能。",
+      "url": "https://news.mynavi.jp/techplus/article/20260701-4649501/",
+      "collectedAt": "2026-07-01T09:00:00+09:00"
+    },
+    {
+      "title": "Claude DesktopがLinux版ベータを提供開始、Ubuntu/DebianでClaude CodeやCoworkをデスクトップから利用可能に",
+      "summary": "AnthropicはClaude DesktopのLinux版ベータ提供を開始した。Ubuntu 22.04以降およびDebian 12以降のx86_64・Arm64環境に対応し、Claude Code・Claude Cowork・チャット機能をデスクトップアプリから利用できる。aptリポジトリ経由のインストールに対応し、システムアップデートでの自動更新も可能。ただし画面操作やアプリ制御はLinux版では未対応。",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2121519.html",
+      "collectedAt": "2026-07-01T09:00:00+09:00"
+    },
+    {
+      "title": "Google NotebookLMに「Short Video Overviews」追加、TikTok風60秒縦型動画を自動生成",
+      "summary": "GoogleはAIノートブックアプリ「NotebookLM」に、アップロードした資料からTikTok風の60秒縦型動画を自動生成する「Short Video Overviews」機能を追加した。新モデル「Nano Banana 2 Lite」を活用し、テキストからキネティックタイポグラフィやスタイライズドアニメーション付きのナレーション動画を生成する。Google AI UltraおよびProユーザーから順次提供開始。",
+      "url": "https://www.androidheadlines.com/2026/07/google-notebooklm-short-video-overviews-tiktok-style.html",
+      "collectedAt": "2026-07-01T09:00:00+09:00"
+    }
+  ]
+}
