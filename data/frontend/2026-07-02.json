@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-02",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.2.10 LTSがリリース、パフォーマンスとデバッグ機能を強化",
+      "summary": "Vercelは最新のNext.js 16.2.10 LTSをリリースした。Next.js 16系はTurbopackのデフォルト化、Cache Componentsによるキャッシュ制御の明確化、「use cache」ディレクティブによる自動キャッシュキー生成などを特徴とする。16.2ではパフォーマンスとデバッグ機能が大幅に強化されており、安定したLTSとしてプロダクション環境への導入が推奨されている。",
+      "url": "https://codezine.jp/news/detail/23717",
+      "collectedAt": "2026-07-02T09:00:00+09:00"
+    },
+    {
+      "title": "TypeScript 7.0 RCが公開、Go移植のネイティブコンパイラで10倍高速化を実現",
+      "summary": "MicrosoftはTypeScript 7.0のリリース候補（RC）を6月18日に公開した。「Project Corsa」と呼ばれるこのバージョンはコンパイラをGoでネイティブ移植し、型チェック速度を約10倍に高速化。VS Codeのコードベース（約150万行）のコンパイル時間が約78秒から約7.5秒に短縮された。安定版GAは7月中旬〜下旬にリリース予定で、既存コードとの互換性は維持される。",
+      "url": "https://www.digitalapplied.com/blog/typescript-7-0-rc-go-native-compiler-2026-upgrade-guide",
+      "collectedAt": "2026-07-02T09:00:00+09:00"
+    },
+    {
+      "title": "CloudflareがVite開発元のVoidZeroを買収、エコシステム基金に100万ドル拠出",
+      "summary": "Cloudflareは6月4日、Vite・Rolldown・Oxcなどを開発するVoidZeroの買収を発表した。Vue.js/Vite創設者のEvan YouらがCloudflareのETI部門に参加する。Viteは週間1.3億ダウンロードを超えるWeb開発の共通基盤で、全プロジェクトはMITライセンスのオープンソースを維持。Cloudflareは独立したViteエコシステム基金に100万ドルを拠出し、コミュニティ貢献者を支援する。",
+      "url": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-acquires-voidzero-to-build-the-future-of-the-ai-native-web/",
+      "collectedAt": "2026-07-02T09:00:00+09:00"
+    },
+    {
+      "title": "Vite 8がRolldownで10〜30倍高速化、統合バンドラによるアーキテクチャ刷新",
+      "summary": "2026年3月にリリースされたVite 8は、Rust製バンドラ「Rolldown」を統合バンドラとして採用し、開発・本番ビルドを一本化した。Linearのプロダクションビルドが46秒から6秒に短縮されるなど10〜30倍の高速化を実現。GitLabでもWebpack比で43倍の高速化を達成した。Vite 2以来最大のアーキテクチャ変更であり、モジュールレベルの永続キャッシュやModule Federation対応も新たに可能となった。",
+      "url": "https://vite.dev/blog/announcing-vite8",
+      "collectedAt": "2026-07-02T09:00:00+09:00"
+    }
+  ]
+}

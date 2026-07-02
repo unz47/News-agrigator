@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-02",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、Claude Sonnet 5を発表 ― Opus 4.8級の性能を低価格で提供",
+      "summary": "Anthropicは新モデル「Claude Sonnet 5」を発表し、7月1日からFree・Proプランの標準モデルとして提供を開始した。Opus 4.8に迫るエージェント性能を持ちながら、導入価格は入力100万トークンあたり2ドル・出力10ドルとSonnetクラスの低価格を実現。計画立案・ブラウザ操作・ターミナル操作を自律的にこなし、Sonnet 4.6では完了できなかった複雑なタスクも処理可能になった。",
+      "url": "https://www.anthropic.com/claude/sonnet",
+      "collectedAt": "2026-07-02T09:00:00+09:00"
+    },
+    {
+      "title": "Claude Fable 5が輸出規制解除で提供再開、初のAIモデル輸出規制事例が決着",
+      "summary": "米商務省が6月30日にClaude Fable 5およびMythos 5への輸出規制を正式解除し、7月1日から全世界で提供が再開された。6月12日にAmazon研究者がFable 5のサイバーセキュリティ分類器の回避手法を報告したことが規制のきっかけだった。フロンティアAIモデルが輸出管理品目として扱われた初の事例として注目を集め、7月7日まで対象プランで無償開放される。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/01/news068.html",
+      "collectedAt": "2026-07-02T09:00:00+09:00"
+    },
+    {
+      "title": "Together AIが8億ドル調達、企業価値83億ドルでAIネオクラウド市場を牽引",
+      "summary": "オープンソースAIモデルの実行基盤を提供するTogether AIが、シリーズCで8億ドル（約1,200億円）の資金調達を完了し、企業価値は83億ドルに達した。Aramco VenturesやVista Equity Partners、NVIDIAなどが出資に参加。年間ブッキングは11.5億ドルを超え、約16カ月前の前回ラウンド（33億ドル評価）から急成長を遂げている。",
+      "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "collectedAt": "2026-07-02T09:00:00+09:00"
+    },
+    {
+      "title": "国連AI専門家パネルが初の報告書発表、少数企業への富の集中に警鐘",
+      "summary": "国連のAI専門家パネルが初の報告書を発表し、AIの開発とそれにより生み出される富が少数の企業や国に集中することは権威主義的な支配に利用される可能性があると警鐘を鳴らした。偽情報の大量生成による社会的結束の損壊や自律型AIの制御不能リスクを主要な懸念として指摘し、AI開発の速度に各国政府の対応が追いついていないとして、AIを評価・統治する能力への投資の必要性を訴えた。",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166751000",
+      "collectedAt": "2026-07-02T09:00:00+09:00"
+    }
+  ]
+}
