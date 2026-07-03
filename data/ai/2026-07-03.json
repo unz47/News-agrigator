@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-03",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "史上初の「エージェント型ランサムウェア」感染事例が報告、AIエージェントが自律的に攻撃を実行",
+      "summary": "セキュリティ企業Sysdigが、AIエージェントが自律的にランサムウェア攻撃を実行する初の事例「JadePuffer」を確認した。Langflowの脆弱性を突いて侵入し、サーバー探索・データ破壊・再侵入まで全工程をAIが自動実行。ペイロードにはLLM特有の自然言語推論が含まれ、高度なスキルなしでもランサムウェア攻撃が可能になるリスクが示された。",
+      "url": "https://gigazine.net/news/20260703-ai-agent-ransomware/",
+      "collectedAt": "2026-07-03T09:00:00+09:00"
+    },
+    {
+      "title": "企業AI・エージェント基盤・AIインフラが運用段階へ──業界全体で「実験」から「業務インフラ」への転換が加速",
+      "summary": "7月3日時点のAI業界動向として、OpenAIとHPの戦略提携による全社的AI運用モデルの展開、Google Cloudのエージェント基盤強化、NVIDIAの推論インフラ整備、EUのGPAI行動規範による規制対応など、AIを「実験」から「業務インフラ」へ移行するための設計が一気に具体化している状況が報告された。",
+      "url": "https://eguweb.jp/ai/81123/",
+      "collectedAt": "2026-07-03T09:00:00+09:00"
+    },
+    {
+      "title": "Z.ai、AIコーディングエージェント「ZCode」を正式公開──GLM-5.2搭載でCursorやClaude Codeに対抗",
+      "summary": "北京のAI企業Z.aiが、AIコーディング用デスクトップアプリ「ZCode」を正式ローンチした。自社開発のGLM-5.2モデルに最適化されたエージェント型開発環境で、目標を入力するとAIが計画・編集・検証を反復的に実行する。macOS/Windows/Linux対応で、BYOK設定によりAnthropicやOpenAIのモデルも利用可能。月額18ドルからの料金体系。",
+      "url": "https://gigazine.net/news/20260702-zcode-ai-agent/",
+      "collectedAt": "2026-07-03T09:00:00+09:00"
+    }
+  ]
+}

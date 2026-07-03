@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-03",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Google Chrome 150がリリース、CSS text-fitによるフォントサイズ自動調整やグラデーション枠線をCSSのみで実現",
+      "summary": "Google Chrome 150安定版がリリースされた。新たにCSS text-fitプロパティが追加され、見出しや動的コンテンツのフォントサイズをコンテナ幅に自動調整可能に。また background-clip: border-area でCSSのみのグラデーション枠線、focusgroupによる宣言的キーボードナビゲーション、system colorサポートなど多数の新機能が搭載された。",
+      "url": "https://codezine.jp/news/detail/24750",
+      "collectedAt": "2026-07-03T09:00:00+09:00"
+    },
+    {
+      "title": "Vercel、Dockerfile.vercelによるコンテナデプロイ機能を発表──Go・Rails・FastAPIなど任意のHTTPサーバーを実行可能に",
+      "summary": "Vercelが「Dockerfile.vercel」機能を発表し、プロジェクトにDockerfile.vercelファイルを配置するだけで任意のHTTPサーバーアプリケーションをVercel上でビルド・デプロイ・オートスケールできるようになった。Go、Rails、Spring Boot、FastAPIなどフレームワーク問わず対応し、課金はアクティブCPU時間のみ。フロントエンドと同一プロジェクトでバックエンドも運用可能になる。",
+      "url": "https://codezine.jp/news/detail/24746",
+      "collectedAt": "2026-07-03T09:00:00+09:00"
+    },
+    {
+      "title": "GitHub Modelsが7月30日に完全終了、全ユーザー対象──Azure AI FoundryまたはGitHub Copilotへの移行を推奨",
+      "summary": "GitHubは、AIモデルのプレイグラウンド・カタログ・推論APIを提供していた「GitHub Models」を7月30日に完全終了すると発表した。7月16日と23日にブラウンアウト（一時停止）が予定されている。プロトタイプや本番推論にGitHub Models APIを使用しているチームはAzure AI FoundryまたはGitHub Copilotへの移行が必要となる。",
+      "url": "https://codezine.jp/news/detail/28836",
+      "collectedAt": "2026-07-03T09:00:00+09:00"
+    }
+  ]
+}
