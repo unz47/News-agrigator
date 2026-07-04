@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-04",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.3 Preview公開：Instant NavigationsでSPA並みのページ遷移を実現",
+      "summary": "VercelがNext.js 16.3 Previewを公開し、Instant NavigationsとPartial Prefetchingによるクライアントドリブンなページ遷移を導入した。StreamまたはCacheモードでナビゲーションを高速化し、Server Componentsベースながら SPA並みのレスポンスを提供する。安定版は数週間以内にリリース予定。",
+      "url": "https://nextjs.org/blog/next-16-3-instant-navigations",
+      "collectedAt": "2026-07-04T09:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16.3 AI改善：AGENTS.md統合とMCPサーバー強化でAIエージェント開発を支援",
+      "summary": "Next.js 16.3ではAIコーディングエージェント向けの大幅改善が実施された。バンドルドキュメントAGENTS.mdの導入でエージェント評価パス率が79%から100%に向上。エージェントがブラウザを操作しReactツリーを検査できるAgent Browser機能やビルド診断MCP toolも追加された。",
+      "url": "https://nextjs.org/blog/next-16-3-ai-improvements",
+      "collectedAt": "2026-07-04T09:00:00+09:00"
+    },
+    {
+      "title": "TypeScript 7.0がRC到達：Go言語移植で10倍高速化、正式版は7月リリース予定",
+      "summary": "MicrosoftがTypeScript 7.0 RCをリリースした。コンパイラをGo言語にフル移植し、ネイティブコード実行と共有メモリによる並列処理でTypeScript 6.0比約10倍の高速化を達成。数百万行規模のコードベースでの安定動作が確認されており、正式版は7月中にリリース予定。",
+      "url": "https://gihyo.jp/article/2026/06/typescript-7-0-rc",
+      "collectedAt": "2026-07-04T09:00:00+09:00"
+    }
+  ]
+}

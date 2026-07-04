@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-04",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "世界のAI最新ニュース：AIエージェント・生成メディア・AI規制・インフラが実装段階へ",
+      "summary": "7月4日時点のAI業界動向として、AIエージェントが実験段階から業務基盤へ移行し、モデル・クラウド・セキュリティ・規制対応が同時に運用設計の課題となっている。EUではAI Act Article 50の透明性義務が8月2日から適用開始予定で、企業は対応を急いでいる。",
+      "url": "https://eguweb.jp/ai/81127/",
+      "collectedAt": "2026-07-04T09:00:00+09:00"
+    },
+    {
+      "title": "Anthropic「Claude Fable 5」が復活、7月7日まではプラン上限内で試用可能",
+      "summary": "米商務省がClaude Fable 5とMythos 5への輸出禁止措置を解除し、7月1日から提供が再開された。7月7日まではPro・Max・Teamプランの週間利用上限の50%までFable 5を利用可能で、7月8日以降は従量課金（入力100万トークンあたり10ドル、出力50ドル）に移行する。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2121719.html",
+      "collectedAt": "2026-07-04T09:00:00+09:00"
+    },
+    {
+      "title": "Fable 5輸出規制解除の全経緯──ジェイルブレーク評価の業界共通フレームワーク策定へ",
+      "summary": "Fable 5が約3週間の利用停止を経て復旧した経緯が詳報された。脆弱性がOpus 4.8やGPT-5.5でも再現可能だったことが判明し、Anthropic・Amazon・Microsoft・Googleらがジェイルブレーク深刻度を評価する業界共通フレームワークの策定に着手した。",
+      "url": "https://www.techno-edge.net/article/2026/07/02/5243.html",
+      "collectedAt": "2026-07-04T09:00:00+09:00"
+    }
+  ]
+}
