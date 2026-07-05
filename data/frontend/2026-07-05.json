@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-05",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.3プレビュー公開 ― Instant NavigationsとPartial Prefetchingを搭載",
+      "summary": "Vercelが6月25日にNext.js 16.3プレビューを公開。SPA風の高速ルート遷移を実現するInstant Navigationsと、ルートごとの再利用可能なシェルをキャッシュするPartial Prefetchingを搭載。安定版は数週間以内にリリース予定。",
+      "url": "https://nextjs.org/blog/next-16-3-instant-navigations",
+      "collectedAt": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16.3 TurbopackアップデートでRust React Compilerとimport.meta.globに対応",
+      "summary": "Next.js 16.3のTurbopackでメモリ退避機能、永続ビルドキャッシュ、Rust版React Compilerサポート、Vite互換のimport.meta.glob APIが追加。永続キャッシュはnext buildでも利用可能になり、ビルド時間の大幅短縮を実現。",
+      "url": "https://nextjs.org/blog/next-16-3-turbopack",
+      "collectedAt": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16.3がAI機能を強化 ― バンドルドキュメント・Skills・ブラウザ内省機能を追加",
+      "summary": "Next.js 16.3プレビューでAI関連の改善が発表された。バンドルされたドキュメント、Skills機能、ブラウザ内省機能、アクショナブルなエラー表示、Markdownドキュメント対応などが追加され、AI支援による開発体験が向上。",
+      "url": "https://nextjs.org/blog/next-16-3-ai-improvements",
+      "collectedAt": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "2026年のフロントエンド開発トレンド：サーバーファースト・Rustツールチェーン・AI支援が標準化",
+      "summary": "2026年のフロントエンド開発は「成熟」が特徴で、Reactが44.7%のシェアで首位を維持しつつ、AstroがゼロJS設計で本番投入レベルに到達。ビルドツールのRustベース化（Vite 6のRolldown採用等）が進み、TypeScriptが大規模プロジェクトのデフォルトとして定着。",
+      "url": "https://www.taolis.net/articles/frontend-development-2026-metaframeworks-signals-server-first",
+      "collectedAt": "2026-07-05T09:00:00+09:00"
+    }
+  ]
+}

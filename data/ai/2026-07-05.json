@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-05",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、Claude Fable 5の提供を7月1日から再開 ― 米政府の輸出規制解除を受け",
+      "summary": "6月12日の米国輸出規制により約3週間停止していたClaude Fable 5が7月1日に再開。Anthropicは新たな安全分類器を導入し、Amazon研究者が報告したジェイルブレイク手法を99%以上ブロック可能に。Amazon・Microsoft・Googleと共同でジェイルブレーク評価の業界共通フレームワークも策定した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
+      "collectedAt": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "Anthropic、Claude Sonnet 5を発表 ― Opus 4.8に迫る性能を低コストで実現",
+      "summary": "Anthropicが7月1日にClaude Sonnet 5をリリース。エージェントコーディングで63.2%を記録し、上位モデルOpus 4.8の69.2%に迫る性能をSonnet価格帯で実現。コンテキストウィンドウ100万トークン、最大出力12.8万トークンに対応し、全プランで利用可能。",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2121466.html",
+      "collectedAt": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "MetaのAI責任者、新モデル「Watermelon」がGPT-5.5に匹敵する性能と発言",
+      "summary": "Meta AIのAlexandr Wang氏が7月2日の社内ミーティングで、開発中のAIモデル「Watermelon」がOpenAIのGPT-5.5の主要ベンチマークに追いついたと発表。Watermelonは前モデル「Avocado」の10倍の計算資源を使用しており、リリース時期は未定。",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60264651/metas-upcoming-watermelon-ai-model-matches-openais-gpt-5-5-on-key-benchmarks-alexandr-wang-reportedly-tells-employees",
+      "collectedAt": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "政府、AIを悪用したサイバー攻撃への対策を自治体に要請 ― システム脆弱性の総点検へ",
+      "summary": "日本政府はAIを悪用したサイバー攻撃への対策として、全国の自治体にシステムの脆弱性を総点検するよう要請。総務省が近く通知を発出し、自治体は保有する情報システムの洗い出しとシステム会社による脆弱性診断、修復パッチの適用を進める方針。",
+      "url": "https://www.nikkei.com/article/DGXZQOUA02AAA0S6A700C2000000/",
+      "collectedAt": "2026-07-05T09:00:00+09:00"
+    }
+  ]
+}
