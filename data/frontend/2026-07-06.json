@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-06",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Rust版React Compilerがマージ、Next.js 16.4でコンパイル40%以上高速化へ",
+      "summary": "ReactチームがReact CompilerをTypeScriptからRustに完全移植し、PR #36173として6月9日にマージされた。Turbopackとのネイティブ統合によりコンパイル速度が40%以上向上し、Next.js 16.4に搭載予定。Vercelのv0サイトで実証済み。",
+      "url": "https://byteiota.com/react-compiler-rust-nextjs-16-4-faster-builds/",
+      "collectedAt": "2026-07-06T09:00:00+09:00"
+    },
+    {
+      "title": "Vite 8.0正式リリース、Rust製バンドラ「Rolldown」採用でビルド最大7.7倍高速化",
+      "summary": "Vite 8.0が正式リリースされ、開発・本番ビルドの両方でRust製バンドラ「Rolldown」がデフォルトに統一された。これまでesbuildとRollupに分かれていた構成が一本化され、ビルド速度がVite 7比で最大7.7倍に向上した。",
+      "url": "https://www.publickey1.jp/blog/26/vite_80rustrolldown.html",
+      "collectedAt": "2026-07-06T09:00:00+09:00"
+    },
+    {
+      "title": "CSS Anchor PositioningとPopover APIが全主要ブラウザで安定サポート、Baseline 2026に到達",
+      "summary": "CSS Anchor PositioningがChrome 125+、Firefox 132+、Safari 18.2+で完全サポートされ、Baseline 2026に到達した。Popover APIとの組み合わせにより、ツールチップやドロップダウンをJavaScriptライブラリなしで純粋なCSS・HTMLで実装可能になった。",
+      "url": "https://lucioduran.com/blog/css-anchor-positioning-popover-api-2026",
+      "collectedAt": "2026-07-06T09:00:00+09:00"
+    }
+  ]
+}

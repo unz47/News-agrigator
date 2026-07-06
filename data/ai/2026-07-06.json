@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-06",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "国連・ITU「AI for Goodグローバル委員会」発足、NVIDIAやMicrosoftのCEOが参画",
+      "summary": "国連とITUが「AI for Goodグローバル委員会」を発足させた。NVIDIAのジェンスン・フアン氏、Amazonのアンディ・ジャシー氏、Anthropicのジャック・クラーク氏ら業界トップが国家元首と同格で参画し、7月8日にジュネーブで初の共同セッションが開催される。",
+      "url": "https://www.zaikei.co.jp/article/20260706/859894.html",
+      "collectedAt": "2026-07-06T09:00:00+09:00"
+    },
+    {
+      "title": "OpenAI、元ホワイトハウスAI顧問ディーン・ボール氏を「Strategic Futures」責任者に起用",
+      "summary": "OpenAIは7月6日付でディーン・ボール氏を新設チーム「Strategic Futures」の責任者に起用した。ボール氏はホワイトハウスのAI政策顧問として米国AI行動計画の主執筆者を務めた人物で、フロンティアAIの政策・ガバナンスに取り組む。",
+      "url": "https://www.thefai.org/posts/dean-ball-joins-openai-as-head-of-strategic-futures",
+      "collectedAt": "2026-07-06T09:00:00+09:00"
+    },
+    {
+      "title": "Bending Spoons、180億ドルIPO成功 ― AI・データ駆動でAOL・Vimeoなど有名ブランドを再生",
+      "summary": "イタリア発のBending Spoonsが180億ドル評価でNasdaq上場を果たし、初日に株価40%上昇。独自のアルゴリズムとデータ駆動型運営で買収した有名サービスの価値を最大化し、月間5億人超のユーザーを抱える。建設AI企業Trunk Toolsの業界特化型AI転換も注目されている。",
+      "url": "https://journal.omoshigo.link/trend/workai/20260706-20140/",
+      "collectedAt": "2026-07-06T09:00:00+09:00"
+    }
+  ]
+}
