@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-07",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.3リリース、RustベースReact Compilerとメモリ最適化を搭載",
+      "summary": "VercelがNext.js 16.3をリリースし、Turbopackの大幅な改善を実施した。Rust版React Compilerによりコンパイル速度が20〜50%向上し、新たなメモリ回収機能で長時間の開発セッションでのメモリ使用量を大幅に削減。永続ビルドキャッシュやimport.meta.glob対応も追加された。",
+      "url": "https://nextjs.org/blog/next-16-3-turbopack",
+      "collectedAt": "2026-07-07T09:00:00+09:00"
+    },
+    {
+      "title": "Svelte 2026年7月アップデート、SvelteKitの設定がvite.config.jsに統合可能に",
+      "summary": "SvelteKitの設定をvite.config.js内で直接定義できるようになり、svelte.config.jsが不要になった。SvelteKit 3に向けた$envモジュールの代替となる明示的環境変数のプレビューも登場し、言語ツールとsv CLIが新しい{const ...}宣言タグに対応しツールチェーン全体の同期が実現した。",
+      "url": "https://svelte.dev/blog/whats-new-in-svelte-july-2026",
+      "collectedAt": "2026-07-07T09:00:00+09:00"
+    },
+    {
+      "title": "Chrome 150安定版リリース、animatable zoomやflex-wrap: balanceなど多数の新機能",
+      "summary": "Google Chrome 150が安定版チャンネルに到達し、animatable zoom、flex-wrap: balance、overscroll-behavior: chain、named-feature()、polygon()のcorner rounding、focusgroup属性など多数の新機能を搭載。CSS text-fitプロパティやbackground-clip: border-areaによるネイティブグラデーションボーダーも利用可能になった。",
+      "url": "https://developer.chrome.com/blog/new-in-chrome-150",
+      "collectedAt": "2026-07-07T09:00:00+09:00"
+    }
+  ]
+}

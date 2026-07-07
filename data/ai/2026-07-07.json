@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-07",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "国連ITUのAI for Goodサミットが開幕、44名のグローバル委員会が発足",
+      "summary": "国際電気通信連合（ITU）主催の「AI for Good Global Summit 2026」がスイス・ジュネーブで開幕した。NVIDIAのジェンスン・フアン氏やAnthropicのジャック・クラーク氏ら44名がグローバル委員会に参画し、AIセキュリティやエネルギー効率、災害対策などのワークショップが集中的に行われた。",
+      "url": "https://www.zaikei.co.jp/article/20260707/860081.html",
+      "collectedAt": "2026-07-07T09:00:00+09:00"
+    },
+    {
+      "title": "テンセント、2950億パラメータのAIモデル「Hy3」をApache 2.0でオープンソース公開",
+      "summary": "テンセントが大規模言語モデル「Hy3」正式版をApache 2.0ライセンスで公開した。総パラメータ2950億・アクティブパラメータ210億のMoE構造で、GLM-5.2やDeepSeek-V4-Proと同等の性能を達成し、科学研究タスクではGPT-5.5を上回った。プレビュー版での地域制限も撤廃された。",
+      "url": "https://gigazine.net/gsc_news/en/20260707-tencent-ai-hy3/",
+      "collectedAt": "2026-07-07T09:00:00+09:00"
+    },
+    {
+      "title": "ホワイトハウス、フロンティアAIモデルの自主規制基準枠組みを来週発表へ",
+      "summary": "米ホワイトハウスはフロンティアAIモデルの公開前に政府が30日間レビューする窓口を設ける自主的基準の枠組みを7月7日〜11日の間に発表する見通し。OpenAI・Google・Anthropicとの最終調整が進む一方、一部アナリストは「事実上の裏口ライセンス制度になりかねない」と警告している。",
+      "url": "https://ai-revolution.co.jp/media/white-house-ai-vetting-order-2026/",
+      "collectedAt": "2026-07-07T09:00:00+09:00"
+    }
+  ]
+}
