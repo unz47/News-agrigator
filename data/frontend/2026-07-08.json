@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-08",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7.0が正式リリース、Go言語によるネイティブ実装で10倍高速化",
+      "summary": "MicrosoftがTypeScript 7.0の一般提供版を正式リリースした。コンパイラをJavaScriptからGo言語にフルリライトし、ネイティブコード速度と共有メモリマルチスレッドにより、フルビルドで8〜12倍の高速化を実現。パース、型チェック、エミットを並列実行する新アーキテクチャを採用している。",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "collectedAt": "2026-07-08T23:30:00+09:00"
+    },
+    {
+      "title": "TypeScript 7がVS Codeの開発体験を一変、プロジェクト読み込みが約1分から10秒に",
+      "summary": "TypeScript 7.0のGo言語ネイティブ実装により、VS Codeのプロジェクト読み込み時間が約1分から10秒へと大幅に短縮された。専用のVS Code拡張機能が利用可能で、Visual Studioはワークスペースに基づいて自動的にTypeScript 7を有効化する。TypeScript 6との併用も可能で、@typescript/typescript6パッケージによる段階的移行に対応している。",
+      "url": "https://visualstudiomagazine.com/articles/2026/07/08/typescript-7-arrives-to-rock-vs-code-with-go-powered-speed.aspx",
+      "collectedAt": "2026-07-08T23:30:00+09:00"
+    },
+    {
+      "title": "Microsoft、TypeScript 7.0で完全なGoリライトを完了、大規模プロジェクトの開発効率が劇的に向上",
+      "summary": "TypeScript 7.0はTypeScriptの歴史上最大の技術的転換点となった。従来のJavaScript実装からGo言語へのフルリライトにより、真のマルチスレッドコンパイルが実現。大規模なReactやAngularプロジェクトでのビルド時間とエディタ応答性が劇的に改善され、フロントエンド開発のワークフロー全体に恩恵をもたらしている。",
+      "url": "https://www.ntcompatible.com/story/microsoft-unveils-typescript-70-10x-performance-leap-with-full-go-rewrite",
+      "collectedAt": "2026-07-08T23:30:00+09:00"
+    }
+  ]
+}

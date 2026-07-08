@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-08",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropicの「Claude Cowork」がWebとモバイルでも利用可能に、Maxプランから順次展開",
+      "summary": "AnthropicがAIエージェント機能「Claude Cowork」をiOS・Android・Webに拡大すると発表した。Maxプランのユーザーから数週間かけてベータ版を展開する。120万セッションの分析では最大用途はビジネスプロセス業務（33.4%）で、ソフトウェア開発は8.7%にとどまり、AIエージェントの活用がコーディング以外に広がっていることが明らかになった。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000168/",
+      "collectedAt": "2026-07-08T23:30:00+09:00"
+    },
+    {
+      "title": "OpenAIがGPT-5.6 Sol・Terra・Lunaを7月9日に一般公開へ",
+      "summary": "OpenAIはGPT-5.6のフラッグシップモデル「Sol」、バランス型「Terra」、高速・低コスト型「Luna」の3モデルを7月9日に一般公開すると発表した。6月26日のプレビュー版から政府の要請による制限付きだったが、グローバルに拡大する。Sol はサブエージェントを活用するultraモードを搭載し、ソフトウェアエンジニアリングや科学研究で最先端性能を実現している。",
+      "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+      "collectedAt": "2026-07-08T23:30:00+09:00"
+    },
+    {
+      "title": "Claude CoworkをWeb・モバイルへ拡大、端末を閉じてもタスク継続可能に",
+      "summary": "Anthropicの「Claude Cowork」がモバイルとWebに対応し、デバイス間でセッションを同期できるようになった。PCを閉じてもクラウド上でタスクを継続可能で、判断や許可が必要な場面では人間に確認を求める。ファイル、カレンダー、メール、メッセージなど接続したツールを横断して作業を完了させる。",
+      "url": "https://news.mynavi.jp/article/20260708-4676495/",
+      "collectedAt": "2026-07-08T23:30:00+09:00"
+    }
+  ]
+}
