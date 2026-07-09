@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-09",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "GPT-5.6がGitHub Copilotに統合、Sol・Terra・Lunaの3モデルで開発体験が向上",
+      "summary": "GitHubは9日、GPT-5.6の全3モデルをCopilotに統合したと発表した。フラッグシップのSolは大規模コードベースの推論やエージェントワークに、Terraは日常的なコーディング支援に、Lunaは高速・低コストのコード補完に最適化されている。開発者はタスクの規模に応じてモデルを選択できるようになった。",
+      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot/",
+      "collectedAt": "2026-07-09T23:05:00+00:00"
+    },
+    {
+      "title": "SpaceXAI Grok 4.5がCursorで利用可能に、コーディング特化の新モデル",
+      "summary": "SpaceXAIが公開したGrok 4.5がAIコードエディタCursorの全プランで即日利用可能となった。Cursor買収後初のモデルで、コーディング・科学・エンジニアリング・数学のデータセットで訓練されている。入力$2/出力$6（100万トークンあたり）の価格設定で、競合モデルより低コストでのコード生成が可能。",
+      "url": "https://techweez.com/2026/07/09/spacexai-grok-4-5-launch/",
+      "collectedAt": "2026-07-09T23:05:00+00:00"
+    },
+    {
+      "title": "OpenAI GPT-5.6にプログラマティックツール呼び出し機能、Responses APIで利用可能",
+      "summary": "OpenAIはGPT-5.6シリーズの一般公開に合わせ、Responses APIでプログラマティックなツール呼び出し機能を提供開始した。開発者はAPIを通じてAIモデルに外部ツールやサービスとの連携を組み込めるようになり、フロントエンドアプリケーションからのエージェント機能統合が容易になった。",
+      "url": "https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/",
+      "collectedAt": "2026-07-09T23:05:00+00:00"
+    }
+  ]
+}

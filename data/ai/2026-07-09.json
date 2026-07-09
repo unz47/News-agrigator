@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-09",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAIがGPT-5.6シリーズ（Sol・Terra・Luna）を一般公開、3段階のモデル構成",
+      "summary": "OpenAIは7月9日、最上位「Sol」、バランス型「Terra」、高速・低コスト型「Luna」の3モデルからなるGPT-5.6シリーズを一般公開した。6月26日のプレビュー版から12日間の政府要請テストを経てグローバル展開となった。価格はSolが入力$5/出力$30、Terraが入力$2.50/出力$15、Lunaが入力$1/出力$6（いずれも100万トークンあたり）。",
+      "url": "https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/",
+      "collectedAt": "2026-07-09T23:05:00+00:00"
+    },
+    {
+      "title": "GPT-5.6 Sol・Terra・LunaがGitHub Copilotで利用可能に",
+      "summary": "GitHubは9日、OpenAIの最新モデルGPT-5.6シリーズ全3モデルをGitHub Copilotで利用可能にしたと発表した。Solは複雑な推論・大規模コードベースの解析に、Terraは日常のコーディング作業に、Lunaは軽量・高速なタスクに最適化されている。SolはPro+/Max/Business/Enterprise、Terra・LunaはPro以上のプランで利用可能。",
+      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot/",
+      "collectedAt": "2026-07-09T23:05:00+00:00"
+    },
+    {
+      "title": "SpaceXAI（旧xAI）がGrok 4.5を公開、Cursor統合でコーディング特化",
+      "summary": "イーロン・マスク率いるSpaceXAI（旧xAI）がGrok 4.5を公開した。上場後・Cursor買収後初のモデルリリースで、コーディングとエージェントワークに特化。入力$2/出力$6（100万トークンあたり）とClaude Opus 4.8の約半額に設定されている。Cursorの全プランで即日利用可能となった。",
+      "url": "https://techweez.com/2026/07/09/spacexai-grok-4-5-launch/",
+      "collectedAt": "2026-07-09T23:05:00+00:00"
+    },
+    {
+      "title": "Anthropicの年換算収益が477億ドル規模に到達、Claude Codeが成長を牽引",
+      "summary": "Anthropicの年換算収益が477億ドル規模に到達したことが報じられた。前年同時期の約40億ドルから1年で10倍以上の急成長を遂げている。Claude Codeをはじめとするエージェント製品群が収益拡大を牽引しており、秋にもIPOを目指してS-1を非公開で申請する見通しとなっている。",
+      "url": "https://note.com/t_kawa_awak/n/n74f5b3797650",
+      "collectedAt": "2026-07-09T23:05:00+00:00"
+    }
+  ]
+}
