@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-10",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "推論エンジン「Colibrì」公開、744Bパラメータの大規模AI「GLM-5.2」を25GB RAMの一般PCで動作可能に",
+      "summary": "純粋なC言語で書かれた軽量推論エンジン「Colibrì」がGitHubで公開され、Hacker Newsで大きな注目を集めた。Zhipu AIの744Bパラメータ MoEモデル「GLM-5.2」を、外部依存なしに25GBのRAMを搭載した一般的なPCで動作させることが可能。MoEアーキテクチャにより1トークンあたり約40Bパラメータのみを活性化し、ルーティング対象のエキスパートをディスクからストリーミングする仕組み。",
+      "url": "https://gigazine.net/gsc_news/en/20260710-colibri-glm",
+      "collectedAt": "2026-07-10T23:00:00+09:00"
+    },
+    {
+      "title": "PrismML、270億パラメータの「Qwen3.6-27B」をiPhone 17 Proで動作させることに成功",
+      "summary": "AI圧縮技術企業PrismMLが、Alibabaの270億パラメータLLM「Qwen3.6-27B」を約54GBから4GB未満に圧縮し、iPhone 17 Pro上で全パラメータを活性化した状態での動作に成功した。AppleがPrismMLの圧縮技術の活用について協議を行っているとの報道もあり、オンデバイスAIの大幅な進展が期待される。7月14日にオープンソースとして公開予定。",
+      "url": "https://gigazine.net/news/20260710-prismml-iphone-apple-qwen/",
+      "collectedAt": "2026-07-10T23:00:00+09:00"
+    },
+    {
+      "title": "改正個人情報保護法が成立、AI開発向けに病歴収集の規制緩和",
+      "summary": "AI開発を後押しする改正個人情報保護法が10日に成立し、AIモデルの訓練目的での個人データ外部提供について本人同意を不要とする特例が設けられた。病歴や犯罪歴などの要配慮個人情報もこの特例の対象に含まれる。日本のAI開発における国際競争力強化が期待される一方、プライバシー保護の観点から懸念の声も上がっている。",
+      "url": "https://www.nikkei.com/article/DGXZQOUA098SD0Z00C26A7000000/",
+      "collectedAt": "2026-07-10T23:00:00+09:00"
+    }
+  ]
+}

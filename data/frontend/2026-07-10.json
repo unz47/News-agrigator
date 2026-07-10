@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-10",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7.0正式リリース、Go移植で8〜12倍の高速化を実現",
+      "summary": "MicrosoftがTypeScript 7.0を正式リリースした。コンパイラをJavaScriptからGoに完全移植し、ネイティブコードの速度とマルチスレッド並列処理により、フルビルドで8〜12倍の高速化を実現。VS Codeのコードベースでは125.7秒から10.6秒に短縮（11.9倍）された。ただし安定版APIは7.1まで未提供で、VueやSvelteエコシステムの対応も限定的。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2123651.html",
+      "collectedAt": "2026-07-10T23:00:00+09:00"
+    },
+    {
+      "title": "npm v12がリリース、サプライチェーン攻撃対策でインストールスクリプトをデフォルト無効化",
+      "summary": "npm v12が7月8日にリリースされ、16年の歴史で最大のセキュリティ刷新となった。preinstall/install/postinstallスクリプトがデフォルトで無効化され、Git依存関係やリモートURL依存関係もブロックされる。2025年に約45万5千件の悪意あるパッケージが公開されたサプライチェーン攻撃への直接的な対応で、明示的なホワイトリスト制に移行する。",
+      "url": "https://www.zaikei.co.jp/amp/article/20260709/860539.html",
+      "collectedAt": "2026-07-10T23:00:00+09:00"
+    },
+    {
+      "title": "TypeScript 7安定版公開もVue・Svelteは未対応、エコシステム移行に課題",
+      "summary": "TypeScript 7.0のGA版は10倍の高速ビルドを実現したが、Vue Single-File ComponentsやSvelteのサポートはまだ完了していない。安定版の公開APIがTypeScript 7.1まで提供されないため、vue-tscやsvelte-checkなどのツールチェーンが対応できない状況。strictモードのデフォルト化やes5ターゲットの廃止など、破壊的変更への対応も必要となる。",
+      "url": "https://www.techtimes.com/articles/320049/20260710/typescript-7-now-stable-10-faster-builds-not-vue-svelte-yet.htm",
+      "collectedAt": "2026-07-10T23:00:00+09:00"
+    }
+  ]
+}
