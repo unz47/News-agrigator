@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-11",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Claudeが利用制限を全リセット、GPT-5.6対抗でFable 5祭り継続",
+      "summary": "Anthropicは全ユーザーのClaude利用制限（5時間制・週間制）を即日リセットした。OpenAIのGPT-5.6発表と同日の対抗措置とみられ、Fable 5の無料利用枠延長と合わせてユーザー囲い込みを強化。OpenAI幹部は「ビビってるね」とコメントし、両社の競争が過熱している。",
+      "url": "https://www.gamebusiness.jp/article/2026/07/11/27436.html",
+      "collectedAt": "2026-07-11T23:09:00+00:00"
+    },
+    {
+      "title": "OpenAI「ChatGPT Work」とGPT-5.6を発表、AIエージェント競争が激化",
+      "summary": "OpenAIは新たなAIエージェント「ChatGPT Work」とGPT-5.6モデルを発表した。ChatGPT Workは複雑な業務タスクを小さな手順に分解し数時間にわたって自律的に作業を継続できる。GPT-5.6はSol・Luna・Terraの3サイズで展開され、Pro・Enterprise向けに提供を開始した。",
+      "url": "https://news.mynavi.jp/article/20260710-4684309/",
+      "collectedAt": "2026-07-11T23:09:00+00:00"
+    },
+    {
+      "title": "xAIがGrok 4.5を一般公開、コーディング特化で低コストのフロンティアモデル",
+      "summary": "xAIは7月8日、コーディングとエージェント作業に特化した新モデル「Grok 4.5」を一般公開した。実際のCursorセッションデータで訓練され、Claude Opus 4.8やGPT-5.5より60%以上低価格ながら高性能を実現。GPT-5.6と合わせフロンティアAI3社の同時ローンチが話題となっている。",
+      "url": "https://tech-noisy.com/2026/07/09/grok-4-5-general-availability/",
+      "collectedAt": "2026-07-11T23:09:00+00:00"
+    },
+    {
+      "title": "トランプ大統領、最先端AIモデルの公開30日前の事前審査を定めた大統領令に署名",
+      "summary": "トランプ大統領は「先端人工知能のイノベーションおよび安全保障の促進」と題した大統領令に署名した。フロンティアAIモデルを開発する企業に公開30日前までの政府への情報提供と事前審査への自主的協力を求める内容で、義務化は見送られた。ホワイトハウスは7月11日までに具体的な枠組みを発表する見通し。",
+      "url": "https://www.sbbit.jp/article/cont1/185617",
+      "collectedAt": "2026-07-11T23:09:00+00:00"
+    }
+  ]
+}

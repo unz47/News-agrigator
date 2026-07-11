@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-11",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7.0が正式リリース、Go移植で8〜12倍の高速化を実現",
+      "summary": "Microsoftは7月8日、TypeScript 7.0を正式リリースした。1年をかけてGo言語へ移植され、ネイティブコード実行と共有メモリによる並列処理により、フルビルドが8〜12倍高速化。VS Codeのプロジェクト読み込み時間は約60秒から10秒未満に短縮され、メモリ使用量も最大26%削減された。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2123651.html",
+      "collectedAt": "2026-07-11T23:09:00+00:00"
+    },
+    {
+      "title": "Next.js 16.3プレビュー公開、AIエージェント対応とTurbopackキャッシュ強化",
+      "summary": "VercelはNext.js 16.3プレビューを公開し、AIエージェントをファーストクラスユーザーとして扱う設計を打ち出した。自動AGENTS.mdバンドル、3つのファーストパーティSkills、Turbopackの永続キャッシュ（next buildにも対応）を搭載。開発メモリを約90%削減し、キャッシュ済みビルドを最大5.5倍高速化する。",
+      "url": "https://nextjs.org/blog/next-16-3-turbopack",
+      "collectedAt": "2026-07-11T23:09:00+00:00"
+    },
+    {
+      "title": "Angular 22リリース、Signal FormsとOnPushデフォルト化で大幅刷新",
+      "summary": "GoogleはAngular 22.0をリリースした。Signal FormsとResourcesが安定版となり、変更検出戦略がデフォルトでOnPushに変更された。HTTPクライアントがFetchベースとなり、TypeScript 6が必須に。Node v20のサポートは廃止され、Angular Ariaやasync DIなどの新機能も追加された。",
+      "url": "https://blog.ninja-squad.com/2026/06/03/what-is-new-angular-22.0",
+      "collectedAt": "2026-07-11T23:09:00+00:00"
+    },
+    {
+      "title": "Biome 2.5リリース、500ルール到達とクロスファイルリント対応",
+      "summary": "Web開発向けツールチェーンBiomeがv2.5をリリースし、lintルールが500を突破した。GritQLプラグインでのコード修正が可能になり、watchモードがlint・format・checkコマンドに対応。go-to-definition機能もサポートされ、ESLint/Prettierからの移行がさらに加速している。",
+      "url": "https://biomejs.dev/blog/biome-v2-5/",
+      "collectedAt": "2026-07-11T23:09:00+00:00"
+    }
+  ]
+}
