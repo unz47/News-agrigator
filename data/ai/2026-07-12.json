@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-12",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "AppleがOpenAIを営業秘密盗用で提訴、AI端末開発への機密流用を主張",
+      "summary": "米Appleは北カリフォルニア連邦裁判所でOpenAIを営業秘密盗用で提訴した。400人以上のApple元従業員がOpenAIに在籍しており、最高ハードウェア責任者のタン・タンらが設計データや製造技術の機密情報持ち出しを主導したと主張。OpenAI側は「他社の営業秘密に関心はない」と反論している。",
+      "url": "https://forbesjapan.com/articles/detail/100687",
+      "collectedAt": "2026-07-12T12:00:00+00:00"
+    },
+    {
+      "title": "Claude Fable 5の有料プラン向け無料プロモーションが本日終了",
+      "summary": "Anthropicが提供するClaude Fable 5の有料プラン向けプロモーションアクセスが7月12日23時59分（太平洋時間）で終了する。7月13日以降は利用クレジットが必要となり、入力100万トークン10ドル・出力100万トークン50ドルの従量課金に移行する。容量が整い次第、有料プラン標準特典への復帰を目指すとしている。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2123273.html",
+      "collectedAt": "2026-07-12T12:00:00+00:00"
+    },
+    {
+      "title": "Google DeepMindのGemini 3.5 Proが7月17日リリース予定、200万トークン対応",
+      "summary": "Google DeepMindの次世代モデルGemini 3.5 Proが7月17日にリリース予定と報じられている。200万トークンのコンテキストウィンドウと新しいDeep Think推論モードを搭載し、GPT-5.6やFable 5に対抗する。数学的推論やSVG生成の改善のためアーキテクチャを根本から再設計したため6週間の遅延が生じた。",
+      "url": "https://www.techtimes.com/articles/319877/20260708/gemini-35-pro-targets-july-17-deepseeks-july-24-deadline-hits-developers-now.htm",
+      "collectedAt": "2026-07-12T12:00:00+00:00"
+    },
+    {
+      "title": "今週のAIニュース総まとめ：GPT-5.6・Grok 4.5など新モデル続々、「使い捨て」時代へ",
+      "summary": "2026年7月第2週はAI業界が大きく動いた。OpenAIのGPT-5.6（Sol・Terra・Luna）、SpaceXAIのGrok 4.5が相次いで一般公開され、フロンティアモデルが同時期に複数リリースされる異例の週となった。モデルの世代交代が加速し「使い捨て」の時代に入りつつあるとの見方も出ている。",
+      "url": "https://note.com/ai__worker/n/n0dfa26c6059b",
+      "collectedAt": "2026-07-12T12:00:00+00:00"
+    }
+  ]
+}

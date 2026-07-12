@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-12",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "React CompilerがRustに完全移植、Next.js 16.4で40%以上のビルド高速化",
+      "summary": "React CompilerがTypeScriptからRustに完全移植され、PR #36173として6月9日にマージされた。Babelプラグインとして元のTS版より3倍高速、Turbopackにネイティブリンクすることでコンパイルが40%以上高速化される。全1725テストが通過し設定変更不要のドロップイン対応で、Next.js 16.4に搭載予定。",
+      "url": "https://byteiota.com/react-compiler-rust-nextjs-16-4-faster-builds/",
+      "collectedAt": "2026-07-12T12:00:00+00:00"
+    },
+    {
+      "title": "TypeScript 7（tsgo）がもたらすパラダイムシフト、Go移植の影響を分析",
+      "summary": "7月8日に正式リリースされたTypeScript 7.0のGo移植版「tsgo」が開発現場に与える影響を詳細に分析。フルビルド8〜12倍高速化によりCI/CDパイプラインや大規模モノレポの型チェックが劇的に改善される一方、プラグインAPIの変更やNode.js非依存化による既存ツールチェーンへの影響も指摘されている。",
+      "url": "https://zenn.dev/chot/articles/30da2a9194a081",
+      "collectedAt": "2026-07-12T12:00:00+00:00"
+    },
+    {
+      "title": "CSS 2026新機能まとめ：contrast-color・shape・Anchor Positioningでブラウザに仕事をさせる時代",
+      "summary": "2026年にブラウザで利用可能になったCSS新機能のまとめ。contrast-color()による自動コントラスト配色、shape()関数による複雑な図形描画、全ブラウザ対応したAnchor Positioningなど、従来JavaScriptが必要だった処理がCSSネイティブで実現可能になり、コード量約30%削減とパフォーマンス向上を実現。",
+      "url": "https://blog.printemps.tokyo/blog/css-2026-browser-native-features",
+      "collectedAt": "2026-07-12T12:00:00+00:00"
+    }
+  ]
+}
