@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-13",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7.0が正式リリース、Go移植でフルビルド8〜12倍高速化",
+      "summary": "Microsoftは7月8日、TypeScriptのコードベースをGoに移植したTypeScript 7.0を正式リリースした。フルビルドが8〜12倍高速化し、VS Codeでのエラー表示が17.5秒から1.3秒未満に短縮。メモリ使用量も6〜26%削減されている。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2123651.html",
+      "collectedAt": "2026-07-13T12:00:00+09:00"
+    },
+    {
+      "title": "SvelteKit最新版がVite 8・Rolldown 1.0に対応、設定ファイル統合も実現",
+      "summary": "SvelteKitの7月リリースでVite 8.0.12以上が必須となり、Rustベースのバンドラ「Rolldown 1.0.0」が安定版として統合された。SvelteKit設定をvite.config.jsで直接記述可能になり、環境変数の明示的な指定や新しい宣言タグにも対応した。",
+      "url": "https://svelte.dev/blog/whats-new-in-svelte-july-2026",
+      "collectedAt": "2026-07-13T12:00:00+09:00"
+    },
+    {
+      "title": "HeroUI v3リリース：旧NextUIがReact/React Native対応でフルリライト",
+      "summary": "旧NextUIが「HeroUI」にリブランドしv3としてフルリライトされた。React向け75以上のWebコンポーネントとReact Native向け37コンポーネントを搭載し、Tailwind CSS v4とReact Aria Componentsを基盤にアニメーションを全てCSS化しランタイムJSを排除した。",
+      "url": "https://www.infoq.com/news/2026/07/heroui-v3-rewrite/",
+      "collectedAt": "2026-07-13T12:00:00+09:00"
+    }
+  ]
+}

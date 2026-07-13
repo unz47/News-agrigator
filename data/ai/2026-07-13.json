@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-13",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Claude Fable 5のアクセス期間が7月19日まで再延長、Claude Code使用上限50%増も維持",
+      "summary": "Anthropicは7月13日、最上位AIモデル「Claude Fable 5」の追加料金なしアクセス期間を7月19日まで再延長すると発表した。有料プラン加入者は週次使用上限の50%までFable 5を無料で利用でき、Claude Codeの週次レート制限50%増量も同期間維持される。",
+      "url": "https://gigazine.net/news/20260713-clude-fable-5-promotion-extended/",
+      "collectedAt": "2026-07-13T12:00:00+09:00"
+    },
+    {
+      "title": "世界のAI最新ニュース：エージェント・音声AI・規制がすべて運用段階へ",
+      "summary": "2026年7月13日付のAIニュースまとめ。AIの焦点はモデル発表から「業務タスクを完遂する実行プラットフォーム」へ移行しており、ブラウザ・ターミナル・社内文書・API・音声インターフェースで複数エージェントが並列稼働する段階に入っている。",
+      "url": "https://eguweb.jp/ai/81186/",
+      "collectedAt": "2026-07-13T12:00:00+09:00"
+    },
+    {
+      "title": "先週の生成AIニュースまとめ：GPT-5.6一般公開、Claude Coworkモバイル展開、Grok 4.5リリース",
+      "summary": "7月6日〜12日のAI主要ニュースまとめ。OpenAIがGPT-5.6（Sol/Terra/Luna）とChatGPT Workを一般公開し、AnthropicがClaude CoworkをWeb・iOS・Androidに展開。SpaceXAIもGrok 4.5をリリースし、大型発表が相次いだ一週間だった。",
+      "url": "https://tech-noisy.com/2026/07/13/ai-weekly-news-2026-07-06-2026-07-12/",
+      "collectedAt": "2026-07-13T12:00:00+09:00"
+    }
+  ]
+}
