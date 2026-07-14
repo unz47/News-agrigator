@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-14",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Vercel AI SDK、プロバイダURL検証のセキュリティパッチをリリース",
+      "summary": "Vercel AI SDKがプロバイダURLに関するセキュリティ強化パッチを公開。リダイレクトの検証強化、厳格なヘッダー処理、新たなtrustedOriginとcredentialedOriginオプションを追加し、APIキーの漏洩やプライベートネットワークへのアクセスを防止する。",
+      "url": "https://releasebot.io/updates/vercel/vercel-ai",
+      "collectedAt": "2026-07-14T12:00:00+09:00"
+    },
+    {
+      "title": "Next.js 16.3プレビュー、Turbopackのメモリ使用量90%削減とビルドキャッシュ永続化を実現",
+      "summary": "Next.js 16.3プレビューでTurbopackの大幅改善が実施された。ファイルシステム永続化を活用したメモリキャッシュの自動解放で開発時メモリ使用量を約90%削減。ビルド用永続キャッシュも利用可能になり、Rust版React Compilerの統合で大規模アプリのコンパイルが20〜50%高速化した。",
+      "url": "https://nextjs.org/blog/next-16-3-turbopack",
+      "collectedAt": "2026-07-14T12:00:00+09:00"
+    },
+    {
+      "title": "TypeScript 7.0正式リリース、Go移植によりフルビルドが8〜12倍高速化",
+      "summary": "Microsoftが7月8日にTypeScript 7.0を正式リリース。約1年かけてコンパイラをGoに移植し、フルビルドで8〜12倍の高速化を実現。VS Codeの230万行コードベースのビルドが125秒から10.6秒に短縮された。ただしプログラマティックAPIは7.1まで未提供で、Vue・Angular・Svelteのテンプレート型チェックは対応待ち。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2123651.html",
+      "collectedAt": "2026-07-14T12:00:00+09:00"
+    }
+  ]
+}
