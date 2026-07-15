@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-15",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、米K-12教員向け「Claude for Teachers」を無料提供開始",
+      "summary": "Anthropicが米国の幼稚園から高校までの認証教員に対し、Claude CodeやCoworkを含むプレミアム機能を無料で提供する「Claude for Teachers」を発表。2027年6月末までに登録すれば1年間利用可能で、生徒データはAIモデルの学習には使用されない。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000193/",
+      "collectedAt": "2026-07-15T12:00:00+09:00"
+    },
+    {
+      "title": "Google DeepMindハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
+      "summary": "Google DeepMindのデミス・ハサビスCEOが論考を発表し、金融業界のFINRAをモデルとした「フロンティアAI標準化機関」の設立を提唱した。フロンティアモデルの公開前審査を段階的に義務化する枠組みを提案し、OpenAIのアルトマンCEOも賛同を表明した。",
+      "url": "https://gigazine.net/news/20260715-google-deepmind-demmis-hassabis-ai-framework/",
+      "collectedAt": "2026-07-15T12:00:00+09:00"
+    },
+    {
+      "title": "中国の擬人化AI規制が本日施行、バイトダンス「豆包」・アリババ「千問」がサービス終了",
+      "summary": "中国の「人工知能擬人化双方向サービス管理暫定措置」が7月15日に施行された。バイトダンスの「豆包（Doubao）」とアリババの「千問（Qwen）」が数億人規模のパーソナライズドAIエージェント機能を停止。テンセント「元宝」も既にカスタムAIキャラクター機能を削除済み。",
+      "url": "https://www.nikkei.com/article/DGXZQOUC149360U6A710C2000000/",
+      "collectedAt": "2026-07-15T12:00:00+09:00"
+    }
+  ]
+}

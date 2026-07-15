@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-15",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "開発者メディアCodeZineが15周年リニューアル、AI時代の技術選定を支援する「DeveloperZine」を新設",
+      "summary": "ソフトウェア開発者向けメディア「CodeZine」が7月15日にリニューアルし、新メディア「DeveloperZine」を新設、「ProductZine」を統合して3メディア体制に移行した。AI時代に技術選定やアーキテクチャの意思決定を支援するコンテンツを強化する。",
+      "url": "https://codezine.jp/news/detail/28881",
+      "collectedAt": "2026-07-15T12:00:00+09:00"
+    },
+    {
+      "title": "VoidZeroがフロントエンド統合ツールチェーン「Vite+」ベータ版を公開",
+      "summary": "Cloudflareに買収されたVoidZeroが、Viteベースの統合フロントエンドツールチェーン「Vite+」のベータ版を公開した。ビルド・テスト・リント・フォーマットを単一ワークフローに統合し、自動キャッシュ追跡やAIエージェント向けマイグレーション支援も搭載する。",
+      "url": "https://codezine.jp/news/detail/28896",
+      "collectedAt": "2026-07-15T12:00:00+09:00"
+    },
+    {
+      "title": "GitHub CopilotにGPT-5.6 Sol/Terra/Luna搭載、開発者の用途別に3モデルを使い分け可能に",
+      "summary": "GitHub CopilotでOpenAIのGPT-5.6ファミリー3モデルが利用可能になった。大規模コードベースの推論向け「Sol」、日常的なコーディング向け「Terra」、軽量・低コスト向け「Luna」の3種で、VS CodeやJetBrains等の主要IDEで選択できる。",
+      "url": "https://codezine.jp/news/detail/28923",
+      "collectedAt": "2026-07-15T12:00:00+09:00"
+    }
+  ]
+}
