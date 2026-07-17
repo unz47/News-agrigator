@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-17",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7.0が正式リリース、Goベースのネイティブコンパイラで8〜12倍高速に",
+      "summary": "MicrosoftがTypeScript 7.0を正式リリースした。コンパイラをGoで完全に書き直し、フルビルドで8〜12倍の高速化を実現。VS Codeのビルド時間は125.7秒から10.6秒に短縮された。ただし安定版プログラマティックAPIは7.1（10月予定）まで提供されず、VueやAngularのテンプレート型チェックなどは対応待ち。",
+      "url": "https://gihyo.jp/article/2026/07/typescript-7-0",
+      "collectedAt": "2026-07-17T12:00:00+09:00"
+    },
+    {
+      "title": "Next.js、月次セキュリティリリースプログラムを開始 初回は7月20日に公開予定",
+      "summary": "VercelがNext.jsの月次セキュリティリリースプログラムを正式に開始した。初回のスケジュール済みリリースは7月20日を予定し、Next.js 16.2と15.5を対象に高深刻度4件・中深刻度5件の脆弱性を修正する。積極的に悪用されている脆弱性は定期リリースを待たず即時対応する方針。",
+      "url": "https://nextjs.org/blog/next-security-release-program",
+      "collectedAt": "2026-07-17T12:00:00+09:00"
+    },
+    {
+      "title": "CloudflareがVoidZeroを買収、Viteエコシステムをプラットフォームに統合へ",
+      "summary": "CloudflareがViteの開発元VoidZeroを買収し、Vite・Vitest・Rolldown・Oxcなどの高性能ツールチェーンをCloudflareエコシステムに統合する。Evan You率いるチームが参画し、全ツールはMITライセンスのオープンソースを維持。独立コミュニティ向けに100万ドルのViteエコシステムファンドも設立された。",
+      "url": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-acquires-voidzero-to-build-the-future-of-the-ai-native-web/",
+      "collectedAt": "2026-07-17T12:00:00+09:00"
+    },
+    {
+      "title": "2026年フロントエンドフレームワーク動向：React利用率46.9%で依然トップも、Angularが復調",
+      "summary": "2026年のフロントエンドフレームワーク動向として、Reactが46.9%の開発者利用率でトップを維持する一方、AngularがSignals導入によるzonelessモードのデフォルト化で復調している。Next.jsは21.5%で2位。フレームワーク全体がファイングレインドリアクティビティ・サーバーファースト・コンパイラ最適化に収束する傾向にある。",
+      "url": "https://www.nucamp.co/blog/javascript-framework-trends-in-2026-what-s-new-in-react-next.js-vue-angular-and-svelte",
+      "collectedAt": "2026-07-17T12:00:00+09:00"
+    }
+  ]
+}

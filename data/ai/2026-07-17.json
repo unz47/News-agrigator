@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-17",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Moonshot AIがKimi K3を発表、2.8兆パラメータの巨大MoEモデルで米国勢に迫る",
+      "summary": "中国のMoonshot AIが2.8兆パラメータのMixture-of-Experts型モデル「Kimi K3」を発表した。896個のエキスパートのうち16個を活性化し、100万トークンのコンテキストウィンドウを持つ。ベンチマークではAnthropicのClaude Fable 5とOpenAIのGPT-5.6に次ぐ3位にランクインし、7月27日にオープンソースで重みを公開予定。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
+      "collectedAt": "2026-07-17T12:00:00+09:00"
+    },
+    {
+      "title": "Netflix、2026年の約300作品で生成AIを活用 制作は2倍速・費用半減の事例も",
+      "summary": "Netflixが2026年4〜6月期決算で、今年約300作品の制作工程に生成AIを導入したことを明らかにした。ドキュメンタリー「The American Experiment」では17分間のAI強化映像を従来の2倍速・半分のコストで制作。CEOは「AIは創作の専門家を置き換えるものではない」と強調した。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/17/news065.html",
+      "collectedAt": "2026-07-17T12:00:00+09:00"
+    },
+    {
+      "title": "OpenAI、AIの脆弱性を自動検出するレッドチームAI「GPT-Red」を発表",
+      "summary": "OpenAIがAIモデルの脆弱性を自動的に検出する社内向けモデル「GPT-Red」を発表した。自己対戦型の強化学習で訓練され、間接的プロンプトインジェクションのシナリオで84%の攻撃成功率を達成。人間のレッドチームの13%を大幅に上回り、GPT-5.6の堅牢性向上に貢献した。",
+      "url": "https://www.watch.impress.co.jp/docs/news/2125829.html",
+      "collectedAt": "2026-07-17T12:00:00+09:00"
+    },
+    {
+      "title": "中国AIがアメリカのリードを消す Kimi K3のオープンソース戦略が業界を揺るがす",
+      "summary": "Axiosは、Moonshot AIのKimi K3がオープンウェイトで公開されることで、米国のAI優位性が脅かされていると報じた。Kimi K3はフロントエンドWeb開発ベンチマークでArena.aiの1位を獲得し、コーディングやエージェントワークロードで特に強みを見せている。",
+      "url": "https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus",
+      "collectedAt": "2026-07-17T12:00:00+09:00"
+    }
+  ]
+}
