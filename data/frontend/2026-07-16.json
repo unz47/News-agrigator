@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-16",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "JavaScriptスプレッドシート「SpreadJS V19.1J」がリアルタイム共同編集機能を新搭載",
+      "summary": "メシウス株式会社がJavaScriptスプレッドシートライブラリ「SpreadJS」の最新版V19.1Jを7月23日にリリースすると発表。Excelのように複数ユーザーが同時編集できる共同編集機能を新搭載し、VS Code拡張機能としてのデザイナーも利用可能になる。",
+      "url": "https://www.publickey1.jp/blog/26/javascriptspreadjs.html",
+      "collectedAt": "2026-07-16T12:00:00+09:00"
+    },
+    {
+      "title": "「Developers Summit 2026 Summer」開幕、エンジニア×ビジネス貢献をテーマに約60セッション",
+      "summary": "日本最大級の開発者カンファレンス「デブサミ2026夏」がJPタワーで7月16〜17日に開催。AI時代における開発生産性の再定義をテーマに、トヨタ・イオン・みずほ銀行など大手企業のエンジニアが約60セッションで登壇。併催の「IT Strategy Summit 2026」も同時開催。",
+      "url": "https://event.shoeisha.jp/devsumi/20260716",
+      "collectedAt": "2026-07-16T12:00:00+09:00"
+    },
+    {
+      "title": "NVIDIAとトヨタの協業拡大でウーブン・シティのフロントエンド開発にも波及、デジタルツイン基盤を構築",
+      "summary": "NVIDIAとトヨタの協業拡大により、実証都市ウーブン・シティの交通管制AIシステムにNVIDIAの「Omniverse」が導入される。現実の工場を仮想空間にデジタルツインとして再現するWeb基盤の構築が進み、3D可視化やリアルタイムシミュレーションのフロントエンド技術にも注目が集まる。",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/16/news082.html",
+      "collectedAt": "2026-07-16T12:00:00+09:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-16",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "ノエトラ、NVIDIAの次世代AI半導体「Rubin」約2万7500基を調達 国産基盤モデル開発へ",
+      "summary": "ソフトバンク系列のNoetra株式会社がソニー・NEC・本田と共にNVIDIAの次世代AI半導体「Rubin」約2万7500基を調達すると発表。日本政府から約3873億円の補助金を受け、2028年6月稼働予定の国産マルチモーダル基盤モデルの開発に本格着手する。",
+      "url": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260716_01/",
+      "collectedAt": "2026-07-16T12:00:00+09:00"
+    },
+    {
+      "title": "NVIDIAとトヨタがフィジカルAI・次世代モビリティで協業拡大を発表",
+      "summary": "NVIDIAとトヨタが自動車・ロボティクス・スマートシティ分野での協業拡大を発表。トヨタの実証都市「ウーブン・シティ」にNVIDIAのGPUを導入し、次世代車両に「DRIVE AGX Orin」を搭載。「Omniverse」によるデジタルツインで工場最適化も進める。",
+      "url": "https://response.jp/article/2026/07/16/414119.html",
+      "collectedAt": "2026-07-16T12:00:00+09:00"
+    },
+    {
+      "title": "NVIDIA、エッジAI向け新モジュール「Jetson Thor T3000/T2000」を発表",
+      "summary": "NVIDIAがロボティクスとエッジAI向けの新型モジュール「Jetson T3000」と「T2000」を発表。T3000は865 FP4テラフロップスの性能を持ちBlackwell GPUを搭載、ヒューマノイドロボットや産業用ロボット向け。2027年第1四半期に提供開始予定。",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2125553.html",
+      "collectedAt": "2026-07-16T12:00:00+09:00"
+    },
+    {
+      "title": "NVIDIAフアンCEO来日、日本企業との連携強化で「フィジカルAI」推進を宣言",
+      "summary": "NVIDIAのジェンスン・フアンCEOが来日し、トヨタ・ファナック・ノエトラなど日本企業との提携拡大を発表。日本の製造業やロボット産業でのAI半導体需要の高まりに応え、「日本のAIが始まる」と宣言。秋葉原ではセガとの30年の関係を語るイベントも開催された。",
+      "url": "https://diamond.jp/articles/-/394828",
+      "collectedAt": "2026-07-16T12:00:00+09:00"
+    }
+  ]
+}
