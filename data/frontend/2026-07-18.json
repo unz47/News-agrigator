@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-18",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "ECMAScript 2026（ES17）仕様がECMA Internationalで正式承認、新API追加",
+      "summary": "ECMA Internationalの第131回総会（6月30日・ジュネーブ）でECMAScript 2026（第17版）が正式承認された。Math.sumPrecise（精度を保った数値合計）、Iterator.concat（イテレータ連結）、Array.fromAsync（非同期ソースからの配列構築）などが追加された。長年期待されていたTemporal APIは今回の承認には間に合わず次版以降に持ち越し。",
+      "url": "https://www.infoworld.com/article/4193461/ecmascript-2026-specification-approved.html",
+      "collectedAt": "2026-07-18T23:10:52+00:00"
+    },
+    {
+      "title": "Chrome 150セキュリティアップデート、27件の脆弱性を修正（クリティカル2件含む）",
+      "summary": "GoogleはChrome 150の安定版チャネルアップデートをリリースし、27件のセキュリティ脆弱性を修正した。OzoneとViewsにおけるuse-after-freeの2件がクリティカルと評価され、その他にも整数オーバーフローや未初期化メモリ使用などの高・中深刻度の修正が含まれる。",
+      "url": "https://chromereleases.googleblog.com/2026/07/stable-channel-update-for-desktop_0353146366.html",
+      "collectedAt": "2026-07-18T23:10:52+00:00"
+    },
+    {
+      "title": "TypeScript 7.0 GA後1週間、React/Next.jsプロジェクトでの移行が本格化",
+      "summary": "7月8日にGAとなったTypeScript 7.0のネイティブコンパイラ移行が本格化している。React・Next.jsプロジェクトでは即座の移行が推奨され、Slackではマージキュー時間が40%短縮、CIの型チェックが7.5分から1分に高速化した。一方、Vue・Svelte・Angularはプログラマティック API待ち（7.1、10月予定）のため移行は非推奨。",
+      "url": "https://www.digitalapplied.com/blog/typescript-7-native-compiler-early-adopter-migration-readiness",
+      "collectedAt": "2026-07-18T23:10:52+00:00"
+    }
+  ]
+}

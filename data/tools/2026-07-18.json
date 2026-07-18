@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-18",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.211リリース、プロンプトキャッシュ過剰課金の修正やセキュリティ改善を含む37件の変更",
+      "summary": "7月15日にClaude Code v2.1.211がリリースされ、37件の変更が含まれる。Bedrock・Vertex・Mantle・Foundryでのプロンプトキャッシュ過剰課金の修正、承認メッセージの偽装を防ぐセキュリティ修正、バックグラウンドエージェントの自動再起動バグの修正が主な内容。サブエージェントのテキストストリーミング転送機能も新たに追加された。",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "collectedAt": "2026-07-18T23:10:52+00:00"
+    },
+    {
+      "title": "Kiro、OpenAIモデル（GPT-5.6 Sol/Terra/Luna）を初搭載しマルチモデル対応を強化",
+      "summary": "AWSのAI IDE「Kiro」がOpenAIのモデルを初めて搭載し、GPT-5.6 Sol・Terra・LunaをIDE・CLI・Webで利用可能にした。Solは複雑なマルチステップ作業向け、Terraはターミナル作業向け、Lunaは低コスト高速タスク向けとなる。同時にClaude Sonnet 5も追加され、Pro・Powerティアで順次展開中。",
+      "url": "https://kiro.dev/changelog/models/",
+      "collectedAt": "2026-07-18T23:10:52+00:00"
+    },
+    {
+      "title": "GitHub Copilotアプリが全プラン（無料含む）で利用可能に、BYOK対応も",
+      "summary": "GitHubはCopilotデスクトップアプリをmacOS・Windows・Linuxの全プランで利用可能にした。Copilot Free・Education含む全ユーザーがエージェント駆動の開発環境を利用でき、自前のAPIキーでモデルプロバイダに接続する「BYOK」モードではCopilotサブスクリプション不要で利用できる。",
+      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all/",
+      "collectedAt": "2026-07-18T23:10:52+00:00"
+    },
+    {
+      "title": "Cursor 3.11リリース、サイドチャットとエージェント会話検索機能を追加",
+      "summary": "AI IDE「Cursor」がバージョン3.11をリリースし、メインチャットと並行して質問や調査ができる「サイドチャット」機能を追加した。/sideや/btwコマンドで起動でき、メインのエージェント作業を中断せずに疑問を解消できる。またコマンドパレットからエージェント会話の全文検索が可能になり、過去の作業履歴を素早く参照できる。",
+      "url": "https://cursor.com/changelog",
+      "collectedAt": "2026-07-18T23:10:52+00:00"
+    }
+  ]
+}

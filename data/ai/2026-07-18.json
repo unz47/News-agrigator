@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-18",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "上海世界AI大会開幕、習近平が29カ国によるAI国際協力組織「WAICO」設立を発表",
+      "summary": "中国上海で2026世界人工知能大会が開幕し、習近平国家主席が29カ国による「世界人工知能合作組織（WAICO）」の設立を発表した。展示面積は初の10万㎡超、1100社以上が参加し300点以上を世界初公開。今後5年間で途上国に5000人分のAI研修枠を提供する方針も示された。",
+      "url": "https://news.livedoor.com/topics/detail/31860903/",
+      "collectedAt": "2026-07-18T23:10:52+00:00"
+    },
+    {
+      "title": "Microsoft、マルチモデルAIセキュリティツール「Project Perception」を7月中にリリースへ",
+      "summary": "Microsoftが複数のAIモデルを組み合わせるサイバーセキュリティプラットフォーム「Project Perception」を7月中にリリース予定と発表した。OpenAI・Anthropic・自社モデルを使い分ける「モデルルーター」で企業のコード・クラウド環境の脆弱性を検出・修正する。AnthropicのMythosモデルより大幅に低コストでの提供を目指す。",
+      "url": "https://www.techrepublic.com/article/news-microsoft-project-perception-ai-security-tool/",
+      "collectedAt": "2026-07-18T23:10:52+00:00"
+    },
+    {
+      "title": "Claude Fable 5の無料アクセスが7月19日で終了、以降は従量課金へ移行",
+      "summary": "AnthropicはClaude Fable 5の有料プラン向け無料プロモーションを7月19日23:59 PTで終了すると発表した。Pro・Max・Teamプランのユーザーは週間利用上限の50%までFable 5を追加費用なしで利用できたが、終了後は従量課金モデルに移行する見通し。Claude Codeの週間利用上限50%増枠も同日に終了する。",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+      "collectedAt": "2026-07-18T23:10:52+00:00"
+    }
+  ]
+}
