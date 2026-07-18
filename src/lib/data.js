@@ -7,6 +7,7 @@ const CATEGORIES = [
   { id: 'general', label: '一般', color: '#3b82f6' },
   { id: 'ai', label: 'AI・LLM', color: '#a855f7' },
   { id: 'frontend', label: 'FE', color: '#10b981' },
+  { id: 'tools', label: '開発ツール', color: '#f59e0b' },
 ];
 
 function getDatesForCategory(category) {
