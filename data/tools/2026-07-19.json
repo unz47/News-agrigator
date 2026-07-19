@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-19",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.215/214リリース、セキュリティ修正とEndConversationツール追加",
+      "summary": "Claude Codeが7月18〜19日にv2.1.214およびv2.1.215を連続リリースした。v2.1.214ではWindows PowerShell 5.1の権限チェックバイパス修正、長大コマンド（1万文字超）の自動実行防止、Docker daemonリダイレクトへの権限要求追加など重要なセキュリティ修正が含まれる。v2.1.215では/verifyと/code-reviewスキルの自動実行が廃止され、明示的な呼び出しが必要になった。",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "collectedAt": "2026-07-19T23:09:53+00:00"
+    },
+    {
+      "title": "Claude Code v2.1.212リリース、/forkコマンドとセッション制限を追加",
+      "summary": "7月17日にリリースされたClaude Code v2.1.212では、会話を新しいバックグラウンドセッションにコピーする/forkコマンドが追加された。セッション全体の制限として、WebSearch 200回・サブエージェント生成200回の上限（カスタマイズ可能）が設定され、2分超のMCPツール呼び出しは自動的にバックグラウンド化される。/resumeで削除済みセッションの復元も可能に。",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "collectedAt": "2026-07-19T23:09:53+00:00"
+    },
+    {
+      "title": "Visual Studio 2026 7月アップデート、AIエージェントスキルとテーマカスタマイズを搭載",
+      "summary": "Microsoftが7月14日にVisual Studio 2026の7月アップデートをリリースした。.NETおよびAzureチーム作成のビルトインスキルがCopilotエージェントに統合され、リポジトリ内のスキル定義を自動検出して開発タスクを効率化する。コピーしたコードをプロジェクトの命名規則に自動変換する「Adaptive Paste」やFluent UIトークンの直接カスタマイズ機能も新搭載。",
+      "url": "https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes",
+      "collectedAt": "2026-07-19T23:09:53+00:00"
+    }
+  ]
+}

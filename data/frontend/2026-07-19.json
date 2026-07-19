@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-19",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Angular 22.0.7パッチリリース、セキュリティ強化とバグ修正を含む",
+      "summary": "Angular 22.0.7が7月16日にリリースされた。Angular 22はSignal Formsやresource()、httpResourceが正式に安定APIとなり、コンポーネントのデフォルト変更検知がOnPushに変更されるなど、シグナルベースのリアクティブモデルが標準となった。SSRF攻撃への保護強化も含むセキュリティリリースでもある。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-07-19T23:09:53+00:00"
+    },
+    {
+      "title": "Chrome 151がEarly Stableチャネルにリリース、7月28日に正式安定版へ",
+      "summary": "Google Chrome 151.0が7月15日にEarly Stableチャネルにリリースされ、7月28日に正式な安定版チャネルへの展開が予定されている。新タブページでのブックマークバー自動非表示やアドレスバーへのAIチャットボタンの統合などが含まれる。前バージョンChrome 150では27件のセキュリティ脆弱性が修正されていた。",
+      "url": "https://chromereleases.googleblog.com/2026/07/",
+      "collectedAt": "2026-07-19T23:09:53+00:00"
+    },
+    {
+      "title": "npm v12のbreaking changes発効、インストールスクリプトのデフォルト無効化でCI移行が急務に",
+      "summary": "7月8日にリリースされたnpm v12では、サプライチェーン攻撃対策として3つの主要なbreaking changesが導入された。依存パッケージのインストールスクリプト（preinstall/install/postinstall）がデフォルトで無効化され、Gitおよびリモート URL依存もデフォルトでブロックされる。既存のCIパイプラインが影響を受けるため、npm approve-scriptsコマンドでの明示的な許可設定への移行が必要となっている。",
+      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "collectedAt": "2026-07-19T23:09:53+00:00"
+    }
+  ]
+}

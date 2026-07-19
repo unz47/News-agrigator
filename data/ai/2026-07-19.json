@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-19",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "中国Moonshot AI「Kimi K3」がフロントエンドコードArenaで1位を獲得、Claude Fable 5を上回る",
+      "summary": "中国のMoonshot AIが7月16日にリリースした2.8兆パラメータのMoEモデル「Kimi K3」が、Arena.aiのフロントエンドコード評価で1679ポイントを獲得し、Claude Fable 5（1631）やGPT-5.6 Sol（1618）を上回り1位となった。100万トークンのコンテキストウィンドウとマルチモーダル入力に対応し、7つの評価領域中6つでトップを記録。前世代K2.6から17ランクの急上昇で、中国のオープンウェイトAIの急速な追い上げを示した。",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3",
+      "collectedAt": "2026-07-19T23:09:53+00:00"
+    },
+    {
+      "title": "Google Gemini 3.5 Pro、コーディング性能不足で再びリリース延期 Alphabet株約4%下落",
+      "summary": "Googleの最上位AIモデル「Gemini 3.5 Pro」が再びリリース延期となった。コーディングや複雑な推論タスクで社内目標に達しなかったことが原因で、6月にはトレーニングデータを更新してコーディング性能の改善を図ったが結果は期待を下回り、モデルの再構築に踏み切った。延期報道を受けAlphabet株は約4%下落し、AnthropicやOpenAIとの競争で後れをとるリスクが懸念されている。",
+      "url": "https://www.businesstoday.in/technology/news/story/googles-gemini-3-5-pro-delayed-performance-falls-short-of-expectations-543524-2026-07-17",
+      "collectedAt": "2026-07-19T23:09:53+00:00"
+    },
+    {
+      "title": "Anthropic、Metaから約100億ドル規模のAI計算リソースリースを交渉中",
+      "summary": "AnthropicがMetaとAI計算リソースのリース契約について初期段階の交渉を行っていることが明らかになった。取引規模は約100億ドルと報じられている。これはAnthropicが先週発表したイーロン・マスクのSpaceXが運営するColossus 1データセンターの計算リソース利用契約に続くもので、有料会員向けの処理能力を拡充する狙い。",
+      "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+      "collectedAt": "2026-07-19T23:09:53+00:00"
+    }
+  ]
+}
