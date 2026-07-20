@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-20",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js月例セキュリティパッチ第1弾、Server ComponentsやApp Routerなど広範な脆弱性に対応",
+      "summary": "Next.jsの月例セキュリティリリースプログラム初回パッチが7月21日にリリース予定。Next.js 16.2と15.5を対象に、Server ComponentsのDoS脆弱性、App Routerのバイパス・XSS、MiddlewareとProxyのSSRF・キャッシュポイズニングなど計9件（高深刻度4件・中深刻度5件）を修正する。AI発見の脆弱性報告急増を受け、月次の定期リリースで予測可能なパッチサイクルを確立する。",
+      "url": "https://cybersecuritynews.com/next-js-monthly-security-updates/",
+      "collectedAt": "2026-07-20T10:00:00+00:00"
+    },
+    {
+      "title": "web.dev「Webプラットフォーム2026年6月の新機能」公開、field-sizing CSSプロパティがBaseline到達",
+      "summary": "web.devが2026年6月に安定版ブラウザに追加されたWebプラットフォーム新機能のまとめを公開した。Chrome 149・150、Firefox 152が安定版としてリリースされ、Firefox 152ではfield-sizing CSSプロパティが実装された。これによりフォームコントロールの自動サイズ調整が全主要ブラウザでBaseline対応となり、JavaScriptなしでinputやtextareaがコンテンツに合わせて自動リサイズ可能になった。",
+      "url": "https://web.dev/blog/web-platform-06-2026",
+      "collectedAt": "2026-07-20T10:00:00+00:00"
+    },
+    {
+      "title": "Chrome 150の新Web UI機能: HTML-in-Canvas API、moveBefore()、CSS text-fitが正式実装",
+      "summary": "Chrome 150で複数の新しいWeb UI機能が正式に実装された。HTML-in-Canvas APIにより、canvas内に検索可能でアクセシブルなDOM要素を配置可能に。moveBefore() DOMメソッドは動画再生やiframeの状態を保持したままDOM要素の再配置を実現する。CSS text-fitプロパティはテキストをコンテナに合わせて自動スケーリングし、手動のfont-size計算やJSワークアラウンドが不要になった。",
+      "url": "https://developer.chrome.com/blog/new-in-chrome-150",
+      "collectedAt": "2026-07-20T10:00:00+00:00"
+    }
+  ]
+}

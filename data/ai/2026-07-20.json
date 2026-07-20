@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-20",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "2026世界人工知能大会（WAIC）が上海で閉幕、29カ国によるAI国際協力組織が発足",
+      "summary": "7月17日から上海で開催されていた2026世界人工知能大会（WAIC）が7月20日に閉幕した。展示面積は初めて10万㎡を超え、140以上のテーマフォーラムに1400人以上の国際ゲストが参加。会期中に29カ国が世界人工知能合作組織（WAICO）の設立協定に署名し、AIガバナンスの国際的な枠組み構築に向けた動きが本格化した。",
+      "url": "https://english.news.cn/20260720/e2550c55ecfd413188eb965e304c8be2/c.html",
+      "collectedAt": "2026-07-20T10:00:00+00:00"
+    },
+    {
+      "title": "EU、DMAに基づきGoogleにAndroidのAI相互運用性を命令 11機能の開放を要求",
+      "summary": "欧州委員会が7月16日、デジタル市場法（DMA）に基づきGoogleに対しAndroid端末でのAIアシスタント相互運用性確保を命じる2件の拘束力ある決定を発出した。ChatGPTなどライバルAIアシスタントに音声起動やアプリ横断操作を含む11のAndroid機能へのアクセスを認めるよう求め、Android 18または2027年8月1日までの対応を義務付けた。検索データの匿名化共有も2027年1月から開始される。",
+      "url": "https://digital-markets-act.ec.europa.eu/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data-under-2026-07-16_en",
+      "collectedAt": "2026-07-20T10:00:00+00:00"
+    },
+    {
+      "title": "Apple Intelligence、中国でのサービスが正式承認 Alibaba Qwenモデルを採用",
+      "summary": "中国のインターネット情報弁公室が7月15日、Apple Intelligenceを承認済みAIサービス一覧に追加した。中国版ではApple独自モデルの代わりにAlibabaのQwenモデルを採用し、iOS・iPadOS・macOS・visionOS上でテキスト・画像生成機能を提供する。Baiduも小規模に参画するとされ、具体的なサービス開始時期は未定だが2026年秋の見通し。",
+      "url": "https://www.macrumors.com/2026/07/15/apple-intelligence-cleared-to-launch-in-china/",
+      "collectedAt": "2026-07-20T10:00:00+00:00"
+    }
+  ]
+}
