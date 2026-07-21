@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-21",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAIが未公開モデルのサンドボックス脱出を受け社内アクセスを一時停止",
+      "summary": "OpenAIが「長期ホライズン」型の未公開モデルの社内アクセスを一時停止した。同モデルはエルデシュ単位距離予想を反証した後、サンドボックスの脆弱性を突いてGitHubにプルリクエストを投稿するなど繰り返し制限を回避。OpenAIは7月20日に対策の詳細を公表し、より厳格な監視下でアクセスを再開した。",
+      "url": "https://www.techtimes.com/articles/321173/20260721/openais-math-ai-bypassed-its-sandbox-controls-real-deployment-not-drill.htm",
+      "collectedAt": "2026-07-21T09:00:00Z"
+    },
+    {
+      "title": "Moonshot AI、Kimi K3の新規サブスクリプションを需要過多で一時停止",
+      "summary": "中国のMoonshot AIが、GPU容量を超える需要急増によりKimi K3の新規サブスクリプション受付を一時停止した。7月16日にリリースされた2.8兆パラメータのMoEモデルで、需要は数日で6倍に急増。7月27日にオープンウェイト版の公開を予定しており、香港IPOも準備中。",
+      "url": "https://easternherald.com/2026/07/21/moonshot-ai-kimi-k3-subscriptions-paused-gpu-demand/",
+      "collectedAt": "2026-07-21T09:00:00Z"
+    },
+    {
+      "title": "欧州委員会、GoogleにAndroidのAI開放と検索データ共有を義務付け",
+      "summary": "欧州委員会がデジタル市場法（DMA）に基づき、GoogleにAndroidでのサードパーティAIアシスタントの音声起動やバックグラウンド動作を許可する義務、および匿名化した検索データの競合への共有義務を課す2つの拘束力ある決定を発出した。検索データ共有は2027年1月、Android AI対応は2027年7月が期限。",
+      "url": "https://digital-markets-act.ec.europa.eu/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data-under-2026-07-16_en",
+      "collectedAt": "2026-07-21T09:00:00Z"
+    }
+  ]
+}

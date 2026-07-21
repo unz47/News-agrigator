@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-21",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js、月次セキュリティリリースプログラムを開始し初回パッチを公開",
+      "summary": "Next.jsが月次セキュリティリリースプログラムを正式に開始し、初回リリースとしてv16.2.11（Active LTS）とv15.5.21（Maintenance LTS）を公開した。ミドルウェアバイパス、XSS、DoS、キャッシュポイズニングなどHigh 4件・Medium 5件の脆弱性を修正。今後は毎月定期的にセキュリティパッチを提供する。",
+      "url": "https://nextjs.org/blog/next-security-release-program",
+      "collectedAt": "2026-07-21T09:00:00Z"
+    },
+    {
+      "title": "Chrome DevTools 149リリース、AIアシスタンス強化とエージェント対応安定版に",
+      "summary": "Chrome 149のDevToolsがリリースされ、AIアシスタンスがLighthouseデータにアクセス可能になり、より広範な質問に自動で回答できるようになった。Chrome DevTools for agentsのMCPサーバーとCLIが正式安定版となり、20以上のコーディングエージェントが対応。CSSコード補完機能も追加された。",
+      "url": "https://developer.chrome.com/blog/new-in-devtools-149",
+      "collectedAt": "2026-07-21T09:00:00Z"
+    },
+    {
+      "title": "Node.js、7月27日のセキュリティリリースを予告",
+      "summary": "Node.jsが2026年7月27日（月）にセキュリティリリースを予定していることを発表した。複数のアクティブなリリースラインに対するセキュリティパッチが含まれる予定で、Next.jsやReactなどフロントエンドのビルド環境にも影響するため早期のアップデート準備が推奨される。",
+      "url": "https://nodejs.org/en/blog/vulnerability/july-2026-security-releases",
+      "collectedAt": "2026-07-21T09:00:00Z"
+    }
+  ]
+}

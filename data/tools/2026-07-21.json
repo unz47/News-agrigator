@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-21",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Code Quality が一般提供開始、月額10ドル/コミッター",
+      "summary": "GitHub Code Qualityがパブリックプレビューを終え一般提供（GA）となった。10,000以上の企業がプレビュー期間中に利用し、コードの保守性・信頼性の問題検出、品質ゲート適用、カバレッジ追跡などを提供。料金はアクティブコミッターあたり月額10ドルで、AI機能は従量課金。",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/",
+      "collectedAt": "2026-07-21T09:00:00Z"
+    },
+    {
+      "title": "IntelliJ IDEA 2026.2リリース、Java 27とKotlin 2.4をサポート",
+      "summary": "JetBrainsがIntelliJ IDEA 2026.2をリリースした。Java 27とKotlin 2.4の初日サポートを追加し、GitHub Copilotを標準搭載。Spring開発のデータベースマイグレーションワークフロー改善やSpring Securityの可視性向上、1,300件以上のバグ修正と140件のフリーズ対応を含む。",
+      "url": "https://blog.jetbrains.com/idea/2026/07/intellij-idea-2026-2/",
+      "collectedAt": "2026-07-21T09:00:00Z"
+    },
+    {
+      "title": "GitHubがシークレットスキャンニングを強化、新パートナーと新検出タイプを追加",
+      "summary": "GitHubがシークレットスキャンニングの改善を発表し、ResendおよびAPIclubを新たなパートナーとして追加。両社のシークレットタイプの自動検出が可能になり、パブリックリポジトリの監視機能も強化された。開発者のセキュリティ対策をさらに支援する。",
+      "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring/",
+      "collectedAt": "2026-07-21T09:00:00Z"
+    }
+  ]
+}
