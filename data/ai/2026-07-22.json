@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-22",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google、Gemini 3.6 Flash等3モデルをリリース Gemini 4の事前学習開始も発表",
+      "summary": "Googleは7月21日、Gemini 3.6 Flash、3.5 Flash-Lite、セキュリティ特化の3.5 Flash Cyberの3モデルを同時リリースした。3.6 Flashは出力トークンが17%削減され、価格は100万トークンあたり入力1.50ドル/出力7.50ドル。知識カットオフも2026年3月に更新された。同時にGemini 4の事前学習開始も発表した。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "collectedAt": "2026-07-22T09:00:00Z"
+    },
+    {
+      "title": "Anthropic・OpenAIのQ2ロビー活動費が過去最高、合計317万ドルでNvidiaを上回る",
+      "summary": "AnthropicのQ2 2026年ロビー活動費は197万ドル（前期比26%増）、OpenAIは120万ドル（同18%増）で、合計317万ドルの過去最高を記録した。Anthropicは四半期単体でNvidiaを上回り、Oracleの200万ドルに迫る水準に。2026年上半期だけで350万ドルを超え、2025年通年の310万ドルを既に上回った。",
+      "url": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
+      "collectedAt": "2026-07-22T09:00:00Z"
+    },
+    {
+      "title": "Jack DorseyのBlock、AIエージェント対応チャットプラットフォーム「BUZZ」を発表",
+      "summary": "Jack Dorsey率いるBlockが、Nostrプロトコルベースのオープンソースチャットプラットフォーム「BUZZ」を発表した。チャンネル・スレッド・DM・音声・コードリポジトリ・ワークフロー自動化を統合し、人間とAIエージェントが同一ワークスペースで協働できる。Claude Code、Codex等に対応し、macOS・Windows・Linux向けデスクトップアプリを無料提供。",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "collectedAt": "2026-07-22T09:00:00Z"
+    },
+    {
+      "title": "AMD Advancing AI 2026開幕、次世代Instinct MI450とZen6 EPYC Veniceを披露",
+      "summary": "AMDは7月22日、サンフランシスコのMoscone Centerで年次AIイベント「Advancing AI 2026」を開幕した。リサ・スーCEOが登壇し、次世代AIアクセラレータInstinct MI450やZen6アーキテクチャ採用のEPYC Veniceを披露。Microsoft、Anthropic等との顧客連携や、2,000億ドル超のCPU TAM見通しも発表された。",
+      "url": "https://www.amd.com/en/corporate/events/advancing-ai.html",
+      "collectedAt": "2026-07-22T09:00:00Z"
+    }
+  ]
+}

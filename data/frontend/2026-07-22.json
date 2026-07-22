@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-22",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Apple、Safari Technology Preview 248をリリース CSS・JavaScript等多数の修正を含む",
+      "summary": "Appleは7月22日、Safari Technology Preview 248をリリースした。Accessibility、CSS、Editing、Forms、Images、JavaScript、Media、Navigation、Rendering、SVG、Scrolling、Security、Web API、Web Inspector、WebRTC等の幅広い分野で修正と改善が含まれる。macOS TahoeとmacOS Golden Gateに対応。",
+      "url": "https://www.macrumors.com/2026/07/22/apple-releases-safari-technology-preview-248/",
+      "collectedAt": "2026-07-22T09:00:00Z"
+    },
+    {
+      "title": "Next.js 7月セキュリティリリースの具体的なCVE詳細が公開",
+      "summary": "Next.jsチームは7月21日公開のセキュリティリリースに関する詳細なCVE情報を公開した。CVE-2026-64641（Server ActionによるDoS）、CVE-2026-64642（Turbopack利用時のミドルウェアバイパス）、CVE-2026-64645（rewritesを介したSSRF）等、High 4件・Medium 5件の脆弱性が修正された。v16.2.11およびv15.5.21へのアップデートが推奨される。",
+      "url": "https://nextjs.org/blog/july-2026-security-release",
+      "collectedAt": "2026-07-22T09:00:00Z"
+    },
+    {
+      "title": "Svelte 2026年7月アップデートまとめ、SvelteKitの設定簡素化を実現",
+      "summary": "Svelteの7月アップデートでは、derivedリアクティビティ・SSR出力・イベントハンドラ警告・keyedブロックの分割代入・ソースマップ連携等の修正が行われた。またSvelteKitプロジェクトでvite.config.js内に直接設定を記述可能になり、svelte.config.jsを省略できるようになった。",
+      "url": "https://svelte.dev/blog/whats-new-in-svelte-july-2026",
+      "collectedAt": "2026-07-22T09:00:00Z"
+    }
+  ]
+}
