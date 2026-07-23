@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-23",
+  "category": "general",
+  "articles": [
+    {
+      "title": "日本で記録的猛暑、「災害」と宣言され数百人が病院搬送",
+      "summary": "日本のほぼ全域に熱中症警戒アラートが発令され、三重県桑名市では今年最高の40.6度を記録した。日本の災害対応当局はこの猛暑を「災害」と表現し、多数の死者・搬送者が出ている。",
+      "url": "https://www.france24.com/en/live-news/20260723-hundreds-hospitalised-in-japan-heatwave-disaster",
+      "collectedAt": "2026-07-23T23:07:32Z"
+    },
+    {
+      "title": "円の実効為替レートが過去最低を更新、40年ぶりの安値水準",
+      "summary": "円がドルに対し40年ぶりの安値を記録し、日銀の名目実効為替レート指数も過去最低を更新した。円安・猛暑・燃料コスト上昇の三重苦により、日本のスポット電力価格は3年半ぶりの高値に達している。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/yen-s-slump-in-trade-weighted-gauge-shows-its-broad-based-drop",
+      "collectedAt": "2026-07-23T23:07:32Z"
+    },
+    {
+      "title": "フーシ派が紅海でサウジ石油タンカー2隻を攻撃、原油100ドル突破",
+      "summary": "イラン支援のフーシ派が紅海でサウジアラビアの石油タンカー2隻をミサイルとドローンで攻撃した。トランプ大統領は「今後の攻撃はイランに責任を問う」とし大規模軍事報復を検討中と表明。原油価格は5月以来初めて1バレル100ドルを突破した。",
+      "url": "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html",
+      "collectedAt": "2026-07-23T23:07:32Z"
+    },
+    {
+      "title": "南欧で大規模山火事、消防士3人が死亡し1万2千人が避難",
+      "summary": "フランス南西部ボルドー近郊、イタリアのシチリア島、スペインで大規模な山火事が発生し、消防士3人が死亡した。約1万2千人が避難を余儀なくされ、2026年の夏はEU域内で過去20年間で2番目に広い面積が焼失している。",
+      "url": "https://www.upi.com/Top_News/World-News/2026/07/23/France-Italy-Spain-wildfires/9241784804027/",
+      "collectedAt": "2026-07-23T23:07:32Z"
+    }
+  ]
+}

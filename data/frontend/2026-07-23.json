@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-23",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 7月セキュリティリリース、高深刻度4件を含む9件の脆弱性を修正",
+      "summary": "Next.jsが初の定期セキュリティリリースを7月21日に公開し、v16.2.11とv15.5.21で9件の脆弱性を修正した。SSRF、ミドルウェア認可バイパス、DoS、キャッシュ汚染など高深刻度4件・中深刻度5件が対象で、App Router・Server Components利用者は早急なアップデートが推奨される。",
+      "url": "https://nextjs.org/blog/july-2026-security-release",
+      "collectedAt": "2026-07-23T23:07:32Z"
+    },
+    {
+      "title": "React 19.2.8リリース、デコード処理のパフォーマンス改善",
+      "summary": "React 19.2.8が7月21日にリリースされ、デコード処理のパフォーマンスが改善された。同日にv19.1.9とv19.0.8もリリースされており、旧バージョンのメンテナンスリリースも同時に提供されている。",
+      "url": "https://github.com/react/react/releases/tag/v19.2.8",
+      "collectedAt": "2026-07-23T23:07:32Z"
+    },
+    {
+      "title": "Firefox 153リリース、ネイティブコンテナ機能とHDR動画再生に対応",
+      "summary": "Mozilla Firefox 153が7月21日にリリースされ、Multi-Account Containersの機能をブラウザにネイティブ統合するプレビュー版が搭載された。WindowsでのHDR動画再生対応、PDF結合・画像追加機能、新しいプロファイル管理システムも追加されている。",
+      "url": "https://www.firefox.com/en-US/firefox/153.0/releasenotes/",
+      "collectedAt": "2026-07-23T23:07:32Z"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-23",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "ホワイトハウスがMoonshot AIによるAnthropic Fableモデルの蒸留を公式に告発",
+      "summary": "米ホワイトハウス科学技術政策局のクラツィオス局長が、中国のMoonshot AIがAnthropicのFableモデルを蒸留してKimi K3モデルを開発したと公式に非難した。Fableの公開からわずか15日後にK3がリリースされたタイムラインが最大の疑惑とされ、財務省も制裁を示唆している。",
+      "url": "https://cyberscoop.com/white-house-accuses-moonshot-ai-anthropic-model-distillation/",
+      "collectedAt": "2026-07-23T23:07:32Z"
+    },
+    {
+      "title": "OpenAIが2030年までのコンピュート支出見通しを7500億ドルに上方修正",
+      "summary": "OpenAIは2030年までのクラウド・コンピュート支出見通しを従来の6000億ドルから7500億ドルに25%引き上げた。同時にジョージア州サバンナに200億ドル規模のデータセンター「Project Camellia」を建設し、コンピュートのテナントからインフラ開発者への転換を進めている。",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-lifts-planned-compute-spending-144917731.html",
+      "collectedAt": "2026-07-23T23:07:32Z"
+    },
+    {
+      "title": "AMD Advancing AI 2026でMI400 GPUシリーズとHeliosラックスケールシステムを発表",
+      "summary": "AMDがサンフランシスコで開催したAdvancing AI 2026で、次世代AI向け製品群を発表した。Heliosは72基のMI455X GPUを搭載しFP4推論性能2.9エクサフロップスを実現するラックスケールシステムで、Anthropic・OpenAI・Metaとの協業も発表された。",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era",
+      "collectedAt": "2026-07-23T23:07:32Z"
+    }
+  ]
+}

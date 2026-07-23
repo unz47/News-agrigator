@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-23",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "VS Code 1.130リリース、エージェントホストとアシスト付きツール承認を搭載",
+      "summary": "Visual Studio Code 1.130が7月22日にリリースされ、エージェントセッションを専用プロセスで実行できるAgent Host機能が追加された。AIエージェントタスク中のツール呼び出しリスクをモデルが評価するAssisted Tool Approvals機能や、ワークツリー対応の高速レビューワークフローも搭載されている。",
+      "url": "https://code.visualstudio.com/updates/v1_130",
+      "collectedAt": "2026-07-23T23:07:32Z"
+    },
+    {
+      "title": "GitHub Code Quality が一般提供開始、AI搭載のコード品質分析ツール",
+      "summary": "GitHub Code Qualityが7月20日に一般提供（GA）を開始した。有効化したリポジトリのアクティブコミッター1人あたり月額10ドルに加え、AI機能は従量課金となる。コードの品質分析とセキュリティスキャンを統合的に提供する。",
+      "url": "https://github.blog/changelog/2026-06-16-github-code-quality-generally-available-july-20-2026/",
+      "collectedAt": "2026-07-23T23:07:32Z"
+    },
+    {
+      "title": "GitHub Modelsが7月30日に完全廃止、プレイグラウンドとAPIが利用不可に",
+      "summary": "GitHubは、GitHub Modelsを7月30日に完全廃止すると発表した。廃止後はプレイグラウンド、モデルカタログ、推論API、BYOKがすべて利用不可となる。利用者は代替サービスへの移行が必要となる。",
+      "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026/",
+      "collectedAt": "2026-07-23T23:07:32Z"
+    }
+  ]
+}
