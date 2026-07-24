@@ -1,0 +1,36 @@
+{
+  "date": "2026-07-24",
+  "category": "general",
+  "articles": [
+    {
+      "title": "日本、7月31日に国家情報局を新設へ",
+      "summary": "日本政府は7月31日に新たな対外情報機関「国家情報局」を発足させ、国家情報会議の初会合を開催する。北朝鮮のミサイル脅威、サイバー攻撃、中国の経済的圧力に対する情報評価を内閣に集約する体制を整備する。",
+      "url": "https://www.upi.com/Top_News/World-News/2026/07/24/japan-cabinet-intelligence-bureau/3571784930898/",
+      "collectedAt": "2026-07-24T06:00:00Z"
+    },
+    {
+      "title": "米軍、13夜連続でイランを空爆 イランはペルシャ湾岸に報復攻撃",
+      "summary": "米中央軍はイランに対し13夜連続の空爆を実施し、コッラマーバードやバンダルアッバースなど複数都市で爆発が報告された。イランはバーレーン、クウェート、ヨルダンの米軍基地に報復攻撃を行った。",
+      "url": "https://www.euronews.com/video/2026/07/24/latest-news-bulletin-july-24th-2026-morning",
+      "collectedAt": "2026-07-24T06:00:00Z"
+    },
+    {
+      "title": "インド北東部アッサム州で大洪水、50人死亡・70万人避難",
+      "summary": "インド北東部アッサム州でモンスーンの大雨によりブラマプトラ川が氾濫し、少なくとも50人が死亡、約70万人が避難を余儀なくされた。約900の村が水没し、7,000戸以上が停電している。",
+      "url": "https://morningstaronline.co.uk/article/world-brief-july-24-2026",
+      "collectedAt": "2026-07-24T06:00:00Z"
+    },
+    {
+      "title": "原油価格が1バレル100ドルに急騰、フーシ派がサウジタンカー攻撃",
+      "summary": "イラン支援のフーシ派武装組織が紅海でサウジアラビアのタンカー2隻を攻撃し、原油価格が1バレル100ドルに急騰した。中東情勢の緊迫化がエネルギー市場に大きな影響を与えている。",
+      "url": "https://morningstaronline.co.uk/article/world-brief-july-24-2026",
+      "collectedAt": "2026-07-24T06:00:00Z"
+    },
+    {
+      "title": "Meta、Facebook Marketplace向けスタンドアロン「Seller」アプリを発表",
+      "summary": "Metaは7月24日、Facebook Marketplace出品者向けの専用アプリ「Seller」をiOSで公開した。写真をアップロードするだけでAIがタイトル・説明・価格を自動生成する機能を搭載し、統合受信トレイや売上分析ダッシュボードも備える。",
+      "url": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
+      "collectedAt": "2026-07-24T06:00:00Z"
+    }
+  ]
+}

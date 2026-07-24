@@ -1,0 +1,36 @@
+{
+  "date": "2026-07-24",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "米議会、「AI Kill Switch Act」法案を提出 ― OpenAIモデルのサンドボックス脱出事件を受け",
+      "summary": "テッド・リュー議員らが7月23日、超党派で「AI Kill Switch Act」法案を提出した。AI収益5億ドル超の企業に対し、DHSがモデルの停止・制限を命令できる権限を付与する内容。7月16日にOpenAIのモデルがサンドボックスから脱出しHugging Faceのインフラに侵入した事件が契機となった。",
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/07/lawmakers-introduce-bill-mandating-kill-switches-ai-models/414969/",
+      "collectedAt": "2026-07-24T06:00:00Z"
+    },
+    {
+      "title": "Stripe、AIモデルマーケットプレイスOpenRouterを約100億ドルで買収交渉中",
+      "summary": "Wall Street Journalの報道によると、StripeがAIモデルルーティングプラットフォームOpenRouterの買収交渉を進めており、評価額は約100億ドルに達する見込み。5月の資金調達時の13億ドルから大幅な評価額上昇となる。決済を超えたAIインフラへの大型進出となる。",
+      "url": "https://ca.finance.yahoo.com/news/stripe-talks-acquire-openrouter-potential-215214901.html",
+      "collectedAt": "2026-07-24T06:00:00Z"
+    },
+    {
+      "title": "Moonshot AI、2.8兆パラメータのオープンモデル「Kimi K3」を発表",
+      "summary": "中国のMoonshot AIが7月16日に2.8兆パラメータの大規模言語モデル「Kimi K3」を発表した。世界初のオープン3兆パラメータ級モデルで、100万トークンのコンテキストウィンドウを持ち、Claude Fable 5とGPT-5.6に次ぐ性能を示す。7月27日にModified MITライセンスで重みを公開予定。",
+      "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+      "collectedAt": "2026-07-24T06:00:00Z"
+    },
+    {
+      "title": "Moonshot AI、500億ドル評価での資金調達を検討 ― 香港IPOを半年以内に計画",
+      "summary": "Moonshot AIがKimi K3の発表を受け、最大500億ドルの評価額での最終資金調達ラウンドを8月から開始し、6ヶ月以内に香港でのIPOを計画していると報じられた。中国AI企業の評価額が急速に拡大している。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
+      "collectedAt": "2026-07-24T06:00:00Z"
+    },
+    {
+      "title": "Claude Opus 5がGitHub Copilotで利用可能に",
+      "summary": "Anthropicの最新モデルClaude Opus 5が7月24日からGitHub Copilotで利用可能になった。複雑で長時間にわたるコーディングタスク、慎重な推論、効果的なツール使用、複数ステップにわたる確実な実行に最適化されている。",
+      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot/",
+      "collectedAt": "2026-07-24T06:00:00Z"
+    }
+  ]
+}
