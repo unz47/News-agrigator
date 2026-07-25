@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-25",
+  "category": "general",
+  "articles": [
+    {
+      "title": "スペイン・フランスで大規模山火事、26万7000人以上が避難",
+      "summary": "スペインとフランスで大規模な山火事が発生し、26万7000人以上が避難を余儀なくされた。スペインは国家緊急事態を宣言し、マドリード周辺とアビラで計3万5000ヘクタール以上が焼失。少なくとも1名の死亡が確認され、消防の対応能力を超える状態が続いている。",
+      "url": "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people",
+      "collectedAt": "2026-07-25T06:00:00Z"
+    },
+    {
+      "title": "インド教育相が辞任、試験漏洩への若者抗議運動が勝利",
+      "summary": "インドのDharmendra Pradhan教育相が7月25日に辞任し、試験問題漏洩に対する若者主導の「Cockroach Janta Party」抗議運動が大きな勝利を収めた。5月の医学部入試(NEET)の問題漏洩で200万人の学生に影響が出ており、政府は試験制度改革や抗議者への訴追取り下げなど全要求を受け入れた。",
+      "url": "https://www.cnbc.com/2026/07/25/indias-education-minister-resigns-in-win-for-indian-youth-protesters.html",
+      "collectedAt": "2026-07-25T06:00:00Z"
+    },
+    {
+      "title": "フーシ派がサウジアラムコ施設を攻撃、原油価格が100ドル突破",
+      "summary": "イラン支援のフーシ派がサウジアラビアのジザンとヤンブーにあるアラムコ施設をミサイル・ドローンで攻撃し、ジザン製油所で火災が発生した。前日のサウジによるホデイダ空爆への報復とされ、ブレント原油は100ドルを突破。7月だけで約40%の上昇となり、イエメン戦争再燃の懸念が高まっている。",
+      "url": "https://www.thenationalnews.com/news/mena/2026/07/25/houthis-attack-saudi-aramco-sites-with-yemen-at-risk-of-renewed-war/",
+      "collectedAt": "2026-07-25T06:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-25",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "NvidiaとSKグループ、5000億ドル超のAIインフラパートナーシップを発表",
+      "summary": "NvidiaとSKグループが5000億ドル超の包括的AIインフラパートナーシップを発表した。SK TelecomがNVIDIA Vera Rubin DSXプラットフォームを使用した2GW規模のAIファクトリーを韓国に建設し、2027年稼働開始予定。SK hynixとは次世代HBM4メモリの長期供給・共同開発契約も締結し、アジア太平洋地域のAI需要に対応する。",
+      "url": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
+      "collectedAt": "2026-07-25T06:00:00Z"
+    },
+    {
+      "title": "Jensen Huang氏がX初投稿、25組織署名のオープンAIモデル推進書簡を共有",
+      "summary": "NvidiaのJensen Huang CEOがXに初投稿し、オープンウェイトAIモデルの重要性を訴える公開書簡を共有した。Nvidia、Meta、Microsoft、IBM、Hugging Face等25組織が署名し、安全性・サイバーセキュリティの強化とイノベーション促進のために、フロンティアのクローズドモデルとオープンモデルの両方が必要だと主張している。",
+      "url": "https://fortune.com/2026/07/24/jensen-huang-open-source-letter-nvidia-kimi/",
+      "collectedAt": "2026-07-25T06:00:00Z"
+    },
+    {
+      "title": "Claude Opus 5がAI Intelligence Indexで1位、Fable 5の半額で同等性能を実現",
+      "summary": "Anthropicが7月24日にリリースしたClaude Opus 5がArtificial AnalysisのIntelligence Indexで60.7%を記録し1位を獲得した。Frontier-Benchでは43.3%でFable 5(33.7%)を上回り、ARC-AGI-3では30.2%のトップスコアを達成。価格はFable 5の半額(入力$5/出力$25 per 1Mトークン)で、low/medium/highのeffort切り替え機能も搭載している。",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "collectedAt": "2026-07-25T06:00:00Z"
+    }
+  ]
+}
