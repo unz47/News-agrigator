@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-26",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Kimi K3エージェント、Redisゼロデイ脆弱性19件を90分で自律発見",
+      "summary": "セキュリティ研究者のChaofan Shou氏が、Moonshot AIのKimi K3エージェントがRedisのゼロデイ脆弱性19件を約90分で発見し、Redis 8.8.0のRCEエクスプロイトを27分で構築したと報告した。Redis 6.2〜8.8の複数バージョンに影響するストリーム・コンシューマグループのダブルフリーやRedisBloomのヒープオーバーフローが含まれる。AIの自律的な脆弱性発見能力を示す最も明確な公開事例の一つとなった。",
+      "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+      "collectedAt": "2026-07-26T23:11:08Z"
+    },
+    {
+      "title": "XBOWの自律型AIエージェント、Microsoft BingのクリティカルRCE脆弱性3件を発見",
+      "summary": "自律型オフェンシブセキュリティ企業XBOWのAIエージェントが、Microsoft Bingの画像処理に3件のクリティカルRCE脆弱性（CVE-2026-32194、CVE-2026-32191、CVSS 9.8）を発見した。細工されたSVGファイルをBingの画像検索に送信することで、本番サーバー上でNT AUTHORITY\\SYSTEM権限のコマンド実行が可能だった。Microsoftはサーバーサイドで修正済みで、XBOWが7月23日にエクスプロイトの詳細を公開した。",
+      "url": "https://xbow.com/blog/bing-images-rce-vulnerabilities",
+      "collectedAt": "2026-07-26T23:11:08Z"
+    },
+    {
+      "title": "DeepSeek V4がGA（正式版）リリース、業界初のサージプライシングを導入",
+      "summary": "DeepSeekが大規模言語モデル「V4」をプレビューからGA（一般提供）に移行した。V4-Pro（総パラメータ1.6兆、アクティブ490億）とV4-Flash（総パラメータ2840億、アクティブ130億）の2モデルを提供し、エージェント機能や数学推論・コード生成の強化が含まれる。APIにはAI業界初のピーク/オフピーク時間帯による「サージプライシング」が導入された。",
+      "url": "https://deepseek.ai/blog/deepseek-v4-ga-surge-pricing-migration",
+      "collectedAt": "2026-07-26T23:11:08Z"
+    }
+  ]
+}

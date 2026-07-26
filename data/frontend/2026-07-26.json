@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-26",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Node.jsセキュリティリリースが7月27日に予定、HIGH深刻度の脆弱性修正",
+      "summary": "Node.jsプロジェクトは、7月27日（月）にv26.x、v24.x、v22.xの各リリースラインで新バージョンを公開すると事前告知した。修正される脆弱性の最高深刻度はHIGH。Next.jsの月次セキュリティリリースと同一週の公開となり、JavaScriptスタックの主要2プロジェクトが同時にセキュリティパッチを出す初のケースとなる。",
+      "url": "https://nodejs.org/en/blog/vulnerability/july-2026-security-releases",
+      "collectedAt": "2026-07-26T23:11:08Z"
+    },
+    {
+      "title": "Chrome 150セキュリティアップデート、メモリ安全性の重大な脆弱性を修正",
+      "summary": "Googleが7月23日にChrome 150.0.7871.186/.187をStableチャネルにリリースし、4件のhigh-severity脆弱性を修正した。7月を通じてChrome 150は複数のセキュリティアップデートが行われ、CameraCapture・GPU・Networkのcritical use-after-free脆弱性を含む計27件以上の脆弱性が修正されている。いずれも実際の悪用は確認されていない。",
+      "url": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
+      "collectedAt": "2026-07-26T23:11:08Z"
+    },
+    {
+      "title": "WebStorm 2026.2リリース、TypeScript 7ビルトインサポートとGitHub Copilotネイティブ統合",
+      "summary": "JetBrainsがWebStorm 2026.2をリリースし、TypeScript 7のビルトインサポートを実現した。Kibanaのような大規模コードベースでプロジェクト読み込み時間が約12秒から約3秒に短縮される。GitHub Copilotもネイティブ統合され、プラグインのセットアップが不要に。7月23日にはビルドアップデート2026.2.0.1も公開された。",
+      "url": "https://blog.jetbrains.com/webstorm/2026/07/webstorm-2026-2/",
+      "collectedAt": "2026-07-26T23:11:08Z"
+    }
+  ]
+}
