@@ -11,20 +11,16 @@ function formatDate(dateStr) {
   return `${d.getMonth() + 1}月${d.getDate()}日（${days[d.getDay()]}）`;
 }
 
-const BookmarkIcon = () => (
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
+const ChevronLeft = () => (
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="15 18 9 12 15 6" /></svg>
 );
 
-const ShareIcon = () => (
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
+const ChevronRight = () => (
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="9 18 15 12 9 6" /></svg>
 );
 
-const SearchIcon = () => (
-  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-);
-
-const NewspaperIcon = () => (
-  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/></svg>
+const ArrowUpRight = () => (
+  <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M7 17 17 7" /><path d="M7 7h10v10" /></svg>
 );
 
 export default function NewsFeed({ data: { dates, data, categories } }) {
@@ -34,72 +30,71 @@ export default function NewsFeed({ data: { dates, data, categories } }) {
   const currentDate = dates[dateIndex] || null;
   const currentNews = currentDate ? data[currentDate] : [];
 
-  const filtered = activeTab === 'all'
+  const filtered = (activeTab === 'all'
     ? currentNews
-    : currentNews.filter((c) => c.id === activeTab);
+    : currentNews.filter((c) => c.id === activeTab)
+  ).filter((c) => c.articles.length > 0);
 
   const prevDate = () => setDateIndex((i) => Math.min(i + 1, dates.length - 1));
   const nextDate = () => setDateIndex((i) => Math.max(i - 1, 0));
 
   return (
-    <div className="screen">
-      {/* Header */}
-      <header className="header">
-        <div className="header-top">
-          <h1 className="title">Daily News</h1>
-          <button className="icon-btn" disabled aria-label="検索">
-            <SearchIcon />
-          </button>
-        </div>
-        <div className="header-row">
-          <div className="date-nav">
-            <button className="nav-arrow" onClick={prevDate} disabled={dateIndex >= dates.length - 1} aria-label="前の日">‹</button>
-            <span className="date-label">{currentDate ? formatDate(currentDate) : '—'}</span>
-            <button className="nav-arrow" onClick={nextDate} disabled={dateIndex <= 0} aria-label="次の日">›</button>
-          </div>
-          <div className="update-badge"><span className="update-dot" />08:00 更新</div>
+    <>
+      <header className="masthead">
+        <div className="masthead-inner">
+          <h1 className="wordmark">Daily News<span className="wordmark-mark" aria-hidden="true">_</span></h1>
+          <span className="masthead-meta">UPDATED 08:00 JST</span>
         </div>
       </header>
-
-      {/* Tabs */}
-      <div className="tabs-wrap">
-        <div className="tabs">
-          <button className={`tab ${activeTab === 'all' ? 'active' : ''}`} onClick={() => setActiveTab('all')}>すべて</button>
+      <div className="app">
+      <div className="toolbar">
+        <div className="toolbar-row">
+          <span className="date-label">{currentDate ? formatDate(currentDate) : '—'}</span>
+          <div className="date-nav" role="group" aria-label="日付の移動">
+            <button className="nav-btn" onClick={prevDate} disabled={dateIndex >= dates.length - 1} aria-label="前の日"><ChevronLeft /></button>
+            <button className="nav-btn" onClick={nextDate} disabled={dateIndex <= 0} aria-label="次の日"><ChevronRight /></button>
+          </div>
+        </div>
+        <nav className="tabs" aria-label="カテゴリ">
+          <button className={`tab ${activeTab === 'all' ? 'active' : ''}`} onClick={() => setActiveTab('all')} aria-pressed={activeTab === 'all'}>すべて</button>
           {categories.map((c) => (
-            <button key={c.id} className={`tab ${activeTab === c.id ? 'active' : ''}`} onClick={() => setActiveTab(c.id)}>
-              <span className="tab-dot" style={{ background: c.color }} />{c.label}
+            <button key={c.id} className={`tab ${activeTab === c.id ? 'active' : ''}`} onClick={() => setActiveTab(c.id)} aria-pressed={activeTab === c.id}>
+              <span className="tab-chip" style={{ background: c.color }} aria-hidden="true" />{c.label}
             </button>
           ))}
-        </div>
+        </nav>
       </div>
 
-      {/* Content */}
-      <main className="content">
-        {filtered.map((cat, catIdx) => (
-          <section key={cat.id} className="cat-section">
-            <div className="cat-header">
-              <div className="cat-left"><span className="cat-dot" style={{ background: cat.color }} /><span className="cat-name">{cat.label}</span></div>
-              <span className="cat-count" style={{ background: cat.color + '18', color: cat.color }}>{cat.articles.length}件</span>
-            </div>
-            {cat.articles.map((article, i) => (
-              <a key={i} className={`card ${i === 0 && catIdx === 0 && activeTab === 'all' ? 'hero' : ''}`} href={article.url} target="_blank" rel="noopener noreferrer">
-                <div className="card-title">{article.title}</div>
-                <div className="card-summary">{article.summary}</div>
-                <div className="card-bottom">
-                  <span className="card-source">{extractDomain(article.url)}</span>
-                  <div className="card-actions">
-                    <span className="action-btn" aria-label="ブックマーク"><BookmarkIcon /></span>
-                    <span className="action-btn" aria-label="シェア"><ShareIcon /></span>
-                  </div>
-                </div>
-              </a>
-            ))}
+      <main className="feed">
+        {filtered.map((cat) => (
+          <section key={cat.id} className="cat">
+            <header className="cat-head">
+              <span className="cat-chip" style={{ background: cat.color }} aria-hidden="true" />
+              <h2 className="cat-name">{cat.label}</h2>
+              <span className="cat-count">{cat.articles.length}件</span>
+              <span className="cat-rule" aria-hidden="true" />
+            </header>
+            <ul className="articles">
+              {cat.articles.map((article, i) => (
+                <li key={i}>
+                  <a className="article" href={article.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="article-title">{article.title}</h3>
+                    <p className="article-summary">{article.summary}</p>
+                    <span className="article-meta">{extractDomain(article.url)}<ArrowUpRight /></span>
+                  </a>
+                </li>
+              ))}
+            </ul>
           </section>
         ))}
-        {filtered.length === 0 && <div className="empty">ニュースがありません</div>}
+        {filtered.length === 0 && <div className="empty">この日のニュースはありません</div>}
       </main>
 
-      <div className="bottom-spacer" />
-    </div>
+      <footer className="colophon">
+        <span className="colophon-wordmark">Daily News<span className="wordmark-mark" aria-hidden="true">_</span></span>
+        <span className="colophon-note">毎朝 Claude Code が自動収集 — 30日分を保持</span>
+      </footer>
+      </div>
+    </>
   );
 }

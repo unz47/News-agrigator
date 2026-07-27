@@ -4,10 +4,10 @@ import path from 'path';
 const DATA_DIR = path.join(process.cwd(), 'data');
 
 const CATEGORIES = [
-  { id: 'general', label: '一般', color: '#3b82f6' },
-  { id: 'ai', label: 'AI・LLM', color: '#a855f7' },
-  { id: 'frontend', label: 'FE', color: '#10b981' },
-  { id: 'tools', label: '開発ツール', color: '#f59e0b' },
+  { id: 'general', label: '一般', color: 'var(--cat-general)' },
+  { id: 'ai', label: 'AI・LLM', color: 'var(--cat-ai)' },
+  { id: 'frontend', label: 'FE', color: 'var(--cat-frontend)' },
+  { id: 'tools', label: '開発ツール', color: 'var(--cat-tools)' },
 ];
 
 function getDatesForCategory(category) {
