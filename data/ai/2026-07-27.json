@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-27",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Moonshot AI、2.8兆パラメータのKimi K3オープンウェイトを公開",
+      "summary": "Moonshot AIが史上最大のオープンウェイトモデル「Kimi K3」を7月27日に無料公開した。2.8兆パラメータ、100万トークンのコンテキストウィンドウを持つMoEモデルで、トークンあたり896エキスパート中16を活性化する。MXFP4量子化で約1.4TBのウェイトファイルとなり、Together AIやModalが初日からホスティングを提供している。",
+      "url": "https://qz.com/moonshot-ai-kimi-k3-open-weights-download-072726",
+      "collectedAt": "2026-07-27T23:08:38Z"
+    },
+    {
+      "title": "Nvidia、OpenAIのオハイオ州データセンターに2500億ドル規模の資金保証を検討",
+      "summary": "NvidiaがOpenAIのオハイオ州10ギガワットデータセンターのリース資金として約2500億ドルの保証を提供する交渉を進めていると報じられた。SoftBankグループのエネルギー子会社が旧ウラン濃縮工場跡地で開発するキャンパスで、チップ購入向けに最大3500億ドルの別途融資も協議中。OpenAIにとっては自社インフラ確保への第一歩となる。",
+      "url": "https://winbuzzer.com/2026/07/27/nvidia-weighs-250-billion-backstop-for-openai-ohio-campus-xcxwbn/",
+      "collectedAt": "2026-07-27T23:08:38Z"
+    },
+    {
+      "title": "EU AI Omnibus（AI規制簡素化パッケージ）が7月27日に発効",
+      "summary": "EUのAI規制簡素化法「AI Omnibus」が7月27日に発効した。高リスクAIシステムの適用期限を2027年12月（スタンドアロン型）・2028年8月（製品組込型）に延長し、中小企業のコンプライアンス負担を軽減する。同時に非同意の性的コンテンツやCSAM生成AIの禁止を新たに追加した。",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
+      "collectedAt": "2026-07-27T23:08:38Z"
+    }
+  ]
+}
