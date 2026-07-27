@@ -90,7 +90,19 @@ AI・LLM:
 }
 ```
 
-### Step 4: Git commit & push to main
+### Step 4: 30日より古いデータを削除
+
+保持期間は30日。ファイル名の日付が30日前より古いJSONを削除する(サイトから該当日付のページが消えるだけで、git履歴には残る)。
+
+```bash
+cutoff=$(date -v-30d +%Y-%m-%d)
+for f in data/*/*.json; do
+  d=$(basename "$f" .json)
+  [[ "$d" < "$cutoff" ]] && rm "$f"
+done
+```
+
+### Step 5: Git commit & push to main
 
 **main ブランチに直接 push する。別ブランチを作らない。**
 
