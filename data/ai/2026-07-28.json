@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-28",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "MCP 2026-07-28仕様が正式リリース、ステートレス化でAIエージェント連携を刷新",
+      "summary": "Model Context Protocol(MCP)の2026-07-28仕様が正式リリースされた。プロトコルがリクエスト/レスポンス型のステートレスモデルに移行し、サーバーレス・エッジ環境でのデプロイが可能に。OAuth 2.0/OIDC認証の強化、MCP Apps/Tasksの拡張フレームワーク、社内ツール接続用MCP Tunnels（リサーチプレビュー）が含まれる。MCPの月間SDKダウンロード数は4億回を突破した。",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "collectedAt": "2026-07-28T23:12:57Z"
+    },
+    {
+      "title": "NVIDIA、52社参加の「Open Secure AI Alliance」を発足しAIセキュリティ連合結成",
+      "summary": "NVIDIAが52社のパートナーとともにAIセキュリティのオープンコンソーシアム「Open Secure AI Alliance」を発足させた。Microsoft、IBM、CrowdStrike、Palantir、Hugging Face、Linux Foundation等が参加し、OpenAI・Anthropic・Googleは不参加。オープンソースのAIエージェント監査フレームワーク「NOOA」も同時公開され、CyberGym L1ベンチマークで86.8%のタスク解決率を記録した。",
+      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+      "collectedAt": "2026-07-28T23:12:57Z"
+    },
+    {
+      "title": "Anthropic、Claude Voice ModeをOpus・Sonnet・Haikuに拡張し11言語対応に",
+      "summary": "AnthropicがClaude Voice Modeの大幅アップデートを実施した。Opus、Sonnet、Haikuの3モデルから選択可能になり、会話中にGmail・Slack・Canvaなどのコネクターにアクセスする機能が追加された。対応言語も11言語に拡大し、より多機能な音声インターフェースとしてOpenAIのChatGPT音声モードに対抗する。",
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "collectedAt": "2026-07-28T23:12:57Z"
+    }
+  ]
+}
