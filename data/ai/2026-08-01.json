@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-01",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "DeepSeek V4 Flash正式リリース、プレビューから本番モデルに移行",
+      "summary": "中国AIスタートアップDeepSeekは7月31日、V4-Flash-0731を正式リリースした。284B/13Bアーキテクチャはプレビュー版と同一だが、大規模なポストトレーニングにより性能が向上。API価格は100万トークンあたり0.14ドル。上位モデルV4-Proは8月初旬に正式対応予定。",
+      "url": "https://www.caixinglobal.com/2026-08-01/deepseek-releases-official-v4-flash-model-as-chinas-ai-race-intensifies-102470292.html",
+      "collectedAt": "2026-08-01T23:10:41Z"
+    },
+    {
+      "title": "Y Combinator、社内マルチエージェントプラットフォーム「QM」をMITライセンスで公開",
+      "summary": "Y Combinatorは7月31日、社内で経理・法務・イベント・エンジニアリングに使用しているマルチエージェントハーネス「QM」をオープンソースで公開した。TypeScriptベース（Node+Fastify+Postgres）でSlackとWeb UIをネイティブサポートし、Claude CodeやCodexなど複数のモデルバックエンドに対応する。公開数時間で約1.9kスターを獲得。",
+      "url": "https://startupfortune.com/y-combinator-open-sources-qm-the-ai-agent-harness-it-uses-to-run-itself/",
+      "collectedAt": "2026-08-01T23:10:41Z"
+    },
+    {
+      "title": "トランプAI大統領令(EO 14409)の8月1日期限到来、フロンティアモデル評価枠組み策定へ",
+      "summary": "6月2日に署名されたAI大統領令の60日期限が8月1日に到来し、財務省・NSA・CISAがフロンティアモデルの機密ベンチマーク評価プロセスと自主的レビュー枠組みを策定する。開発者はリリース前最大30日間の政府アクセスを提供する仕組みだが、強制的なライセンスや事前許可制度ではなく任意参加の枠組み。",
+      "url": "https://www.techtimes.com/articles/321497/20260724/voluntary-paper-mandatory-practice-white-house-ai-review-hits-august-1-deadline.htm",
+      "collectedAt": "2026-08-01T23:10:41Z"
+    },
+    {
+      "title": "Aschenbrenner氏のAIヘッジファンド「Situational Awareness」が450億ドルから急減",
+      "summary": "元OpenAI研究者Leopold Aschenbrenner氏が設立したAI特化ヘッジファンド「Situational Awareness」が、半導体株の下落とマージンコールにより運用資産が450億ドルから約100億ドルに急減した。設立以来1000%超のリターンを記録していたが、イラン情勢やFRBの動向が市場を混乱させた週に大打撃を受けた。",
+      "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+      "collectedAt": "2026-08-01T23:10:41Z"
+    }
+  ]
+}

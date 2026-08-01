@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-01",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Node.js 7月29日セキュリティリリース、HTTP/2脆弱性など11件を修正",
+      "summary": "Node.jsは7月29日にv22.23.2、v24.18.1、v26.5.1のセキュリティリリースを公開した。HTTP/2のメモリ枯渇（CVE-2026-56846）やヒープUAF（CVE-2026-56848）、Permission Modelのパス照合によるファイルシステムアクセス過剰許可（CVE-2026-58043）など、High3件・Medium5件・Low3件の計11件の脆弱性が修正された。",
+      "url": "https://nodejs.org/en/blog/vulnerability/july-2026-security-releases",
+      "collectedAt": "2026-08-01T23:10:41Z"
+    },
+    {
+      "title": "Safari Technology Preview 249リリース、アクセシビリティとCSS修正",
+      "summary": "Appleは7月29日にSafari Technology Preview 249を公開した。VoiceOverのiframe内ナビゲーション問題やaria-labelledbyの古い関連付けの修正、Webコンテンツが支援技術に対して空に見える問題への対処が含まれる。カラースペース間の色補間サポートも追加された。",
+      "url": "https://webkit.org/blog/18182/release-notes-for-safari-technology-preview-249/",
+      "collectedAt": "2026-08-01T23:10:41Z"
+    },
+    {
+      "title": "Safari 26.6リリース、WebAssemblyストリーミングコンパイル改善とバグ修正",
+      "summary": "Appleは7月27日にSafari 26.6をリリースした。WebAssemblyのストリーミングコンパイルパスの改良が含まれ、CSS・Service Worker・ネットワーク・拡張機能・WebRTCにわたる8件のバグ修正が行われた。macOS・iOS・iPadOS・visionOSの各プラットフォームで利用可能。",
+      "url": "https://webkit.org/blog/18178/webkit-features-for-safari-26-6/",
+      "collectedAt": "2026-08-01T23:10:41Z"
+    }
+  ]
+}
