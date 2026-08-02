@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-02",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 5.9正式リリース、import deferやExpandable Hoversを搭載",
+      "summary": "Microsoftは8月1日にTypeScript 5.9を正式リリースした。import deferによるモジュール遅延読み込みで起動速度を大幅に改善し、エディタのホバー表示を展開可能にするExpandable Hovers機能を追加。tsc --initが生成するtsconfig.jsonの簡素化、--strictInferenceフラグの--strict統合、インクリメンタルコンパイルの10〜20%高速化も含まれる。",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/",
+      "collectedAt": "2026-08-02T23:00:00Z"
+    },
+    {
+      "title": "Chrome 152 beta公開、メディア状態CSS擬似クラスとRelative Alpha Colorsを搭載",
+      "summary": "Googleは7月31日にChrome 152 betaを公開した。:playing、:paused、:seeking、:buffering、:stalled、:muted、:volume-lockedの各CSS擬似クラスが追加され、audio/video要素の状態に応じたスタイリングがCSSのみで可能に。これらはInterop 2026の重点項目でもある。Relative Alpha Colorsにより、既存の色値からアルファチャンネルのみを相対的に変更する機能も追加された。Chrome 152は最後の4週間リリースサイクルとなる。",
+      "url": "https://developer.chrome.com/blog/chrome-152-beta",
+      "collectedAt": "2026-08-02T23:00:00Z"
+    },
+    {
+      "title": "EU AI Act Article 50施行でWebチャットボットにAI開示義務、フロントエンド実装への影響",
+      "summary": "8月2日に施行されたEU AI Act Article 50の透明性義務により、チャットボットやバーチャルアシスタントを提供するWebサービスは、ユーザーがAIと対話中であることを会話開始前または開始時に通知するUI実装が必要となった。AIコンテンツ生成を行うSaaS企業やAPI利用者もデプロイヤーとして義務を負い、フロントエンド開発者は開示UIコンポーネントの実装対応が求められる。",
+      "url": "https://www.techtimes.com/articles/322563/20260731/eu-ai-act-chatbot-disclosure-reaches-api-builders-sunday-vendors-cannot-comply-you.htm",
+      "collectedAt": "2026-08-02T23:00:00Z"
+    }
+  ]
+}

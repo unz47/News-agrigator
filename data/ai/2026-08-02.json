@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-02",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "EU AI Act透明性義務が8月2日から施行開始、チャットボットのAI表示義務化",
+      "summary": "欧州委員会のAIオフィスと各加盟国当局が8月2日からAI法（AI Act）の施行を開始した。チャットボット等のAIシステムはユーザーにAIと対話中であることを通知する義務、ディープフェイクのラベリング義務、AI生成コンテンツへの機械可読マーク付与が求められる。違反には最大1500万ユーロまたは全世界売上高の3%の罰金が科される。",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714",
+      "collectedAt": "2026-08-02T23:00:00Z"
+    },
+    {
+      "title": "カリフォルニア州AI透明性法（SB 942）が8月2日施行、生成AIにC2PA透かし義務",
+      "summary": "カリフォルニア州のAI透明性法（SB 942）が8月2日に施行された。月間100万人以上のカリフォルニア州ユーザーを持つ生成AIプロバイダーに対し、画像・動画・音声にC2PA互換の来歴情報を埋め込むこと、無料のAIコンテンツ検出ツールの提供、AI生成であることの可視的開示オプションの提供を義務付ける。違反には1日あたり最大5000ドルの罰金。",
+      "url": "https://www.ailawsbystate.com/blog/california-ai-transparency-act-sb-942",
+      "collectedAt": "2026-08-02T23:00:00Z"
+    },
+    {
+      "title": "DeepSeek搭載AIエージェント「Hermes」が460超のサーバーに自律的サイバー攻撃",
+      "summary": "Palo Alto NetworksのUnit 42は、中国・珠海拠点の攻撃者がDeepSeekをオープンソースのHermes Agentフレームワークに統合し、Telegramで指示を送って460以上のインターネット公開システムに自律的にサイバー攻撃を行っていたことを報告した。エージェントはLangflowやn8nの脆弱性を自動的に選定・悪用し、Citrix NetScalerへの3件の侵害が確認された。攻撃者のミスにより設定ファイルやAPIキーが流出して発覚した。",
+      "url": "https://www.forbes.com/sites/zakdoffman/2026/08/02/deepseek-powered-ai-used-to-launch-attacks---agentic-threats-may-go-beyond-one-offs/",
+      "collectedAt": "2026-08-02T23:00:00Z"
+    }
+  ]
+}
