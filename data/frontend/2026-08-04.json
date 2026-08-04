@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-04",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "ChainDrop npmサプライチェーンワーム攻撃、1,300以上のパッケージに感染",
+      "summary": "8月4日、自己増殖型サプライチェーンワーム「ChainDrop」がnpmレジストリを襲い、4時間足らずで444パッケージ・2,212バージョンを汚染した。keyv（週間1.5億DL）、flat-cache、file-entry-cacheなど広く使われるパッケージが被害を受け、最終的に1,300以上のパッケージに感染が拡大。ワームはpreinstallスクリプトでBunランタイムをダウンロードし、GitHub・npm・AWS等のCI/CD認証情報を窃取する。",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "collectedAt": "2026-08-04T23:15:00Z"
+    },
+    {
+      "title": "Cloudflare、wrangler devにOpenTelemetryトレース自動キャプチャ機能を追加",
+      "summary": "Cloudflareは8月4日、wrangler devおよびvite devでローカルWorker実行時にOpenTelemetryトレースを自動キャプチャする機能を発表した。SDKのインストールやトレーシングの設定は不要で、AIエージェントセッション検出時にはLocal Explorer APIへ自動接続される。Cloudflare Agents Weekの一環として発表された開発者向けデバッグ機能の強化。",
+      "url": "https://blog.cloudflare.com/local-tracing/",
+      "collectedAt": "2026-08-04T23:15:00Z"
+    },
+    {
+      "title": "CloudflareがAIエージェントにアイデンティティとウォレット機能を付与、Web上での自律決済を実現",
+      "summary": "CloudflareはAgents Week 2026で、Cloudflare上にデプロイされたAIエージェントに安定したアイデンティティとオンライン決済能力を付与する「Cloudflare Wallets」と「cloudflare.pay」を発表した。人間の作成者が設定した制限内で、AIエージェントが安全にオンライン購入を行えるようになる。Webプラットフォーム上でのエージェント型アプリケーション構築の新たな基盤となる。",
+      "url": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-gives-ai-agents-an-identity-and-a-wallet/",
+      "collectedAt": "2026-08-04T23:15:00Z"
+    }
+  ]
+}
