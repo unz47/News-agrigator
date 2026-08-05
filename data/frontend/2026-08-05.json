@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-05",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Angular 22.1がリリース、メジャーリリース年1回化と2年間サポートに移行",
+      "summary": "Angular 22.1.0が7月29日にリリースされた。v22.0（6月3日リリース）以来初のマイナーリリースで、CSS変数のネームスペーシング機能が追加され、同一ページ上の複数Angularアプリ間でCSS変数が衝突する問題が解決された。今後はメジャーリリースが年1回（毎年6月）となり、サポート期間も18ヶ月から2年間に延長される。",
+      "url": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664",
+      "collectedAt": "2026-08-05T06:00:00Z"
+    },
+    {
+      "title": "React 19.2リリース、Activityコンポーネントとuse​EffectEventを導入",
+      "summary": "React 19.2がリリースされ、オフスクリーン優先制御のためのActivityコンポーネントとuseEffectEvent Hookが新たに導入された。Activityコンポーネントにより画面外コンテンツのレンダリング優先度を制御でき、Concurrent Renderingの活用がさらに進む。React Compilerのv1.0（2025年10月）以降、useMemoやuseCallbackの手動最適化は不要となりつつある。",
+      "url": "https://react.dev/blog",
+      "collectedAt": "2026-08-05T06:00:00Z"
+    },
+    {
+      "title": "CSS Snapshot 2026がW3Cから公開、アンカーポジショニングやコンテナクエリが安定仕様に",
+      "summary": "W3CがCSS Snapshot 2026を公開し、2026年時点で安定しているCSS仕様のスナップショットを定義した。アンカーポジショニング、コンテナクエリ、CSS Color Level 4（Display P3・OKLCHなど広色域対応）、Grid Level 2のsubgridが安定仕様として位置づけられ、Chrome・Firefox・Safari・Edgeの全主要ブラウザでポリフィル不要で使用可能となっている。",
+      "url": "https://www.w3.org/TR/css-2026/",
+      "collectedAt": "2026-08-05T06:00:00Z"
+    }
+  ]
+}

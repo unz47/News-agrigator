@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-05",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropicが$10B・6年間のクラウドコンピューティング契約をVoltaと締結",
+      "summary": "AnthropicがNvidia出資のAIインフラスタートアップVoltaと100億ドル・6年間のクラウドコンピューティング契約を締結した。Voltaは暗号マイニング企業Bitdeerと提携しノルウェーに133メガワットのデータセンターを建設、NvidiaのVera Rubinチップで稼働する予定。Voltaは別途3億ドルの資金調達も発表し、評価額は24億ドルに達した。",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "collectedAt": "2026-08-05T06:00:00Z"
+    },
+    {
+      "title": "AnacondaがAIセキュリティスタートアップEnkrypt AIを買収、MCP脆弱性14.3万件を発見",
+      "summary": "Python環境大手Anacondaが、AIセキュリティスタートアップEnkrypt AIを買収した。Enkryptは25,000のMCPサーバーにまたがる268,000超のツールをスキャンし、73%のサーバーで計143,000件の脆弱性を発見した実績を持つ。買収により、レッドチーミング・ランタイムガードレール・NIST/EU AI Act準拠の自動化機能がAnacondaプラットフォームに統合される。",
+      "url": "https://www.anaconda.com/blog/anaconda-acquires-enkrypt-ai",
+      "collectedAt": "2026-08-05T06:00:00Z"
+    },
+    {
+      "title": "Rust言語プロジェクトがLLMポリシーを正式採用、コード生成利用を制限",
+      "summary": "Rust言語の5チームが8月5日、rust-lang/rustリポジトリへのLLM利用に関するポリシーを正式採用した。LLMはコードの分析・学習・質問への回答には使用可能だが、コードの「作成」には使えないという保守的な立場を取る。PR作成者にはLLM使用の開示義務があり、公式ドキュメントやPR説明文へのLLM出力も明示なしには禁止される。",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+      "collectedAt": "2026-08-05T06:00:00Z"
+    },
+    {
+      "title": "DeepSeek V4 Flashが正式リリース、MIT License・284Bパラメータで最高コスト効率を実現",
+      "summary": "DeepSeek V4 Flash（0731ビルド）がHugging Faceで正式リリースされた。総パラメータ数284B・アクティブ13B、100万トークンのコンテキストウィンドウを持ち、入力$0.14/1Mトークン（キャッシュヒット時$0.0028）・出力$0.28/1Mトークンという低価格を実現。MITライセンスで商用利用可能、V4 Proの正式版も8月初旬のリリースが予告されている。",
+      "url": "https://huggingface.co/blog/ResterChed/deepseek-v4-flash-official-release",
+      "collectedAt": "2026-08-05T06:00:00Z"
+    }
+  ]
+}
