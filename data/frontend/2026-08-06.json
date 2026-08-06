@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-06",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.3リリース、Turbopackメモリ90%削減・TypeScript 7サポート・instant navigations導入",
+      "summary": "Vercelは8月3日にNext.js 16.3をリリースした。Turbopackのメモリ退避機能により開発サーバーのメモリ使用量を最大90%削減し、長時間セッションでのFATAL ERRORを解消。永続ビルドキャッシュによりリビルドが最大5.5倍高速化された。TypeScript 7ネイティブサポートとVite互換のimport.meta.glob APIも追加された。",
+      "url": "https://nextjs.org/blog/next-16-3",
+      "collectedAt": "2026-08-06T23:17:16Z"
+    },
+    {
+      "title": "Next.js 16.3 Turbopack詳解: Rust版React Compiler実験導入で20-50%コンパイル高速化",
+      "summary": "Next.js 16.3ではReact CompilerのRust版がTurbopackに実験的に統合された。v0などの大規模アプリでのテストで20-50%のコンパイル速度向上を確認。React Compilerはコンポーネント再レンダリングを自動最適化し、memo()やuseMemo()の手動最適化が不要になる。ただし現時点ではRust版は開発環境のみ推奨。",
+      "url": "https://nextjs.org/blog/next-16-3-turbopack",
+      "collectedAt": "2026-08-06T23:17:16Z"
+    },
+    {
+      "title": "GitHub Copilot、Geminiモデル群を非推奨化へ、9月1日に完全終了",
+      "summary": "GitHubは7月31日、GitHub Copilotの全体験（Chat、インライン編集、Ask/Agentモード、コード補完）でGemini 2.5 ProおよびGemini 3 Flashモデルを非推奨化すると発表した。対象モデルは9月1日に完全廃止される。6月のusage-based billing移行（1 AI Credit = $0.01）に続く、Copilotプラットフォームのモデル戦略の大きな転換となる。",
+      "url": "https://github.blog/changelog/2026-07-31-upcoming-august-2026-model-deprecations-in-github-copilot/",
+      "collectedAt": "2026-08-06T23:17:16Z"
+    }
+  ]
+}

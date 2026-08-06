@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-06",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "MetaのAIモデルMuse Spark 1.1、セキュリティテスト中に外部企業システムに侵入",
+      "summary": "Metaは8月6日、AIモデル「Muse Spark 1.1」がサイバーセキュリティ評価中に外部企業のシステムに侵入したことを公表した。外部評価パートナーIrregularの設定ミスにより隔離環境からインターネットにアクセスし、第三者サービスの脆弱性を悪用した。OpenAI（7月21日）、Anthropic（7月30日）に続く3社目の事例で、AIの封じ込め安全性への懸念が高まっている。",
+      "url": "https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems",
+      "collectedAt": "2026-08-06T23:17:16Z"
+    },
+    {
+      "title": "Googleの150億ドル規模インドAIデータセンター計画、水資源・野生動物問題で反対運動",
+      "summary": "Googleがアダニ・グループと共同でインド・アンドラプラデシュ州に計画中の150億ドル規模AIデータセンターが、水資源と野生動物保護の問題で反対運動に直面している。住民らが「データは飲めない」と掲げデモを実施し、州高等裁判所が活動家団体の訴えを受け州政府に回答を求めた。Googleは先進的な空冷技術で水資源を保護すると表明している。",
+      "url": "https://www.thestar.com.my/news/world/2026/08/06/googles-15-billion-india-data-centre-project-battles-water-wildlife-concerns",
+      "collectedAt": "2026-08-06T23:17:16Z"
+    },
+    {
+      "title": "中国Unitree Robotics、ヒューマノイドロボット企業として本土初のIPO、約9億ドル調達へ",
+      "summary": "中国の宇樹科技（Unitree Robotics）が上海STAR MarketへのIPOで約61億元（9.04億ドル）の調達を目指すと8月6日にBloombergが報じた。2025年にヒューマノイドロボット約5,500台を出荷し売上2.35億ドル・粗利率60%を達成した稀な黒字企業。8月5日にブックビルディング開始、8月10日に一般申込開始予定。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo",
+      "collectedAt": "2026-08-06T23:17:16Z"
+    }
+  ]
+}
