@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-07",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.3リリース、メモリ使用量90%削減・TypeScript 7対応・Instant Navigations搭載",
+      "summary": "Vercelは8月3日にNext.js 16.3をリリースした。16.0以来最大のアップデートで、開発サーバーのメモリ使用量を最大90%削減し、ビルドキャッシュにより繰り返しビルドが高速化された。TypeScript 7での型チェックに対応し、SSRのリクエスト処理能力が22%向上。SPA並みの画面遷移を実現する「Instant Navigations」やAIエージェント向けバージョン付きドキュメント機能も追加された。",
+      "url": "https://nextjs.org/blog/next-16-3",
+      "collectedAt": "2026-08-07T06:30:00Z"
+    },
+    {
+      "title": "TypeScript 7.0安定版リリース、Goベースネイティブコンパイラで最大10倍の高速化を実現",
+      "summary": "Microsoftが7月にTypeScript 7.0の安定版をリリースした。Project Corsaとして1年以上かけてコンパイラをTypeScript/JavaScriptからネイティブGoに移植し、ビルド時間が8〜12倍高速化された。Bloomberg、Canva、Figma、Google、Vercelなどが本番環境でテスト済み。ただしVueやSvelteのテンプレート型チェッカー対応は7.1（2026年10月頃予定）に持ち越された。",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "collectedAt": "2026-08-07T06:30:00Z"
+    },
+    {
+      "title": "Chrome 151安定版リリース、AIアシスタンス強化とCSS詳細度の可視化を追加",
+      "summary": "Googleは7月28日にChrome 151安定版をリリースした。DevToolsではAIアシスタンスのAgent走査ウィジェットが追加され、StylesタブでCSSセレクタの詳細度（specificity）ツールチップが表示されるようになった。Web APIではテキストストリーミングを容易にするAPIが追加され、::interest-button疑似要素のサポートも含まれている。",
+      "url": "https://developer.chrome.com/blog/new-in-devtools-151",
+      "collectedAt": "2026-08-07T06:30:00Z"
+    }
+  ]
+}

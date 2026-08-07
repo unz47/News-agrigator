@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-07",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、Appleの企業秘密訴訟の棄却を申し立て「根本から腐っている」と反論",
+      "summary": "OpenAIは8月6日、Appleが提起した企業秘密窃取訴訟の棄却を求める31ページの申立書を連邦裁判所に提出した。Appleは7月にOpenAIがハードウェア責任者Tang Tanを通じて組織的に企業秘密を窃取したと提訴。OpenAIは訴えを「根本から腐っている」と反論し、業界標準の採用活動に過ぎないと主張している。Appleは8月4日にOpenAIの秘密使用差止命令も申請した。",
+      "url": "https://www.claimsjournal.com/news/national/2026/08/07/339348.htm",
+      "collectedAt": "2026-08-07T06:30:00Z"
+    },
+    {
+      "title": "Google DeepMind大幅再編、Hassabis CEO退任しChairmanに、Jeff Deanら退社しDiscovery Loop設立",
+      "summary": "GoogleがAI部門の大幅な体制変更を8月5日に発表。DeepMind CEOのDemis Hassabisが退任しAlphabet Chief Scientistとなり、CTOのKoray KavukcuogluがDeepMind運営を引き継ぐ。同時にJeff Dean、Sanjay Ghemawat、Oriol Vinyalsら4名が退社し、科学研究の自動化を目指すスタートアップ「Discovery Loop」を共同設立。Alphabetが出資パートナーとして参画する。",
+      "url": "https://fortune.com/2026/08/05/demis-hassabis-steps-down-google-deepmind-ai-shakeup/",
+      "collectedAt": "2026-08-07T06:30:00Z"
+    },
+    {
+      "title": "OpenAI、GPT-5.6 Solをアップデートし無料ユーザーにGPT-5.6 Lunaを開放",
+      "summary": "OpenAIは8月6日、ChatGPTの大型アップデートを発表。Plus/Proユーザー向けにGPT-5.6 Solの精度と回答の焦点を改善し、推論レベルをInstantからHighまで調整できるスライダーを追加した。無料ユーザーにはGPT-5.6 Lunaをデフォルトモデルとして提供し、テキストチャットを無制限化。新しいThinkボタンで高度な推論にもアクセス可能になった。",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "collectedAt": "2026-08-07T06:30:00Z"
+    },
+    {
+      "title": "EU AI法第50条の透明性義務が発効、チャットボットや生成AI利用の開示を義務化",
+      "summary": "EU AI法の第50条に基づく透明性義務が8月2日に法的効力を持った。AI事業者はチャットボット利用時のAI開示、生成コンテンツの機械可読マーキング、感情認識・生体分類の通知、ディープフェイク開示などが義務化された。違反時は最大1500万ユーロまたは世界売上高3%の罰金が科される。5月のAI Omnibus合意により、既存システムには12月2日までの猶予期間が設けられた。",
+      "url": "https://www.cooley.com/news/insight/2026/2026-08-03-eu-ai-act-transparency-obligations-take-effect-2-august-2026",
+      "collectedAt": "2026-08-07T06:30:00Z"
+    }
+  ]
+}
