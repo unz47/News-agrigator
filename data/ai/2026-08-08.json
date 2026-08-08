@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-08",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、Astraモデルが「Critical」サイバーセキュリティ水準に到達の可能性を公表、開発を一部停止",
+      "summary": "OpenAIは未リリースのAstraモデルが自社Preparedness Frameworkの「Critical」閾値に達する可能性を排除できないと発表した。人間の介入なしにゼロデイ脆弱性を特定・攻撃可能なレベルで、同社が最高リスクを自ら認めたのは初めて。対策として隔離テスト環境の構築、ネットワーク・ツールアクセスの制限、モデル重みの暗号化強化、政府機関やAI安全組織との追加テストを実施中。",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "collectedAt": "2026-08-08T23:11:35Z"
+    },
+    {
+      "title": "Anthropic、Claude Fable 5の生物学セーフガードを改善しフォールバックを85%削減",
+      "summary": "Anthropicは8月7日、Claude Fable 5の生物学関連セーフガードを再調整し、不要なフォールバック（より低性能なモデルへの切り替え）を約85%削減したと発表した。検査結果の解釈や症状の理解など日常的な健康・教育クエリでの制限が大幅に緩和される。ただしウイルス学・毒性学・分子設計など軍民両用の研究領域は引き続きOpus 5にフォールバックされ、研究者向け「信頼アクセス経路」を別途開発中。",
+      "url": "https://www.unite.ai/anthropic-retunes-fable-5s-biology-safeguards-cutting-blocked-queries-85/",
+      "collectedAt": "2026-08-08T23:11:35Z"
+    },
+    {
+      "title": "Cloudflare、AIエージェント向けブラウザエンジン「Kitesurf」をベータ公開",
+      "summary": "Cloudflareは「Agents Week」の一環としてAIエージェント専用ブラウザ「Kitesurf」をベータ公開した。Rustで記述しWebAssemblyにコンパイルされ、Workers V8アイソレート上で動作する。FirefoxのCSS解析エンジンStyloとRust製JSエンジンBoa JSを採用し、Chromiumと比較してCPU使用量3.1倍・メモリ使用量4.7倍削減を達成。Web Platform Testsを21.5万件以上パスし、Agents Weekの終了後にオープンソース化予定。",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "collectedAt": "2026-08-08T23:11:35Z"
+    }
+  ]
+}

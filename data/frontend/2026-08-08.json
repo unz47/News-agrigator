@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-08",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "WebStorm 2026.2リリース、TypeScript 7ネイティブサポートとGitHub Copilotネイティブ統合",
+      "summary": "JetBrainsがWebStorm 2026.2をリリースした。TypeScript 7がそのまま同梱され、Goベースの新コンパイラにより大規模コードベースでのプロジェクトロード時間がKibanaで約12秒→約3秒に短縮された。GitHub Copilotがプラグインなしでネイティブ統合され、Agent Skills Managerも追加。React Buddy経由でReact 19フルサポートが提供され、エディタ・Git連携等の品質改善も多数含まれる。",
+      "url": "https://blog.jetbrains.com/webstorm/2026/07/webstorm-2026-2/",
+      "collectedAt": "2026-08-08T23:11:35Z"
+    },
+    {
+      "title": "Remix 3ベータプレビュー公開、Reactから離脱しWeb標準ベースのフルスタックフレームワークへ",
+      "summary": "Remix 3のベータプレビューが公開され、React依存を完全に排除したWeb標準ベースのフルスタックフレームワークへと刷新された。仮想DOMを廃止し、JSXは引き続き記述可能だが明示的な更新モデルを採用。ネイティブのRequest/Response APIを直接ターゲットとし、特定のUIコンポーネントライブラリに依存しないアーキテクチャとなった。現時点では実験・フィードバック用のプレリリースで、本番利用は非推奨。",
+      "url": "https://remix.run/blog/remix-3-beta-preview",
+      "collectedAt": "2026-08-08T23:11:35Z"
+    },
+    {
+      "title": "npmセキュリティ強化、Granular Access Tokenの2FA bypass権限が8月から制限開始",
+      "summary": "GitHubは7月8日に発表したnpmセキュリティ更新の一環として、8月からGranular Access Token（GAT）の2FA bypass権限を段階的に制限開始した。アカウント管理、パッケージ設定、組織設定など機密性の高い操作でbypass2faオプションが無効化される。2027年1月にはGATによる直接パブリッシュも制限され、信頼できるパブリッシング（OIDC）または人間による2FA承認ステップへの移行が推奨されている。",
+      "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation/",
+      "collectedAt": "2026-08-08T23:11:35Z"
+    }
+  ]
+}
