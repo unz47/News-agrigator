@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-09",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Chrome 152ベータ版リリース、CSSメディア疑似クラスやRelative Alpha Colors等の新機能を追加",
+      "summary": "GoogleがChrome 152ベータ版をリリースした。CSSの新疑似クラス（:playing、:paused、:seeking、:buffering、:stalled、:muted、:volume-locked）でオーディオ・ビデオ要素の状態に応じたスタイリングが可能に。Relative Alpha Colorsで既存色に対する相対的な透明度設定、window-drag CSSプロパティでPWAのドラッグ可能領域の宣言的指定も追加された。",
+      "url": "https://developer.chrome.com/blog/chrome-152-beta",
+      "collectedAt": "2026-08-09T09:00:00Z"
+    },
+    {
+      "title": "Chrome安定版チャネルのセキュリティアップデート公開、デスクトップ・Android・iOSで展開",
+      "summary": "Googleは8月6日にChrome安定版のセキュリティアップデートをデスクトップ、Android、iOSの全プラットフォームで公開した。高深刻度の脆弱性を含む複数のセキュリティ修正が含まれている。翌7日にはChrome Devチャネルもデスクトップ、ChromeOS、Androidで更新され、Web開発者は最新のセキュリティパッチの適用が推奨される。",
+      "url": "https://chromereleases.googleblog.com/2026/08/chrome-beta-for-desktop-update.html",
+      "collectedAt": "2026-08-09T09:00:00Z"
+    },
+    {
+      "title": "CPU Performance APIがChrome 152で導入、WebアプリからCPU性能情報へのアクセスが可能に",
+      "summary": "Chrome 152ベータで新たにCPU Performance APIが導入され、Web開発者がクライアントのCPU性能情報にアクセスできるようになった。これにより、デバイスの処理能力に応じた適応的なUI描画やWebAssembly処理の最適化が可能になる。プライバシーに配慮した設計で、フィンガープリンティングに悪用されないよう情報粒度が制限されている。",
+      "url": "https://developer.chrome.com/blog/chrome-152-beta",
+      "collectedAt": "2026-08-09T09:00:00Z"
+    }
+  ]
+}

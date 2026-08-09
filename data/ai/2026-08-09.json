@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-09",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Microsoft「Tokenmaxxing禁止」、部門別AIトークン予算制度を導入しコスト管理を強化",
+      "summary": "MicrosoftのEVP Jay Parikh氏がエンジニア向けメモで部門別の「AIトークン予算目標」を導入し、「Tokenmaxxingは我々が最適化すべきものではない」と宣言した。多くのエンジニアが月数百〜数千ドルのトークンを消費しており、コスト削減のためGPT-5.6を社内デフォルトモデルに設定。Amazon、Adobe、Atlassianなど他企業も同様のAI利用制限に乗り出している。",
+      "url": "https://www.404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for/",
+      "collectedAt": "2026-08-09T09:00:00Z"
+    },
+    {
+      "title": "第9巡回区控訴裁、PerplexityのAIエージェント「Comet」によるAmazon利用を許可する画期的判決",
+      "summary": "米第9巡回区控訴裁判所は、PerplexityのAIショッピングエージェント「Comet」がAmazonにアクセスすることを禁じた地裁の仮処分命令を取り消した。裁判所はCFAA上、サーバーにアクセスしているのはPerplexityではなくユーザーであると判断。AIエージェントのウェブアクセスに関する初の連邦控訴裁判決として、エージェントコマースの法的枠組みに重要な先例を示した。",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ninth-circuit-narrows-cfaa-reach-in-perplexity-agentic-commerce-ruling/",
+      "collectedAt": "2026-08-09T09:00:00Z"
+    },
+    {
+      "title": "Alibaba、2.4兆パラメータのオープンソースAIモデル「Qwen3.8-Max」を発表",
+      "summary": "Alibaba Cloudが最大のAIモデル「Qwen3.8-Max」を発表した。2.4兆パラメータのスパースMoEモデルで、トークンあたり約950億パラメータがアクティブ化される。100万トークンのコンテキストウィンドウを持ちテキスト・画像・動画のマルチモーダル処理に対応。Arena.AIでは中国モデル最高位を獲得し、オープンウェイトの公開も予定されている。",
+      "url": "https://dataconomy.com/2026/08/03/qwen3-8-max-ai-model/",
+      "collectedAt": "2026-08-09T09:00:00Z"
+    }
+  ]
+}
