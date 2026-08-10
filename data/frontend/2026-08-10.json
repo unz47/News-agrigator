@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-10",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.3安定版リリース — 瞬時ナビゲーション、メモリ90%削減、Turbopack改善",
+      "summary": "Vercelは8月3日にNext.js 16.3安定版をリリースした。サーバー駆動アプリでSPAのような瞬時のページ遷移を実現する「Instant Navigations」機能を搭載し、開発サーバーのメモリ使用量を最大90%削減。Turbopackによるビルド高速化、HMRの強化、キャッシュの永続化など、開発体験とパフォーマンスを大幅に向上させている。",
+      "url": "https://nextjs.org/blog/next-16-3",
+      "collectedAt": "2026-08-10T09:00:00Z"
+    },
+    {
+      "title": "SvelteKit 3プレビュー版が公開 — 新$appモジュールとサービスワーカー改善",
+      "summary": "Svelte公式ブログの8月号でSvelteKit 3のプレビュー版が紹介された。7月中に13のプレビューバージョンがリリースされ、新しい$app/manifestと$app/service-workerモジュール、サービスワーカーでのAPI利用可能性とType Checkingの改善、shallow routingのgoto統合などが追加された。ゼロ設定の+error.svelteプロップスも導入された。",
+      "url": "https://svelte.dev/blog/whats-new-in-svelte-august-2026",
+      "collectedAt": "2026-08-10T09:00:00Z"
+    },
+    {
+      "title": "Vercel、v0にNext.js 16.3の瞬時ナビゲーションを適用 — サーバー駆動アプリのSPA化を実証",
+      "summary": "VercelはAI搭載Web開発ツール「v0」にNext.js 16.3の瞬時ナビゲーション機能を適用し、サーバーレンダリングアプリでのSPAライクなルート遷移を実証した。リンクごとのリクエストではなくルートごとのシェル共有による効率的なプリフェッチや、Navigation Inspectorによるデバッグ支援など、実プロダクトでの活用事例を公開している。",
+      "url": "https://nextjs.org/blog/making-v0-navigations-instant",
+      "collectedAt": "2026-08-10T09:00:00Z"
+    }
+  ]
+}

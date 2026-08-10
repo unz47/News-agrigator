@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-10",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、未公開Claudeモデルがリーマンゼータ関数の零点下限を67.2%に改善",
+      "summary": "Anthropicは未公開の研究用Claudeモデルがリーマン仮説に関連する問題で成果を上げたと発表した。リーマンゼータ関数の零点が臨界線上にある割合の下限を従来の41.6%から67.2%に引き上げ、過去37年間で数学者が達成した0.8ポイントの改善を大幅に上回る25.6ポイントの向上を実現。Lean 4による形式検証可能な証明も生成された。",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "collectedAt": "2026-08-10T09:00:00Z"
+    },
+    {
+      "title": "OpenAI、GPT-5.6-Cyberを公開しサイバーセキュリティ特化のDaybreakプログラムを拡充",
+      "summary": "OpenAIはDaybreakプログラムを2層構造に拡充した。Daybreak Blueは承認されたセキュリティ防御者にGPT-5.6 Solを開放し、Daybreak Redはゼロデイ発見やエクスプロイト検証に特化した新モデルGPT-5.6-Cyberを提供する。同モデルでChromeのV8エンジンの未知の脆弱性2件を発見し、CVE-2026-15903として修正された。",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+      "collectedAt": "2026-08-10T09:00:00Z"
+    },
+    {
+      "title": "Meta、AIコーディングエージェント「Muse Code」ベータ版をリリース",
+      "summary": "MetaはMuse Spark 1.2モデルを搭載したターミナルベースのAIコーディングエージェント「Muse Code」をベータ公開した。大規模リポジトリ全体での変更計画・コード生成・結果検証を実行でき、複数の永続サブエージェントによる並列タスク処理に対応。Claude CodeやOpenAI Codexに対抗する低コスト代替として位置づけられている。",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "collectedAt": "2026-08-10T09:00:00Z"
+    }
+  ]
+}
