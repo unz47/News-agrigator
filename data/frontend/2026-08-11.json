@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-11",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7.0、10倍高速化もVue・Angular・ESLint等はまだ移行不可 — TS 7.1待ちの状況",
+      "summary": "7月8日にリリースされたTypeScript 7.0はGoベースのネイティブコンパイラで10倍の高速化を実現したが、安定的なプログラマティックAPIが未提供のため、typescript-eslint、ts-jest、ts-morphや、Vue・Svelte・Astroのテンプレート型チェッカーが動作しない。Microsoftはエディタサポートには6.0の継続利用を推奨しており、安定APIは2026年秋のTS 7.1で提供予定。",
+      "url": "https://dev.to/the-modern-web/why-angular-vue-and-eslint-cant-upgrade-to-typescript-70-yet-and-why-ts-71-changes-441g",
+      "collectedAt": "2026-08-11T09:00:00Z"
+    },
+    {
+      "title": "Chrome 152ベータ版公開 — CSSメディア状態疑似クラス・相対アルファカラー等の新機能追加",
+      "summary": "Google Chrome 152ベータ版が公開され、Interop 2026の重点機能であるCSS :playing、:paused、:seeking等のメディア状態疑似クラスが追加された。また、既存の色値からアルファチャネルのみを変更できる相対アルファカラーや、デスクトップWebアプリのタイトルバードラッグを可能にするwindow-drag CSSプロパティも導入。安定版は8月25日予定。",
+      "url": "https://developer.chrome.com/blog/chrome-152-beta",
+      "collectedAt": "2026-08-11T09:00:00Z"
+    },
+    {
+      "title": "InfoQ: TypeScript 7.0正式リリース詳報 — GoネイティブコンパイラでフルビルドA8〜12倍高速化",
+      "summary": "InfoQがTypeScript 7.0の詳細なリリースレポートを公開した。TypeScriptのコードベースをGoに忠実に移植し、ネイティブコード速度と共有メモリ並列処理により通常8〜12倍の高速化を実現。ただし安定的なプログラマティックAPIは7.1で提供予定であり、現時点でのエコシステム移行には課題が残る。",
+      "url": "https://www.infoq.com/news/2026/08/typescript-7-released/",
+      "collectedAt": "2026-08-11T09:00:00Z"
+    }
+  ]
+}

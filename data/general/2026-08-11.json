@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-11",
+  "category": "general",
+  "articles": [
+    {
+      "title": "台風15号、8月11日夜に関東上陸へ — 東北から西日本で大雨・強風に警戒",
+      "summary": "台風15号は8月11日夜に関東地方に上陸する見込みで、茨城県に上陸すれば観測史上初。中心気圧985hPa、最大風速23m/sで西へ進行中。東北から西日本の広い範囲で激しい雨や大雨が予想され、特に東北では土砂災害への厳重な警戒が必要とされている。",
+      "url": "https://tenki.jp/forecaster/gureweather/2026/08/11/40106.html",
+      "collectedAt": "2026-08-11T09:00:00Z"
+    },
+    {
+      "title": "日本版GPS衛星「みちびき7号機」、H3ロケット9号機で打ち上げ成功",
+      "summary": "2026年8月11日午前4時23分31秒、種子島宇宙センターからH3ロケット9号機が打ち上げられ、準天頂衛星「みちびき7号機」の所定軌道への投入に成功した。当初2月1日に予定されていたが、H3ロケット8号機の打ち上げ失敗の原因究明のため延期されていた。",
+      "url": "https://space-connect.jp/h3-9-launch/",
+      "collectedAt": "2026-08-11T09:00:00Z"
+    },
+    {
+      "title": "コロンビアでM7.4の大地震、死者111人・負傷者87人 — 各地で建物倒壊",
+      "summary": "南米コロンビア西部チョコ県を震源とするM7.4の地震が発生し、死者111人・負傷者87人に上った。震源の深さは107kmで、ペレイラなど西部の複数都市で建物が倒壊。6カ所の空港が点検のため運用を停止した。デラエスプリエジャ大統領が被害状況を発表した。",
+      "url": "https://weathernews.jp/news/202608/110111/",
+      "collectedAt": "2026-08-11T09:00:00Z"
+    },
+    {
+      "title": "Microsoft、Windows 11 2026年8月パッチチューズデーを公開 — 421件のCVEを修正",
+      "summary": "Microsoftは8月11日、Windows 11向けの月例セキュリティ更新プログラムKB5121003を公開した。421件のCVEを修正し、WinSockドライバの脆弱性など実際に悪用されている問題への対処を含む。外付け指紋リーダーによるWindows Hello認証の対応拡大や、Voice Isolation機能なども追加された。",
+      "url": "https://www.windowslatest.com/2026/08/11/windows-11-kb5121003-out-with-faster-performance-for-apps-search-handling-types-and-more-changes-direct-download-links-msu/",
+      "collectedAt": "2026-08-11T09:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-11",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Meta、オープンウェイト30Bモデル「Muse Glimmer」を公開 — ローカルPCでAIエージェント動作可能に",
+      "summary": "Metaはオープンウェイトの30Bパラメータモデル「Muse Glimmer」を公開した。Muse Spark 1.2を蒸留した軽量モデルで、24〜32GB VRAMの消費者向けGPU1枚でローカル動作が可能。コーディング、スケジュール管理、ファイル整理、マルチステップ推論をオンデバイスで実行でき、Apache 2.0ライセンスで商用利用も可能。",
+      "url": "https://theaiinsider.tech/2026/08/11/meta-releases-open-weight-muse-glimmer-model-to-power-local-ai-agents-on-consumer-devices/",
+      "collectedAt": "2026-08-11T09:00:00Z"
+    },
+    {
+      "title": "Anthropic・Macquarie・GIC、AI専用データセンターJV「Theseus Infrastructure」を設立",
+      "summary": "Anthropic、Macquarie Asset Management、GICの3社がAI専用データセンターインフラ「Theseus Infrastructure」の設立を発表した。長期契約でAnthropicにデータセンターを開発・運営・リースする。Anthropicはグリッド増強費用の全額負担と電力価格上昇分のカバーを約束。当初は米国を中心にサイトを選定する。",
+      "url": "https://www.macquarie.com/au/en/about/news/2026/anthropic-mam-gic-data-centre-infrastructure-partnership.html",
+      "collectedAt": "2026-08-11T09:00:00Z"
+    },
+    {
+      "title": "中国AgiBot、ヒューマノイドロボット出荷台数でUnitree超え世界首位に",
+      "summary": "上海のAgiBotが2026年上半期にヒューマノイドロボット8,400台を出荷し、前年同期比562%増でグローバル市場の44%を獲得、Unitree Roboticsを抜いて世界首位となった。生産ライン搬入、物流仕分け、小売、警備パトロールなど7つの実用シナリオでの導入が進み、香港IPOの準備も開始している。",
+      "url": "https://www.semafor.com/article/08/11/2026/agibot-passes-unitree-as-chinas-top-humanoid-exporter",
+      "collectedAt": "2026-08-11T09:00:00Z"
+    }
+  ]
+}
