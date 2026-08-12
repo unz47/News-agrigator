@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-12",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google Pixel 11、「Gemini Intelligence」でエージェント型AIをスマートフォンに本格搭載",
+      "summary": "GoogleはPixel 11シリーズに「Gemini Intelligence」を搭載し、アプリ横断的にユーザーの行動を理解して代わりにタスクを実行するエージェント型AI機能を実現した。Tensor G6のTPUが50%増のコンピュート性能を持ち、最新のGemini Nanoモデルでオンデバイスのレイテンシを大幅に低減。米国では食料品注文やレストラン予約、ライドシェアの手配をGeminiが代行する。",
+      "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+      "collectedAt": "2026-08-12T23:19:20Z"
+    },
+    {
+      "title": "OpenAI・Anthropic・Google APIの暗号化推論に脆弱性 — 資格情報182件・個人情報367件が流出",
+      "summary": "OpenAI、Anthropic、GoogleのLLM APIに、暗号化された推論（Chain-of-Thought）を復号可能にする脆弱性が発覚した。3社ともセッション単位ではなく単一の共有暗号化キーを使用していたため、研究者は公開エージェント軌跡6,708件から315,320の推論ブロックを復号し、182件の認証情報と367件の個人情報を抽出。論文は8月10日にarXivで公開された。",
+      "url": "https://www.techtimes.com/articles/324182/20260812/single-shared-encryption-key-let-anyone-read-ai-reasoning-buried-published-logs.htm",
+      "collectedAt": "2026-08-12T23:19:20Z"
+    },
+    {
+      "title": "Google Pixel Watch 5、AIヘルスケア「Health Guardian」で血圧・インスリン抵抗性をモニタリング",
+      "summary": "Pixel Watch 5に搭載されたAI機能「Health Guardian」は、カフなしで血圧パターンを追跡し、インスリン抵抗性の変化も検知する業界初の機能を実現。50万人以上・10億分以上のデータで訓練された波形モデルを使用する。呼吸緊急検知も業界初搭載。血圧・インスリン機能は9月のソフトウェアアップデートで有効化予定。",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
+      "collectedAt": "2026-08-12T23:19:20Z"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-12",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Google Tensor G6発表 — Gemini Nano v3搭載でChrome組み込みAIの基盤が次世代へ進化",
+      "summary": "Made by Google 2026で発表されたTensor G6は、Chrome Prompt APIやSummarizer API等の組み込みAI基盤であるGemini Nanoを第3世代に進化させた。TPU性能50%向上でオンデバイスAI処理が3.5倍高速化・3.5倍省電力化。フロントエンド開発者がChrome Built-in AI APIを活用したウェブアプリでのユーザー体験が大幅に改善される。",
+      "url": "https://www.androidauthority.com/google-tensor-g6-3695351/",
+      "collectedAt": "2026-08-12T23:19:20Z"
+    },
+    {
+      "title": "Smashing Newsletter #566 — NoLoJS: JavaScriptの一般的パターンをHTML/CSSで代替するアプローチ",
+      "summary": "Smashing Magazineの最新ニュースレターで、Aaron T. Grogg氏のNoLoJSプロジェクトが特集された。モーダル、アコーディオン、ツールチップなどの一般的なJavaScriptパターンを、HTML/CSSのみ（またはごく少量のJS）で実現する手法を体系的に紹介。Core Web Vitalsの改善やパフォーマンス最適化に有効なアプローチとして注目されている。",
+      "url": "https://www.smashingmagazine.com/the-smashing-newsletter/smashing-newsletter-issue-566/",
+      "collectedAt": "2026-08-12T23:19:20Z"
+    },
+    {
+      "title": "Google Chrome各プラットフォーム向けアップデート公開 — iOS安定版・ベータ版およびAndroidベータ版を更新",
+      "summary": "Googleは8月12日にChrome各プラットフォーム向けの定期アップデートを公開した。iOS安定版、iOSベータ版、Androidベータ版、デスクトップベータ版が対象で、セキュリティ修正やバグフィックスが含まれる。Chrome 152安定版は8月25日リリース予定で、CSSメディア状態疑似クラスや相対アルファカラーなどの新機能が搭載される。",
+      "url": "https://chromereleases.googleblog.com/2026/08/chrome-stable-for-ios-update_0591688991.html",
+      "collectedAt": "2026-08-12T23:19:20Z"
+    }
+  ]
+}
