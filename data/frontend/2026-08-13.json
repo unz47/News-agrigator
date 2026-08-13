@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-13",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Grok 4.6がCursor全プランで利用可能に — フロントエンド開発のAIコーディング支援が強化",
+      "summary": "SpaceXAIの新モデルGrok 4.6が、フロントエンド開発者に広く使われるAI IDE「Cursor」の全プラン（Hobby含む）で利用可能になった。ビジュアルプロジェクトの生成やコードベース横断的なリファクタリングに強みを持ち、長時間のエージェントタスクにも対応する。初週は利用枠が2倍に増量される。",
+      "url": "https://ai-wave.jp/2026/08/13/grok-4-6/",
+      "collectedAt": "2026-08-13T23:20:32Z"
+    },
+    {
+      "title": "Grok 4.6のコーディング性能レビュー — ビジュアルプロジェクト生成とインタラクティブ開発に強み",
+      "summary": "SpaceXAIがリリースしたGrok 4.6のコーディング性能について開発者視点のレビューが公開された。「複雑なタスクに何ステップもかけて取り組み続ける」設計思想で、フロントエンドのインタラクティブなプロジェクト構築やアプリのプロトタイプ生成で特に高い評価を得ている。Artificial Analysis Intelligence Indexで61点を記録し、GPT-5.6 Solと同等。",
+      "url": "https://note.com/currypurin/n/na66efbbd8597",
+      "collectedAt": "2026-08-13T23:20:32Z"
+    },
+    {
+      "title": "SpaceXAI Grok 4.6、フロンティアモデルの半額で開発者向けに提供開始 — Cursor・Grok Buildで利用可能",
+      "summary": "SpaceXAIが開発者向けに提供開始したGrok 4.6は、入力$2/M・出力$6/Mトークンと競合フロンティアモデルの約半額で利用できる。50万トークンのコンテキストウィンドウを持ち、CursorのほかGrok Build、Cloudflare、OpenRouter、Vercelなど複数のプラットフォームから利用可能。4段階のeffortレベル（xhigh/high/medium/low）で処理の深さを調整できる。",
+      "url": "https://www.businesstoday.in/technology/news/story/spacexai-debuts-grok-4-6-claiming-performance-on-par-with-gpt-5-6-sol-and-fable-5-549004-2026-08-13",
+      "collectedAt": "2026-08-13T23:20:32Z"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-13",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "SpaceXAI、Grok 4.6をリリース — 長時間エージェント特化でGPT-5.6 Sol並み性能",
+      "summary": "SpaceXAI（旧xAI）が新モデルGrok 4.6を8月12日にリリースした。長時間のエージェントタスクに特化し、Artificial Analysis Intelligence Indexで61点を獲得、GPT-5.6 Solと同等の性能を達成。Grok 4.5と同じ1.5兆パラメータのV9ベースだが、追加学習と強化学習の改善により性能向上を実現した。入力$2/M・出力$6/Mトークンで、CursorやGrok Build、APIから利用可能。",
+      "url": "https://gigazine.net/news/20260813-grok-4-6/",
+      "collectedAt": "2026-08-13T23:20:32Z"
+    },
+    {
+      "title": "台湾政府にAIエージェント使用の大規模サイバー攻撃 — 21システム侵入、中国関与の疑い",
+      "summary": "7月に台湾政府の21システムに対し、AIエージェントを使用した「エンドツーエンド自律型」サイバー攻撃が実行されていたことが判明した。最大8つの自律AIエージェントが同時稼働し、ネットワーク構造のマッピング・脆弱性調査・戦略変更を自動で実行。85件のアカウント侵害と2,500件超の個人情報流出が確認され、原子力安全規制機関や7社のエネルギー企業にも攻撃が拡大した。",
+      "url": "https://www.cnn.com/2026/08/13/tech/china-taiwan-ai-agent-cyberattack-intl-hnk",
+      "collectedAt": "2026-08-13T23:20:32Z"
+    },
+    {
+      "title": "Alphabet、DeepMind体制を再編 — Hassabis氏が会長職に移行、AI競争での遅れ挽回へ",
+      "summary": "AlphabetがGoogle DeepMindの体制を再編し、共同創業者のDemis Hassabis氏がCEOから会長兼チーフサイエンティストに移行した。後任のKoray Kavukcuoglu氏がSVPとしてGeminiモデル開発と日常運営を担当する。AnthropicやOpenAIとのAI開発競争で遅れを取ったことが背景にあり、長期戦略と実行の分離を狙った体制刷新とされる。",
+      "url": "https://www.digitimes.com/news/a20260813VL203/alphabet-deepmind-google-gemini-anthropic.html",
+      "collectedAt": "2026-08-13T23:20:32Z"
+    }
+  ]
+}
