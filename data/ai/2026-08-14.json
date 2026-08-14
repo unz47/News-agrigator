@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-14",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google Gemini 3.7 Flash登場 — 先代から3週間で更新、コーディングとエージェント性能が大幅向上",
+      "summary": "Googleが新AIモデル「Gemini 3.7 Flash」を公開した。前モデルGemini 3.6 Flashからわずか3週間での刷新で、DeepSWE v1.1ベンチマークが49.0%から65.3%に、FrontierCode 1.1 Mainが34.4%から43.6%に向上。2026年末までAPI料金が半額（入力100万トークン0.75ドル、出力3.75ドル）で提供され、Gemini APIやGoogle AI Studioから利用可能。",
+      "url": "https://www.techno-edge.net/article/2026/08/14/5392.html",
+      "collectedAt": "2026-08-14T23:14:46Z"
+    },
+    {
+      "title": "OpenAI「Ultrafast」モードを発表 — Cerebras連携でGPT-5.6 Solが最大14倍速、毎秒750トークン出力",
+      "summary": "OpenAIがCerebrasと連携し、GPT-5.6 Solを最大14倍の速度で動作させる「Ultrafast」モードを発表した。毎秒最大750トークンの出力速度を実現し、モデルの知能レベルはStandard版と同等を維持。金融リサーチ、インシデント対応、カスタマーサポート、音声アプリなど応答速度が重要な用途を想定し、限定プレビューとしてAPIから提供開始。",
+      "url": "https://www.hpcwire.com/aiwire/2026/08/14/cerebras-powers-openais-gpt-5-6-sol-ultrafast-mode/",
+      "collectedAt": "2026-08-14T23:14:46Z"
+    },
+    {
+      "title": "Anthropic、Claude Codeの「autoモード」を本日よりPro/Max/Teamプランのデフォルトに変更",
+      "summary": "Anthropicは8月14日より、Claude CodeのPro・Max・Teamプランで権限モードの既定値を「autoモード」に切り替えた。autoモードではAI分類器が各ツール呼び出しの安全性を自動判定し、不可逆・破壊的な操作のみブロックする仕組み。1,053人のテスターによる検証では、人間の危険コマンド検出率13.6%に対しautoモードは89%を検出し、安全性向上が確認された。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2132678.html",
+      "collectedAt": "2026-08-14T23:14:46Z"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-14",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "JavaScriptの`using`キーワードがSafariに対応 — 全主要ブラウザでExplicit Resource Management完了",
+      "summary": "Safari Technology Preview 250で、TC39のExplicit Resource Management（明示的リソース管理）提案を完全サポート。JavaScriptの`using`キーワードがV8（Chrome）・SpiderMonkey（Firefox）・WebKit（Safari）の全3エンジンでネイティブ対応し、TypeScript開発者はトランスパイル不要になった。STP 250にはWebAssembly multi-memoryやRelaxed SIMD、5つの新CSSテキストプロパティも含まれる。",
+      "url": "https://www.techtimes.com/articles/324489/20260814/javascript-using-keyword-lands-safari-closing-last-cross-browser-gap.htm",
+      "collectedAt": "2026-08-14T23:14:46Z"
+    },
+    {
+      "title": "Google Gemini 3.7 FlashがUI生成・コーディング性能を大幅強化 — Web開発ベンチマークで高評価",
+      "summary": "Googleの新モデル「Gemini 3.7 Flash」は、Web開発評価のCode ArenaでEloスコア1588を記録し前モデル（1538）を上回った。FrontierCode 1.1 Mainベンチマークでは43.6%を達成し、Claude Sonnet 5やGPT-5.6 Terraに匹敵する性能。UIコンポーネント生成やデバッグ、プロダクションレディなコード生成で特に性能向上が見られ、フロントエンド開発でのAI活用がさらに加速しそうだ。",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2608/14/news067.html",
+      "collectedAt": "2026-08-14T23:14:46Z"
+    },
+    {
+      "title": "Gemini 3.7 FlashのAPI半額提供開始 — フロントエンド開発者のAIコーディング導入コストが大幅低下",
+      "summary": "Google Gemini 3.7 Flashは2026年末まで入力100万トークン0.75ドル、出力3.75ドルと前モデルの半額で提供される。Google AI StudioやGemini APIからすぐに利用でき、Claude Sonnet 5やGPT-5.6 Terraに匹敵する性能を低コストで実現。UIプロトタイプ生成やコードレビューなど、フロントエンド開発でのAIコーディング支援をより手軽に導入できる環境が整った。",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2132720.html",
+      "collectedAt": "2026-08-14T23:14:46Z"
+    }
+  ]
+}
