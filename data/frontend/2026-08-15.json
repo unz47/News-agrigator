@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-15",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.3 AI改善詳報 — Agent Browser・MCP・スキル機能でAIコーディングエージェントとの連携を強化",
+      "summary": "Next.js 16.3のAI関連改善を詳述するコンパニオン記事が公開された。AGENTS.mdによるバージョン付きドキュメント自動提供に加え、Agent Browserによるアプリ実行中のReactコンポーネント構造の直接検査、MCP（Model Context Protocol）サーバーの軽量化、ファーストパーティスキル機能を追加。AIコーディングエージェントがNext.jsアプリの構造を理解し、より正確なコード修正を行えるようになった。",
+      "url": "https://nextjs.org/blog/next-16-3-ai-improvements",
+      "collectedAt": "2026-08-15T23:16:09Z"
+    },
+    {
+      "title": "Qwen3.8-27Bがブラウザ操作・コンピュータ操作機能を搭載 — ローカル環境でのフロントエンドUI検証に活用可能",
+      "summary": "Alibaba Qwenチームが公開したQwen3.8-27Bは、視覚認識に加えブラウザ操作（browser-use）とコンピュータ操作（computer-use）機能を搭載した27Bパラメータのオープンソースモデル。24GB GPUで動作可能な軽量設計で、ローカル環境でのフロントエンドE2Eテスト自動化やUIインスペクションへの活用が期待される。Apache 2.0ライセンスで商用利用も可能。",
+      "url": "https://lovableapp.org/blog/qwen3-8-27b",
+      "collectedAt": "2026-08-15T23:16:09Z"
+    },
+    {
+      "title": "npm v12がpostinstallスクリプトをデフォルトブロック — フロントエンド開発のサプライチェーンセキュリティが大幅向上",
+      "summary": "npmのメジャーバージョンv12が、依存パッケージのpreinstall・install・postinstallスクリプトをデフォルトでブロックするセキュリティ改善を導入した。8月初旬に発生したChainDropワーム攻撃（1,300パッケージ感染）のようなサプライチェーン攻撃への根本対策となる。明示的に許可されたパッケージのみスクリプト実行が可能で、フロントエンドプロジェクトのCI/CDパイプラインの安全性が向上する。",
+      "url": "https://www.aikido.dev/blog/npm-v12-block-postinstall",
+      "collectedAt": "2026-08-15T23:16:09Z"
+    }
+  ]
+}

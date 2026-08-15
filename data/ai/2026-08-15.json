@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-15",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google、暗号化データ上でAI推論を実現するHEIRコンパイラをオープンソース公開",
+      "summary": "Googleは準同型暗号（FHE）ベースのオープンソースコンパイラツールチェーン「HEIR」を公開した。学習済みモデルを暗号化されたデータ上で推論実行できるよう変換し、サーバー側がデータを復号せずにAI処理を行えるようにする。深層学習レコメンダー、クレジットカード不正検知、ネットワーク侵入検知で実証済みで、Belfort・Niobium等とハードウェアアクセラレーションの共同開発も進めている。",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "collectedAt": "2026-08-15T23:16:09Z"
+    },
+    {
+      "title": "Alibaba Qwen3.8-27Bをオープンソース公開 — 視覚・ブラウザ操作対応の27Bモデルが1GPUで動作",
+      "summary": "AlibabaのQwenチームが27.8Bパラメータのマルチモーダル言語モデル「Qwen3.8-27B」をApache 2.0ライセンスで公開した。画像・動画入力に加えコンピュータ操作・ブラウザ操作機能を搭載し、262Kトークンのネイティブコンテキストを持つ。4bit量子化で24GB VRAM（消費者向けGPU1枚）で動作可能で、10〜15倍のサイズのモデルに匹敵する性能を実現している。",
+      "url": "https://www.yottalabs.ai/post/qwen-3-8-27b-specs-hardware-requirements-how-to-run-2026",
+      "collectedAt": "2026-08-15T23:16:09Z"
+    },
+    {
+      "title": "Google Geminiアプリが月間10億ユーザー突破 — Google史上最速成長のプロダクトに",
+      "summary": "Google CEOのサンダー・ピチャイ氏は、Geminiアプリの月間アクティブユーザーが10億人を突破したことを発表した。Google 28年の歴史で14番目の10億ユーザー到達サービスとなり、最速の成長記録を樹立。利用者の63%がテキスト入力ではなく音声でGeminiと対話しており、5人に1人が画面共有やライブカメラ機能を活用している。Apple端末のユーザーも1億人以上を占める。",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "collectedAt": "2026-08-15T23:16:09Z"
+    }
+  ]
+}
