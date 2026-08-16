@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-16",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "WordPress 7.1が8月19日リリース予定 — React 19アップグレードはプラグイン互換性問題で見送り",
+      "summary": "WordPress 7.1が8月19日にWordCamp US最終日に合わせてリリース予定。当初計画されていたReact 18→19のアップグレードは、Gutenberg 23.3.2でプラグインがクラッシュする問題が発生し6月に緊急リバートされた。7.1ではReact 18.3を継続しつつ、Gutenberg 23.4以降に実験的フラグでReact 19をテスト可能にする方針。レスポンシブスタイリング、ノート機能、クラシックテーマ移行支援は予定通り搭載される。",
+      "url": "https://smartwp.com/wordpress-7-1/",
+      "collectedAt": "2026-08-16T23:00:00Z"
+    },
+    {
+      "title": "InfoQがAngular v22の詳細分析を公開 — Signal Forms安定化、OnPushデフォルト化、実験的WebMCPサポート",
+      "summary": "InfoQがAngular v22（6月リリース）の包括的な技術分析を8月に公開した。Signal Formsの安定化により既存のReactive Formsからの移行が推奨フェーズに入り、変更検知戦略がOnPushデフォルトに変更された。@Service()デコレータによるDI改善、テンプレートでのスプレッド/レスト構文、@switchの網羅的never検査も導入。TypeScript 6必須でNode 20サポートは終了している。",
+      "url": "https://www.infoq.com/news/2026/08/angular-v22-released/",
+      "collectedAt": "2026-08-16T23:00:00Z"
+    },
+    {
+      "title": "Next.js 16.3 Instant Navigations — クライアントサイドナビゲーションの高速化技術を詳説",
+      "summary": "Next.js 16.3のコンパニオン記事「Instant Navigations」が公開され、ページ遷移の高速化技術を詳述した。Turbopackのメモリ退避機能により長時間の開発セッションでRAM使用量が最大90%削減され、永続ビルドキャッシュによりリピートビルドでキャッシュ済みアーティファクトを再利用可能に。サーバーサイドレンダリングでは負荷時のリクエスト処理量が22%向上している。",
+      "url": "https://nextjs.org/blog/next-16-3-instant-navigations",
+      "collectedAt": "2026-08-16T23:00:00Z"
+    }
+  ]
+}

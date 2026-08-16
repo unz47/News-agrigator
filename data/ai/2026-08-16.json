@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-16",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Z.ai GLM-5.3リリース — ポストトレーニングのみでオープンウェイト最強コーディングモデルに、サイバー能力の予想外の進化でウェイト公開を延期",
+      "summary": "Z.aiがGLM-5.3を8月14日にリリースした。GLM-5.2と同じ743Bベースモデルからポストトレーニングのみで性能を大幅向上させ、Terminal-Bench 3.0が4.6→28.3に跳躍。CyberGymの脆弱性発見スコアは84.5%でClaude Mythos 5やGPT-5.6 Solを上回った。サイバー能力が訓練計画を超えて自己進化したため、安全評価完了までオープンウェイトの公開を約2週間延期する異例の措置を取った。",
+      "url": "https://siliconangle.com/2026/08/14/z-ai-debuts-glm-5-3-long-horizon-coding-cybersecurity-upgrades/",
+      "collectedAt": "2026-08-16T23:00:00Z"
+    },
+    {
+      "title": "OpenAI、70億ドルの従業員株式売却を完了 — 時価総額8520億ドル、IPOに向けて準備加速",
+      "summary": "OpenAIが70億ドル規模の従業員向け株式売却（テンダーオファー）を完了した。直近の資金調達で時価総額は8520億ドルに達し、年間売上ランレートは400億ドルを突破。6月にはSECに非公開でS-1を提出済みで、早ければ2026年Q4のIPOを目指しているとされるが、サム・アルトマンCEOは時期について「まだ先になるかもしれない」と慎重な姿勢を示している。",
+      "url": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
+      "collectedAt": "2026-08-16T23:00:00Z"
+    },
+    {
+      "title": "ChatGPT広告がUK・日本・ブラジルなど5か国に正式展開 — AI広告市場が本格化",
+      "summary": "OpenAIは8月11日、ChatGPTの広告機能をイギリス、日本、ブラジル、韓国、メキシコの5か国に正式展開した。無料プランとGoプランのユーザーに対してスポンサード表示が挿入される。UKは最初の欧州市場となり、OpenAIはEUプライバシー規制への対応方針も併せて発表。AI対話インターフェース上の広告という新たな市場が本格的に拡大しつつある。",
+      "url": "https://digiday.com/marketing/chatgpt-ads-land-in-u-k-as-openai-outlines-eu-privacy-rules/",
+      "collectedAt": "2026-08-16T23:00:00Z"
+    }
+  ]
+}
