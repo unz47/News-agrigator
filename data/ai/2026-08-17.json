@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-17",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "StripeがAIゲートウェイOpenRouterを70億ドル超で買収完了 — 3カ月で評価額5倍超",
+      "summary": "決済大手StripeがAIモデル切り替えサービスのOpenRouterを70億ドル超で買収した。OpenRouterは5月のシリーズBで13億ドルの評価額だったが、わずか3カ月で5倍超の評価額での買収となった。開発者が用途や予算に応じて複数のAIモデルを切り替えるゲートウェイ機能を提供しており、AI利用コストの最適化ツールへの市場需要の急拡大を示す取引となった。",
+      "url": "https://dataconomy.com/2026/08/17/stripe-acquire-openrouter-deal-7-billion/",
+      "collectedAt": "2026-08-17T23:00:00Z"
+    },
+    {
+      "title": "Google Imagen 4 APIが8月17日にシャットダウン — Gemini 3.1 Flash Imageへの移行が必要",
+      "summary": "Googleは8月17日、Imagen 4の3つのAPIモデル（imagen-4.0-generate-001、ultra、fast）を正式にシャットダウンした。3月にVertex AIで非推奨となっていたが、本日Gemini APIでも停止。開発者はGemini 3.1 Flash Imageへの移行が必要で、generate_images()を使用しているアプリは非推奨警告なしに即座にエラーとなる。移行後のコストは1,000枚あたり約0.067ドルとやや上昇する。",
+      "url": "https://byteiota.com/imagen-4-shutdown-august-17-migrate-to-gemini-image-api-now/",
+      "collectedAt": "2026-08-17T23:00:00Z"
+    },
+    {
+      "title": "Forbes分析: StripeのOpenRouter買収がAIの「台帳」を生む可能性",
+      "summary": "ForbesのSandy Carter氏は、StripeのOpenRouter買収がAI業界全体に影響を及ぼす可能性を指摘した。StripeのAPI決済インフラとOpenRouterのマルチモデルゲートウェイを組み合わせることで、企業がAIモデル利用のコスト・パフォーマンスを横断的に管理・最適化する「AIのレジャー（台帳）」が誕生しうるとしている。当初10B近い価格で交渉されたが、夏のモデル価格下落で最終価格は約30%下がった。",
+      "url": "https://www.forbes.com/sites/sandycarter/2026/08/17/stripes-7-billon-openrouter-deal-could-create-ais-ledger/",
+      "collectedAt": "2026-08-17T23:00:00Z"
+    }
+  ]
+}

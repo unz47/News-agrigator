@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-17",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "GitHub Copilot Agent Plugins 1.0が正式リリース — VS Code・CLI・Copilot Appに対応",
+      "summary": "GitHubは8月12日、Agent Plugins 1.0をVS Code・Copilot CLI・Copilot Appで正式リリースした。AWS・Anysphere・Microsoft・OpenAI・Vercel・Googleが共同策定したオープン標準で、プラグインを一度作れば全対応クライアントで利用可能。MCPサーバーとスキルを1つのパッケージにバンドルでき、フロントエンド開発ワークフローのAIエージェント連携が標準化される。",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app/",
+      "collectedAt": "2026-08-17T23:00:00Z"
+    },
+    {
+      "title": "Cloudflare、MCPトラフィック検知とAIセキュリティダッシュボードをGatewayに追加",
+      "summary": "Cloudflareは8月14日、Model Context Protocol（MCP）トラフィックの検知・制御機能をCloudflare Gatewayに追加した。TLS検査されたHTTPリクエストのMCP-Protocol-Versionヘッダーを解析し、承認されていないMCP接続をブロックできる。シャドーMCPトラフィックの発見やPortal経由アクセスの強制が可能で、AIエージェント時代のWebセキュリティ管理が強化される。",
+      "url": "https://blog.cloudflare.com/mcp-security-updates/",
+      "collectedAt": "2026-08-17T23:00:00Z"
+    },
+    {
+      "title": "WordCamp US 2026 Showcase Day開催 — WordPress 7.1を8月19日に正式リリース予定",
+      "summary": "WordCamp US 2026がアリゾナ州フェニックスで8月16〜19日に開催中。8月17日はShowcase Dayとして大規模WordPress事例の展示が行われた。WordPress 7.1は8月19日に正式リリース予定で、RC3には90以上の変更（エディター37件・Core57件の修正）が含まれる。レスポンシブスタイリング、クライアントサイドメディア処理、新しいPlaylist・Tabsブロックなどが搭載される。",
+      "url": "https://us.wordcamp.org/2026/",
+      "collectedAt": "2026-08-17T23:00:00Z"
+    }
+  ]
+}
