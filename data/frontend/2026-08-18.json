@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-18",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Cursor「Origin」ベータ公開 — GitHub対抗のAIエージェント特化コードホスティング",
+      "summary": "SpaceXに600億ドルで買収されたCursorが、AIエージェント向けコードホスティング「Origin」のベータ版を有料プラン向けに公開。リポジトリ管理・PR・コードレビューをCursor内で完結でき、GitHubとの双方向同期やVercel・Buildkite連携にも対応する。",
+      "url": "https://blog.adafruit.com/2026/08/18/cursor-launches-origin-a-github-alternative/",
+      "collectedAt": "2026-08-18T06:00:00Z"
+    },
+    {
+      "title": "GitHub大規模障害 約8時間にわたりActions・API・Copilot等全サービスに影響",
+      "summary": "GitHubが17日夜から約8時間にわたる大規模障害を発生。API・Actionsのエラー率は最大50%に達し、Copilotも機能制限状態に。世界中の開発者のCI/CDパイプラインやデプロイに影響が広がり、Cursor Originの同時期公開と重なり注目を集めた。",
+      "url": "https://www.intelligentcio.com/latam/2026/08/18/github-outage-microsoft-works-to-restore-services/",
+      "collectedAt": "2026-08-18T06:00:00Z"
+    },
+    {
+      "title": "Firefox 154リリース — CSS sibling-index()/sibling-count()やtext-boxプロパティに対応",
+      "summary": "Mozilla Firefox 154が8月18日にリリース。CSSの新関数sibling-index()とsibling-count()によりDOM位置に応じた動的スタイリングが可能に。テキスト間隔制御のtext-box-edge/text-box-trimプロパティにも対応し、Webタイポグラフィの精密な制御が強化された。",
+      "url": "https://www.firefox.com/en-US/firefox/154.0/releasenotes/",
+      "collectedAt": "2026-08-18T06:00:00Z"
+    }
+  ]
+}

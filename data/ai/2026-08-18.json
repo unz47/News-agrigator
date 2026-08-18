@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-18",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、13〜17歳向け「ChatGPT for Teens」を提供開始",
+      "summary": "OpenAIが13〜17歳を対象とした「ChatGPT for Teens」をリリース。性的・暴力的コンテンツの制限強化と保護者管理機能に加え、宿題の答えを直接与えず理解を促す「Study Mode」を搭載。CodeAIとの提携でAIリテラシー教育も推進する。",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "collectedAt": "2026-08-18T06:00:00Z"
+    },
+    {
+      "title": "AIチップ新興Etched、1カ月で評価額倍増の210億ドルで7億ドル調達",
+      "summary": "AI推論特化チップの米Etchedが7億ドルの新規資金調達を実施し、評価額は1カ月で103億ドルから210億ドルに倍増した。量子取引大手Jane Streetが初の顧客兼リード投資家を務め、Kleiner Perkins・Sequoia・a16z等も参加。",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "collectedAt": "2026-08-18T06:00:00Z"
+    },
+    {
+      "title": "RedditがAI音声読み上げ動画の実験を開始 テキスト投稿をTikTok風に変換",
+      "summary": "Redditがテキスト投稿とコメントをAI音声で読み上げる短編動画に変換する実験をiOS/Androidで開始。選ばれた英語投稿に「Play」ボタンが表示される。Reddit CEOが先月の決算説明会で予告していた機能の初期テスト。",
+      "url": "https://dataconomy.com/2026/08/18/reddit-tests-ai-voiced-videos-based-on-user-posts/",
+      "collectedAt": "2026-08-18T06:00:00Z"
+    }
+  ]
+}
