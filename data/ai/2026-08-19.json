@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-19",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Unitree Robotics、上海STAR市場に上場 初値629%高で時価総額約10兆円",
+      "summary": "中国のヒューマノイドロボット大手Unitree Roboticsが8月19日に上海STAR市場に上場。公開価格150.8元に対し初値は1,100元と629%の急騰を記録し、中国本土初の上場ヒューマノイドロボットメーカーとなった。DeepSeekやTencentも出資者に名を連ねる。",
+      "url": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
+      "collectedAt": "2026-08-19T06:00:00Z"
+    },
+    {
+      "title": "Meta、Mac向けMeta AIデスクトップアプリをリリース 画面共有やビジネス連携機能を搭載",
+      "summary": "Metaは8月19日、Mac向けのMeta AIデスクトップアプリをリリース。画面上の任意のウィンドウをAIに見せて質問できる画面共有機能や、システム全体で使える音声ディクテーション機能を搭載。InstagramやFacebookの業務アカウントとGoogle Workspaceの連携にも対応。",
+      "url": "https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/",
+      "collectedAt": "2026-08-19T06:00:00Z"
+    },
+    {
+      "title": "Stripe、AIモデルゲートウェイOpenRouterを70億ドル超で買収へ",
+      "summary": "決済大手Stripeが、400以上のAIモデルへの統一インターフェースを提供するOpenRouterを70億ドル超で買収する契約を締結。OpenRouterは800万人の開発者に利用されており、5月のシリーズBで評価額13億ドルだったが、わずか3カ月で5倍以上の評価となった。",
+      "url": "https://www.zaikei.co.jp/article/20260818/866289.html",
+      "collectedAt": "2026-08-19T06:00:00Z"
+    },
+    {
+      "title": "AI失業対策の提案をまとめたガイドが公開 各国の政策動向を分析",
+      "summary": "BloombergがAIによる雇用喪失に対する各国の政策提案をまとめた記事を公開。AI時代の労働者支援策として、再訓練プログラムやセーフティネットの拡充、AI課税などの議論が進んでおり、各国政府が対応を急いでいる。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-job-losses-a-guide-to-the-proposals-for-helping-workers",
+      "collectedAt": "2026-08-19T06:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-19",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "調査：Webサイトの87%がW3C標準に違反 AIエージェント時代に課題",
+      "summary": "フランスの開発者が上位5,000ドメインを調査したところ、100,305件のHTML違反と18,863件のCSSエラーが見つかり、87.2%のサイトがWeb標準に違反していることが判明。ブラウザは寛容に処理するが、AIエージェントや音声アシスタント、スクリーンリーダーには深刻な問題となる。",
+      "url": "https://www.devclass.com/devops/2026/08/18/almost-nobody-pays-attention-to-web-standards-anymore/5288832",
+      "collectedAt": "2026-08-19T06:00:00Z"
+    },
+    {
+      "title": "Angular 22.1.2リリース、Signal-First時代のセレクターレスコンポーネントが安定化",
+      "summary": "Angular 22.1.2が8月13日にリリースされ、セレクターレスコンポーネントやSignal Formsが安定版に昇格。セレクターレスコンポーネントにより文字列セレクターが不要になり、テンプレートへの直接インポートで型安全性とリファクタリング性が向上。Zonelessアーキテクチャも安定版となった。",
+      "url": "https://www.cmarix.com/blog/latest-angular-version/",
+      "collectedAt": "2026-08-19T06:00:00Z"
+    },
+    {
+      "title": "2026年のフロントエンド開発トレンド：サーバーファースト・シグナル・コンパイラ最適化が3大潮流",
+      "summary": "主要フレームワークがサーバーファーストレンダリング、シグナルベースのリアクティビティ、コンパイラ駆動の最適化という3つの方向に収斂。React 19.2はServer Componentsとコンパイラが本番運用レベルに到達し、TypeScriptがデフォルト前提に。WebAssemblyもブラウザ本番運用が実用段階に入った。",
+      "url": "https://www.netguru.com/blog/front-end-trends",
+      "collectedAt": "2026-08-19T06:00:00Z"
+    }
+  ]
+}
