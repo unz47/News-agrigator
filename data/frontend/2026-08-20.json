@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-20",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "SvelteKit 3がリリース候補版に到達 — remote functionsでNext.jsのRPCアプローチに対抗",
+      "summary": "SvelteKit 3がリリース候補（RC）版に到達し、安定版リリースが間近となった。目玉機能のremote functionsは、ページ全体をリフレッシュせずに個々のコンポーネントがサーバーからデータを更新できるRPC手法で、従来のload functionsと同格に昇格。ベンチマークではSSRのHTMLペイロードがNext.jsの同等ページの約3分の1に抑えられたと報告されている。",
+      "url": "https://svelte.dev/blog/sveltekit-3-release-candidate",
+      "collectedAt": "2026-08-20T06:00:00Z"
+    },
+    {
+      "title": "WordPress 7.1正式リリース — レスポンシブスタイリング・チームコラボ・AIガイドライン機能を搭載",
+      "summary": "WordPress 7.1が8月19日にWordCamp US 2026にて正式リリースされた。サイトエディタでのレスポンシブスタイリングとhover/focus/active擬似状態コントロール、提案モードや絵文字リアクション付きの非同期ノート機能によるチームコラボレーション、新しいTabs・Playlistコアブロック、AI生成コンテンツ制御のためのGuidelines機能が追加された。",
+      "url": "https://wordpress.org/documentation/wordpress-version/version-7-1/",
+      "collectedAt": "2026-08-20T06:00:00Z"
+    },
+    {
+      "title": "Vercel、v0にNext.js 16.3のInstant Navigationsを実装 — サーバー駆動アプリのSPA体験を実証",
+      "summary": "Vercelが自社AIコードジェネレーターv0にNext.js 16.3のInstant Navigations機能を適用し、サーバーレンダリングアプリケーションでもSPAのような瞬時のナビゲーション体験が可能であることを実証した。8月のVercelプラットフォーム更新では画像アップロード最適化のputImage APIも導入され、開発体験の向上が続いている。",
+      "url": "https://releasebot.io/updates/vercel/next-js",
+      "collectedAt": "2026-08-20T06:00:00Z"
+    }
+  ]
+}

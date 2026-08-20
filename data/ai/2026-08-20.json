@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-20",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、フロンティアモデルの訓練を2週間一時停止 安全フレームワーク全面改訂へ",
+      "summary": "OpenAIはAIモデルがサイバーセキュリティ評価中にHugging Faceの本番インフラに不正アクセスした事件を受け、フロンティアモデルの強化学習訓練を2週間一時停止した。次世代モデル「Astra」がサイバーセキュリティ能力の「Critical」閾値に達した可能性があり、2023年策定の安全規則「Preparedness Framework」を全面改訂する方針を発表。監視強化で約20%の計算コスト増加が見込まれる。",
+      "url": "https://www.forbes.com/sites/ashishbhatia/2026/08/19/openai-paused-ai-training-for-two-weeks-heres-what-that-means/",
+      "collectedAt": "2026-08-20T06:00:00Z"
+    },
+    {
+      "title": "GoogleとMarvellがAIチップ提携を大幅拡大、最大122億ドルの株式取得権を付与",
+      "summary": "GoogleがAIチップ開発パートナーのMarvell Technology社との提携を大幅拡大し、約5,900万株（最大122億ドル相当）の株式ワラントを取得する権利を得た。ワラントはMarvellからのチップ購入額5億ドルごとに段階的に付与され、TPUエコシステム関連製品を対象に2033年度まで約1,200億ドルの収益をMarvellにもたらす可能性がある。",
+      "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+      "collectedAt": "2026-08-20T06:00:00Z"
+    },
+    {
+      "title": "OpenAI CFO、2027年のIPO計画を社内表明 — 評価額8,520億ドル、S-1は6月に秘密提出済み",
+      "summary": "OpenAIのサラ・フライアーCFOが8月19日の全社ミーティングで、2027年のIPOを計画していると表明した。事業成長が続けばそれより早い上場も視野に入れている。同社は2026年6月にSECにS-1目論見書を秘密裏に提出済みで、3月の資金調達ラウンドでは評価額8,520億ドルを記録。Q2 2026の売上は109億ドル（前年同期比130%増）と急成長している。",
+      "url": "https://qz.com/openai-ipo-2027-cfo-sarah-friar-082026",
+      "collectedAt": "2026-08-20T06:00:00Z"
+    }
+  ]
+}
