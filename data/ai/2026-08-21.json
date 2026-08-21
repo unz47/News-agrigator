@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-21",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、2兆ドル規模のIPOを加速 — 8月末にも申請、10月上場でSpaceX超えを目指す",
+      "summary": "Claude開発元のAnthropicがIPO計画を加速させ、8月末にも正式な上場申請を行う見通しであることが21日に報じられた。評価額は2兆ドルを目標とし、実現すれば2026年6月のSpaceX（1.77兆ドル）を上回る史上最大のIPOとなる。年間売上は7月末時点で約650億ドルに急成長しており、Goldman SachsとMorgan Stanleyが主幹事を務める。",
+      "url": "https://dataconomy.com/2026/08/21/anthropic-accelerates-ipo-plans-targeting-2-trillion/",
+      "collectedAt": "2026-08-21T23:11:03Z"
+    },
+    {
+      "title": "Nvidia、韓国AIチップ企業Rebellionsとの投資・買収を協議中",
+      "summary": "Nvidiaが韓国のAIチップ設計企業Rebellionsとの提携について初期段階の協議を行っていることが21日にBloombergの報道で明らかになった。NvidiaのジェンスンCEOがサンタクララ本社でRebelllionsの共同創業者兼CEO朴成鉉（パク・ソンヒョン）と会談し、技術提携・投資・買収の可能性を検討した。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal",
+      "collectedAt": "2026-08-21T23:11:03Z"
+    },
+    {
+      "title": "Binance、AIエージェントが暗号資産を直接取引できるプラットフォーム「Agent OS」を公開",
+      "summary": "Binanceは「Agent OS」をローンチし、AIエージェントによる暗号資産取引プラットフォームを公開した。Claude、ChatGPT、Cursor等のAIアプリケーションがBinanceの取引・市場データ・ウォレット機能に直接アクセスでき、ユーザー許可の下で現物・信用・先物取引を自動実行できる。引き出しはデフォルトでブロックされ、スワップ上限は1日5万ドル。",
+      "url": "https://en.cryptonomist.ch/2026/08/21/binance-ai-trading-platform-agent-os/",
+      "collectedAt": "2026-08-21T23:11:03Z"
+    },
+    {
+      "title": "Nvidia、AIスタートアップPoolsideにモデルライセンス料60億ドル — コード生成AI「Laguna」を獲得",
+      "summary": "Nvidiaは20日、ソフトウェア開発向け生成AIを手がけるスタートアップPoolsideとの60億ドル規模のライセンス契約を発表した。コード生成AIモデル群「Laguna」シリーズへの非独占的アクセスを獲得し、さらに10億ドルを出資（評価額120億ドル）。109名の元Poolside従業員にNvidiaでのポジションも提供されたが、買収ではなくPoolsideは独立運営を継続する。",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-pays-6-billion-to-license-poolside-ai-model-development-software/",
+      "collectedAt": "2026-08-21T23:11:03Z"
+    }
+  ]
+}
