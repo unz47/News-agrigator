@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-22",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAIがChatGPTアップデートを配信、プラグイン検索改善・多言語音声入力精度向上",
+      "summary": "OpenAIは22日、ChatGPTのアップデートを配信した。プラグインの検索ランキング改善、ローカル時刻認識の向上、長文チャットの高速化が主な改善点。音声入力では日本語・韓国語・中国語を含む多言語の認識精度が向上し、騒がしい環境でのロバスト性も改善された。",
+      "url": "https://en.shiftdelete.net/openai-updates-chatgpt-with-new-mobile-and-web-features/",
+      "collectedAt": "2026-08-22T23:13:44Z"
+    },
+    {
+      "title": "Claude Codeアップデート、コスト見積もり改善・クラウドセッション・リモートコントロール強化",
+      "summary": "Anthropicは22日、AIコーディングツールClaude Codeのアップデートを配信した。コスト見積もりの精度向上、クラウドセッションの改善、リモートコントロール機能の強化が含まれる。Amazon Bedrockやアルパイン環境のサポート、Python 1.xアップグレードヘルパーも追加された。",
+      "url": "https://releasebot.io/updates/anthropic/claude-code",
+      "collectedAt": "2026-08-22T23:13:44Z"
+    },
+    {
+      "title": "Firecrawl、7,000万超のリポジトリ・ドキュメントを検索可能なDeveloper Indexをローンチ",
+      "summary": "Firecrawlが「Developer Index」をローンチした。7,000万以上のリポジトリ、ドキュメント、イシュー、マージ済みPRを検索可能なインデックスで、コーディングエージェント向けに最適化されている。1,179件の実開発者クエリで63%のrecall@10を達成し、競合を約10%上回る精度を実現した。",
+      "url": "https://www.firecrawl.dev/developer-index",
+      "collectedAt": "2026-08-22T23:13:44Z"
+    }
+  ]
+}

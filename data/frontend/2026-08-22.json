@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-22",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Svelte公式ブログ「What's new in Svelte: August 2026」公開、Inspector改善とOpenCode TUI対応",
+      "summary": "Svelte公式ブログがAugust 2026の月次アップデートを公開した。vite-plugin-svelte@7.2.0でInspectorにコンポーネントスタック付きコンテキストメニューが追加され、親子コンポーネント間のナビゲーションが容易になった。@sveltejs/opencodeプラグインにはTUI（ターミナルUI）バリアントと自動アップデート機能が追加された。",
+      "url": "https://svelte.dev/blog/whats-new-in-svelte-august-2026",
+      "collectedAt": "2026-08-22T23:13:44Z"
+    },
+    {
+      "title": "ChatGPT 8月22日アップデートでWeb向けインタラクティブコンテンツの早期表示とプラグイン検索を改善",
+      "summary": "OpenAIは22日のChatGPTアップデートで、Web版でのインタラクティブコンテンツの早期レンダリングとプラグイン検索ランキングの改善を実施した。継続利用率の高いプラグインが上位に表示されるようになり、Vercel・Supabase・GitLab等のフロントエンド開発ツールとの連携がよりスムーズになった。",
+      "url": "https://learn.chatgpt.com/docs/whats-new",
+      "collectedAt": "2026-08-22T23:13:44Z"
+    },
+    {
+      "title": "BenchLM.ai、フロントエンド・アプリ開発向けAIモデルベンチマークランキングを更新",
+      "summary": "BenchLM.aiは8月22日時点のフロントエンド・アプリ開発向けAIモデルベンチマークランキングを公開した。GPT-5.5が77.3点で首位、Claude Opus 4.7が76.9点で2位、GPT-5.4が76.4点で3位と僅差が続いている。フロントエンドのコード生成・UIビルド能力が評価軸となっている。",
+      "url": "https://benchlm.ai/best/frontend-app-dev",
+      "collectedAt": "2026-08-22T23:13:44Z"
+    }
+  ]
+}
