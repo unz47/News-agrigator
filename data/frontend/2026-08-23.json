@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-23",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.3.2 LTSリリース — Instant Navigationsとdevサーバーメモリ最大90%削減",
+      "summary": "Next.js 16.3.2 LTSが8月21日にリリースされた。16.3系ではApp RouterにInstant Navigationsを導入しSPA並みの応答性を実現、長時間のdev セッション中のRAM使用量を最大90%削減した。React Compilerの1.0リリースに伴い、ビルトインサポートもstableに昇格。8月26日にはクリティカル脆弱性修正の16.3.3が予定されている。",
+      "url": "https://www.infoq.com/news/2026/08/vercel-next-js-16-3/",
+      "collectedAt": "2026-08-23T23:14:00Z"
+    },
+    {
+      "title": "React Native 0.87リリース — Strict TypeScript APIがデフォルト化、v1.0への布石",
+      "summary": "React Native 0.87が8月11日にリリースされた。Strict TypeScript APIがデフォルトのJavaScript APIとなり、Metro 0.87への更新、Swift Package Manager（SwiftPM）の実験的サポートが追加された。長らく非推奨だったInteractionManagerやSafeAreaViewが削除されるなど大規模クリーンアップが行われ、安定版v1.0に向けた最も明確なシグナルとみられている。",
+      "url": "https://reactnative.dev/blog/2026/08/11/react-native-0.87",
+      "collectedAt": "2026-08-23T23:14:00Z"
+    },
+    {
+      "title": "This Week In React #294 — React Compiler継続展開、TanStack、Next.js 16.3、React Native 0.87",
+      "summary": "週刊ニュースレター「This Week In React」第294号が公開された。Reactチームがワーキンググループへの再編を発表、ドキュメントにSuspense境界の新セクションが追加された。ネイティブReact Compilerのロールアウトが継続中でReact v19.3が間近、TanStack Router/Startのコンテンツも充実。次号は9月からの再開予定。",
+      "url": "https://thisweekinreact.com/newsletter/294",
+      "collectedAt": "2026-08-23T23:14:00Z"
+    }
+  ]
+}

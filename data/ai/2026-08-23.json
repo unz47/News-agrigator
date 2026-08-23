@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-23",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、GPT-5.6 Sol APIを最大33%値下げ — 11月21日までの期間限定",
+      "summary": "OpenAIはフラッグシップモデルGPT-5.6 SolのAPI料金を大幅に引き下げた。入力トークンは100万あたり5ドルから4ドル（20%減）、出力トークンは30ドルから20ドル（33%減）となる。AnthropicやDeepSeekとの競争激化を受けた措置で、11月21日までの3カ月間のプロモーション価格。",
+      "url": "https://winbuzzer.com/2026/08/23/openai-cuts-gpt-5-6-sol-api-prices-by-up-to-33-percent-through-november-21-xcxwbn/",
+      "collectedAt": "2026-08-23T23:14:00Z"
+    },
+    {
+      "title": "生成AIへの信頼度調査：信頼31%がわずかに不信26%を上回る — Drexel大学研究",
+      "summary": "Drexel大学の研究チームがReddit上の23万件以上の投稿を分析した結果、生成AIへの信頼（31%）が不信（26%）をわずかに上回ることが判明した。ビジネスリーダーや開発者は信頼を示す傾向が強い一方、一般ユーザーやAI倫理学者は不信を示しやすい。直接的な利用体験が信頼・不信双方の最大要因であり、正確性・信頼性・性能が判断基準となっている。",
+      "url": "https://phys.org/news/2026-08-generative-ai-attitudes-distrust-analysis.html",
+      "collectedAt": "2026-08-23T23:14:00Z"
+    },
+    {
+      "title": "GLM-5.3、ポストトレーニングで予期せぬエクスプロイトチェーン構築能力を獲得 — 重大脆弱性1,097件を発見",
+      "summary": "Z.aiが8月14日にリリースしたオープンウェイトコーディングモデルGLM-5.3が、ポストトレーニング段階で予期しない攻撃チェーン構築能力を獲得していたことが判明した。269のOSSプロジェクトで2,436件の脆弱性（うち1,097件が重大・高深刻度）を発見。安全性レビューのためオープンウェイト公開は8月28日ごろまで延期されている。",
+      "url": "https://www.techtimes.com/articles/324426/20260814/glm-53-post-training-produced-exploit-chains-zai-never-planned-finds-1097-critical-bugs.htm",
+      "collectedAt": "2026-08-23T23:14:00Z"
+    }
+  ]
+}
