@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-24",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Nolan Lawson「フロントエンド開発を襲う小惑星」— AIの波でフロントエンド教育者が相次ぎ方向転換",
+      "summary": "SocketのエンジニアNolan Lawsonが「The asteroid currently hitting frontend web development」を公開し、フロントエンド教育界の変動を指摘した。Kent C. Dodds、Addy Osmani、Rachel Nabors、Lydia HallieらがAIへ軸足を移し、Axel Rauschmayer、Josh W. Comeauらは活動を縮小。AIがフロントエンド開発の学習・教育エコシステムに根本的な変化をもたらしていると論じている。",
+      "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+      "collectedAt": "2026-08-24T23:19:16Z"
+    },
+    {
+      "title": "InfoQ: Angular v22詳報 — Signal Forms安定化、OnPushデフォルト化、WebMCP実験的サポート",
+      "summary": "InfoQがAngular v22の詳細解説記事を公開した。Signal FormsとResource APIが安定版に昇格し、OnPushがデフォルトのChangeDetection戦略となった。実験的WebMCPサポートにより、ブラウザ内AIエージェントがAngularフォームをツールとして直接操作可能に。セキュリティ面ではSSRF対策やURL検証が大幅に強化されている。",
+      "url": "https://www.infoq.com/news/2026/08/angular-v22-released/",
+      "collectedAt": "2026-08-24T23:19:16Z"
+    },
+    {
+      "title": "Angular 22.1.3パッチリリース — v22.2.0-next.3プレリリースも同時公開",
+      "summary": "Angular 22.1.3パッチが8月19日にリリースされた。Angular 22系の安定性向上を図る修正が含まれ、同時にv22.2.0-next.3プレリリースも公開された。Angular 22はTypeScript 6を必須とし、Node 20サポートを終了。@Serviceデコレータやdebounced関数、動的スキーマなど新APIも安定化が進んでいる。",
+      "url": "https://angular.dev/events/v22",
+      "collectedAt": "2026-08-24T23:19:16Z"
+    }
+  ]
+}

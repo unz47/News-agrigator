@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-24",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "XPeng Robotics、ヒューマノイドロボット「IRON」事業で9億ドル超を調達 — 評価額63億ドルで業界最大",
+      "summary": "XPengのロボティクス部門が初の資金調達ラウンドで9億ドル超を調達し、中国の身体性AI分野で単一融資の過去最大記録を樹立した。IDGキャピタルがリードし、テンセントとアリババが戦略投資家として参加。76自由度のヒューマノイドロボット「IRON」は年内に量産を開始し、2027年に中国内外で商用販売を開始する計画。",
+      "url": "https://www.prnewswire.com/news-releases/xpeng-robotics-business-raises-over-us900-million-at-a-post-money-valuation-of-over-us6-3-billion-accelerating-physical-ai-deployment-302858203.html",
+      "collectedAt": "2026-08-24T23:19:16Z"
+    },
+    {
+      "title": "NVIDIA、AI検索Perplexityに300億ドル超の評価額で出資を検討 — 推論レイヤーへの本格参入",
+      "summary": "NVIDIAがAI検索スタートアップPerplexityへの出資を検討しており、評価額は300億ドルを超える見通し。前回の約200億ドルから50%以上の上昇となる。Perplexityの年間収益はAIエージェント「Perplexity Computer」の牽引で7.5億ドルに到達。NVIDIAにとってはAI半導体の供給者から推論レイヤーの投資家への転換を意味する。",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-weighs-perplexity-investment-111111172.html",
+      "collectedAt": "2026-08-24T23:19:16Z"
+    },
+    {
+      "title": "Alibaba、AIビデオ生成モデル「Wan3.0」を正式ローンチ — 100億ドル株式売却で投資加速",
+      "summary": "アリババがAIビデオ生成モデル「Wan3.0」を正式ローンチした。文書・スプレッドシート・Webページから30秒動画を生成でき、前モデルの2倍の長さに対応。直前に香港上場企業として過去最大の100億ドル株式売却を実施しAI設備投資の資金を確保した。四半期設備投資は前年比75%増の677億元に達している。",
+      "url": "https://dataconomy.com/2026/08/24/alibaba-launches-wan30-a-30-second-ai-video-generation-model/",
+      "collectedAt": "2026-08-24T23:19:16Z"
+    }
+  ]
+}
