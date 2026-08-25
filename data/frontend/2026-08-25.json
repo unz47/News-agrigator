@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-25",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.3.3 / 15.5.24セキュリティリリース — クリティカル脆弱性2件を修正",
+      "summary": "Vercelは当初予定より前倒しで8月25日にNext.jsのセキュリティリリースを公開した。Next.js 16.3.3（Active LTS）と15.5.24（Maintenance LTS）がリリースされ、クリティカル深刻度の脆弱性2件に対処。利用者には速やかなアップグレードが推奨されている。",
+      "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-august-2026",
+      "collectedAt": "2026-08-25T23:13:12Z"
+    },
+    {
+      "title": "Chrome 152安定版リリース — メディア用CSS擬似クラスやCPU Performance APIを搭載",
+      "summary": "Google Chrome 152が安定版としてリリースされた。Interop 2026の一環として:playing、:paused、:seekingなどオーディオ・ビデオ要素の状態に対応するCSS擬似クラスが追加された。PWA向けのwindow-drag CSSプロパティやCPU Performance APIも搭載され、Web標準の機能が大幅に拡充された。",
+      "url": "https://developer.chrome.com/release-notes/152",
+      "collectedAt": "2026-08-25T23:13:12Z"
+    },
+    {
+      "title": "Chrome、4週間リリースサイクルを終了 — 9月から2週間サイクルに移行",
+      "summary": "Chrome 152が4週間リリースサイクルの最後のバージョンとなった。9月8日リリース予定のChrome 153から2週間サイクルに移行し、セキュリティパッチの迅速な提供と新機能の早期展開を図る。Web開発者にはより頻繁なブラウザ更新への対応が求められる。",
+      "url": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0404570826.html",
+      "collectedAt": "2026-08-25T23:13:12Z"
+    }
+  ]
+}

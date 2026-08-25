@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-25",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "NVIDIA、Hot Chips 2026でVera CPUの詳細を発表 — 88コアのエージェントAI特化プロセッサ",
+      "summary": "Hot Chips 2026最終日にNVIDIAがVera CPUのアーキテクチャ詳細を発表した。88個のカスタムOlympusコアを搭載し、「空間マルチスレッディング」技術によりエージェントAIワークロードで約1.8倍の高速化を実現。1.2TB/sのSOCAMM2メモリを備え、Alibaba Cloud・ByteDance・Metaなど大手各社が採用を予定している。",
+      "url": "https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-nvidia-breaks-down-88-core-vera-cpu-spatial-multithreading-benchmarked-1-2-tb-s-socamm2-memory-agentic-workloads-detailed-and-more",
+      "collectedAt": "2026-08-25T23:13:12Z"
+    },
+    {
+      "title": "OpenAI、ChatGPT PlusのCodex/Work機能に5時間利用制限を復活",
+      "summary": "OpenAIは8月25日から、月額20ドルのChatGPT PlusプランにおけるCodexとChatGPT Work機能に5時間のローリングウィンドウ制限を再導入した。7月中旬に撤廃されていたが、コンピュート需要の平滑化と週間クォータの急速消費防止が目的。月額100・200ドルのProプランは対象外。",
+      "url": "https://www.digitaltrends.com/computing/chatgpt-plus-is-getting-throttled-again-and-openai-says-its-for-your-own-good/",
+      "collectedAt": "2026-08-25T23:13:12Z"
+    },
+    {
+      "title": "OpenAI、GPT-5.6 SolのAPI価格を20%以上引き下げ — 開発者コスト削減を加速",
+      "summary": "OpenAIがGPT-5.6 SolのAPI価格を20%以上引き下げ、入力100万トークンあたり5ドルから4ドル、出力は30ドルから20ドルに改定した。Cerebras提携による最大14倍高速の「Ultrafast」モードのプレビューも進行中で、750トークン/秒の出力速度を実現。開発者のAI導入コスト低減を図る。",
+      "url": "https://www.technology.org/2026/08/24/openai-gpt-5-6-sol-price-cut-developers/",
+      "collectedAt": "2026-08-25T23:13:12Z"
+    }
+  ]
+}
