@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-26",
+  "category": "general",
+  "articles": [
+    {
+      "title": "NVIDIA、Q2決算で売上962億ドルを記録 - 市場予想を上回る",
+      "summary": "NVIDIAは2027会計年度Q2決算を発表し、売上962億ドル（前年同期比106%増）、調整後EPS 2.22ドルを記録した。データセンター売上は890億ドルに達し、Q3売上見通しは1,058〜1,101億ドルと強気なガイダンスを示した。CEOのジェンスン・フアン氏は「AIは変曲点に達した」と述べた。",
+      "url": "https://fortune.com/2026/08/26/nvidia-results-q2-earnings/",
+      "collectedAt": "2026-08-26T06:00:00Z"
+    },
+    {
+      "title": "カナダ、米国産品に最大50%の報復関税を発表 - 9月8日発動",
+      "summary": "カナダ政府はトランプ政権の対カナダ50%関税に対し、鉄鋼・乳製品・家電・電子機器など700品目超の米国製品に最大50%の報復関税を9月8日から課すと発表した。対象品目の輸入額は276億カナダドル（約3兆2,000億円）に上る。",
+      "url": "https://www.nikkei.com/article/DGXZQOGN25B130V20C26A8000000/",
+      "collectedAt": "2026-08-26T06:00:00Z"
+    },
+    {
+      "title": "ドリー・パートンさん死去 - カントリー音楽の女王、80歳",
+      "summary": "米カントリー音楽界のアイコン、ドリー・パートンさんが8月25日にナッシュビルで亡くなった。80歳だった。がんとの短い闘病の末、ヴァンダービルト・イングラムがんセンターで家族に見守られながら息を引き取った。",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+      "collectedAt": "2026-08-26T06:00:00Z"
+    },
+    {
+      "title": "高市首相、ガソリン補助金継続を表明 - 170円維持へ",
+      "summary": "高市早苗首相は中東情勢による原油価格高騰を受け、ガソリン価格を1リットル170円程度に抑える補助金を9月以降も継続すると表明した。財源として「中東情勢等対応予備費」を活用する方針を示した。",
+      "url": "https://response.jp/article/2026/08/26/415721.html",
+      "collectedAt": "2026-08-26T06:00:00Z"
+    },
+    {
+      "title": "Amazon、Mechanical Turkを9月30日で終了 - 21年の歴史に幕",
+      "summary": "Amazonは2005年に開始したクラウドソーシングプラットフォーム「Mechanical Turk」を9月30日に閉鎖すると発表した。SageMaker Ground TruthとAmazon Augmented AIも同時に終了し、人間によるデータ収集インフラ事業から撤退する。AI技術の進展とScale AI等の競合の台頭が背景にある。",
+      "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+      "collectedAt": "2026-08-26T06:00:00Z"
+    }
+  ]
+}

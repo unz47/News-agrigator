@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-26",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、自社製推論チップ「Jalapeno」を発表 - NVIDIAのBlackwellを上回る性能",
+      "summary": "OpenAIは初の自社製AI推論チップ「Jalapeno」を発表した。ベンチマークではNVIDIA Blackwellに対しワットあたり1.5〜1.9倍のAI処理性能を実現し、インタラクティブワークロードでは2.1〜4.1倍の性能を示した。汎用LLM推論アクセラレーターとして設計され、2026年末に少量生産、2027年に量産予定。",
+      "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+      "collectedAt": "2026-08-26T06:00:00Z"
+    },
+    {
+      "title": "オーストラリアARIA、完全AI生成楽曲を公式チャートから排除へ",
+      "summary": "オーストラリアの音楽業界団体ARIAは、完全にAIで生成された楽曲を公式チャートから排除する方針を発表した。AIを補助的に使用した「実質的に人間が制作した」楽曲は引き続き対象となる。AI生成カバー曲がチャート上位に入ったことが契機となった。",
+      "url": "https://variety.com/2026/music/news/australia-bans-ai-generated-tracks-from-aria-charts-1236842321/",
+      "collectedAt": "2026-08-26T06:00:00Z"
+    },
+    {
+      "title": "開発者の80%がAIコーディングツールへの「依存」を自覚 - 調査結果",
+      "summary": "Stack Overflow 2026開発者調査によると、開発者の84%がAIツールを使用・計画中だが、信頼度は29%に低下（2024年は40%）。AIコード生成のレビューに週11.4時間を費やす一方、新規コード作成は9.8時間と逆転現象が起きている。Claude Code(28%)とCursor(24%)がプライマリツールの過半数を占める。",
+      "url": "https://byteiota.com/stack-overflow-dev-survey-2026-ai-at-84-trust-at-3/",
+      "collectedAt": "2026-08-26T06:00:00Z"
+    },
+    {
+      "title": "NVIDIA Q2決算、データセンター売上890億ドル - AI需要加速を報告",
+      "summary": "NVIDIAのQ2 FY2027決算でデータセンター部門の売上が890億ドル（アナリスト予想857億ドルを上回る）に達した。CEOジェンスン・フアン氏は「AIは有用な仕事をしている。トークンは生産的で収益性がある。コンピュートが売上になる時代だ」と述べ、需要加速を強調した。",
+      "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-to-report-q2-earnings-amid-chip-stock-struggles-112502189.html",
+      "collectedAt": "2026-08-26T06:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-26",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.3.3/15.5.24セキュリティリリース - 2件の重大な脆弱性を修正",
+      "summary": "Next.jsは16.3.3および15.5.24をリリースし、2件のCriticalレベルの脆弱性を修正した。CVE-2026-75604はPages/App RouterでのRCE脆弱性、もう1件はlibheifライブラリ経由でAVIF画像処理時にRCEが可能となる脆弱性。パッチ版ではAVIF最適化が一時無効化されている。",
+      "url": "https://nextjs.org/blog/august-2026-security-release",
+      "collectedAt": "2026-08-26T06:00:00Z"
+    },
+    {
+      "title": "Chrome 152 DevTools更新 - CSSネスティング強化とカスタム要素対応",
+      "summary": "Chrome 152のDevToolsアップデートで、ネットワークデバッグの強化（リクエスト再送信・バイナリペイロード検査）、CSSネスティングのElements表示改善、カスタム要素のアドーナー機能が追加された。Stylesペインではtext-wrapのキーワード値の補完機能も実装された。",
+      "url": "https://developer.chrome.com/blog/new-in-devtools-152",
+      "collectedAt": "2026-08-26T06:00:00Z"
+    },
+    {
+      "title": "Chrome DevTools MCPサーバーv1.7.0リリース - AIコーディングエージェント向けメモリデバッグ強化",
+      "summary": "Chrome DevTools MCPサーバーの最新版v1.7.0がリリースされ、Claude、Codex等のAIコーディングエージェント向けにメモリデバッグ機能が強化された。Google I/O 2026で発表された「エージェンティックWeb」構想の一環として、AIエージェントがブラウザデバッグツールと直接連携する機能が拡充されている。",
+      "url": "https://developer.chrome.com/blog/chrome-at-io26?hl=en",
+      "collectedAt": "2026-08-26T06:00:00Z"
+    },
+    {
+      "title": "Vercel、Next.js 8月セキュリティ脆弱性からの保護を発表",
+      "summary": "VercelはNext.jsの8月セキュリティリリースに対応し、Vercelプラットフォーム上のアプリケーションが自動的に保護されていることを発表した。セルフホストユーザーには16.3.3または15.5.24へのアップグレードが推奨されている。",
+      "url": "https://vercel.com/changelog/nextjs-august-2026-security-release",
+      "collectedAt": "2026-08-26T06:00:00Z"
+    }
+  ]
+}
