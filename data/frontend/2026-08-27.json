@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-27",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Chrome 152安定版リリース - リリースサイクル2週間化を予告",
+      "summary": "Google Chrome 152が8月25日に安定版としてリリースされた。CPU Performance API（端末を1-4のティアで分類）の追加、CSSPseudoElementの拡張（::backdrop, ::scroll-marker, ::view-transition対応）、autocorrect属性のBaseline化などが含まれる。次のChrome 153からリリースサイクルが4週間から2週間に短縮される。",
+      "url": "https://developer.chrome.com/release-notes/152",
+      "collectedAt": "2026-08-27T06:00:00Z"
+    },
+    {
+      "title": "Svelte公式月次まとめ: SvelteKit 3プレビュー版が登場",
+      "summary": "Svelte公式ブログの「What's new in Svelte: August 2026」が公開された。SvelteKit 3の最初の@nextプレビュー版が13バージョンリリースされ、shallow routingのgoto組み込み、新しい$app/manifestモジュール、サービスワーカーのAPI改善などが含まれる。Svelte Summit Ljubljana 2026（11月19-20日）の開催も発表された。",
+      "url": "https://svelte.dev/blog/whats-new-in-svelte-august-2026",
+      "collectedAt": "2026-08-27T06:00:00Z"
+    },
+    {
+      "title": "Firefox 154リリース - sibling-count()/sibling-index()等の新CSS機能がBaseline化",
+      "summary": "Firefox 154で追加されたsibling-count()、sibling-index()、text-box-trim、text-box-edge、text-boxの各CSS機能が主要ブラウザで利用可能となりBaseline化した。sibling-count()は兄弟要素数を、sibling-index()は兄弟間のインデックスを返す関数で、JavaScriptなしで動的なレイアウト制御が可能になる。",
+      "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/154",
+      "collectedAt": "2026-08-27T06:00:00Z"
+    }
+  ]
+}

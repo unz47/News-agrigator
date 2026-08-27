@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-27",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、英Nscaleと6年間$45Bのクラウドコンピューティング契約を締結",
+      "summary": "Anthropicは英国のAIインフラ企業Nscaleと、6年間で約450億ドル（約6.7兆円）規模のクラウドコンピューティング契約を締結した。ウェストバージニア州のデータセンターから460MWの計算能力をNVIDIA Vera Rubinチップ経由で提供し、2027年後半からサービス開始予定。AnthropicはIPO準備に向けた計算能力確保を進めている。",
+      "url": "https://theaiinsider.tech/2026/08/27/anthropic-signs-45b-compute-deal-with-british-infrastructure-firm-nscale/",
+      "collectedAt": "2026-08-27T06:00:00Z"
+    },
+    {
+      "title": "Claude Coworkに内蔵ブラウザ追加、Claude in Chromeが全有料プランで一般提供開始",
+      "summary": "Anthropicは「Claude Cowork」のデスクトップアプリにWebブラウザ機能を内蔵し、サイドパネルでのWebページ閲覧・操作が可能になった。また「Claude in Chrome」拡張機能が全有料プラン（Pro/Max/Team/Enterprise）で一般提供を開始し、ページ読み取り・フォーム入力・タブ間操作が自動で行えるようになった。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2136107.html",
+      "collectedAt": "2026-08-27T06:00:00Z"
+    },
+    {
+      "title": "NVIDIA、AIモデル共有プラットフォームHugging Faceを約129億ドルで買収へ",
+      "summary": "NVIDIAがオープンソースAIの中心的プラットフォーム「Hugging Face」を約129億ドルで買収する方向で合意したとBloombergが報じた。Hugging Faceは100万以上のAIモデルが公開されるハブであり、買収完了によりNVIDIAはチップからモデルエコシステムまで垂直統合を進めることになる。",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/nvidia-discussed-buying-ai-startup-hugging-face-insider-says",
+      "collectedAt": "2026-08-27T06:00:00Z"
+    }
+  ]
+}
