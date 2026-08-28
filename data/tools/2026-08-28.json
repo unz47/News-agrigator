@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-28",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.250リリース - コスト見積もりのデータレジデンシー対応、フルスクリーンレンダラー拡張",
+      "summary": "Anthropicは8月27日にClaude Code v2.1.250をリリースした。コスト見積もり（/cost、ステータスライン、--max-budget-usd）にデータレジデンシーワークスペースの1.1倍プレミアムが反映されるようになった。フルスクリーンレンダラーがBedrock・Vertex・Foundry環境にも拡張され、Pythonプロジェクト向けの/claude-apiアップグレード機能も追加された。",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "collectedAt": "2026-08-28T23:08:50Z"
+    },
+    {
+      "title": "Cursor、Cloud AgentsをSCMプロバイダー不要で利用可能に - ブラウザプレビュー機能も追加",
+      "summary": "Cursorは8月27日にCloud Agentsのアップデートを実施し、GitHub等のSCMプロバイダー接続なしで即座にプロンプト実行が可能になった。作業結果はCursor Originリポジトリに保存でき、エージェントのライブ環境をブラウザに直接ポートフォワードしてプレビューする機能も追加された。",
+      "url": "https://cursor.com/changelog",
+      "collectedAt": "2026-08-28T23:08:50Z"
+    },
+    {
+      "title": "GitHub Copilot、Agent Plugins 1.0を一般提供開始 - 新モデルGrok 4.6・MAI-Code-1.1-Flashも追加",
+      "summary": "GitHubはCopilotのAgent Plugins 1.0をVS Code・Copilot CLI・SDKで一般提供開始した。プラグインのバージョン管理と一括更新が可能になった。また新モデルとしてxAIのGrok 4.6（エージェントコーディング向け）とMAI-Code-1.1-Flash（画像理解対応）がロールアウト中。8月31日には旧モデル6種が引退予定。",
+      "url": "https://github.blog/changelog/month/08-2026/",
+      "collectedAt": "2026-08-28T23:08:50Z"
+    }
+  ]
+}

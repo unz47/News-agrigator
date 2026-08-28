@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-28",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js セキュリティリリース v16.3.3 / v15.5.24 - リモートコード実行の重大な脆弱性2件を修正",
+      "summary": "Next.jsチームは8月25日にセキュリティリリースを公開し、2件の重大な脆弱性を修正した。1つはAVIF画像最適化を悪用したRCE（libheif経由）、もう1つはWindows環境でのPages Router + App Router併用時のRCE。AVIF最適化は上流修正まで無効化され、早急なアップグレードが推奨されている。",
+      "url": "https://nextjs.org/blog/nextjs-security-release-august-2026-update",
+      "collectedAt": "2026-08-28T23:08:50Z"
+    },
+    {
+      "title": "Vercel、Next.jsセキュリティ脆弱性への対応を発表 - ホスト型アプリは自動保護済み",
+      "summary": "VercelはNext.jsの8月セキュリティリリースに関連して、Vercelでホストされているアプリケーションは既に保護済みであると発表した。セルフホスト環境のユーザーにはNext.js v16.3.3またはv15.5.24への早急なアップグレードを推奨している。",
+      "url": "https://vercel.com/changelog/nextjs-august-2026-security-release",
+      "collectedAt": "2026-08-28T23:08:50Z"
+    },
+    {
+      "title": "Nolan Lawson「フロントエンドWeb開発に今起きている激変」- AI時代の開発者の役割を問う",
+      "summary": "MicrosoftのエンジニアNolan Lawsonが、AIがフロントエンド開発に与える影響について考察するブログ記事を公開し大きな反響を呼んでいる。著名なフロントエンド教育者の撤退やAI転向が相次ぐ中、フロントエンドはAIに委譲しやすい領域であり、開発者体験の重要性が低下していると指摘している。",
+      "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+      "collectedAt": "2026-08-28T23:08:50Z"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-28",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "SalesforceとAnthropicが「Claudeforce」発表 - CRMにClaudeを全面統合",
+      "summary": "SalesforceとAnthropicは戦略的パートナーシップ「Claudeforce」を発表した。Claude内に37個の営業スキルを備えたSalesforceプラグインを搭載し、Agentforce・Slack・Claude の3方向で統合される。パイロット版が提供中で、2026年9月にオープンベータ予定。",
+      "url": "https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/",
+      "collectedAt": "2026-08-28T23:08:50Z"
+    },
+    {
+      "title": "Google「Expert Intelligence」発表 - 購入済み電子書籍をGemini Notebookで活用可能に",
+      "summary": "GoogleはGemini Notebookの新機能「Expert Intelligence」を発表した。Google Playで購入した電子書籍をソースとして追加し、書籍内容に基づく質問応答・クイズ・インフォグラフィック生成が可能になる。Penguin Random House等の10万冊以上が対応し、今後Geminiアプリやai Modeにも拡大予定。",
+      "url": "https://9to5google.com/2026/08/27/gemini-notebook-play-books/",
+      "collectedAt": "2026-08-28T23:08:50Z"
+    },
+    {
+      "title": "英俳優約80名がAI音声クローン防止の法的保護を求める署名キャンペーン開始",
+      "summary": "ニコラ・コクラン、ヒュー・ボネヴィルら英俳優約80名が「Save Our Voices Now」キャンペーンに署名し、AI音声クローンに対する法的保護を英政府に求めた。現在の技術では約3秒の音声サンプルからクローン生成が可能で、名前や肖像と同様に音声を法定権利として保護するよう請願している。",
+      "url": "https://uk.finance.yahoo.com/news/hugh-bonneville-among-stars-backing-050000038.html",
+      "collectedAt": "2026-08-28T23:08:50Z"
+    },
+    {
+      "title": "AccuKnox、AIエージェントプラットフォーム「AgentZ」を発表",
+      "summary": "セキュリティ企業AccuKnoxは、AIエージェントの構築・運用・ガバナンスを一元管理するプラットフォーム「AgentZ」を発表した。モデル非依存でサンドボックス・RBAC・監査証跡を統合し、SaaS・オンプレミス・エアギャップ環境に対応。実験段階からプロダクション展開までのギャップを解消する。",
+      "url": "https://www.globenewswire.com/news-release/2026/08/27/3351759/0/en/accuknox-launches-agentz-to-help-enterprises-build-run-and-govern-ai-agents-at-scale.html",
+      "collectedAt": "2026-08-28T23:08:50Z"
+    }
+  ]
+}
