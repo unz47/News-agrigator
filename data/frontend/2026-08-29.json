@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-29",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Vercel v0 API一般提供開始 — AIエージェント向けヘッドレスアプリビルダー",
+      "summary": "Vercelは「v0」のAPIを一般提供開始し、開発者やAIエージェントがプログラマティックにアプリケーションを生成・反復・プレビュー・デプロイできるようになった。既存のGitHubリポジトリやZIPアーカイブからの作業開始も可能な「createFromRepo」APIを含み、ホスティングプロバイダーが自社サービスにAIビルダーを組み込むことが可能になった。",
+      "url": "https://www.infoq.com/news/2026/08/vercel-v0-api/",
+      "collectedAt": "2026-08-29T06:00:00Z"
+    },
+    {
+      "title": "TypeScript 7.0正式リリース — Go製ネイティブコンパイラで8〜12倍の高速化を実現",
+      "summary": "MicrosoftはTypeScript 7.0を正式リリースし、Goで完全に書き直されたネイティブコンパイラにより8〜12倍のビルド高速化を実現した。言語仕様やコードの書き方に変更はなく、コンパイルとエラーチェックの速度が劇的に向上。VS Code向けのTypeScript 7拡張がマルチスレッド対応で提供されている。安定したプログラマブルAPIは7.1で提供予定。",
+      "url": "https://www.infoq.com/news/2026/08/typescript-7-released/",
+      "collectedAt": "2026-08-29T06:00:00Z"
+    },
+    {
+      "title": "Interop 2026 — CSSアンカーポジショニングが全主要ブラウザでBaseline到達",
+      "summary": "ブラウザベンダー間の相互運用性向上プロジェクト「Interop 2026」の成果として、CSSアンカーポジショニングが全主要ブラウザ（Chrome・Firefox・Safari）でBaseline到達した。要素を別の要素に対して相対的に配置する機能がCSS単体で実現可能となり、Floating UIやPopper.js等のJavaScriptライブラリへの依存を削減できる。",
+      "url": "https://css-tricks.com/interop-2026/",
+      "collectedAt": "2026-08-29T06:00:00Z"
+    }
+  ]
+}

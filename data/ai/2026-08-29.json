@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-29",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、国防総省の「サプライチェーンリスク」指定を連邦裁判所が違法と判断",
+      "summary": "カリフォルニア連邦地裁のリタ・リン判事は8月28日、国防総省がAnthropicをサプライチェーンリスクに指定した決定を「違法な報復」であり「恣意的かつ不合理」と判断し、指定の撤回を命じた。Anthropicが自律型兵器や国内大規模監視へのClaude使用を拒否したことへの報復と認定され、憲法修正第1条および第5条に違反するとされた。",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "collectedAt": "2026-08-29T06:00:00Z"
+    },
+    {
+      "title": "Nvidia、AI検索Perplexityに300億ドル超の評価額で出資検討",
+      "summary": "NvidiaがAI検索企業Perplexityへの出資を300億ドル超の評価額で検討していることが報じられた。Perplexityの年間売上は年初の2.5億ドル未満から7.5億ドル超に急成長している。Nvidiaは当初ライセンス契約を検討していたが株式投資にピボットし、ハードウェア供給からAI推論レイヤーへの投資戦略を加速させている。",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61374579/nvidia-perplexity-30-billion-valuation-750-million-revenue-bezos",
+      "collectedAt": "2026-08-29T06:00:00Z"
+    },
+    {
+      "title": "Google A2AプロトコルがLinux Foundation傘下のAAIFに正式加入、MCPと統一ガバナンスへ",
+      "summary": "GoogleのAgent-to-Agent (A2A)プロトコルが8月20日、Linux Foundation傘下のAgentic AI Foundation (AAIF)に正式加入した。AnthropicのModel Context Protocol (MCP)と同一のガバナンス下に置かれ、エージェント間通信の標準化が進む。AAIFのメンバーは250社超に拡大し、AWS・Google・Microsoft・OpenAIなどがプラチナメンバーとして参加している。",
+      "url": "https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards",
+      "collectedAt": "2026-08-29T06:00:00Z"
+    }
+  ]
+}
