@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-30",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.3.3/15.5.24セキュリティアップデート — AVIF画像とWindows環境の重大な脆弱性を修正",
+      "summary": "Next.jsチームは8月25日、2件の重大（Critical）な脆弱性を修正するセキュリティアップデートをリリースした。1つ目はsharpが使用するlibheifライブラリの脆弱性で、攻撃者が制御するAVIF画像の最適化時に未認証リモートコード実行が可能。2つ目はPages RouterとApp Routerを併用するWindows環境での未認証リモートコード実行の脆弱性。v16.3.3（Active LTS）とv15.5.24（Maintenance LTS）で修正済み。",
+      "url": "https://nextjs.org/blog/august-2026-security-release",
+      "collectedAt": "2026-08-30T06:00:00Z"
+    },
+    {
+      "title": "Nolan Lawson「フロントエンド開発を直撃する隕石」— AI時代のフロントエンド開発の行方を考察",
+      "summary": "Microsoft Edge開発者のNolan Lawsonが8月23日、AIがフロントエンド開発に与える影響を「隕石の衝突」に例えた記事を公開し大きな反響を呼んだ。Kent C. Dodds、Addy Osmani、Rachel Naborsなど著名なフロントエンド教育者がAI分野にピボットしている現状を指摘。フロントエンド開発自体がAIコーディングエージェントの時代にどこに位置づけられるのかという問いを投げかけた。",
+      "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+      "collectedAt": "2026-08-30T06:00:00Z"
+    },
+    {
+      "title": "Z.AI、GLM-5.3-Flashをオープンソース公開 — 320Bパラメータの大規模マルチモーダルMoEモデル",
+      "summary": "中国のZ.AI（智譜AI）が8月26日、320Bパラメータ（トークンあたり18Bアクティブ）の大規模マルチモーダルMoEモデル「GLM-5.3-Flash」をMITライセンスで公開した。事前に「Ox Alpha」として匿名でリリースされ使用量チャートのトップに立っていたことが話題に。テキスト・画像・動画を単一パスで処理でき、100万トークンのコンテキストウィンドウを持つ。GLM-5.2の10分の1のコストで性能を上回ると説明されている。",
+      "url": "https://siliconangle.com/2026/08/26/z-ai-open-sources-ox-alpha-model-as-glm-5-3-flash/",
+      "collectedAt": "2026-08-30T06:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-30",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、SpaceX傘下のCursorへのモデル提供を11月12日に終了へ",
+      "summary": "OpenAIは8月29日、SpaceXによる600億ドルでのCursor買収完了を受け、Cursorへのモデル提供を11月12日に終了する方針を通告した。OpenAIは「SpaceXが利用規約を遵守する確信が持てない」と理由を説明。CursorのCEO Michael Truell氏はOpenAIモデルのトラフィック比率は約5%であり、Grok・Claude・Geminiは引き続き利用可能と述べた。",
+      "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "collectedAt": "2026-08-30T06:00:00Z"
+    },
+    {
+      "title": "Anthropic、AIとロボット・科学機器を接続する新規格「Model Hardware Standard」発表",
+      "summary": "Anthropicは8月28日、AIエージェントがロボットや科学機器を直接操作するための新規格「Model Hardware Standard（MHS）」を研究プレビューとして公開した。MHSは顕微鏡・ロボットアーム・ピペッティングシステムなどの機能・パラメータ・安全制限をAIに伝える共通インターフェースで、ソフトウェア向けのMCPを物理世界に拡張するもの。ハワード・ヒューズ医学研究所のジャネリア研究キャンパスと共同開発された。",
+      "url": "https://www.japantimes.co.jp/business/2026/08/28/tech/anthropic-claude-ai-robots/",
+      "collectedAt": "2026-08-30T06:00:00Z"
+    },
+    {
+      "title": "Amazon、Mechanical Turkを9月30日に終了 — 21年の歴史に幕、AI台頭で役割終える",
+      "summary": "AmazonはクラウドソーシングプラットフォームMechanical Turkを2026年9月30日に終了すると発表した。2005年の開設以来、ピーク時には50万人以上の作業者がAIの学習データラベリングなどのタスクに従事していた。Scale AI・Mercor・Prolificなど競合のデータラベリングスタートアップの台頭と、AIモデル自体の進化により役割を終えた。SageMaker Ground TruthとAmazon Augmented AIも同時に終了する。",
+      "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+      "collectedAt": "2026-08-30T06:00:00Z"
+    }
+  ]
+}
