@@ -46,7 +46,9 @@ git pull origin main --rebase
 
 AI・LLM:
 - Anthropic News: https://www.anthropic.com/news
+- Claude Release Notes: https://support.claude.com/en/articles/12138966-release-notes
 - OpenAI News: https://openai.com/news/
+- OpenAI API Changelog: https://developers.openai.com/api/docs/changelog
 
 全部を毎回読み込む必要はないが、できるだけ多くの公式ソースを巡回し、新着があればニュースとして採用する。
 
