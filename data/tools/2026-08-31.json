@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-31",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot in VS Code 8月度リリースまとめ — エージェント並列作業と統合ブラウザを強化",
+      "summary": "GitHubは8月31日、VS Code 1.132〜1.135にわたるCopilotの更新をまとめて公開した。Agentsウィンドウで複数チャットの並列表示やサイド会話、チャットタイムラインの移動が可能になり、ポータブルなエージェントプラグインの導入やモデルプロバイダーの切り替えにも対応。統合ブラウザではHTML要素を選択して注釈を付けたフィードバックが送れるようになり、オンデバイス音声入力も多言語自動判定とシェル対応整形が加わった。",
+      "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
+      "collectedAt": "2026-08-31T23:07:04Z"
+    },
+    {
+      "title": "VS Code 1.135リリース — 外部エージェントセッションの継続と実験的「Rubber Duck」",
+      "summary": "Visual Studio Code 1.135が8月26日にリリースされた。他アプリで開始したCopilotやClaudeのエージェントセッションをVS Code側で引き継いで継続できるようになったほか、`/rubber-duck` コマンドで別モデルからセカンドオピニオンを得て見落としやエッジケースを洗い出す実験機能が追加された。Agentsウィンドウは単一ペイン構成に整理され、チャット応答のフッターではモデル別の入力・キャッシュ入力・出力トークン数を確認できる。",
+      "url": "https://code.visualstudio.com/updates",
+      "collectedAt": "2026-08-31T23:07:04Z"
+    },
+    {
+      "title": "Claude Code v2.1.252公開 — Bash実行とリモートセッションの安定性を修正",
+      "summary": "Claude Codeの最新版v2.1.252では、一部のMacでBashコマンドが失敗する問題や、ツール完了後にリモートセッションが停止する問題が修正された。設定ファイルのないプロジェクトで権限が保存されない不具合、大きなエラー出力がAPIリクエスト上限を超える問題にも対処している。直近のv2.1.251ではモデル切り替えを監視する新しいフックイベントやサブエージェントのツール実行のライブ配信、シンボリックリンクの入れ替えやパストラバーサルに関するセキュリティ修正が入った。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-08-31T23:07:04Z"
+    },
+    {
+      "title": "Kiro IDE v1.0.395 — サードパーティ拡張との共存とMCPサインインの信頼性向上",
+      "summary": "Kiroは8月27日にIDE v1.0.395を公開し、サードパーティ拡張機能をKiroと併用できるようにしたほか、最新のMCPプロトコルに対応してサインインの信頼性を改善した。大きなレスポンス処理時の拡張機能クラッシュも減少している。8月26日のCLI v2.20.0ではV3スペック実行向けにリアルタイム進捗とタスク範囲選択を備えたフルスクリーン実行ビューが追加された。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-08-31T23:07:04Z"
+    },
+    {
+      "title": "GitHub Copilot、ポリシーと課金体系の変更を予告",
+      "summary": "GitHubは8月28日、Copilotのポリシーおよび課金に関する今後の変更を予告するチェンジログを公開した。組織管理者や有料プラン利用者に影響する内容で、適用前に設定の確認が推奨されている。あわせて同日にはVisual Studio向けCopilotの8月アップデートと週次リリースも案内された。",
+      "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+      "collectedAt": "2026-08-31T23:07:04Z"
+    }
+  ]
+}

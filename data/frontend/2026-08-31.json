@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-31",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "CSS-Tricks: 新しいCSS random() 関数を全ブラウザで使うためのポリフィル",
+      "summary": "CSS-Tricksに8月31日、Lee Meyer氏による「Let's Use the Emergent CSS random() Function in all the Browsers」が公開された。策定が進むCSSの random() 関数について、未対応ブラウザでも利用できるようにするポリフィルの実装方法を解説している。ランダム値をCSS側で扱えるようになることで、JavaScriptに頼らない装飾表現の幅が広がる。",
+      "url": "https://css-tricks.com/css-random-function-polyfill/",
+      "collectedAt": "2026-08-31T23:07:04Z"
+    },
+    {
+      "title": "Safari Technology Preview 251公開 — random-item()、object-view-box、import defer などに対応",
+      "summary": "WebKitは8月26日、Safari Technology Preview 251をリリースした。CSSでは @supports の at-rule(...) 判定、object-view-box プロパティ、random-item() 関数、カスタムプロパティ内での random()、ident()／inherit() 関数に対応。JavaScriptでは Iterator.prototype.includes()／join()、モジュールの遅延評価を行う import defer、WebAssembly Memory64 をサポートし、Navigation APIにはprecommitハンドラによる遷移インターセプトが加わった。",
+      "url": "https://webkit.org/blog/18194/release-notes-for-safari-technology-preview-251/",
+      "collectedAt": "2026-08-31T23:07:04Z"
+    },
+    {
+      "title": "Document Picture-in-Picture APIでWebウィジェットを作る",
+      "summary": "CSS-Tricksに8月27日、Daniel Schwarz氏による解説記事が掲載された。Document Picture-in-Picture APIを使い、動画だけでなく任意のHTML・CSS・JavaScriptを常時最前面のPiPウィンドウに表示してウィジェット化する手法を紹介している。作業中も画面に残しておきたいタイマーやコントロールUIなどの実装に応用できる。",
+      "url": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+      "collectedAt": "2026-08-31T23:07:04Z"
+    },
+    {
+      "title": "What's !important #18 — <geolocation>、::highlight() のシンタックス、named-feature() など",
+      "summary": "CSS-Tricksの定期まとめ記事「What's !important」第18回が8月31日に公開された。<geolocation> 要素の提案、::highlight() を用いたシンタックスハイライト、named-feature() などフロントエンド界隈の直近の話題を横断的に紹介している。あわせてQuick Hitsでは、Chrome 152が autocorrect 属性と alpha() 関数を出荷したこと、Safari TP 251が corner-shape や random-item()、カンマ区切りの @container クエリ、popover=hint を試験導入したことが取り上げられている。",
+      "url": "https://css-tricks.com/whats-important-18/",
+      "collectedAt": "2026-08-31T23:07:04Z"
+    }
+  ]
+}
