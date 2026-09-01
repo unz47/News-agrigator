@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-01",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot code review がプルリクエストを承認できるように — パブリックプレビュー開始",
+      "summary": "GitHubが9月1日、Copilot code review にプルリクエストの承認機能を追加した。レビューコメントに加えてマージ可否の判定を返し、管理者が許可すればマージ要件のレビュー数にカウントできる。既定では無効で、Enterprise/Organization/リポジトリ単位に加えて承認を許可するファイルパスまで制限でき、新規コミットが積まれると人間のレビュアーと同様に承認は自動的に取り消される。",
+      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    },
+    {
+      "title": "Kiro、利用状況メトリクスの OpenTelemetry エクスポートに対応",
+      "summary": "Kiroが9月1日、アカウント管理者がユーザーごとの利用状況メトリクスを OTLP 経由で外部の可観測性プラットフォームへ送信できる機能を追加した。CloudWatch、Datadog、Honeycomb などが対象で、メトリクスは毎日UTC 02:00に配信される。組織単位でのAIコーディング利用量の可視化やコスト配賦がしやすくなる。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    },
+    {
+      "title": "Claude Code v2.1.257 / v2.1.258 — 既定モデルが Claude Fable 5.1 に、/effort コマンドを追加",
+      "summary": "Claude Code の v2.1.257 で既定モデルが Claude Fable 5.1 に切り替わり、セッション単位で推論の depth を調整する `/effort` コマンドが導入された。あわせて auto モードに Containment Escape ルールが加わり、サンドボックスの stale mask ファイル検出などセキュリティ面も強化された。続く v2.1.258 では macOS 12 (Monterey) での起動不能と、権限承認に起因するリモート／スケジュール実行セッションの失敗が修正されている。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    },
+    {
+      "title": "GitHub CLI、Issue・PR・コメントへの画像や動画の添付に対応",
+      "summary": "GitHub CLI がIssue、プルリクエスト、コメントでのメディア添付をサポートした。ターミナルから直接スクリーンショットや動画を貼り付けられるようになり、Webブラウザに切り替えずにバグ報告やレビューを完結できる。CLI中心の開発フローやエージェント経由の操作でも表現力が上がる。",
+      "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    },
+    {
+      "title": "GitHub、ユーザー個別予算に有効期限を設定できる機能を追加",
+      "summary": "GitHubが9月1日、個々のユーザーに割り当てた予算へ有効期限を設定できるようにした。Copilot や Actions などの従量課金リソースについて、期限付きの一時的な追加枠を安全に配れるようになる。期限切れ後は自動的に元の上限へ戻るため、手動での取り消し漏れを防げる。",
+      "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    }
+  ]
+}

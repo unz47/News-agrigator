@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-01",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Firefox 155 リリース — attr() が全プロパティで使用可能に、progress()/alpha() も追加",
+      "summary": "Firefox 155 が9月1日に公開され、CSS の attr() 関数が content 以外の任意のプロパティで使えるようになり、`width: attr(data-size px)` のような型付き指定が可能になった。開始値と終了値の間の進捗を数値で返す progress() 関数、色の透明度だけを調整する alpha() 関数、font-stretch の新名称 font-width にも対応。JavaScript では Promise.allKeyed() / Promise.allSettledKeyed() が追加され、結果を配列位置ではなくキー名で受け取れる。",
+      "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/155",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    },
+    {
+      "title": "Firefox 155、Happy Eyeballs v3 と HTTP/3 の QUIC v2 でページ読み込みを高速化",
+      "summary": "Firefox 155 はネットワーク層に Happy Eyeballs v3 を導入し、IPv6/IPv4 の接続レースによって接続確立を高速化した。HTTP/3 では QUIC v2 のネゴシエーションに対応している。WebTransport にも送信グループによる帯域共有やストリーム優先度制御、exportKeyingMaterial() などが加わった。",
+      "url": "https://www.phoronix.com/news/Firefox-155-Released",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    },
+    {
+      "title": "Firefox、4週間から2週間リリースサイクルへ移行する実験を Firefox 155 から開始",
+      "summary": "Mozilla は Firefox Desktop と Android のリリース間隔を4週間から2週間へ短縮する実験を、9月1日の Firefox 155 から開始した。準備できた機能をより頻繁にユーザーへ届け、リリース工程の予測可能性を高めてアップリフト圧力を減らすことが狙いとされる。あくまで実験という位置づけで、品質・開発者負荷・ユーザー体験への影響を評価したうえで恒久化するか判断する。iOS 版は対象外。",
+      "url": "https://blog.mozilla.org/sumo/2026/08/19/firefox-new-release-cadence-and-what-to-expect/",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    },
+    {
+      "title": "Chrome 153 ベータ — overflow の複合指定と scroll-axis-lock、<camera>/<microphone> 要素を導入",
+      "summary": "9月8日に安定版が予定される Chrome 153 のベータでは、overflow プロパティが `overflow: scroll clip` のような軸ごとの複合指定に対応し、position: sticky を軸別のスクロールコンテナで制約できるようになる。スクロールジェスチャの単一軸ロックを制御する scroll-axis-lock も追加。さらにユーザー操作起点でメディアアクセスを宣言的に扱う <camera> / <microphone> 要素、イテレータの join()・zip 相当機能、XMLパーサのRustによる書き直しが含まれる。",
+      "url": "https://developer.chrome.com/blog/chrome-153-beta",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-01",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、Claude Fable 5.1 と Claude Mythos 5.1 を発表 — コーディングと科学研究で大幅性能向上",
+      "summary": "Anthropicが9月1日、コーディングとナレッジワーク向けの最新モデル Claude Fable 5.1 と、審査を通過した組織向けにセーフガードを緩和した Claude Mythos 5.1 を発表した。Terminal-Bench-Science 0.1 で52.6%（Fable 5は24.7%）、Terminal-Bench 4.0 で55.8%を記録し、長時間の自律作業や分子設計・計算生物学でも成果を示した。Fable 5.1 は Claude.ai、AWS、Google Cloud、Azure で即日利用可能で、Mythos 5.1 は米国の認定組織限定となる。",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    },
+    {
+      "title": "Fable 5.1 は実質25%のコスト削減 — キャッシュ読み取りは75%値下げ",
+      "summary": "Fable 5.1 のトークン単価は入力100万あたり$10、出力$50とFable 5から据え置きだが、キャッシュ読み取りが100万トークンあたり$0.25へと75%引き下げられた。典型的なワークロードで約25%、エージェント色の強いタスクでは最大45%のコスト削減になるとAnthropicは説明している。コンテキストは100万トークン、出力は1応答あたり最大12.8万トークンに対応する。",
+      "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    },
+    {
+      "title": "Anthropic、Enterprise Frontier Safeguards を発表 — 顧客側クラウドにデータを保持したまま不正利用検知",
+      "summary": "Anthropicが9月1日、ゼロデータ保持と不正利用検知を両立させる新方式 Enterprise Frontier Safeguards (EFS) を公開した。会話データはAnthropicではなくAWS・Google Cloud・Azure上の顧客管理領域に保存され、暗号鍵とアクセスポリシーも顧客が管理する。金融・医療・製造など規制業種の100社超と共同開発し、2026年秋から段階的に提供する。",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    },
+    {
+      "title": "米国防総省、GenAI.mil に ChatGPT Mil と Grok for Government を追加 — 300万人が対象",
+      "summary": "米国防総省が、生成AIポータル GenAI.mil に OpenAI の ChatGPT Mil と xAI の Grok for Government を追加した。2025年12月に Google Gemini for Government で開始した同ポータルは、すでに170万人超のユニークユーザーを抱え、対象は軍人・文民あわせて約300万人に及ぶ。機密性の高い政府データを一般の消費者向けサービスに流さずにフロンティアモデルを使えるようにする狙いがある。",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    },
+    {
+      "title": "OpenAI API、mTLS と X.509 ワークロードIDフェデレーションを正式提供",
+      "summary": "OpenAIが8月29日、相互TLS (mTLS) と X.509 によるワークロードIDフェデレーションのAPI一般提供を開始した。長期APIキーを配布せずに、ワークロード自身の証明書でOpenAI APIへ認証できるようになる。あわせて8月21日にはGlobal地域のAPIキーでリクエストごとに処理リージョンを指定する機能も追加されている。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-09-01T23:15:00Z"
+    }
+  ]
+}
