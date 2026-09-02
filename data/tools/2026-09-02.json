@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-02",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "VS Code 1.136 リリース — PR を仕上げる「Agent Merge」とマルチルートワークスペース対応",
+      "summary": "9月2日公開の VS Code 1.136 は、エージェントによるプルリクエストの仕上げとワークスペース横断のエージェント管理が主眼となっている。プレビュー機能「Agent Merge」はレビュー指摘・失敗したチェック・マージコンフリクトを解消し、マージ可能になるまでワークフローを再実行する。実験的機能としてマルチルートワークスペース内の全フォルダーにまたがる Copilot / Claude のエージェントセッション、チャットのセッション階層化、チャット背景のカスタマイズも加わった。",
+      "url": "https://code.visualstudio.com/updates/v1_136",
+      "collectedAt": "2026-09-02T23:09:30Z"
+    },
+    {
+      "title": "Cursor、セルフホストマシンに対応 — ツール実行を自社ネットワーク内に閉じ込め可能に",
+      "summary": "Cursor は9月2日、エージェントのツール実行を完全に自社ネットワーク内で行える「self-hosted machines」を追加した。チーム利用向けの動的なプールスケジューリングを備え、AWS Lambda など各種インフラ基盤と連携できる。Linux と Mac では computer use（画面操作）にも対応する。",
+      "url": "https://cursor.com/changelog",
+      "collectedAt": "2026-09-02T23:09:30Z"
+    },
+    {
+      "title": "Kiro Web が一般提供開始 — ブラウザから開発作業を委任・操縦",
+      "summary": "AWS の Kiro は9月1日、ブラウザ上で開発作業を構築・委任・操縦できる Kiro Web を一般提供（GA）にした。あわせて Configuration Sync がクラウド設定のローカルセッションへの読み込みに対応し、Steering ファイル・カスタムエージェント・Skills・Powers・Hooks をセッション開始時に取り込めるようになった。IDE 版 v1.0.437 と CLI v2.21.0 でもクラウド設定の統合が進み、CLI にはセッションダッシュボードと設定パネルが追加されている。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-09-02T23:09:30Z"
+    },
+    {
+      "title": "GitHub Copilot のコンテンツ除外設定、Copilot アプリと CLI で一般提供に",
+      "summary": "GitHub は9月2日、特定のファイルを Copilot の処理対象から外す content exclusions を Copilot アプリと CLI で一般提供にした。これにより、機密性の高いファイルを AI に読ませない運用をアプリ・CLI 経由でも統一的に適用できる。同日には、エンタープライズ管理設定で任意のモデルを既定に指定できる改善も入っている。",
+      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+      "collectedAt": "2026-09-02T23:09:30Z"
+    },
+    {
+      "title": "Claude Code v2.1.259 — 組織向けマネージド MCP サーバーに対応、Bash 権限チェックも強化",
+      "summary": "Claude Code の最新版 v2.1.259 では、組織が管理する MCP サーバーのサポートが加わり、GitLab のマージリクエスト認識も改善された。並行セッションで設定が巻き戻る不具合が修正されたほか、Bash の権限チェックがより広範なファイルアクセスのパターンをカバーするようになっている。直前の v2.1.257 では既定の Fable モデルが Claude Fable 5.1（コンテキスト100万トークン）に更新されていた。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-02T23:09:30Z"
+    }
+  ]
+}

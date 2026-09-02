@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-02",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "WebKit、Safari 27 でトップレベル await を仕様準拠に — モジュールローダーを全面書き直し",
+      "summary": "WebKit は9月2日、Safari 27 でトップレベル `await` が完全に仕様準拠になったことを公表した。従来のモジュールローダーは現行の ECMAScript 仕様ではなく古い WHATWG 提案をベースにしていたため、同一モジュールを複数箇所から import するとモジュールの評価順序が狂い「accessed before initialization」エラーが頻発していた。今回は自己ホスト JavaScript ではなく C++ で仕様のアルゴリズムを直接実装し直しており、Safari Technology Preview 251 や Safari 27 ベータで既に試せる。",
+      "url": "https://webkit.org/blog/18227/fixing-top-level-await-in-safari/",
+      "collectedAt": "2026-09-02T23:09:30Z"
+    },
+    {
+      "title": "Chrome、9月8日の Chrome 153 から2週間リリースサイクルへ移行",
+      "summary": "Chrome は9月8日の Chrome 153 安定版を皮切りに、これまでの4週間から2週間のリリースサイクルへ移行する。デスクトップ・Android・iOS が対象で、Dev と Canary チャンネルは変更なし、ベータは安定版の3週間前に出る。年間のメジャーバージョン数は13から26程度に倍増する見込みで、1回あたりの変更範囲が小さくなることで不具合の切り分けがしやすくなる一方、開発者は追随の頻度が上がる。企業向けの Extended Stable は従来どおり8週間サイクルを維持する。",
+      "url": "https://developer.chrome.com/blog/chrome-two-week-release",
+      "collectedAt": "2026-09-02T23:09:30Z"
+    },
+    {
+      "title": "Firefox 156 は9月15日リリース予定 — 2週間サイクル移行後の2本目",
+      "summary": "MDN の開発者向けリリースノートによると、Firefox 156 は9月15日にリリースされる予定で、9月1日の Firefox 155 から2週間という新しいリリース間隔の実験が実際に動き始めた形になる。現時点のノートはまだ作成途中で、Web 開発者向けの変更点は未記載。アドオン開発者向けには theme マニフェストに `backgrounds_area` プロパティが追加され、背景画像やグラデーションをウィンドウ全体（`window`）か上部ツールバーのみ（`top_toolbars`）かで描画範囲を指定できるようになる。",
+      "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/156",
+      "collectedAt": "2026-09-02T23:09:30Z"
+    }
+  ]
+}

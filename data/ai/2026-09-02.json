@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-02",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google、Gemini 3.8 Flash と Gemini 3.8 Flash Cyber を公開 — コーディング性能を大幅強化",
+      "summary": "Googleは9月2日、社内で「Skimaki」と呼ばれていた Gemini 3.8 Flash と、セキュリティ用途向けの Gemini 3.8 Flash Cyber を公開した。価格は入力100万トークンあたり0.75ドル、出力3.75ドルで、Vals Finance Agent V2 や Harvey の法務エージェントベンチマークで前世代の3.7 Flashや他社フロンティアモデルを上回るとしている。Gemini アプリ（AI Pro/Ultra）、AI Mode、Google スプレッドシートに加え、Antigravity・AI Studio・Gemini API でも利用できる。",
+      "url": "https://9to5google.com/2026/09/02/gemini-3-8-flash-launch/",
+      "collectedAt": "2026-09-02T23:09:30Z"
+    },
+    {
+      "title": "OpenAI、次期モデル「Astra」が自社フレームワークの『Critical』サイバー能力に初到達と公表",
+      "summary": "OpenAIは、近く提供予定のモデル Astra が Preparedness Framework の最上位区分である「Critical」のサイバー能力しきい値を初めて超えたと発表した。人間の逐次的な指示なしに未知の脆弱性を発見・悪用でき、堅牢なシステムに対するゼロデイの発見や高レベルの目的からの新たな攻撃手法の構築が可能なレベルとされる。保護策の強化と検証を経て公開する方針だが、サイバー能力へのアクセスは同社のセキュリティ連合「Daybreak」参加組織など限定的な範囲にとどめる。",
+      "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+      "collectedAt": "2026-09-02T23:09:30Z"
+    },
+    {
+      "title": "Langflow の重大脆弱性 CVE-2026-0768 が実際に悪用 — OpenAI・AWS の認証情報が窃取される",
+      "summary": "AIアプリ構築用OSSフレームワーク Langflow のカスタムコンポーネント編集機能に存在する認証不要のリモートコード実行脆弱性が、実環境で悪用されている。validate エンドポイントに渡されるコード文字列の検証不備が原因で、影響を受けるのはバージョン1.4.2以前。攻撃者は環境変数を照会して Langflow のスーパーユーザー資格情報、AWS シークレット、OpenAI APIキーを収集しており、VulnCheck のハニーポットでは観測件数が360件に達したという。",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+      "collectedAt": "2026-09-02T23:09:30Z"
+    },
+    {
+      "title": "テキサス州がデータセンターの系統接続を凍結 — 474GWに膨らんだ「ゴースト需要」に警戒",
+      "summary": "テキサス州は主要なデータセンター集積地として初めて、新規の送電網接続を凍結して事業計画の精査に乗り出した。同州への大口需要家の接続申請は2023年の約48GWから474GWへと10倍近くに膨れ上がり、ピーク需要の5倍を超えている。開発事業者が確たる顧客も資金もないまま低コストで接続待ち行列の順番を確保する投機的申請、いわゆる「ゴースト需要」が背景にあり、ペンシルベニア州も8月18日に25MW超の案件へ厳格な許認可を求める知事令を出すなど他州にも動きが広がっている。",
+      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/01/texas-halt-on-powering-data-centres-reflects-us-reckoning-over-ghost-demand/",
+      "collectedAt": "2026-09-02T23:09:30Z"
+    },
+    {
+      "title": "OpenAI API、過負荷エラーを 429 と 503 で明確に区別 — リトライ判断を容易に",
+      "summary": "OpenAI は API のエラー応答を見直し、開発者が2種類の失敗を切り分けられるようにした。急激なトラフィック増加に対しては `slow_down` コード付きの 429 を、システム側の一時的な過負荷に対しては `server_is_overloaded` 付きの 503 を返す。いずれも Retry-After ヘッダーを伴う場合があり、再試行のタイミングを判断しやすくなる。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-09-02T23:09:30Z"
+    }
+  ]
+}
