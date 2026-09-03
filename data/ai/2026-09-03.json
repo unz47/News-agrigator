@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-03",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、フラッグシップモデル「GPT-6 Astra」を公開 — ブロックマン氏「AGIの時代へようこそ」",
+      "summary": "OpenAIは3日、最新のフラッグシップモデル「GPT-6 Astra」の提供を開始した。コンピュータ操作、ブラウザ操作、ソフトウェア開発、サイバーセキュリティ、科学、専門職業務で最高水準とされ、ブラウザや表計算ソフト、デスクトップアプリを人間と同じように横断操作して文書やプレゼン資料を完成させる多段階ワークフローを実行できる。まずサイバーセキュリティ審査プログラム「Daybreak」参加企業に限定提供し、数日中に ChatGPT Plus/Pro/Business/Enterprise、API、AWS へ順次展開する。",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "collectedAt": "2026-09-03T23:10:00Z"
+    },
+    {
+      "title": "NVIDIA、Hugging Face を約129億ドルで買収 — 「オープンなプラットフォームとして維持」",
+      "summary": "NVIDIA は3日、AIモデル共有プラットフォームの Hugging Face を129億3030万ドルで買収することで合意したと発表した。同プラットフォームは1800万人超の開発者が300万以上のモデル、50万のデータセット、100万のアプリを共有し、20万社以上が利用している。ジェンスン・フアンCEOは「Hugging Face は AI エコシステム全体に開かれたプラットフォームであり続ける」と述べ、NVIDIA の計算基盤の利用は必須にしないと明言した。取引完了は2027年前半の見込み。",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "collectedAt": "2026-09-03T23:10:00Z"
+    },
+    {
+      "title": "OpenAI Responses API、非同期ツール呼び出しとミッドターン操舵に対応",
+      "summary": "OpenAI は3日、長時間実行されるエージェント処理向けに Responses API へ3つの機能を追加した。ツールの処理中もモデルが動作を継続できる非同期ツール呼び出し、応答の途中に WebSocket 経由で指示を送れるミッドターン操舵、そしてキャッシュ済みプロンプトのプレフィックスを保ったまま推論の深さを変えられる動的 reasoning effort 調整が利用可能になった。同日公開の GPT-6 Astra は `none` の reasoning effort とカスタムの temperature/top_p に非対応である点も明記されている。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-09-03T23:10:00Z"
+    },
+    {
+      "title": "中国 Moonshot AI が香港IPOを機密申請 — 評価額500億ドルで30億ドル調達へ",
+      "summary": "中国のAIスタートアップ Moonshot AI が香港証券取引所への上場を機密ベースで申請し、30億ドルの調達を目指していることが3日に明らかになった。直近の資金調達ラウンドでの評価額は500億ドルで、株主にはアリババ、テンセント、IDG Capital、HSG などが名を連ね、累計調達額は55億ドルを超える。同社の評価額は約740億ドルの DeepSeek や660億ドルの Z.AI には及ばず、中国勢がオープンモデル領域で存在感を高めるなかでの上場となる。",
+      "url": "https://www.business-standard.com/world-news/chinese-ai-firm-moonshot-files-confidentially-for-hong-kong-ipo-126090301687_1.html",
+      "collectedAt": "2026-09-03T23:10:00Z"
+    }
+  ]
+}

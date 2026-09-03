@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-03",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "npm の Trusted Publishing が1パッケージ複数構成に対応 — 段階公開が既定に",
+      "summary": "GitHub は3日、npm の Trusted Publishing（OIDC 連携）を刷新し、1パッケージにつき1構成という制限を撤廃した。各構成はリポジトリ・ワークフロー・環境の条件を個別に持てるため、安定版・プレリリース・ステージング用のワークフローを長命トークンなしで分けられる。あわせてステージされたパッケージはマルウェアスキャン完了後に承認する方式となり、人手の承認を経る段階公開が既定で、直接公開は構成ごとのオプトインとなった。",
+      "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
+      "collectedAt": "2026-09-03T23:10:00Z"
+    },
+    {
+      "title": "GitHub Actions 9月上旬アップデート — ランナー廃止予定API と vulnerability-alerts 権限を追加",
+      "summary": "GitHub は3日、GitHub Actions の3つの改善を公開した。ランナーのバージョンごとの廃止時期を確認できる REST エンドポイント `GET /actions/runners/deprecations/{version}` が追加され、アップグレード計画を立てやすくなった。また GITHUB_TOKEN に Dependabot アラートを読み取るだけの `vulnerability-alerts` 権限が新設され、最小権限の運用が可能になったほか、再利用可能ワークフローが自身の出自を実行時に識別できる job コンテキスト4種（workflow_ref / workflow_sha / workflow_repository / workflow_file_path）が使えるようになった。",
+      "url": "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates",
+      "collectedAt": "2026-09-03T23:10:00Z"
+    },
+    {
+      "title": "GitHub Copilot、10月2日に一部モデルを提供終了 — Claude Opus 4.7 などが対象",
+      "summary": "GitHub は3日、Copilot で利用できる4つのモデルを2026年10月2日に提供終了すると予告した。対象は Gemini 3.5 Flash と Gemini 3.6 Flash（後継は Gemini 3.8 Flash）、Kimi K2.7 Code（後継は Kimi K3）、Claude Opus 4.7（後継は Claude Opus 5）。期日までにワークフローや連携先を対応モデルへ切り替える必要があり、Enterprise では管理者が Copilot のポリシー設定で代替モデルを有効化しておく必要がある場合がある。",
+      "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+      "collectedAt": "2026-09-03T23:10:00Z"
+    },
+    {
+      "title": "GitHub Copilot で Gemini 3.8 Flash が利用可能に",
+      "summary": "GitHub は3日、Gemini 3.8 Flash を Copilot Pro / Pro+ / Max / Business / Enterprise の各プランで提供開始した。VS Code、Visual Studio、Copilot CLI、GitHub Copilot クラウドエージェント、Copilot アプリ、JetBrains 系 IDE、Xcode、Eclipse のモデルピッカーから順次選択できるようになる。Business と Enterprise では管理者が Copilot 設定のモデルポリシーで利用可否を制御でき、既定では新モデルは自動的に有効になる。",
+      "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+      "collectedAt": "2026-09-03T23:10:00Z"
+    },
+    {
+      "title": "GitHub CLI の Linux パッケージ署名鍵が9月5日に失効 — 旧環境は更新が必要",
+      "summary": "GitHub は3日、GitHub CLI の Linux パッケージリポジトリ署名に使っている PGP 鍵が2026年9月5日に失効すると告知した。2026年4月8日より前に APT または RPM リポジトリから gh をインストールした利用者は、失効前に新しい鍵を信頼済みにしておく必要がある。新旧両方の鍵を含む keyring ファイルは4月に公開済み。Windows / macOS、ソースビルド、Homebrew、Conda、コミュニティ製パッケージ、.deb 直接インストール、GitHub Releases のバイナリ利用者は影響を受けない。",
+      "url": "https://github.blog/changelog/2026-09-03-github-cli-linux-package-signing-key-expires-september-5",
+      "collectedAt": "2026-09-03T23:10:00Z"
+    }
+  ]
+}

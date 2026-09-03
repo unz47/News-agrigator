@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-03",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Interop 2027 の提案募集が開始 — 締切は9月23日",
+      "summary": "WebKit チームは3日、ブラウザ間の相互運用性を高める共同プロジェクト「Interop 2027」のフォーカスエリア提案の募集を開始した。提案は9月23日まで web-platform-tests/interop リポジトリの Issue テンプレートから受け付ける。良い提案の条件として、対象機能が1つに絞られていること、実際の課題を示せること、成熟した Web 標準に基づくこと、Web Platform Tests によるテストがあることが挙げられており、標準が未成熟な技術は対象外とされている。",
+      "url": "https://webkit.org/blog/18283/submit-your-ideas-for-interop-2027/",
+      "collectedAt": "2026-09-03T23:10:00Z"
+    },
+    {
+      "title": "Next.js 公式ブログ、Turbopack のチャンク分割を解説 — 16.3 で実験的な調整機能を追加",
+      "summary": "Vercel は3日、Turbopack が JavaScript をどうチャンクに分割しているかを解説する記事を公開した。リクエスト数とダウンロード量のトレードオフを、同時に読み込まれる「チャンクグループ」単位でのマージによって最適化しており、nextjs.org での計測では既定設定がマージなしに比べリクエストを96→38に削減した。Next.js 16.3 では実験機能として、未マージ版チャンクも生成して実行時に安い方を選ぶ generateComponentChunks、アクセス傾向を反映する firstPageLoadPriority / priorityRoutes / clusters、CJS のツリーシェイキングや共有ランタイムが追加された。",
+      "url": "https://nextjs.org/blog/turbopack-chunking",
+      "collectedAt": "2026-09-03T23:10:00Z"
+    },
+    {
+      "title": "CSS の random() 関数をどのブラウザでも使えるポリフィルが登場",
+      "summary": "CSS-Tricks は、JavaScript なしで CSS 内に乱数を生成できる新機能 random() のポリフィル実装を解説した。random() は2025年末に Safari が初めて実装したが、Chrome と Firefox は開発の兆しがあるものの搭載時期は不透明な状況にある。ポリフィル css-random-polyfill はネイティブ対応を検出して未対応時のみ動作し、`--random` 接頭辞のカスタムプロパティを @csstools/css-calc で解決してインラインスタイルとして適用するため、仕様どおりの記述のまま将来の標準対応へ移行できる。",
+      "url": "https://css-tricks.com/css-random-function-polyfill/",
+      "collectedAt": "2026-09-03T23:10:00Z"
+    },
+    {
+      "title": "CSS-Tricks の最新まとめ — <geolocation> 要素や @supports named-feature() など新機能を紹介",
+      "summary": "CSS-Tricks の隔週まとめ「What's !important #18」が、直近の Web プラットフォームの動きを整理した。複雑だった Geolocation API を簡素化する新しい `<geolocation>` HTML 要素、Custom Highlight API と `::highlight()` 疑似要素による構文ハイライト、ブラウザの機能検出を行う `@supports named-feature()`、クラス接頭辞セレクタ `.something-*`、Chrome の `flex-wrap: balance` などが取り上げられている。Firefox 154 では sibling-count()/sibling-index() と text-box 系プロパティが Baseline 入りした。",
+      "url": "https://css-tricks.com/whats-important-18/",
+      "collectedAt": "2026-09-03T23:10:00Z"
+    }
+  ]
+}
