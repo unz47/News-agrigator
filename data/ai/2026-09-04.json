@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-04",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google DeepMind、気象AI「WeatherNext 3」を公開 — 1時間ごと・最大5km解像度の全球予測",
+      "summary": "Google DeepMind と Google Research は3日、最も高精度とする全球気象AIモデル WeatherNext 3 を発表した。衛星観測データを直接取り込むことで従来6時間間隔だった更新を1時間ごとに短縮し、気温予測の解像度を25kmから5kmへ引き上げた。降水予測は1日以上先で最大50%精度が向上したとし、Google 検索・マップ・Gemini アプリのほか BigQuery や Earth Engine 経由でも提供される。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "collectedAt": "2026-09-04T23:08:17Z"
+    },
+    {
+      "title": "ChatGPT・Claude・Grok が同時刻に相次ぎ障害 — AI基盤の集中リスクが表面化",
+      "summary": "3日午前（米太平洋時間）、ChatGPT、Claude、Grok の3サービスがほぼ同じ時間帯に相次いで障害を起こした。OpenAI はルーティングエラーで ChatGPT と Codex が一部利用不可になり約30分で復旧、Claude は3時間6分にわたりエラー率が上昇、xAI は Memphis のデータセンター障害を原因として挙げた。同時刻に Microsoft Azure でも障害が出ていたが、3社とも共通の根本原因は確認しておらず、AI基盤の集中に対する懸念が改めて指摘されている。",
+      "url": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages",
+      "collectedAt": "2026-09-04T23:08:17Z"
+    },
+    {
+      "title": "AIデータセンターの Crusoe、30億ドル超を調達し評価額300億ドルへ — 1年弱で約3倍",
+      "summary": "OpenAI やマイクロソフト、Meta を顧客に持つクラウド／データセンター事業者 Crusoe が、評価額約300億ドルで30億ドル超を調達したと3日に報じられた。ラウンドは Atreides Management と Valor Equity Partners が共同主導し、Mubadala Capital も参加した。2025年10月のシリーズE時点の100億ドル超から1年弱で約3倍となり、直近で Jane Street と結んだ5年130億ドルのクラウド契約が評価を押し上げた形だ。",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "collectedAt": "2026-09-04T23:08:17Z"
+    },
+    {
+      "title": "ムラティ氏の Thinking Machines、評価額400億ドルで10億ドル調達へ協議 — Accel が主導",
+      "summary": "元 OpenAI CTO のミラ・ムラティ氏が率いる Thinking Machines Lab が、プレマネー評価額約400億ドルで10億ドル以上を調達する交渉に入っていると The Information が3日に報じた。既存投資家の Accel がラウンドを主導し、NVIDIA も参加を検討しているという。7月に初の自社モデル Inkling を公開し年間収益ランレートは1億ドル超に達したが、500億ドル超を模索していた昨年末の水準からは切り下がる。",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "collectedAt": "2026-09-04T23:08:17Z"
+    }
+  ]
+}

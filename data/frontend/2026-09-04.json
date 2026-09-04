@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-04",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js チーム、エージェントで1か月に1500件の Issue をクローズ — バックログを1000件未満に",
+      "summary": "Vercel は4日、Next.js の Issue バックログ整理にエージェントを使った取り組みを公開した。Vercel のエージェント基盤 eve 上に構築した調査エージェント closability が、サンドボックス内でリポジトリと Playwright を動かして再現確認や関連PR・コミットの調査を行い、クローズ可否を信頼度スコア付きで返す。約3週間で1462件をクローズし2244件あったバックログを1000件未満へ削減、エージェントはサンドボックス外では読み取り専用でプロンプトインジェクション対策も施したという。",
+      "url": "https://nextjs.org/blog/how-we-closed-1500-github-issues",
+      "collectedAt": "2026-09-04T23:08:17Z"
+    },
+    {
+      "title": "CSS の progress() 関数が Baseline Newly available に — 全主要ブラウザで利用可能",
+      "summary": "値の進捗度を 0〜1 の数値として返す CSS の progress() 関数が、2026年9月に Baseline「Newly available」となった。Firefox 155 での実装により Chrome・Safari を含む主要ブラウザが出揃った形で、progress(値, 開始値, 終了値) の形で opacity や scale、calc() 内などに直接書ける。既定では 0〜1 にクランプされ、no-clamp キーワードを付けると範囲外の値も返せる。",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/progress",
+      "collectedAt": "2026-09-04T23:08:17Z"
+    },
+    {
+      "title": "Firefox 155 リリース — attr() が全プロパティで使えるように、alpha() や Promise.allKeyed() も追加",
+      "summary": "Mozilla は9月1日に Firefox 155 をリリースした。CSS では attr() が content 以外の任意のプロパティで使えるようになり単位指定やフォールバックにも対応、進捗計算の progress()、透明度を操作する alpha()、font-stretch の新名称となる font-width が加わった。JavaScript ではオブジェクト形式で Promise をまとめる Promise.allKeyed() / allSettledKeyed() が追加され、読み込みに失敗したモジュールが永続キャッシュされず再試行できるようになった。",
+      "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/155",
+      "collectedAt": "2026-09-04T23:08:17Z"
+    }
+  ]
+}
