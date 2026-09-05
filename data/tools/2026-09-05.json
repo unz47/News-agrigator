@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-05",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot で GPT-6 Astra が一般提供に — 長期自律コーディング向け",
+      "summary": "GitHub は4日、OpenAI の最新汎用モデル GPT-6 Astra を Copilot で一般提供にしたと発表した。長期にわたる自律的なコーディングやエージェント処理向けに設計され、実行中に計画・検証・結果確認を繰り返すことで複雑なタスクの精度を高めるという。Copilot Pro+ / Max / Business / Enterprise のモデルピッカーから、VS Code・Visual Studio・Copilot CLI・coding agent・github.com・GitHub Mobile・JetBrains / Xcode / Eclipse で選択でき、課金は従量制のプロバイダー価格が適用される。",
+      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
+      "collectedAt": "2026-09-05T23:30:00Z"
+    },
+    {
+      "title": "GitHub Copilot 週次リリース（8月31日週）— Claude Fable 5.1 展開と JetBrains 版ハーネスGA",
+      "summary": "GitHub は4日、8月31日週の Copilot 週次リリースをまとめて公開した。Claude Fable 5.1 が Pro+ / Max / Business / Enterprise に、Gemini 3.8 Flash が Pro 以上に展開されたほか、Copilot アプリと CLI がコンテンツ除外設定を尊重するようになりエージェント処理でも機密コードが文脈に入らなくなった。JetBrains 向けの Copilot ハーネスが一般提供に到達し、VS Code 1.136 の Agent Merge パブリックプレビューやチャットセッションの階層整理も含まれる。",
+      "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+      "collectedAt": "2026-09-05T23:30:00Z"
+    },
+    {
+      "title": "GitHub、プライバシーに配慮した Star 履歴 API を新設",
+      "summary": "GitHub は4日、リポジトリの Star 数の推移をタイムスタンプ付きで取得できる新しい REST エンドポイントを追加した。2026年前半に stargazer 一覧のエンドポイントが管理者とコラボレーターに限定され、個々の Star したユーザーを公開しない方針が取られたため、その代替として集計値のみを返す形で提供される。Star の成長を追跡していたツールや連携サービスは、この新エンドポイントへの移行が求められる。",
+      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+      "collectedAt": "2026-09-05T23:30:00Z"
+    },
+    {
+      "title": "Claude Code v2.1.260 / v2.1.261 — 差分パネルと /skill-doctor を追加",
+      "summary": "Claude Code は v2.1.260 で、フルスクリーンモードの会話の横に未コミット変更を表示する差分パネルを追加し、デスクトップやヘッドレスセッションでもテキストベースの `/advisor` を使えるようにした。続く v2.1.261 では組織ポリシーのレポート機能が強化され、コマンドやタスク結果の出力上限が最大128K文字に拡大、使われていないスキルを洗い出す `/skill-doctor` が加わっている。あわせて入力処理やセッション管理、リモートコントロール周りの不具合も修正された。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-05T23:30:00Z"
+    },
+    {
+      "title": "CodeQL 2.26.4 リリース — GitHub Actions のセキュリティ検出を強化",
+      "summary": "GitHub は3日、コードスキャンの静的解析エンジンである CodeQL 2.26.4 を公開した。GitHub Actions 向けに actor フィールドの検証、可変なワークフロー参照の検出、models-as-data による環境ベースのサニタイズ認識が加わっている。言語別では Go 1.27 対応、Java/Kotlin の Spring R2DBC を対象とした SQL インジェクションのシンク追加、JavaScript/TypeScript の正規表現 `d` フラグと React Native Worklets ディレクティブの認識、C# の ASP.NET Core 偽造防止トークン検出の改善などが含まれる。",
+      "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
+      "collectedAt": "2026-09-05T23:30:00Z"
+    }
+  ]
+}

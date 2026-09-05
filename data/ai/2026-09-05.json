@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-05",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google の個人エージェント Gemini Spark が Google フォトを操作可能に",
+      "summary": "Google は4日、パーソナルエージェント「Gemini Spark」から Google フォトのライブラリを直接操作できるようにすると発表した。画像の編集、アルバムの自動キュレーション、お気に入りを集めた共有アルバムの作成、コンサートのチラシ写真からカレンダー予定を作るといった一連の作業を自然言語で依頼できる。まず米国の英語環境で Google AI Pro / Ultra 契約者向けに数週間かけて展開され、国際展開の時期は明らかにされていない。",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "collectedAt": "2026-09-05T23:30:00Z"
+    },
+    {
+      "title": "Google DeepMind、気象予測AI「WeatherNext 3」を公開 — 5km解像度で毎時更新",
+      "summary": "Google DeepMind と Google Research は3日、これまでで最も高精度という全球気象予測モデル WeatherNext 3 を公開した。6時間ごとに更新される政府提供データを待たず衛星の生観測データを毎時取り込むことで、気温予測の解像度を25kmから5kmへと5倍に高め、降雨予測は WeatherNext 2 比で最大60%改善したとしている。すでに Google 検索・Gemini・Google マップの天気表示に組み込まれ、予測データは BigQuery や Google Earth Engine 経由で開発者にも提供される。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "collectedAt": "2026-09-05T23:30:00Z"
+    },
+    {
+      "title": "米司法省、NYT 対 OpenAI の著作権訴訟で「LLM の学習はフェアユース」と表明",
+      "summary": "米司法省はニューヨーク南部地区連邦地裁に「利害関係の陳述（statement of interest）」を提出し、著作物を大量に用いた大規模言語モデルの学習は原則としてフェアユースにあたるとの見解を示した。政府側は LLM は学習したテキストをそのまま複製するものではないと主張し、フェアユースの誤解に基づいて LLM 開発を制約すれば創造的・科学的な進歩と米国の繁栄を妨げると述べている。作家や出版社、音楽レーベル、報道機関が AI 開発企業を相手取って起こした一連の訴訟で、連邦政府が正式に立場を表明したのは初とみられる。",
+      "url": "https://www.pymnts.com/legal/2026/doj-sides-with-openai-against-the-ny-times-in-high-stakes-copyright-case",
+      "collectedAt": "2026-09-05T23:30:00Z"
+    },
+    {
+      "title": "Meta、エージェント・コーディング特化の「Muse Spark 1.3」を公開",
+      "summary": "Meta は2日、エージェント処理とコーディング性能を強化した新モデル Muse Spark 1.3 を公開した。単一スレッドで複数ワークフローにまたがる長期タスクを維持でき、曖昧な点は自分から確認するなど協調性が高まったほか、前版比でツール呼び出しが約20%、トークン消費が約25%減ったとしている。Muse Code と Meta Model API から利用でき、価格は Muse Spark 1.2 に据え置き、「max reasoning」版は追加の安全性テストを経て後日提供される。",
+      "url": "https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues",
+      "collectedAt": "2026-09-05T23:30:00Z"
+    },
+    {
+      "title": "Alibaba、Qwen3.8-Max の新スナップショット「0902」を公開 — コーディングで首位",
+      "summary": "Alibaba は2日、Qwen3.8-Max のポストトレーニング版となる Qwen3.8-Max-0902 を公開した。アーキテクチャ（2.4兆パラメータ、100万トークン文脈）と価格は据え置きのまま、コーディングとマルチツールの長期タスク実行に絞って再学習しており、Code Arena WebDev では1691点で Claude Opus 5 Max を上回り首位に立った。TerminalBench 3.0 が11.3→29.0、ProgramBench が10.5→28.0と倍以上に伸び、8つのコーディングベンチマークすべてで改善している。",
+      "url": "https://technode.com/2026/09/02/alibaba-upgrades-qwen38-max-with-new-0902-snapshot/",
+      "collectedAt": "2026-09-05T23:30:00Z"
+    }
+  ]
+}

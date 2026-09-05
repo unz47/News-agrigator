@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-05",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js チーム、エージェントで1カ月に1,462件の Issue をクローズ — 手法を公開",
+      "summary": "Vercel は4日、Next.js のバックログ整理にエージェントを使った事例を公開した。2,244件あった未解決 Issue に対し、サンドボックス内で会話・関連PR・コミットを調査し必要なら報告版・最新安定版・canary で再現を試みる調査エージェント `closability` を Vercel の OSS エージェント基盤 eve 上に構築し、約3週間で1,462件をクローズしてバックログを1,000件未満に減らした。エージェントはサンドボックス外では読み取り専用でプロンプトインジェクション対策も施され、判断は必ずメンテナーがレビューする運用としている。",
+      "url": "https://nextjs.org/blog/how-we-closed-1500-github-issues",
+      "collectedAt": "2026-09-05T23:30:00Z"
+    },
+    {
+      "title": "Chrome 154 ベータ — scroll-marker-group の tabs/links や text-decoration-inset を追加",
+      "summary": "Chrome for Developers は2日、Chrome 154 ベータの新機能を公開した。CSS では `scroll-marker-group` に links / tabs モードが加わってカルーセルのアクセシビリティが向上し、下線位置を制御する `text-decoration-inset` と空白部分の装飾を抑える `text-decoration-skip-spaces`、レスポンシブに寸法が決まる `<iframe>` が入る。Web API では WebSocket コンストラクタのオプション指定、耐量子計算機暗号（ML-KEM / ML-DSA / X-Wing）と ChaCha20-Poly1305、Background Fetch への CORS 適用などが追加された。",
+      "url": "https://developer.chrome.com/blog/chrome-154-beta",
+      "collectedAt": "2026-09-05T23:30:00Z"
+    },
+    {
+      "title": "TypeScript 7.1 のイテレーション計画が公開 — 11月24日に安定版、公開APIを安定化",
+      "summary": "TypeScript チームは 7.1 のイテレーション計画を GitHub Issue で公開した。10月6日にベータ、11月10日に RC、11月24日に安定版という日程で、目玉は Content Mapper API / Emit API / Language Service API を含むプログラマティック API の安定化。ほかに import attributes の `type` 対応、ES2026 ライブラリターゲット、source phase imports、共用体型構築や絞り込み経路の高速化、WebAssembly / Android ビルドの公開などが挙がっている。",
+      "url": "https://github.com/microsoft/TypeScript/issues/63703",
+      "collectedAt": "2026-09-05T23:30:00Z"
+    }
+  ]
+}
