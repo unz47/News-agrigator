@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-06",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot で GPT-6 Astra が一般提供開始 — 長時間の自律コーディング向け",
+      "summary": "GitHubは4日、OpenAIの GPT-6 Astra が Copilot で一般提供になったと発表した。計画と検証を並行させ、完了宣言の前に自ら結果を確認するため、少ない手数で複雑なコーディング作業をこなせるという。Copilot Pro+ / Max / Business / Enterprise が対象で、VS Code、Visual Studio、CLI、JetBrains、Xcode など幅広い環境から利用できる。",
+      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
+      "collectedAt": "2026-09-06T23:10:16Z"
+    },
+    {
+      "title": "GitHub、スター履歴を取得できるプライバシー安全なAPIエンドポイントを追加",
+      "summary": "GitHubは4日、個々のスター付与者を露出させずにタイムスタンプ付きのスター数推移を取得できる新しいREST APIエンドポイントを公開した。stargazerの閲覧が管理者・コラボレーターに限定された影響で使えなくなっていたスター推移の可視化ツールが、プライバシーを保ったまま継続できるようになる。",
+      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+      "collectedAt": "2026-09-06T23:10:16Z"
+    },
+    {
+      "title": "GitHub Copilot 週次リリース(8/31週) — Claude Fable 5.1 提供、JetBrains 版ハーネスがGAに",
+      "summary": "GitHubは4日に週次のCopilotリリースまとめを公開した。Claude Fable 5.1 が Pro+ / Max / Business / Enterprise 向けに、Gemini 3.8 Flash が Pro 以上に順次提供される。Copilotアプリ・CLIでのコンテンツ除外設定が有効になったほか、JetBrains 向けの Copilot ハーネスが一般提供に到達した。",
+      "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+      "collectedAt": "2026-09-06T23:10:16Z"
+    },
+    {
+      "title": "Claude Code v2.1.260 — `/diff` で未コミット差分を全画面表示、`/advisor` も追加",
+      "summary": "Claude Code v2.1.260 では、未コミットの変更を全画面の差分パネルで確認できる `/diff` が追加された。`/cost` はプロンプトキャッシュのミス要因を診断できるようになり、ヘッドレス環境向けにテキストベースの `/advisor` コマンドも新設。括弧を含むファイル権限ルールの誤処理や、zsh固有構文でのBashサンドボックス権限チェックの不具合も修正された。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-06T23:10:16Z"
+    },
+    {
+      "title": "Claude Code v2.1.261 / v2.1.263 — `/skill-doctor` と組織ポリシー診断を追加",
+      "summary": "v2.1.261 では、使われていないスキルとそのコンテキストコストを洗い出す `/skill-doctor` が追加された。`/status` と `claude doctor` に組織ポリシーの診断が加わり、出力サイズ設定に `bashOutputMaxChars` と `taskOutputMaxChars` が導入された。SDK・クラウドセッションでターンを早期停止した際の挙動も修正され、続く v2.1.263 は安定性の改善が中心となっている。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-06T23:10:16Z"
+    }
+  ]
+}

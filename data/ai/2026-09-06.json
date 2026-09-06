@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-06",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、重要インフラ防御に10億ドル — 「Daybreak for Frontline Defenders」を発表",
+      "summary": "OpenAIは4日、重要インフラのサイバー防御を担う組織へフロンティアAIを届ける世界規模の取り組み「Daybreak for Frontline Defenders」を発表した。Daybreakサイバーモデルへの補助アクセスや訓練・技術支援に10億ドルを投じる。上下水道、電力系統、地方自治体、地域金融機関、非営利団体、OSSメンテナーを優先対象としている。",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders/",
+      "collectedAt": "2026-09-06T23:10:16Z"
+    },
+    {
+      "title": "AIのガードレール除去をビジネス化する「Abliteration.ai」が登場 — 安全性研究者は警鐘",
+      "summary": "TechCrunchは3日、モデル内部の「拒否方向」を特定して削除する abliteration という手法を有料ホスティングサービスとして提供する Abliteration.ai を報じた。同社は攻撃的サイバー演習やレッドチーミング用途を掲げるが、AI安全団体CivAIの研究責任者は「モデルをソシオパスに改変する行為」と批判している。",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "collectedAt": "2026-09-06T23:10:16Z"
+    },
+    {
+      "title": "OpenAI、ChatGPT広告が年換算売上10億ドルに到達 — 開始から200日未満",
+      "summary": "OpenAIは、ChatGPT Ads の年換算売上高(ARR)が10億ドルに達したと明らかにした。開始から200日足らずでの到達で、GoogleのAdWordsが4年かけた水準に半年で並んだ形。広告は無料プランとGoプランの利用者に表示され、ラベル付きで回答生成とは分離されているとしている。配信国は40カ国以上に拡大した。",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+      "collectedAt": "2026-09-06T23:10:16Z"
+    },
+    {
+      "title": "ChatGPT for Healthcare が電子カルテ大手Epicと連携 — 読み取り専用で患者データを横断参照",
+      "summary": "OpenAIは1日、ChatGPT for Healthcare がEpicの電子カルテおよび9種類の公的医療データソース(PubMed、ClinicalTrials.gov、DailyMed等)と連携すると発表した。臨床医は診療記録や検査結果、処方内容を要約・比較できる。接続は読み取り専用で、カルテの更新や患者への連絡はできず、既存のアクセス権限も拡張されない。",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "collectedAt": "2026-09-06T23:10:16Z"
+    },
+    {
+      "title": "Anthropic、アラインメントとセキュリティ体制の強化策を公表",
+      "summary": "Anthropicは8月31日、モデルのアラインメント研究とセキュリティ対策を強化する取り組みを公開した。フロンティアモデルの能力向上に伴うリスクに備え、内部の評価・検知体制を拡充する方針を示している。Fable 5.1 / Mythos 5.1 の公開やEnterprise Frontier Safeguards の発表と並ぶ、安全性関連の一連の発信の一つ。",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "collectedAt": "2026-09-06T23:10:16Z"
+    }
+  ]
+}

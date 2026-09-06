@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-06",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.jsチーム、エージェントで1か月に1,500件のIssueをクローズ — バックログを1,000件未満に",
+      "summary": "Vercelは4日、Issueがクローズ可能かを調査するエージェント「closability」をeve上に構築し、約3週間で1,462件のIssueを整理したと公開した。エージェントはサンドボックス内で再現検証や関連PR調査を行い信頼度スコア付きの構造化結果を返すが、コメントやクローズなどの操作権限は持たずメンテナーが最終判断する。プロンプトインジェクション対策も施している。",
+      "url": "https://nextjs.org/blog/how-we-closed-1500-github-issues",
+      "collectedAt": "2026-09-06T23:10:16Z"
+    },
+    {
+      "title": "Astro 7.3.0 / 7.3.1 リリース — 増分ビルドの並行レンダリングとプレビューの複数起動に対応",
+      "summary": "Astroは3日に7.3.0をリリースし、複数のプレビューサーバーを同時起動できる `--ignore-lock` フラグ、画像サービスフックとキャッシュプロバイダーへのlogger引き渡し、増分ビルド時の並行レンダリング強化(Cloudflare対応含む)を追加した。直後に astro:assets 利用プロジェクトが起動・ビルドできない不具合を修正した7.3.1も公開されている。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-09-06T23:10:16Z"
+    },
+    {
+      "title": "Svelte 9月のアップデート — SvelteMap の getOrInsert 追加や createContext の has 対応",
+      "summary": "Svelte公式ブログの月次まとめで、5.57.0 における新機能が紹介された。SvelteMap に getOrInsert / getOrInsertComputed が加わり、createContext は文脈が設定済みかを判定する has を返すようになった。`<select>` の defaultValue 属性サポートや、svelte/server からの RenderOutput・Csp などの型エクスポートも追加されている。",
+      "url": "https://svelte.dev/blog/whats-new-in-svelte-september-2026",
+      "collectedAt": "2026-09-06T23:10:16Z"
+    }
+  ]
+}
