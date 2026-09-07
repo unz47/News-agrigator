@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-07",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Zed v1.18.0 / v1.18.1 — C/C++ のインラインデバッガ値とFile Finder履歴の永続化",
+      "summary": "Zedは9月2日に v1.18.0 を公開し、CodeLLDB・GDB でのデバッグ時に C/C++ のインライン値表示が可能になった。Markdownプレビューのスタイルが刷新され、File Finder は SQLite ベースの新実装で直近20件の履歴をワークスペース再起動後も保持する。デバッグ操作のキーバインドはVS Codeの既定に揃えられた。4日の v1.18.1 では Windows ターミナルでのAltGr・ダイアクリティカル入力や、ワークツリー外への定義ジャンプなどの不具合が修正されている。",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v1.18.0",
+      "collectedAt": "2026-09-07T23:07:37Z"
+    },
+    {
+      "title": "OpenAI Codex CLI 0.153.4 — Astra をバンドル既定モデルに",
+      "summary": "OpenAI の Codex CLI は4日に 0.153.4 を公開した。バンドル版のモデルピッカーで Astra が正しく表示されない問題を修正し、モデルを明示設定していない場合の既定モデルを Astra に変更している。あわせて Astra のガイダンス機能について、非同期の質問はそのツールがセッションで利用可能なときのみ行うよう改められた。開発は活発で、7日時点で 0.154.0-alpha.6 まで進んでいる。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.4",
+      "collectedAt": "2026-09-07T23:07:37Z"
+    },
+    {
+      "title": "Gemini CLI、セキュリティ強化が続く — SSRF対策とワークスペース信頼の強制",
+      "summary": "Google の Gemini CLI では9月に入りセキュリティ関連の修正が相次いでいる。v0.58.0 と v0.59.0-preview.0 ではシンボリックリンク評価の見直し、Dockerソケットの分離、SSRF（サーバーサイドリクエストフォージェリ）の防止、ワークスペース信頼の強制が入った。以降のナイトリービルドでも、MCP の OAuth フローで RFC 9207 の発行者識別を強制する変更や、拡張機能の同意プロンプトとワークスペースのパス境界チェックの修正が続いている。",
+      "url": "https://github.com/google-gemini/gemini-cli/releases",
+      "collectedAt": "2026-09-07T23:07:37Z"
+    }
+  ]
+}

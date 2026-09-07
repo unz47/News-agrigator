@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-07",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "DeepSeek、Huawei Ascend 950DT を16万基超発注へ — 内モンゴルに1GW級データセンター",
+      "summary": "Bloombergは4日、DeepSeekが内モンゴル・ウランチャブの新データセンター向けにHuaweiの次世代AIアクセラレータ「Ascend 950DT」を少なくとも16万基発注する計画だと報じた。実現すれば中国製AIチップとして最大級のクラスターになるが、高帯域メモリ不足でHuaweiの生産能力が追いつかず、納入には1年以上かかる見込み。DeepSeekは同チップを学習ではなく推論（モデル運用）に使う方針で、学習には引き続きNVIDIA製を用いるとされる。",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center",
+      "collectedAt": "2026-09-07T23:07:37Z"
+    },
+    {
+      "title": "ByteDance、約296億ドルのシンジケートローンを調達 — 海外AIインフラ投資へ",
+      "summary": "TikTok運営元のByteDanceが、アジアで今年2番目の規模となる296億ドルのドル建てシンジケートローンを9月上旬に組成した。CitigroupとJPMorganが主幹事を務め、当初目標の200億ドルに対して300億ドル超の応札が集まったため増額された。期間は3年（最長5年まで延長可）で無担保という異例の条件。資金は東南アジアを中心とした海外データセンター建設に充てられる見通しで、同社は2026年に最大700億ドルの設備投資を検討していると伝えられる。",
+      "url": "https://techstartups.com/2026/09/04/bytedance-secures-29-6-billion-mega-loan-to-fund-ai-and-data-center-expansion-outside-china/",
+      "collectedAt": "2026-09-07T23:07:37Z"
+    },
+    {
+      "title": "Meta、最上位モデル「Muse Spark 1.3」を公開 — エージェント処理とコーディングを強化",
+      "summary": "Metaは9月2日、フラッグシップモデルの更新版「Muse Spark 1.3」を公開した。コンテキスト長100万トークンのマルチモーダルモデルで、Muse CodeとMeta Model API経由で利用できる。同社の社内比較では、前世代の1.2に比べてツール呼び出し回数が約20%、消費トークンが約25%少なくなったという。価格は前世代を据え置き、今後Instagram・FacebookやMeta AIにも展開される予定。",
+      "url": "https://siliconangle.com/2026/09/02/meta-says-it-has-caught-up-with-anthropic-and-openai-after-releasing-muse-spark-1-3-its-most-powerful-llm-so-far/",
+      "collectedAt": "2026-09-07T23:07:37Z"
+    },
+    {
+      "title": "Alibaba、Qwen3.8-Max の新スナップショット「0902」を公開 — コーディング性能を上積み",
+      "summary": "Alibabaは9月2日、フラッグシップモデル Qwen3.8-Max の更新スナップショット「Qwen3.8-Max-0902」をQwenCloudで公開した。パラメータ数2.4兆・コンテキスト100万トークンというアーキテクチャや価格（入力100万トークン2ドル／出力6ドル）は据え置きで、コーディングとエージェント協調タスク向けに追加事後学習を行っている。フロントエンドのCodeArenaスコアは22ポイント上昇の1,691でリーダーボード首位になったと同社は説明している。",
+      "url": "https://technode.com/2026/09/02/alibaba-upgrades-qwen38-max-with-new-0902-snapshot/",
+      "collectedAt": "2026-09-07T23:07:37Z"
+    }
+  ]
+}

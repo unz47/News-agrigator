@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-07",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Vite 8.3.0-beta.1 公開 — Vite DevTools の開発サーバー統合が入る",
+      "summary": "Viteは7日に v8.3.0-beta.1 を公開し、Vite DevTools の開発サーバー統合（devtools: enable dev server integration）が加わった。DevToolsはプラグインパイプラインやフックの実行順、モジュールが各プラグインを通過する際の変換過程を追跡できる。あわせて `resolveFileUrl` フックでのハッシュプレースホルダー保持、preloadリンクの不要なインライン化の抑止、ネストしたpackage.jsonでのパッケージルート解決など複数の不具合が修正された。",
+      "url": "https://github.com/vitejs/vite/releases/tag/v8.3.0-beta.1",
+      "collectedAt": "2026-09-07T23:07:37Z"
+    },
+    {
+      "title": "Angular 22.1.5 / 22.2.0-next.5 リリース — WebMCP ツール宣言のサポートを追加",
+      "summary": "Angularは9月2〜3日に安定版 22.1.5 とプレリリース 22.2.0-next.5 を公開した。coreにディレクティブのテスト用ユーティリティとWebMCPツール注釈のサポートが加わり、formsではWebMCPの暗黙的シグナルフォーム向けヒントが追加された。compiler-cliでは拡張診断における未呼び出しシグナルエイリアスの検査が修正され、routerでは自動クリーンアップインジェクターの安定化と、ユーザーエージェント側がビュー遷移を提供する場合の重複抑止が行われている。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-09-07T23:07:37Z"
+    },
+    {
+      "title": "Bun v1.4.2 リリース — v1.4.1 の回帰2件を含む7件の不具合を修正",
+      "summary": "Bunは5日に v1.4.2 を公開した。v1.4.1 で混入した回帰のうち、Elysia利用時に `bun build` が同一ブロック内の `let` と衝突する名前へネストした `var` をリネームしてSyntaxErrorになる問題と、AsyncLocalStorage のメモリリークを修正している。ほかに worker_threads の 'online' イベント順序、GC/JITのクラッシュ、Bun.Image でのCMYK JPEGデコード、`bun install` のロックファイルpanicにも対応。JavaScriptCoreも更新され、Intl・TypedArrayの正確性改善とDateオブジェクトの軽量化が入った。",
+      "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.2",
+      "collectedAt": "2026-09-07T23:07:37Z"
+    }
+  ]
+}
