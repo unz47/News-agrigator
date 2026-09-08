@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-08",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Enterprise Server 3.22 が一般提供開始 — エアギャップ環境での Copilot CLI に対応",
+      "summary": "GitHub Enterprise Server 3.22 が8日にGAとなった。GHESの設定によりCopilot CLIをネットワーク隔離された環境でも利用できるようになり、GitHub Cloudから独立した運用が可能になる。複数Organizationのユーザーとアクセスを一元管理する Enterprise teams がプレビューからGAに昇格したほか、リポジトリルールセットのユーザー単位バイパスやパターンマッチ付きの必須レビュアールールも追加された。",
+      "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+      "collectedAt": "2026-09-08T23:10:00Z"
+    },
+    {
+      "title": "GitHub、サポート窓口を help.github.com に統合した新ポータルを公開",
+      "summary": "GitHubがサポート・ドキュメント・学習コンテンツ・コミュニティ・アカウント管理を1か所にまとめた新しいポータル help.github.com を8日に公開した。サインイン不要でCopilotによる回答付きの横断検索が利用でき、製品ステータスやアナウンスも確認できる。ロールアウトは2週間かけて段階的に行われ、その間は既存の support.github.com も引き続き利用可能だ。",
+      "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+      "collectedAt": "2026-09-08T23:10:00Z"
+    },
+    {
+      "title": "Dependabot が GitHub ホストのレジストリへ自動アクセス可能に — PAT 不要",
+      "summary": "Dependabot がプライベートな GitHub Packages レジストリへアクセスする際、個人アクセストークンを用意せず packages: read 権限を付けた GITHUB_TOKEN を利用できるようになった。パッケージ設定の「Manage Actions access」で対象リポジトリに読み取り権限を与えるだけでよく、npm や Docker など Dependabot が対応する全エコシステムで機能する。6月23日にいったん公開後npmの解決衝突で撤回されていたが、明示的な認証情報を優先するフォールバック方式として再有効化された。",
+      "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+      "collectedAt": "2026-09-08T23:10:00Z"
+    },
+    {
+      "title": "Claude Code v2.1.265 — 複数プラグインを含むディレクトリの動的読み込みに対応",
+      "summary": "Claude Code v2.1.265 が公開された。複数のプラグインを含むディレクトリを動的にロードできるようになり、シンボリックリンクによるプラグインパス検証の回避も塞がれた。ディスク保存されるツール結果には1GBの上限と切り詰め通知が導入され、フォアグラウンドで起動したサブエージェントのプロンプトキャッシュ不具合や、権限プロンプトでのRuby/Erlang/Perl構文の文字化けも修正されている。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-08T23:10:00Z"
+    }
+  ]
+}

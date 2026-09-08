@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-08",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Chrome 153 が安定版で公開 — 単一軸スクロールコンテナと <camera>/<microphone> 要素",
+      "summary": "Chrome 153 が8日に安定版として公開された。CSSの overflow でスクロール値と clip を組み合わせられるようになり、片方の軸だけをスクロールコンテナにする指定が可能になった。映像・音声の取得を宣言的に扱う <camera> / <microphone> 要素と、複数のイテラブルをまとめる Iterator.zip() / Iterator.zipKeyed() も追加されている。",
+      "url": "https://developer.chrome.com/blog/new-in-chrome-153",
+      "collectedAt": "2026-09-08T23:10:00Z"
+    },
+    {
+      "title": "Node.js v24.21.0 'Krypton' (LTS) リリース — OpenSSL 3.5.8 と URL パースの高速化",
+      "summary": "LTS系列のNode.js v24.21.0 が8日にリリースされた。OpenSSLを3.5.8に、ルート証明書をNSS 3.126に更新し、STOREローダー経由の秘密鍵読み込みに対応した。WHATWG URL と URLSearchParams のパース高速化、net.BlockList とヒストグラムの性能改善、perf_hooks のヒストグラムへの統計的仮説検定の追加、例外を投げない MIMEType.parse() なども含まれる。",
+      "url": "https://github.com/nodejs/node/releases/tag/v24.21.0",
+      "collectedAt": "2026-09-08T23:10:00Z"
+    },
+    {
+      "title": "Vue 3.6.0-rc.7 公開 — Vapor Mode とリアクティビティの調整が続く",
+      "summary": "Vue のコアリポジトリで 3.6.0 のリリース候補第7弾となる v3.6.0-rc.7 が4日に公開された。3.6 系では alien-signals をベースにした @vue/reactivity の大規模リファクタリングにより、リアクティビティシステムの性能とメモリ使用量が改善されている。正式リリースに向けて Vapor Mode まわりの調整が継続中だ。",
+      "url": "https://github.com/vuejs/core/releases/tag/v3.6.0-rc.7",
+      "collectedAt": "2026-09-08T23:10:00Z"
+    },
+    {
+      "title": "Chrome の V8 ゼロデイ CVE-2026-85046 が実際に悪用 — 2026年6件目",
+      "summary": "GoogleはV8エンジンの型混同の脆弱性 CVE-2026-85046(CVSS 8.8)を修正し、実際に悪用されるエクスプロイトが存在すると認めた。悪意あるWebコンテンツを開くだけでChromeのサンドボックス内で任意コード実行につながる恐れがあり、修正は Chrome 152.0.7977.82/.83 で配信されている。2026年に入って6件目のChromeゼロデイで、Edge や Brave など全Chromium系ブラウザも同じ更新が必要となる。",
+      "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+      "collectedAt": "2026-09-08T23:10:00Z"
+    }
+  ]
+}
