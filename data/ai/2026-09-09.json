@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-09",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Devin を手がける Cognition が20億ドル超のシリーズEを調達 — 評価額480億ドルで4カ月で約2倍",
+      "summary": "AIソフトウェアエンジニア「Devin」を提供する Cognition が、Andreessen Horowitz と Accel が主導するシリーズEで20億ドル超を調達し、評価額480億ドルに達した。5月のシリーズD時点の260億ドルから約4カ月でほぼ倍増した形で、年換算収益も4億9200万ドルから約9億ドルへ拡大している。既存投資家の Founders Fund、General Catalyst、Avenir に加え NVIDIA など多数が参加し、Citi やメルセデス・ベンツ、米陸軍・海軍などが顧客に名を連ねる。",
+      "url": "https://www.unite.ai/cognition-raises-over-2b-series-e-at-48b-valuation-to-scale-devin-agents/",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    },
+    {
+      "title": "Meta がパーソナルAIエージェント「Muse」を米国で提供開始 — 予約・購入・交渉まで代行",
+      "summary": "Meta は18歳以上向けのパーソナルAIエージェント「Muse」を米国のiOS・Android・Webで公開した。メールの確認や旅行の予約、フォーム入力、交渉、カード決済までを代行し、1年分の運動計画づくりのような長期目標の行動計画化にも対応する。無料枠に加え月20ドルと月100ドルの有料プランがあり、エージェントとユーザーデータは専用のセキュアVM上で動作して会話内容が広告システムに共有されない設計。年内にはVM全体をユーザー保有の鍵で暗号化する Muse Confidential VM も予定されている。",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    },
+    {
+      "title": "Google DeepMind が「AlphaGenome Atlas」公開 — ヒトゲノム90億変異の分子影響を事前計算",
+      "summary": "Google DeepMind は、ヒトゲノム上で起こりうる約90億通りの1塩基変異すべてについて分子レベルの影響を予測した「AlphaGenome Atlas」を公開した。配列から機能を予測する AlphaGenome をゲノム全体に事前計算した約1ペタバイトのデータセットで、2022年に拡張した AlphaFold データベースの30倍以上の規模になる。AlphaMissense や保存性などを1つの数値に統合した AVI スコアも同時に公開され、Web ポータルと AlphaGenome API から利用できる。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    },
+    {
+      "title": "Qualcomm と AWS が推論向けカスタムシリコンで複数世代の提携 — 最大600億ドル規模",
+      "summary": "Qualcomm と Amazon は、AWS のデータセンター向けAI推論用カスタムASICと最大1.6Tbpsの光接続を複数世代にわたり共同開発する提携を発表した。Qualcomm にとって欧米ハイパースケーラー初の採用で、デコード処理が中心の推論負荷に向けたメモリ容量重視の「High Bandwidth Compute」アーキテクチャを採用する。Amazon には行使価格161.26ドルで最大2500万株を取得できるワラントが付与され、2036年までの購入上限は600億ドル、売上計上は2026年12月期からとなる見通し。",
+      "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    },
+    {
+      "title": "DeepSeek、V4.1 Flash を9月10日ごろ正式リリースへ — V4 Pro を全面的に上回ると主張",
+      "summary": "DeepSeek は公式サイトで、V4.1 Flash を北京時間の9月10日ごろに正式リリースする予定だと告知した。社内外のテストで性能・コスト・速度・総処理時間のいずれもV4 Proを上回ったとしており、正式公開後からV4.1 Pro提供開始までの間、V4 Pro宛のリクエストはすべてV4.1 Flashへ振り向けられV4.1 Flashの単価で課金される。9月10日以降のFlash系価格はオフピーク時でキャッシュヒット入力100万トークンあたり0.003ドル、ミス0.15ドル、出力0.6ドルで、ピーク時はその2倍となる。",
+      "url": "https://panews.io/articles/01a0856e-2bce-75c8-bca5-2be6af74ffd9",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    }
+  ]
+}

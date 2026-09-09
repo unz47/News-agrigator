@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-09",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "React 19.3 リリース — View Transitions が安定版に、Fragment Refs と browser() を追加",
+      "summary": "React 19.3 が公開され、ブラウザの View Transition API を使う `<ViewTransition>` が安定版となった。enter/exit/update/share の自動アニメーションに加え、`addTransitionType` で遷移の原因ごとに演出を切り替えられ、startTransition・Suspense・useDeferredValue と連携する。ラッパー div なしで兄弟要素群にイベントやフォーカス、IntersectionObserver を適用できる Fragment Refs、コンポーネントをSSRから除外する `browser()`、Trusted Types 対応、Server Components から直接 Context をレンダリングできる改善も入った。",
+      "url": "https://react.dev/blog/2026/09/09/react-19-3",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    },
+    {
+      "title": "Node.js v26.8.2 (Current) リリース — 実験的機能のセキュリティ修正と依存更新",
+      "summary": "Node.js の Current 系列で v26.8.2 が9日にリリースされた。実験的機能に関するセキュリティ上の取り扱いの精緻化とドキュメント改善が中心で、Undici 8.10.2 と OpenSSL 3.5.8 への依存更新を含む。前日8日にはLTSの v24.21.0 'Krypton' も公開され、STORE ローダー経由の秘密鍵読み込みやルート証明書の更新、net.BlockList の高速化が入っている。",
+      "url": "https://github.com/nodejs/node/releases",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    },
+    {
+      "title": "Next.js チームが「1カ月で1,500件のGitHub Issueをクローズした方法」を公開",
+      "summary": "Vercel の Next.js チームが、1カ月で約1,500件のGitHub Issueを処理した取り組みをブログで公開した。再現手順の整理やトリアージの自動化を含む運用の見直しについて具体的に説明しており、大規模OSSのIssue運用の実例として参考になる。同チームは前後して Turbopack のJavaScriptチャンク分割の仕組みを解説する記事も出している。",
+      "url": "https://nextjs.org/blog/how-we-closed-1500-github-issues",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    },
+    {
+      "title": "WebKit が Interop 2027 の提案受付を開始 — 9月23日まで",
+      "summary": "WebKit ブログが Interop 2027 のフォーカスエリア提案の募集を告知した。受付期間は9月3日から23日までで、提案はGitHub Issueとして投稿する。対象は仕様が成熟しテストが十分に揃った技術に限られ、そうでないものはまず標準化を進めるか「Interop Investigation」としての提案が推奨される。実際のユースケースや開発者の需要を示した、具体的でインパクトのある提案が求められている。",
+      "url": "https://webkit.org/blog/18283/submit-your-ideas-for-interop-2027/",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    }
+  ]
+}

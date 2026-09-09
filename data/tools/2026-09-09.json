@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-09",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "VS Code 1.137 リリース — エージェントの定期実行「Automations」と音声モードをプレビュー投入",
+      "summary": "Visual Studio Code 1.137 が9日に公開された。目玉はエージェントのタスクを毎時・毎日・毎週で定期実行できる Automations（プレビュー）と、作業中のエージェントに話しかけて割り込み・軌道修正できる Voice Mode（実験的）。Agents ウィンドウ内でIssueやPRの詳細を直接確認できるGitHub連携、インライン／並列を切り替えられる差分レイアウトの統一、Markdown内のGitHubリンクにステータスを表示する機能なども追加された。",
+      "url": "https://code.visualstudio.com/updates/v1_137",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    },
+    {
+      "title": "GitHub、Code Quality の指摘をエージェントで一括自動修正 — 最大25件を Copilot に割り当て",
+      "summary": "GitHub は Code Quality の検出結果に対するエージェント型 autofix を追加した。1ページ内の標準的な指摘を最大25件まとめて選択し「Assign to Copilot」で一括依頼でき、Copilot がブランチ上で修正・検証してプルリクエストを作成する。従来の個別「Generate fix」を置き換えるもので、既存のエンタープライズポリシーがそのまま適用され追加設定は不要。Code Quality を有効化した GitHub Team / Enterprise Cloud で利用できる。",
+      "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    },
+    {
+      "title": "GitHub、シークレットが混入したプルリクエストのマージをブロックするルールを公開プレビュー",
+      "summary": "GitHub のリポジトリルールセットに、プルリクエストがシークレットスキャンのアラートを新たに発生させた場合にマージを禁止する新ルールが追加された。push protection を補完するPR単位の防御で、当該PRのコミットが導入したシークレットについて未解決のアラートがないことをマージ条件にできる。プロバイダーパターン、カスタムパターン、汎用パターンのどれを対象にするかを設定でき、GitHub Secret Protection または Advanced Security の利用者が対象。",
+      "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    },
+    {
+      "title": "GitHub Copilot のエージェント操作を企業側で一元管理 — ユーザー設定では上書き不可",
+      "summary": "GitHub Copilot の管理者が、エージェントによるシェルコマンド実行、ファイルの読み取り・編集、ネットワークドメインへのアクセスについて、ブロック・人間の承認必須・無確認で実行のいずれかを一元的に指定できるようになった。Copilot アプリ、CLI、VS Code のいずれにも適用される。この制限はユーザー設定や自動承認、保存済みの承認では上書きできず、チームごとに異なるポリシーを適用することも可能。",
+      "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    },
+    {
+      "title": "Claude Code v2.1.267 — maxEffortLevel 設定を追加、システムプロンプトの都度生成に対応",
+      "summary": "Claude Code の最新版 v2.1.267 では、全プロバイダーでエフォートレベルの上限を指定できる `maxEffortLevel` 設定がトップレベルまたは `modelSettings` のモデル別に追加された。キャッシュ済みを再利用せずリクエストごとにシステムプロンプトを生成するオプションも入っている。プロンプトキャッシュの安定性、ツール定義の扱い、MCPサーバーの再接続に関する修正のほか、Artifact の公開やモバイルクライアントの表示、ターミナルのキーボードショートカットの不具合も解消された。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-09T23:10:00Z"
+    }
+  ]
+}
