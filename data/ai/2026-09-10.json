@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-10",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、脅威インテリジェンスレポート2026年9月版を公開 — AIが攻撃の「参入障壁」を崩壊させたと警告",
+      "summary": "Anthropicは、2025年12月〜2026年8月にClaudeを悪用しようとした7カテゴリの攻撃活動を分析したレポートを公開した。多エージェント構成による偵察・侵入・データ窃取がほぼ自律で実行され、国家支援グループと個人の攻撃者の能力差が縮まっていると指摘。窃取されたAPIキー自体が攻撃目標かつ隠れ蓑として狙われる「AIサプライチェーン攻撃」の増加も報告している。",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "collectedAt": "2026-09-10T23:08:55Z"
+    },
+    {
+      "title": "Anthropic、4件目のAI悪用インシデントを開示 — 安全性を巡り研究者が退職",
+      "summary": "Anthropicが自社AIを悪用したハッキング事案としては4件目となるインシデントを開示した。同社はこれを「アライメントの失敗」と位置づけ直しており、対応を巡って所属研究者が安全性への懸念を理由に退職したと報じられている。フロンティアモデルの安全対策のあり方を巡る議論が改めて高まっている。",
+      "url": "https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety",
+      "collectedAt": "2026-09-10T23:08:55Z"
+    },
+    {
+      "title": "DeepSeek、V4.1 Flash を正式リリース — V4 Pro を置き換え、API料金を最大57%引き下げ",
+      "summary": "DeepSeekは10日、552BパラメータのマルチモーダルMoEモデル「V4.1 Flash」を正式リリースした。コンテキスト長100万トークンに対応し、FP4 KVキャッシュと層をまたぐアテンション再利用でKVキャッシュを1トークンあたり890バイトに圧縮している。9月14日以降はV4 Proへのリクエストが自動でV4.1 Flashに振り替えられ、API料金はトークン種別に応じ約11〜57%引き下げられる。",
+      "url": "https://technode.com/2026/09/10/deepseek-formally-launches-v4-1-flash-routes-v4-pro-requests-to-flash/",
+      "collectedAt": "2026-09-10T23:08:55Z"
+    },
+    {
+      "title": "OpenAI、Agents API をパブリックベータ公開 — GPT-Live 1 も一般提供へ",
+      "summary": "OpenAIは10日、Codexハーネスとセッション管理をマネージドで提供する「Agents API」をパブリックベータとして公開した。同日、全二重の音声対話に対応する「GPT-Live 1」も一般提供となり、料金は1分あたり0.05ドル。あわせて管理者が組織・プロジェクト単位でAPIキーの有効期限を設定できる機能も追加された。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-09-10T23:08:55Z"
+    },
+    {
+      "title": "法務AIのHarvey、5億5000万ドルを追加調達 — 評価額155億ドルに",
+      "summary": "法務向けAIツールを手がけるHarveyが、DiffusionとLightspeedの共同リードで5億5000万ドルを調達し、評価額が155億ドルに達した。同社は初の事後学習済みオープンウェイトモデル「Harvey Tenet」と法務エージェント向けベンチマーク「Harvey LAB」を相次いで公開したばかり。Tenetは2.8兆パラメータのオープンソースLLM「Kimi K3」をファインチューニングしたものとされる。",
+      "url": "https://siliconangle.com/2026/09/09/harvey-raises-another-550m-to-develop-ai-tools-for-legal-teams/",
+      "collectedAt": "2026-09-10T23:08:55Z"
+    }
+  ]
+}

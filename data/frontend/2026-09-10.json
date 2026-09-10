@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-10",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Chrome 154 beta 公開 — text-decoration-inset や scroll-marker-group のtabsモードを追加",
+      "summary": "Chrome 154 がベータチャンネルに昇格した。CSSでは下線・上線・打ち消し線の間隔を制御する `text-decoration-inset`、空白部分に装飾線を引かない `text-decoration-skip-spaces`、アクセシビリティを高める `scroll-marker-group` の links / tabs モードが加わる。WebCryptoに耐量子暗号（ML-KEM、ML-DSA）とChaCha20-Poly1305が入り、Iteratorの `includes()` やオプション辞書に対応したWebSocketコンストラクタも利用可能になる。",
+      "url": "https://developer.chrome.com/blog/chrome-154-beta",
+      "collectedAt": "2026-09-10T23:08:55Z"
+    },
+    {
+      "title": "Apple、macOS 27 Golden Gate を9月14日に一般公開すると発表 — Safari 27 が広く行き渡る",
+      "summary": "Appleは、macOS 27「Golden Gate」を9月14日に対応Mac向けへ正式リリースすると発表した。同梱されるSafari 27にはカスタマイズ可能な `<select>`、CSSのみでMasonryレイアウトを実現するGrid lanes、transformを考慮したアンカーポジショニング、`:heading` 疑似クラスなど58の新機能が含まれる。ベータ段階だったこれらのWeb標準機能が、一般ユーザーの環境に一斉に届くことになる。",
+      "url": "https://www.macrumors.com/2026/09/10/macos-27-golden-gate-release-date/",
+      "collectedAt": "2026-09-10T23:08:55Z"
+    },
+    {
+      "title": "Angular、v22.1.6 のパッチリリースと v22.2.0-next.7 を公開",
+      "summary": "Angularチームが安定版のパッチリリース v22.1.6 を公開し、あわせて次期マイナー版のプレリリース v22.2.0-next.7 を進めている。LTS系列の v21.2.23 と v20.3.31 も同時に更新された。v22系ではSignal Forms、非同期Signal、Angular Ariaが本番利用可能な安定APIとして提供されており、v22.2 は9月中のリリースが見込まれる。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-09-10T23:08:55Z"
+    }
+  ]
+}
