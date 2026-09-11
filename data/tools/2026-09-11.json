@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-11",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub、Copilot code review を強化 — 指摘の自動解決と Lite での高深刻度検出が47%増",
+      "summary": "GitHub は11日、Copilot code review に3つの改善を投入した。指摘の原因が解消されると Copilot が自分のコメントを自動でクローズし、提案の適用時には内容に応じたコミットメッセージを生成する。レビューエージェントは Copilot SDK のシェルツール一式を使えるようになり、Lite エフォートはエージェントのアンサンブル構成に変更したことで高深刻度の検出が47%増、コストは約8%削減された。",
+      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    },
+    {
+      "title": "GitHub、Copilot 利用状況メトリクスに VS Code Agents ウィンドウの活動を追加",
+      "summary": "GitHub は11日、Copilot の利用状況メトリクスに VS Code の Agents ウィンドウでの活動を含めるよう拡張した。集計レポートには1日/28日の daily_active_vscode_agent_users と totals_by_vscode_agent が、ユーザー単位レポートには利用有無・セッション数・メッセージ数が追加される。エージェント型ワークフローの浸透度を通常のエディタ利用と分離して測定できるようになった。",
+      "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    },
+    {
+      "title": "Claude Code v2.1.269 — プラグイン評価コマンドと /output-style によるスタイル切り替えを追加",
+      "summary": "Claude Code v2.1.269 では、`claude plugin eval` による再現可能なスコアリングでプラグインを評価できる仕組みと、`/output-style [name]` での出力スタイル切り替えが追加された。Bash コマンドが編集を行った際の差分表示、OpenTelemetry へのVCS属性タグ付け、Workflow ツールの同時実行エージェント数の設定にも対応する。中断後のプロンプトキャッシュ無効化や、セッション圧縮後の git status の不整合も修正された。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    },
+    {
+      "title": "GitHub Actions、Xcode 27 ランナーイメージが macOS 27 上で稼働へ",
+      "summary": "GitHub Actions の Xcode 27 ランナーイメージが macOS 27 上で動作するようになった。Apple が9月14日に macOS 27 Golden Gate を一般公開する予定であることに合わせた更新で、iOS/macOS アプリのCIを最新のOSとツールチェーンで実行できる。",
+      "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    },
+    {
+      "title": "GitHub Copilot、MAI-Code-1-Flash の提供を終了",
+      "summary": "GitHub は Copilot で提供していたモデル MAI-Code-1-Flash を廃止（Retired）した。利用中のユーザーは他の提供モデルへ切り替える必要がある。Copilot のモデルラインナップ刷新が続いており、同週には週次リリースや code review の刷新も告知されている。",
+      "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    }
+  ]
+}

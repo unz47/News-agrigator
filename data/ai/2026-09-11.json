@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-11",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Sakana AI が「Fugu Max」「Fugu Ultra v2」を公開 — 一部ベンチで GPT-6 Astra / Fable 5.1 超えを主張",
+      "summary": "Sakana AI は11日、マルチエージェント型モデル「Fugu Max」と「Fugu Ultra v2」をOpenAI互換APIで同日提供開始した。Fugu Ultra v2 は自社評価で DeepSWE 74.3、Chartography 48.3 を記録し、一部ベンチマークで GPT-6 Astra や Claude Fable 5.1 を上回るとする。Fugu Max は出力価格を競合比40〜60%引き下げたコスト重視モデルで、100万トークンあたり入力2ドル・出力6ドル。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001405/",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    },
+    {
+      "title": "Microsoft、2032年までにデータセンター容量を38GWへ拡大 — 現在の約3倍",
+      "summary": "Microsoft はAI需要の逼迫を受け、世界のデータセンター容量を現在の約12ギガワットから2032年までに38ギガワット超へ拡大する計画を明らかにした。サーバー不足で一部のクラウド・AI顧客を受け入れられず、Temu が大型案件を Oracle に移すなどの機会損失が背景にある。現在AI向けは約2GWで、2032年には38GWの3分の1程度をAIが占める見込み。",
+      "url": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    },
+    {
+      "title": "光インターコネクトの Ayar Labs が追加1.5億ドルを調達 — 2026年の調達額は6.5億ドルに",
+      "summary": "コパッケージド光学（CPO）を手がける Ayar Labs が、シリーズEの追加ラウンドで1億5000万ドルを調達し、2026年の調達総額が6億5000万ドルに達した。量産移行に向けた製品開発・検証と製造エコシステムの拡張、インド・ベンガルールの新設計センター開設に充てる。AMD、Intel、NVIDIA、MediaTek などに加え、今回は Wiwynn が戦略投資家として加わった。",
+      "url": "https://siliconangle.com/2026/09/10/ayar-labs-bags-150m-in-additional-series-e-funding-to-help-make-bigger-ai-chip-clusters/",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    },
+    {
+      "title": "Claude に「Smart reports（ベータ）」— Enterprise 向けにチームの利用状況とコストを分析",
+      "summary": "Anthropic は9月10日付のリリースノートで、Enterprise プラン向け機能「Smart reports（ベータ）」を追加した。チームの利用パターンやコストを分析し、組織内でのClaude活用状況を可視化する。9月1日に公開された Claude Fable 5.1 / Mythos 5.1 に続く企業向け機能強化となる。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    },
+    {
+      "title": "OpenAI API、APIキーの有効期限管理に対応 — 組織・プロジェクト単位で上限を強制",
+      "summary": "OpenAI は API チェンジログで、APIキーの有効期限を管理する機能を追加したと発表した。管理者は組織単位またはプロジェクト単位でキーの最大有効期間を強制でき、長期間放置された認証情報によるリスクを抑えられる。同日には Agents API のパブリックベータ公開と GPT-Live 1 の提供開始も告知されている。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    }
+  ]
+}

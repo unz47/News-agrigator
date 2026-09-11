@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-11",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Safari Technology Preview 252 公開 — @supports の named-feature() と非接頭辞 user-select に対応",
+      "summary": "WebKit は11日、Safari Technology Preview 252 を macOS Golden Gate / Tahoe 向けに公開した。CSSでは @supports 内の named-feature() 関数、接頭辞なしの user-select プロパティ、text-decoration-inset のパーセンテージ値をサポートし、グリッドのサイズ計算や line-clamp、subgrid の不具合も修正している。WebAssembly の memory64 と複数メモリの併用や、WebGPU の snorm10-10-10-2 頂点フォーマットも追加された。",
+      "url": "https://webkit.org/blog/18304/release-notes-for-safari-technology-preview-252/",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    },
+    {
+      "title": "Vite v8.3.0 リリース — ビルドの preload 依存解決とプロキシ層を高速化",
+      "summary": "Vite v8.3.0 が9月10日に公開された。ビルド時に処理済みの preload 依存を再解決しないよう改め、サーバー生成時にコンテキストマッチャを事前コンパイルすることでプロキシ層の性能を改善している。あわせて code frame の位置計算における CRLF 改行の扱いと、node_modules をパスセグメント単位でのみ依存として扱う修正が入った。",
+      "url": "https://github.com/vitejs/vite/releases/tag/v8.3.0",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    },
+    {
+      "title": "Bun v1.4.2 リリース — v1.4.1 の回帰2件を含む7件の不具合を修正",
+      "summary": "JavaScript ランタイムの Bun が v1.4.2 を公開した。v1.4.1 で混入した bun build のリネーム不具合（Elysia アプリに影響）と AsyncLocalStorage のメモリリークという2件の回帰を修正している。ほかに worker_threads の 'online' イベント順序、GC/JIT のクラッシュ、Bun.Image の CMYK JPEG デコード、bun install のロックファイル panic を直し、JavaScriptCore を更新した。",
+      "url": "https://github.com/oven-sh/bun/releases",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    },
+    {
+      "title": "WebKit、Safari 27 でトップレベル await を仕様準拠に — モジュールローダーを C++ で全面書き直し",
+      "summary": "WebKit は Safari 27 向けにモジュールローダーを全面的に書き直し、トップレベル await の仕様完全準拠を達成したと解説した。従来は2016年当時のWHATWG提案に基づく実装で ECMAScript 2022 の非同期モジュール実行を正しく扱えず、モジュールのエクスポート参照時に初期化エラーが起きていた。新実装はセルフホストのJavaScriptではなくネイティブC++で仕様の疑似コードを直訳し、他エンジンとバイト単位で一致することを検証している。",
+      "url": "https://webkit.org/blog/18227/fixing-top-level-await-in-safari/",
+      "collectedAt": "2026-09-11T09:00:00+09:00"
+    }
+  ]
+}
