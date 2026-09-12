@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-12",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "アルトマンCEO、OpenAIは最先端AI開発の減速も辞さないと社内に表明",
+      "summary": "OpenAIのサム・アルトマンCEOは全社会議で、最先端AIの開発ペースを落とすことに前向きだと従業員に伝え、他の主要ラボにも同調を望むと語った。背景にはOpenAIとAnthropicの研究者から相次ぐ安全性への警告があり、同社は8月に安全策の強化のため一部のモデル学習を約2週間停止していた。ただし全てのラボが歩調を合わせるとは限らないとも述べている。",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
+      "collectedAt": "2026-09-12T23:08:00Z"
+    },
+    {
+      "title": "OpenAIと米GSAが27カ月のOneGov契約 — 1ドル契約を終了しトークン料金を50%割引",
+      "summary": "米連邦調達庁（GSA）とOpenAIは、10月1日発効の27カ月契約でChatGPT各モデルのトークン従量料金を50%割引すると発表した。2025年8月に結んだ1機関あたり年1ドルの契約は9月30日で終了し、新契約ではプラットフォーム利用料・最低発注量・支出コミットメントがいずれも不要となる。連邦行政府だけでなく立法・司法機関や州・地方・部族政府にも対象が広がり、約2300万人が利用可能になる見込み。",
+      "url": "https://www.nextgov.com/acquisition/2026/09/gsa-unveils-new-token-based-onegov-discount-openai/415908/",
+      "collectedAt": "2026-09-12T23:08:00Z"
+    },
+    {
+      "title": "中国AIチップの燧原科技が科創板に上場、初日に約3倍へ急騰",
+      "summary": "テンセントが出資するAIチップ企業の燧原科技（Enflame、688801）が9月11日に上海証券取引所の科創板へ上場した。初値は公開価格142.18元を大きく上回り、一時234%高まで買われて終値は約206%高、時価総額は約1760億元に達した。これで摩爾線程・沐曦・壁仞を含む中国「GPU四小竜」の上場が出そろったが、4社とも上半期の売上高は10億元を超える一方で黒字化には至っていない。",
+      "url": "https://panews.io/articles/01a08f31-602d-7467-a730-87b2720e6ba3",
+      "collectedAt": "2026-09-12T23:08:00Z"
+    },
+    {
+      "title": "推論チップの Positron AI が8億7500万ドルを調達 — 評価額50億ドルに",
+      "summary": "推論特化シリコンを手がけるPositron AIは、ポストマネー評価額50億ドルでシリーズCとして総額8億7500万ドルを調達した。NEAやValor Equity Partnersなどが共同主導する3億7500万ドル分に加え、ネットスケープ共同創業者ジム・クラーク氏が支える最大5億ドルのシリーズC-1で構成される。資金は次世代チップ「Asimov」のテープアウトや推論システム「Titan」の量産立ち上げに充てられ、評価額は2月のシリーズBから約5倍に伸びた。",
+      "url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html",
+      "collectedAt": "2026-09-12T23:08:00Z"
+    },
+    {
+      "title": "Ant International・Mastercard・Visa が「Know-Your-Agent」相互運用で協業開始",
+      "summary": "3社はAIエージェントによる決済を安全に拡大するため、エージェント身元確認の相互運用枠組み「Know-Your-Agent（KYA）」の共同検討を始めると発表した。Visa の Trusted Agent Protocol、Mastercard の Verifiable Intent、Ant International の Agentic Mobile Protocol という個別プロトコルを橋渡しし、共通の信頼シグナルを決済エコシステム横断で認識できるようにする。2030年までにAIエージェントが3〜5兆ドルの消費取引を仲介するとの予測が背景にある。",
+      "url": "https://www.ant-intl.com/en/news/detail/?id=ant-international-mastercard-and-visa-initiate-collaboration-on-know-your-agent-interoperability-to-scale-agentic-commerce",
+      "collectedAt": "2026-09-12T23:08:00Z"
+    }
+  ]
+}

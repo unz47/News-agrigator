@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-12",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Chrome 153 安定版が公開 — 2週間リリースサイクルの初弾、単軸スクロールや Iterator.zip() を追加",
+      "summary": "9月8日公開のChrome 153から、デスクトップ・Android・iOSのリリース間隔が4週間から2週間に短縮された。新機能としてCSSの overflow に「scroll clip」「auto clip」を指定して片方の軸だけをスクロールコンテナにできる単軸スクロールコンテナ、映像・音声取得を宣言的に扱う &lt;camera&gt; / &lt;microphone&gt; 要素、複数イテレータを同期して進める Iterator.zip() / Iterator.zipKeyed() が入った。",
+      "url": "https://developer.chrome.com/blog/new-in-chrome-153",
+      "collectedAt": "2026-09-12T23:08:00Z"
+    },
+    {
+      "title": "Node.js v24.21.0（LTS Krypton）リリース — ヒストグラム改善と perf_hooks の統計的検定を追加",
+      "summary": "9月8日にLTSラインのNode.js v24.21.0が公開された。semver-minorの追加としてヒストグラム実装の改善、net.BlockList の性能向上、perf_hooks への統計的仮説検定機能の導入が含まれる。Currentラインでは9月9日に v26.8.2 が出ており、OpenSSL 3.5.8 と Undici 8.10.2 への更新などが取り込まれている。",
+      "url": "https://github.com/nodejs/node/releases",
+      "collectedAt": "2026-09-12T23:08:00Z"
+    },
+    {
+      "title": "pnpm 12.4 系がマルチエコシステム対応 — npm・Python・Cargo の依存を1つのワークスペースで管理",
+      "summary": "9月8日の pnpm 12.4.0 で、npm に加えて Python と Cargo の依存関係を単一ワークスペースでまとめて扱えるマルチエコシステム対応が入った。キャッシュ付きでワークスペースのタスクを実行する pnpm pipeline コマンドが追加され、Android・FreeBSD や追加のLinuxアーキテクチャにも対応範囲が広がっている。9月10日の 12.4.1 ではハードリンクやCoWクローンを拒否する環境での導入不具合を修正し、9月12日には保守系の 11.27.0 も公開された。",
+      "url": "https://github.com/pnpm/pnpm/releases",
+      "collectedAt": "2026-09-12T23:08:00Z"
+    },
+    {
+      "title": "Firefox 156 は9月15日リリース予定 — 内蔵PDFビューアが最大45%高速化",
+      "summary": "9月15日に安定版が出る予定のFirefox 156では、内蔵PDFビューアの起動が最大45%速くなる。大きなJPEG画像を縮小表示する際のメモリとCPU使用量も改善され、macOSでは起動時にFirefoxを自動で開く設定が追加された。リッチテキストエディタでのインライン画像のドラッグ移動や、MP4内の高サンプルレートFLAC再生も改善される。",
+      "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/156",
+      "collectedAt": "2026-09-12T23:08:00Z"
+    }
+  ]
+}

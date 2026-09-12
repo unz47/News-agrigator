@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-12",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.270 — 長時間セッションで読み取り専用gitコマンドが許可を求める不具合を修正",
+      "summary": "Claude Code の最新パッチ v2.1.270 が公開された。セッションを長く続けているとBashツール内の読み取り専用gitコマンドが不意に許可確認を求めてしまう問題が修正されている。直前の v2.1.269 では plugin eval コマンドや /output-style による表示形式の切り替えが追加されていた。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-12T23:08:00Z"
+    },
+    {
+      "title": "Kiro CLI 2.21.4 公開 — セッション検索範囲の指定と --v2 ハーネス選択に対応",
+      "summary": "9月11日に Kiro CLI 2.21.4 がリリースされた。セッション管理が強化され、検索対象の範囲をカスタマイズできるようになったほか、--v2 フラグでV2ハーネスを選択できる。設定メニュー全体でキーボード操作が統一され、移動の挙動がそろえられた。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-09-12T23:08:00Z"
+    },
+    {
+      "title": "Kiro Crew 0.6.0 — ハーネス選択とリモート接続、最長4時間の長時間タスクに対応",
+      "summary": "9月5日公開の Kiro Crew 0.6.0 は、エージェントのハーネスを選べるようにし、リモートのCrewへ接続できるようにした大型リリース。長時間タスクのタイムアウトが最長4時間まで延長され、表情付きのカスタムアバターやアプリ一覧の Apps Launchpad も加わった。動作には Python 3.12 以上が必要になる。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-09-12T23:08:00Z"
+    }
+  ]
+}
