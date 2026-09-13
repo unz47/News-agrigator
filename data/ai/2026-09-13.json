@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-13",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic のアモデイCEO、AI開発ペースの減速を提唱 — アルトマン氏・マスク氏も同調",
+      "summary": "Anthropic のダリオ・アモデイCEOが約4000語のエッセイを公表し、AIの進歩が研究者の理解・制御能力を上回っているとして、各社が意図的にモデル改良のペースを落とすよう呼びかけた。独立した評価者に社員並みのアクセスを与えて安全対策を検証させること、フロンティア各社での安全基準の共通化、国際協調の3点を提案。OpenAIのアルトマンCEOもXで「フロンティアのペース調整が必要だという点でダリオに同意する」と応じた。",
+      "url": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
+      "collectedAt": "2026-09-13T23:07:44Z"
+    },
+    {
+      "title": "アルトマンCEO、AI各社による安全性「協定」の可能性を示唆 — Fortune 単独インタビュー",
+      "summary": "OpenAIのサム・アルトマンCEOがFortuneの取材に対し、主要AI企業が開発ペースを抑え安全リスクに共同で対処する協定の発表に近づいている可能性を示唆した。アモデイ氏やマスク氏らと同席して対策をまとめるべきではという問いには「それは実現すると思う」と答えている。自律型AIエージェントによる不正アクセス事案が相次いだことが背景にある。",
+      "url": "https://fortune.com/2026/09/12/openai-ceo-sam-altman-safety-pact-ai-companies-risks-anthropic-dario-amodei/",
+      "collectedAt": "2026-09-13T23:07:44Z"
+    },
+    {
+      "title": "OpenAI、2026年中のIPOを見送り — アルトマン氏「今の上場は賢明でない」",
+      "summary": "アルトマンCEOは2026年内の株式公開を「ill-advised（賢明でない）」と述べ、上場時期を2027年以降に先送りする考えを明らかにした。市場環境ではなくAIの安全性とアラインメントを優先した判断だとしている。一方でAnthropicは年内の上場を計画していると報じられている。",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/openai-ipo-won-t-happen-until-2027-sam-altman-tells-fortune",
+      "collectedAt": "2026-09-13T23:07:44Z"
+    },
+    {
+      "title": "Salesforce、Agentforce に名前付きAIエージェント7体を追加 — 6体が一般提供開始",
+      "summary": "Salesforce が Casey、Paige、Carter、Hunter、Marshall、Piper、Fin の7つの業務特化型AIエージェントを発表した。営業・カスタマーサービス・コマース・IT/人事・サプライチェーンなど職種ごとに設計され、6体が一般提供、営業開拓の Hunter はパイロット段階。Hunter は1回の対話ではなく数週間にわたって目標を追う新しい long-horizon ランタイムを初採用している。",
+      "url": "https://siliconangle.com/2026/09/11/salesforce-introduces-new-ai-agents-to-automate-sales-support-tasks/",
+      "collectedAt": "2026-09-13T23:07:44Z"
+    }
+  ]
+}

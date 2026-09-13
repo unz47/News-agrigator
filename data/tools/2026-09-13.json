@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-13",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "VS Code 1.137 公開 — エージェントの定期実行「Automations」と音声対話モードを追加",
+      "summary": "Visual Studio Code 1.137 がリリースされ、エージェントのタスクを毎時・毎日・毎週または任意のタイミングで実行できる Automations（プレビュー）が追加された。作業中のエージェントに話しかけて中断・指示できる Voice Mode（実験的）も搭載。GitHub の Issue や Pull Request の詳細を Agents ウィンドウ内で確認できるようになり、クイックチャットを履歴を保ったままワークスペースのセッションへ引き継げるようになった。",
+      "url": "https://code.visualstudio.com/updates/v1_137",
+      "collectedAt": "2026-09-13T23:07:44Z"
+    },
+    {
+      "title": "GitHub Copilot 週次リリース（9月7日週）— Jira 連携と Copilot CLI の Project HydraFusion",
+      "summary": "Copilot アプリに Jira 連携が追加され、Jira の課題を共有キャンバスに取り込んで調査・実装・PR 準備まで文脈を引き継げるようになった。Copilot CLI には実験的機能として Project HydraFusion が入り、ローカル・クラウド・複合モデル間を自動でセマンティックルーティングして、タスクごとに性能・コスト・レイテンシのバランスを取ったワークフローを選択する。",
+      "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7/",
+      "collectedAt": "2026-09-13T23:07:44Z"
+    },
+    {
+      "title": "JetBrains 版 Copilot にエンタープライズ管理サンドボックスがパブリックプレビュー",
+      "summary": "管理者が JetBrains IDE 上の GitHub Copilot のサンドボックス挙動を一元設定できるようになった。サンドボックスの有効化可否、ファイルシステム・ネットワークアクセス、プロキシ設定、開発ツールへのアクセス、macOS キーチェーンへのアクセスをポリシーで制御できる。管理側の制限はユーザー設定より優先され、IDE 上では該当項目がロックされ組織管理下であることが明示される。",
+      "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains/",
+      "collectedAt": "2026-09-13T23:07:44Z"
+    },
+    {
+      "title": "Zed v1.19.2 リリース — コール階層表示と Git パネルの複数選択に対応",
+      "summary": "Zed の安定版 v1.19.2 が公開され、`call hierarchy: show incoming calls` / `show outgoing calls` によるコール階層の表示、Git パネルでの複数選択、無題バッファの言語自動判定、入力と同時にプロジェクト検索が走る挙動が追加された。先行する v1.18.0 では CSV/TSV などの表形式データプレビューや C/C++ のインラインデバッガ値表示が導入されている。",
+      "url": "https://github.com/zed-industries/zed/releases",
+      "collectedAt": "2026-09-13T23:07:44Z"
+    }
+  ]
+}

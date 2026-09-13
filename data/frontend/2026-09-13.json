@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-13",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "React 19.3 リリース — View Transitions と Fragment Refs、browser() API が正式追加",
+      "summary": "React 19.3 が公開され、`<ViewTransition />` コンポーネントと `addTransitionType` によるビュー遷移アニメーションが利用可能になった。`<Fragment />` に ref を付けられる Fragment Refs、Suspense 境界内でブラウザ専用コードを扱う react-dom の `browser()` API、Trusted Types 対応も追加。トランジションが互いに独立してレンダリングされるようになり、遅い遷移が他をブロックしなくなった。",
+      "url": "https://react.dev/blog/2026/09/09/react-19-3",
+      "collectedAt": "2026-09-13T23:07:44Z"
+    },
+    {
+      "title": "Vue 3.6.0-rc.8 を公開 — Vapor Mode の安定版リリースに向け RC を継続",
+      "summary": "Vue の 3.6 系リリース候補の8本目となる v3.6.0-rc.8 が公開された。3.6 では仮想DOMを使わない新しいコンパイル方式「Vapor Mode」がオプトインで導入され、Solid.js や Svelte 5 並みの性能を目指す。あわせて alien-signals を基にしたリアクティビティシステムの全面刷新により、実行性能とメモリ使用量が大きく改善されている。",
+      "url": "https://github.com/vuejs/core/releases/tag/v3.6.0-rc.8",
+      "collectedAt": "2026-09-13T23:07:44Z"
+    },
+    {
+      "title": "Node.js v26.8.2（Current）リリース — Undici 8.10.2 と OpenSSL 3.5.8 に更新",
+      "summary": "Current 系の Node.js v26.8.2 が公開され、依存ライブラリを Undici 8.10.2、OpenSSL 3.5.8 へ更新した。実験的機能のセキュリティ脆弱性の取り扱い方針（security vulnerability posture）に関する記述も見直されている。v26.8.0 では SIV / GCM-SIV 暗号モード、REPL の構文ハイライト、zlib の ZipEntry・ZipFile・ZipBuffer クラスが追加されていた。",
+      "url": "https://github.com/nodejs/node/releases",
+      "collectedAt": "2026-09-13T23:07:44Z"
+    },
+    {
+      "title": "pnpm 12.4.1 リリース — ハードリンク失敗時のコピーフォールバックを追加",
+      "summary": "pnpm 12.4.1 が公開され、Android や EdenFS などハードリンクが機能しないファイルシステムでコピーにフォールバックするようになった。繰り返しインストールの高速化と `hoisted` node linker の不具合修正も含まれる。直前の 12.4.0 では npm・Python・Cargo の依存を同一ワークスペースで管理するマルチエコシステム対応と `pnpm pipeline` が導入されている。",
+      "url": "https://github.com/pnpm/pnpm/releases",
+      "collectedAt": "2026-09-13T23:07:44Z"
+    }
+  ]
+}
