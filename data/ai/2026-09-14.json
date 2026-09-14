@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-14",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "中国外務省、アモデイ氏のAI減速論に反発 — 「恐怖心をあおるだけ」",
+      "summary": "中国外務省の郭嘉昆報道官は14日の定例会見で、Anthropic のアモデイCEOらが唱えるフロンティアAI開発の減速論について「恐怖心をあおること、対立、悪質な競争は世界のAIガバナンスを乱すだけで誰の利益にもならない」と反発した。アモデイ氏は12日公開の論考「We Must Pace the Frontier」で、中国がAIで先行すれば米国と世界に重大な危険をもたらすとして先端AIチップの対中規制維持を求めていた。国営メディアの環球時報も同論考を「AI分野の冷戦の教本」と批判している。",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/china-rejects-ai-fearmongering-after-amodei-urges-slowdown",
+      "collectedAt": "2026-09-14T23:07:03Z"
+    },
+    {
+      "title": "Apple、iOS 27 を配信開始 — LLM ベースの新Siri「Siri AI」をベータ提供",
+      "summary": "Appleは14日、iOS 27 の一般提供を開始し、大規模言語モデルを用いて刷新した「Siri AI」を投入した。メッセージやメール、カレンダーなど端末内の個人データを横断検索して住所やレシピを探し出せるほか、一般的な質問への回答やWeb検索にも対応する。Siri AI はベータでオプトイン制、EUでは規制上の理由で当初は非提供、日本語などへの対応は来月を予定している。",
+      "url": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
+      "collectedAt": "2026-09-14T23:07:03Z"
+    },
+    {
+      "title": "Perplexity、GPT-6 Astra に本番システムの運用まで委任 — OpenAI が事例公開",
+      "summary": "OpenAIは14日、検索AIの Perplexity が GPT-6 Astra を社内コミュニケーションの作成、本番ソフトウェアの改修、稼働中システムの監視にまで用いている事例を公開した。従来世代のモデルより人手による確認の頻度を大幅に減らせている点が特徴とされる。同社のJohnny Ho氏は、モデルのコーディング能力が上がるたびに検索エンジン自体の品質も向上すると説明している。",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra/",
+      "collectedAt": "2026-09-14T23:07:03Z"
+    }
+  ]
+}

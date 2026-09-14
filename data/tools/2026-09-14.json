@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-14",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot の自動モデル選択にコストと品質の3段階を追加",
+      "summary": "GitHub は Copilot の auto model selection に「Efficiency」「Balance」「Intelligence」の3ティアを追加した。いずれも同じモデル群を使い、プロンプトごとに評価されるため、Intelligence を選んでも docstring 追加のような単純な依頼には小型モデルが割り当てられる。課金はティアではなく実際に選ばれたモデルに基づき、有料プランの自動選択10％割引も維持される。VS Code、Copilot CLI、GitHub Copilot アプリに順次展開中。",
+      "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+      "collectedAt": "2026-09-14T23:07:03Z"
+    },
+    {
+      "title": "Claude Code v2.1.271 — リモートセッションの Fast mode と Bash の allowed_domains を追加",
+      "summary": "Claude Code v2.1.271 が公開され、クラウドおよびセルフホストランナーの Claude Code Remote セッションで Fast mode が使えるようになった。`/config` パネルのフルスクリーン表示でマウス操作に対応し、`claude self-hosted-runner --drain-marker-file <path>` も追加されている。Bash・PowerShell・Monitor にコマンド単位の allowed_domains を設定できるようになったほか、組織ポリシーのキャッシュや MCP 制御まわりの不具合修正、起動と描画の高速化も含まれる。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-14T23:07:03Z"
+    },
+    {
+      "title": "Zed v1.20.1-pre 公開 — Unix/macOS のファイルディスクリプタ上限を引き上げ",
+      "summary": "Zed のプレリリース v1.20.1-pre が14日に公開された。Unix/macOS で既定のファイルディスクリプタ上限を引き上げ、「Too many open files」エラーを回避しやすくしたほか、ローカルファイル監視を調査するデバッグ用ツールが追加された。SSH リモートモードでファイルを開き直せない問題や、補完ラベルの CRLF 正規化の不具合も修正されている。",
+      "url": "https://github.com/zed-industries/zed/releases",
+      "collectedAt": "2026-09-14T23:07:03Z"
+    },
+    {
+      "title": "OpenAI Codex、0.155.0 系のアルファ版を継続リリース",
+      "summary": "OpenAI Codex は 0.155.0-alpha.4 を14日にプレリリースし、0.155 系のアルファ更新を短い間隔で重ねている。直前の Python SDK 0.154.0 では reasoning-effort に `max` と `ultra` が加わり、同期・非同期呼び出し向けの `ExternalMessage` や、`include_turns` などの履歴選択オプションが導入された。安定版に向けて機能追加とプロトコル調整が続いている状況。",
+      "url": "https://github.com/openai/codex/releases",
+      "collectedAt": "2026-09-14T23:07:03Z"
+    }
+  ]
+}

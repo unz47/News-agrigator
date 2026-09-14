@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-14",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Safari 27 が正式リリース — 新機能58件・修正525件、customizable select や JSPI に対応",
+      "summary": "Appleは14日、iOS 27 / macOS 27 Golden Gate の公開に合わせて Safari 27 をリリースした。CSS では :heading 擬似クラス、revert-rule キーワード、box-sizing の stretch、変形に追随するアンカー配置に対応し、フォームではアクセシビリティを損なわずに独自デザインできる customizable select が使えるようになった。WebAssembly の JavaScript Promise Integration (JSPI) や <model> 要素も加わり、新機能58件に対し修正が525件と品質向上に重点が置かれている。",
+      "url": "https://developer.apple.com/documentation/safari-release-notes/safari-27-release-notes",
+      "collectedAt": "2026-09-14T23:07:03Z"
+    },
+    {
+      "title": "Next.js 16.3.5 リリース — ディスクキャッシュの不具合修正と CSP nonce 付与",
+      "summary": "安定版の Next.js 16.3.5 が公開された。ディスクLRUキャッシュ初期化時に0バイトのエントリを読み飛ばす修正や、ディスクキャッシュ読み書き時の空画像の拒否、script タグへの CSP nonce 付与などが backport されている。standalone 出力のアダプタ対応や use cache の prerender シグナル保持の改善も含まれる。",
+      "url": "https://github.com/vercel/next.js/releases",
+      "collectedAt": "2026-09-14T23:07:03Z"
+    },
+    {
+      "title": "pnpm 11.27 リリース — Node.js ダウンロードミラーのグローバル設定に対応",
+      "summary": "pnpm の11系メンテナンスリリース 11.27 が公開された。Node.js のダウンロードミラーをグローバル設定できるようになり、使われなくなった信頼ポリシーの除外設定を自動的に整理する仕組みも入った。最新の12系（12.4.1）とは別に、11系の利用者向けに設定周りの改善が継続されている。",
+      "url": "https://github.com/pnpm/pnpm/releases",
+      "collectedAt": "2026-09-14T23:07:03Z"
+    },
+    {
+      "title": "Astro 7.3.2 リリース — MDX のスクリプト/スタイル出力と i18n フォールバックを修正",
+      "summary": "Astro 7.3.2 では、MDX 内の script / style で動的な値を信頼されたマークアップとして扱わずエスケープするよう修正された。ワークスペースリンクされたパッケージが未検出の依存を読み込む際に dev ツールバーが504エラーになる問題や、/energy/en/about のようなパスを壊していた i18n のフォールバックルーティングも修正されている。Cloudflare アダプタの dev モードでのセッション不具合も解消された。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-09-14T23:07:03Z"
+    }
+  ]
+}
