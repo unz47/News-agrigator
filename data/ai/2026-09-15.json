@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-15",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、「Salesforce in Claude」をベータ提供開始 — 37種の営業スキルを標準搭載",
+      "summary": "Anthropicは15日、Salesforceと共同開発したプラグイン「Salesforce in Claude」のベータ提供を開始した。取引先・商談・パイプラインのデータにClaudeから直接アクセスでき、商談準備やディールの健全性レビューなど37の事前構築スキルを利用できる。全有料プランが対象だが、Salesforceのベータ審査を通過した組織に限定される。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-09-15T23:07:54Z"
+    },
+    {
+      "title": "OpenAI・Anthropic・Google DeepMind、AI安全性を巡り数週間前から協議していたと判明",
+      "summary": "OpenAIの世界政策責任者クリス・レーン氏は15日、同社がAnthropicおよびGoogle DeepMindとAIの安全性について数週間にわたり協議を続けてきたと明らかにした。業界主導の新たな安全性基準団体の設立が視野に入っており、AIが経済や安全保障に及ぼすリスクへの懸念の高まりに業界として応える動きが加速している。",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "collectedAt": "2026-09-15T23:07:54Z"
+    },
+    {
+      "title": "AI開発減速論を受け米AI関連株が急落 — NVIDIAは一時4.3%安、SOX指数は6%安",
+      "summary": "14日の米株式市場では、AI企業首脳による先端モデルの開発減速論を嫌気してAI・半導体関連株に売りが広がった。NVIDIAが一時4.3%下落し、フィラデルフィア半導体株指数（SOX）は6%安となった。サウジアラビアのパイプライン停止に伴う原油高も重なり、主要3指数がそろって下落した。",
+      "url": "https://www.zaikei.co.jp/article/20260915/870036.html",
+      "collectedAt": "2026-09-15T23:07:54Z"
+    }
+  ]
+}

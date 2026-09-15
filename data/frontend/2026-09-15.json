@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-15",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Firefox 156 が正式リリース — 内蔵PDFビューアの起動が最大45%高速化",
+      "summary": "Mozillaは15日、Firefox 156 の安定版を公開した。内蔵PDFビューアの起動が最大45%高速化したほか、大きなJPEG画像をデコード時に縮小することでメモリとCPUの使用量を削減した。実験的機能としてスコープ付きカスタム要素レジストリに対応し、attachShadow() に独自のCustomElementRegistryを渡せるようになった。",
+      "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/156",
+      "collectedAt": "2026-09-15T23:07:54Z"
+    },
+    {
+      "title": "pnpm 12.4.2 リリース — 実行シムのセキュリティ修正とワークスペースのpeer依存チェック高速化",
+      "summary": "pnpm 12.4.2 が15日に公開された。実行可能シムとGitHub Actionsリンクに関するセキュリティ修正を含み、FreeBSDをはじめとするUnix系プラットフォームでのインストール安定性が向上した。ワークスペースにおけるpeer依存の検査が高速化され、Pythonのロックファイルが互換ターゲット間で動作するようになった。",
+      "url": "https://github.com/pnpm/pnpm/releases",
+      "collectedAt": "2026-09-15T23:07:54Z"
+    },
+    {
+      "title": "Biome v2.5.13 公開 — CSSカスケードレイヤー向けルール追加とフォーマッタ最大50%高速化",
+      "summary": "Rust製のリンタ・フォーマッタ Biome の v2.5.13 が公開された。CSSのカスケードレイヤー利用を促す useLayeredStyles や、DOM走査の改善を促す useBetterDomTraversing といった新ルールが加わった。フォーマッタの性能も改善され、ケースによっては最大50%程度高速化している。",
+      "url": "https://github.com/biomejs/biome/releases",
+      "collectedAt": "2026-09-15T23:07:54Z"
+    },
+    {
+      "title": "Rolldown v1.2.8 リリース — hotUpdate フックを制御する dev オプションを追加",
+      "summary": "Rust製バンドラ Rolldown の v1.2.8 が公開された。開発モード向けに hotUpdate フックの挙動を制御する dev オプションが追加されている。あわせて動的エントリの扱いと外部ワイルドカード再エクスポートに関する不具合が修正された。",
+      "url": "https://github.com/rolldown/rolldown/releases",
+      "collectedAt": "2026-09-15T23:07:54Z"
+    }
+  ]
+}

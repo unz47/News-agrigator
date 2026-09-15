@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-15",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub、HTTPS接続でのSHA-1利用を廃止 — github.com とEnterprise Cloudが対象",
+      "summary": "GitHubは15日、予告どおり github.com、パートナーCDN、GitHub Enterprise Cloud（データレジデンシー版を含む）のHTTPS接続でSHA-1を無効化した。GitHub Enterprise Server は影響を受けない。SHA-1に依存していた環境はサポート対象の暗号アルゴリズムへの移行が必要となる。",
+      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "collectedAt": "2026-09-15T23:07:54Z"
+    },
+    {
+      "title": "GitHub Advanced Security の構成強制がOrganization所有者にも適用可能に",
+      "summary": "GitHubは15日、Advanced Security の設定強制の選択肢を拡張した。これまではリポジトリ所有者による上書きを防ぐだけだったが、新たに「リポジトリとOrganizationの所有者に強制」を選べるようになった。Enterprise管理者が定義した構成を組織階層をまたいで一貫して維持できる。",
+      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+      "collectedAt": "2026-09-15T23:07:54Z"
+    },
+    {
+      "title": "GitHub Copilot、カスタムプロパティ定義で許可値を提案するパブリックプレビュー",
+      "summary": "リポジトリのカスタムプロパティを作成する際に、Copilot が許可値の候補を提案する機能がパブリックプレビューとして公開された。「FedRAMP」のようなコンプライアンス系プロパティにはそれに沿った値を、boolean型には yes/no を提案するなど、型と文脈に応じた候補を出す。Copilot Business / Enterprise が対象で、ポリシーで提供可否を管理できる。",
+      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+      "collectedAt": "2026-09-15T23:07:54Z"
+    },
+    {
+      "title": "Claude Code v2.1.273 — MCPサーバーの切断通知と自動再接続、セッションのフォークに対応",
+      "summary": "Claude Code の v2.1.273 が公開された。MCPサーバーの切断を通知して自動的に再接続する仕組みと、リモートコントロールセッションをフォークする機能が追加された。LLMゲートウェイ向けのリクエストヘッダー追加や、完全に解析できないコマンドでのBash権限チェックの不具合修正も含まれる。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-15T23:07:54Z"
+    },
+    {
+      "title": "Kiro、GPT-5.6 Sol/Terra/Luna のコンテキストを1Mトークンに拡張 — IDE 1.1 も公開",
+      "summary": "Kiro は GPT-5.6 Sol / Terra / Luna のコンテキストウィンドウを272Kから1Mトークンへ拡張し、IDE・CLI・Web のすべてで利用可能にした。272Kを超える利用は課金レートが2倍になる二段階制。あわせて IDE 1.1 ではエージェントが文書や図、コードなどの成果物を生成してレビューできる Agent Artifacts と、Windows/Linux 向けネイティブARM64ビルドが追加された。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-09-15T23:07:54Z"
+    }
+  ]
+}
