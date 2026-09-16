@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-16",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Node.js 26.9.0 (Current) リリース — FFI モジュールがデフォルト有効に",
+      "summary": "Node.js 26.9.0 が公開され、FFI モジュールがデフォルトで有効化された。暗号面では汎用 MAC API の追加と OpenSSL プロバイダからの暗号・ハッシュ探索に対応し、実験的な DTLS API も入った。加えて Web Workers のサポートが追加されている。",
+      "url": "https://github.com/nodejs/node/releases",
+      "collectedAt": "2026-09-16T23:07:33Z"
+    },
+    {
+      "title": "Astro 7.3.3 リリース — 画像エンドポイントのエラー応答と dev 起動の高速化",
+      "summary": "Astro 7.3.3 では、ローカル画像のパスが不正・存在しない場合に画像エンドポイントが適切に 400 / 404 を返すよう修正された。モジュールグラフの並列コンパイルにより dev サーバーの起動時間も改善している。CSP ハッシュ計算での SVG の style 要素の扱いや、コンテンツコレクションの HMR 更新も修正された。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-09-16T23:07:33Z"
+    },
+    {
+      "title": "Biome v2.5.14 公開 — nursery ルール3種を追加",
+      "summary": "Biome CLI v2.5.14 が公開され、nursery ルールとして noReturnInFinally、noSvelteAtDebugTags、useValidTestTitle が追加された。フォーマッタは複数行のテンプレート補間の扱いが修正されている。Vue・Svelte・Astro の各ファイルに対するルール挙動も改善された。",
+      "url": "https://github.com/biomejs/biome/releases",
+      "collectedAt": "2026-09-16T23:07:33Z"
+    },
+    {
+      "title": "Rolldown v1.2.9 リリース — トップレベル this 経由の CommonJS exports に対応",
+      "summary": "Rolldown v1.2.9 では、トップレベルの this を通じた CommonJS の exports が正しく扱われるようになった。minify 時にアノテーションコメントを保持するようになり、ルートの遅延取得によってパフォーマンスも向上している。新たに MODULE_LEVEL_DIRECTIVE 警告が導入され、プラグインと watch モードの不具合も修正された。",
+      "url": "https://github.com/rolldown/rolldown/releases",
+      "collectedAt": "2026-09-16T23:07:33Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-16",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "VS Code 1.138 リリース — エージェントを Dev Container 内で実行可能に",
+      "summary": "VS Code 1.138 が公開され、エージェントのセッションをローカルフォルダの Dev Container 内で実行できるようになった。Codex 連携も拡張され、Copilot と ChatGPT のサブスクリプションを選べるほか、アプリをまたいでセッションを継続できる。エージェントセッションから直接プルリクエストを作成する機能や、マージ済みセッションを自動で完了扱いにするプレビュー機能も加わった。",
+      "url": "https://code.visualstudio.com/updates/v1_138",
+      "collectedAt": "2026-09-16T23:07:33Z"
+    },
+    {
+      "title": "GitHub Copilot の予算増額リクエストが一般提供に",
+      "summary": "Copilot の AI クレジットを使い切ったメンバーが、その場で予算の増額をリクエストできる機能が一般提供になった。Organization / Enterprise のオーナーは設定画面でリクエストを確認し、金額を調整して承認すれば即座に AI 機能の利用を再開させられる。従量課金を利用する Copilot Business / Enterprise プランが対象。",
+      "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available/",
+      "collectedAt": "2026-09-16T23:07:33Z"
+    },
+    {
+      "title": "GitHub の Code scanning AI Scan、CodeQL デフォルトセットアップが不要に",
+      "summary": "プルリクエスト向けの AI Scan が CodeQL のデフォルトセットアップに依存しなくなり、リポジトリ / Organization / Enterprise のいずれかで code scanning が有効ならば利用できるようになった。これにより対象リポジトリを広げて脆弱性検出をかけられる。現在は github.com の Organization 所有および個人リポジトリでパブリックプレビュー、GitHub Advanced Security 契約者が対象。",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup/",
+      "collectedAt": "2026-09-16T23:07:33Z"
+    },
+    {
+      "title": "GitHub、クラシック PAT と SSH 鍵の SSO 認可を自動化",
+      "summary": "クラシック Personal Access Token と SSH 鍵について、SAML SSO の認可を自動化できるようになった。これまで手作業だった Organization ごとの認可手順を省けるため、CI やスクリプトからのアクセス設定が簡素化される。",
+      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys/",
+      "collectedAt": "2026-09-16T23:07:33Z"
+    },
+    {
+      "title": "GitHub の SCIM ユーザー応答に profileUrl 属性を追加",
+      "summary": "GitHub の SCIM API のユーザー応答に profileUrl 属性が含まれるようになった。IdP 側から各ユーザーの GitHub プロフィールへ直接辿れるため、アカウントの棚卸しや監査がしやすくなる。",
+      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute/",
+      "collectedAt": "2026-09-16T23:07:33Z"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-16",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "MS AI CEO のスレイマン氏、Anthropic の「AI意識」観を公開批判 — 「夢遊病のように進むな」",
+      "summary": "Microsoft AI CEO のムスタファ・スレイマン氏が16日にエッセイを公開し、Anthropic が Claude の憲法（constitution）に意識の可能性を書き込んでいることは制御不能なAIを生みかねないと批判した。同氏は「AIは意識を持たず、感じも、経験も、苦しみもしない」と主張し、Anthropic の手法を「認識論の鏡の間」と表現した。AI安全性を巡る主要ラボ間の対立が公然化した形だ。",
+      "url": "https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness",
+      "collectedAt": "2026-09-16T23:07:33Z"
+    },
+    {
+      "title": "ベンジオ氏の非営利 LawZero に加・独が最大3億ドルを拠出へ",
+      "summary": "チューリング賞受賞者ヨシュア・ベンジオ氏が率いるモントリオールの非営利組織 LawZero に、カナダとドイツがそれぞれ最大1億5000万ドル、計3億ドルの資金拠出を表明した。資金は人材採用と計算資源に充てられ、強化学習を使わずに逸脱した振る舞いを検知する監視システム「Scientist AI」の開発を支える。発表はモントリオールの All In AI カンファレンスで行われた。",
+      "url": "https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/",
+      "collectedAt": "2026-09-16T23:07:33Z"
+    },
+    {
+      "title": "OpenAI・Anthropic・Google、フロンティアAIの業界標準化団体の設立を模索",
+      "summary": "OpenAI の政策責任者クリス・レヘイン氏が、Anthropic と Google DeepMind との間でフロンティアAIの安全性に関する共同の標準化団体の設立を協議していると明らかにした。7月からワーキンググループで議論が続いており、独立した第三者評価者の導入なども検討対象となっている。ただし拘束力のある合意はまだなく、独占禁止法上の論点も未解決とされる。",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-openai-and-anthropic-float-idea-of-ai-standards-body/",
+      "collectedAt": "2026-09-16T23:07:33Z"
+    },
+    {
+      "title": "中国 UBTECH、10分に1体を生産するヒューマノイド量産工場を稼働",
+      "summary": "中国の UBTECH が広西チワン族自治区・柳州で産業用ヒューマノイドロボットの量産工場を稼働させた。1万4000平方メートルの施設で年間1万台以上の生産能力を持ち、生産ラインは10分に1体のペースで組み上がる設計だという。工場では同社の Cruzr ロボットや自律搬送機器が製造工程そのものを担い、Walker S シリーズなどを生産する。",
+      "url": "https://en.sedaily.com/international/2026/09/16/chinas-ubtech-opens-plant-making-a-humanoid-robot-every-10",
+      "collectedAt": "2026-09-16T23:07:33Z"
+    }
+  ]
+}
