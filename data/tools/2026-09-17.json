@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-17",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.275 — claude.ai アカウントからのスキル/プラグイン同期に対応",
+      "summary": "Claude Code の v2.1.275 が公開され、claude.ai アカウントからスキルとプラグインを同期できるようになった。ゲートウェイのサインイン確認や、入力をすぐ送信するキーボードショートカットも追加されている。ファイル候補表示やフルスクリーンモード、vimモードのカーソル位置など多数の不具合も修正された。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    },
+    {
+      "title": "GitHub Actions、ワークフロー実行の保護機能が一般提供に",
+      "summary": "GitHub Actions の「workflow execution protections」が一般提供（GA）となった。サプライチェーンセキュリティ向けの機能で、ワークフローの実行に対する保護ルールを適用できる。プレビュー期間を経て全ユーザーが利用可能になった。",
+      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    },
+    {
+      "title": "GitHub Actions の Ubuntu 26 ランナーが一般提供 — latest ラベルの移行も開始",
+      "summary": "GitHub Actions のホストランナーで Ubuntu 26 イメージが一般提供となった。あわせて `ubuntu-latest` ラベルが指す先を Ubuntu 26 へ移行する作業が始まる。既存ワークフローは移行スケジュールを確認し、必要ならバージョンを明示的に固定する対応が求められる。",
+      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    },
+    {
+      "title": "GitHub Copilot の impact dashboard が機能別の利用状況を表示",
+      "summary": "GitHub は Copilot の impact dashboard を改善し、機能ごとのエンゲージメント（利用状況）を確認できるようにした。Enterprise 管理者は組織内でどの Copilot 機能が実際に使われているかを把握しやすくなる。あわせて、エージェント型CLIのカスタマイズ状況が usage metrics API からも取得できるようになった。",
+      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    },
+    {
+      "title": "Kiro、Claude Fable 5.1 プレビューを企業向けに提供 — CLI 2.22.0 でフルスクリーンチャット",
+      "summary": "Kiro はエンタープライズ利用者向けに Claude Fable 5.1 のプレビューを開始した。1Mトークンのコンテキストウィンドウに対応し、クレジット倍率は6倍、推論は US East 限定で不正利用検知が適用される。同時公開の CLI 2.22.0 では会話をターミナル全画面に展開できるフルスクリーンチャットが加わり、V3 セッションダッシュボードの検索・絞り込み・並べ替えも整理された。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    }
+  ]
+}

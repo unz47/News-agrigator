@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-17",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Vue v3.5.43 リリース — SFCコンパイラとSuspenseまわりのバグ修正13件",
+      "summary": "Vue 3系の安定版 v3.5.43 が公開され、13件のバグ修正が入った。compiler-sfc では文字列や url() 内のコメント区切り文字を誤認識する問題や switch case 内の await 処理を修正し、ハイドレーション時の leave フック実行や入れ子 Suspense のパッチ処理も改善された。リアクティビティ側では配列コピーメソッドでの readonly ラッパー保持や looseEqual の循環参照対応も含まれる。",
+      "url": "https://github.com/vuejs/core/releases/tag/v3.5.43",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    },
+    {
+      "title": "Angular 22.1.7 と 22.2.0-rc.0 を公開 — 出力バインディングの綴り誤りを検出する新オプション",
+      "summary": "Angular は安定版 22.1.7 と、次期マイナーのリリース候補 22.2.0-rc.0 を公開した。22.2.0-rc.0 では compiler-cli に `strictUnclaimedEventNames` オプションが追加され、綴りを間違えた出力バインディングをコンパイル時に検出できる。両バージョンで `@for` のコレクション式が非null表明を含む場合の不具合や、null/undefined ディレクティブのメタデータ取得も修正された。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    },
+    {
+      "title": "Deno v2.9.7 リリース — audit が設定済みCAストアを尊重、権限チェックも改善",
+      "summary": "Deno v2.9.7 が公開され、31件のバグ修正と4件のパフォーマンス改善が入った。audit 機能が設定済みのCAストアを参照するようになり、CLIの権限記述子の検証やHTTPキャッシュのパス処理の曖昧さも解消された。child process のシグナルやDNSエラーコードなど Node.js 互換性の改善、SQLite のシンボリックリンク保護も含まれる。",
+      "url": "https://github.com/denoland/deno/releases/tag/v2.9.7",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    },
+    {
+      "title": "Vitest v5.0.1 リリース — メジャー更新 v5.0 後の初パッチ",
+      "summary": "Node.js 22以上・Vite 6.4以上を要求するメジャー版 Vitest 5 に続き、初のパッチ v5.0.1 が公開された。UI ではトレース試行のセレクタ配置を変更し、トレースビューを集中表示できるようにした。テスト収集の失敗や自動モック、スナップショット報告の不具合、型定義と deepMerge のプロトタイプ処理も修正されている。",
+      "url": "https://github.com/vitest-dev/vitest/releases",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    },
+    {
+      "title": "astro-vscode 2.17.0 公開 — Biome ベースの astro2tsx でエディタ支援を刷新",
+      "summary": "Astro の VS Code 拡張 2.17.0 が公開され、`.astro` ファイルの解析が Biome を用いた新しい astro2tsx 実装に置き換わった。未完成の構文やジェネリック型など従来は苦手だったケースでの補完・型表示が改善される。あわせてフロントマターをまたぐインポート整理や、フレームワークコンポーネントのインポートに付く AstroComponent サフィックスの除去も修正された。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    }
+  ]
+}

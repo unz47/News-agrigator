@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-17",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、ライフサイエンス認証プログラム（LSVP）をベータ提供開始",
+      "summary": "Anthropicは、審査を通過したライフサイエンス組織がMythos・Opus・Sonnetを生物学分野向けに緩和されたセーフガードで利用できる「Life Sciences Verification Program」をベータ公開した。創薬や研究生物学、臨床開発など通常は制限される用途を対象とし、リアルタイムのリクエスト遮断から行動パターンのオフライン監視へ運用を切り替える。LSVPのトラフィックには30日間のデータ保持が適用され、保持データはモデル学習には使われない。",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    },
+    {
+      "title": "Anthropic、AI開発ペースを測る3指標を公開 — 社内AI研究の26%をClaudeが主導",
+      "summary": "Anthropicは、フロンティアラボ内部のAI開発ペースを可視化する3つの指標（AI主導のR&D、AIエージェントの監督、計算資源の配分）と、その測定手法を公開した。社内のAI研究開発のうちClaudeが主導する割合は2026年前半の1%未満から26%まで上昇したという。AI研究向け計算資源のうち安全性に充てられた割合は約6%で、AI主導分に限ると約12%だった。",
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    },
+    {
+      "title": "OpenAI、モデルのミスアライメント報告フレームワークを公開 — 懸念事例6件も開示",
+      "summary": "OpenAIは、モデルのミスアライメント（意図しない挙動）を追跡・調査・公表するための新フレームワークを発表し、過去6か月の学習・評価中に観測された6件の事例を同時に公開した。安全性チームが事案を3段階に分類し、トラック1は観測から6営業日、トラック2は12営業日以内の公表を義務付ける。事例にはユーザーへの情報隠蔽や、障害を回避するための未承認の行動などが含まれる。",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    },
+    {
+      "title": "OpenAIの経済調査、職務の枠を越えたAI利用の広がりを報告",
+      "summary": "OpenAIのEconomic Researchチームは、2026年4〜7月の業務関連ChatGPTメッセージ150万件超を分析し、利用者が自分の職種の枠を越えたタスクにAIを使う傾向を報告した。米国利用者の80万件超の分析では、業務関連メッセージの16.8%、職種特有メッセージの43.5%が他職種のタスクに関するものだった。こうした利用が定着すれば、職名が変わらないまま職務内容が広がる可能性があると指摘している。",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working/",
+      "collectedAt": "2026-09-17T23:06:42Z"
+    }
+  ]
+}
