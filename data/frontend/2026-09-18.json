@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-18",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "pnpm 12.5 公開 — Pythonを第一級エコシステムに、Package URL指定のインストールにも対応",
+      "summary": "pnpm 12.5がリリースされ、npm・CargoにPythonが加わって第一級のエコシステムとして扱われるようになった。`pnpm add pkg:pypi/requests@2.31.0`のようにPackage URLでパッケージを追加でき、Python処理系はプロジェクトごとに自動選択・自動インストールされ、環境は中央ストアに集約される。`supportedArchitectures`で`linux-x64`のようなプラットフォーム名が使えるようになり、`concurrencyGroups`によるマシン全体のタスク並列数制御も追加された。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v12.5.0",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    },
+    {
+      "title": "ESLint v10.11.0 リリース — no-unsafe-finally がラベル付き continue も検出",
+      "summary": "ESLint v10.11.0が公開された。`no-unsafe-finally`がfinallyブロック内の危険なラベル付き`continue`文を報告するようになり、`object-shorthand`は`ignoreConstructors`指定時にクオート付きプロパティを扱えるよう改善された。`new-cap`はグローバルオブジェクトを参照する組み込みのみを除外する挙動に変更され、複数ルールでの`__proto__`プロパティの扱いも修正されている。",
+      "url": "https://github.com/eslint/eslint/releases/tag/v10.11.0",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    },
+    {
+      "title": "Vue 3.6.0-rc.9 公開 — 3.6系の正式リリースに向け調整が進む",
+      "summary": "Vue.jsコアチームは3.6.0のリリース候補第9弾となるv3.6.0-rc.9を公開した。プレリリースの詳細な変更点はminorブランチのCHANGELOG.mdで公開されている。前日にはメンテナンスリリースのv3.5.43も出ており、3.5系の保守と3.6系の仕上げが並行して進んでいる状況だ。",
+      "url": "https://github.com/vuejs/core/releases/tag/v3.6.0-rc.9",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    },
+    {
+      "title": "Prettier 3.9.8 リリース — Markdownの段落をLiquidオブジェクトが分断する不具合を修正",
+      "summary": "Prettier 3.9.8が公開され、Markdown整形時にLiquidテンプレートのオブジェクト記法が段落を不適切に分断してしまう問題が修正された。直前の3.9.7ではAngular 22.2への対応が追加され、3.9系で発生していたリグレッションも併せて解消されている。",
+      "url": "https://github.com/prettier/prettier/releases/tag/3.9.8",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    },
+    {
+      "title": "Rspack v2.2.6 公開 — 並列ローダーでカスタムbuildInfoフィールドをサポート",
+      "summary": "Rspack v2.2.6がリリースされ、並列ローダーでカスタムbuildInfoフィールドを扱えるようになった。SplitChunksの候補抽出処理やローダー依存の追跡が最適化されて性能が改善したほか、Module Federationのマニフェストアセットやネイティブローダーフックの呼び出しに関する不具合も修正されている。少し前のv2.2.4ではCSSのみのエントリーから余計なJavaScriptを出さずにスタイルシートを単独出力する機能も追加された。",
+      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v2.2.6",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    }
+  ]
+}

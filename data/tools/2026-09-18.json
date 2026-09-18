@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-18",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.277 — CLAUDE.mdがないプロジェクトでAGENTS.mdをサポート",
+      "summary": "Claude Code v2.1.277が公開され、CLAUDE.mdが存在しないプロジェクトでAGENTS.mdを読み込めるようになった。Claudeアプリのゲートウェイ向けにプロキシ設定オプションも追加されている。「text content blocks must be non-empty」エラーで会話が失敗する問題やプラグインのインストール不具合、Editツールのエスケープ文字の扱い、セッション再開時に文脈が欠落する問題など、安定性の修正が中心のリリースとなった。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    },
+    {
+      "title": "GitHub Copilot code review が刷新 — 指摘を「未対応/解決済み/見落とし」に分類",
+      "summary": "GitHubはCopilot code reviewのレビュー体験を改善した。概要コメントが指摘を「Open」「Resolved since last review」「Previously missed」に分類して表示するようになり、対応が必要な項目に集中しやすくなった。ユーザーの返信を尊重して「Won't Fix」「Incorrect」といった理由付きで自動解決する挙動が加わり、提案をまとめて受け入れる際にはコミットのタイトルと説明が自動生成される。",
+      "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    },
+    {
+      "title": "npm に「ステージ専用」トークンが登場 — 自動化から直接publishできない権限を新設",
+      "summary": "GitHubはnpmの粒度指定トークンに「Read and write (stage only)」という権限レベルを追加した。CI等の自動化ワークフローは`npm stage publish`でバージョンをステージングできるが、`npm publish`による直接公開はできず、リリースはメンテナが2要素認証で承認する必要がある。dist-tag操作やバージョンの非推奨化といった他の書き込み権限は維持され、2027年1月に廃止予定の2FAバイパストークンからの移行先として位置づけられている。",
+      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    },
+    {
+      "title": "GitHub Copilot、10月中旬に一部モデルを提供終了へ — GPT-5.5やGemini 3.7 Flashなど",
+      "summary": "GitHubは10月19日に、Chat・インライン編集・コード補完を含むすべてのCopilot体験から5種類のモデルを引退させると告知した。GPT-5.5とGPT-5.4はGPT-5.6 Solへ、GPT-5.4 miniとGPT-5 miniはGPT-5.6 Lunaへ、Gemini 3.7 Flashは3.8 Flashへ、Grok 4.5はGrok 4.6へそれぞれ自動的に移行される。EnterpriseおよびBusinessでは既定が無効化されていない限り後継モデルが自動で有効化される。",
+      "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    },
+    {
+      "title": "コードカバレッジのrulesetをREST APIで管理可能に — GitHubで一般提供開始",
+      "summary": "GitHubはリポジトリrulesetの「Restrict code coverage」オプションをREST APIで作成・更新・参照できる機能を一般提供にした。これまではWeb UIからしか設定できなかったため、多数のリポジトリへの一括適用やInfrastructure as Codeとの連携が難しかった。利用にはGitHub Code Qualityの有効化とカバレッジのアップロード設定が必要で、Enterprise CloudとTeamが対象（Enterprise Serverは非対応）となる。",
+      "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    }
+  ]
+}

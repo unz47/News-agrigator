@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-18",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、Accentureと「埋め込み型評価」で提携 — 5年で10億ドル超を投資",
+      "summary": "Anthropicは、フロンティアモデルの独立評価をAccentureのAI専門部門Facultyが主導する形で実施する提携を発表した。従来の外部評価者と異なり、評価者はAnthropic社内に常駐して従業員相当のアクセス権を持ち、モデル開発の様子や意思決定を直接観察しながらレッドチーミングやアラインメント評価、セーフガード検証を行う。両社は5年間で少なくとも10億ドルを投じる計画で、AnthropicはMETRなど他の評価機関とも協議を進めている。",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    },
+    {
+      "title": "OpenAIが法務特化の「Astra for Law」を投入 — 2億3000万URLの法令検索インデックスを構築",
+      "summary": "OpenAIは、GPT-6 Astraを法務向けに構成した「Astra for Law」と、独自の法令検索インデックスを公開した。米国の判例・制定法・規則・裁判所規則・行政決定など2億3000万を超えるURLを対象とし、判例の多くはCourtListenerを運営するFree Law Project由来で米国の公刊判例の99.9%以上をカバーするという。Latham & WatkinsやCooleyなど大手法律事務所が先行導入し、当面はChatGPTとCodex上のTrusted Accessプログラムで提供される。",
+      "url": "https://thenextweb.com/news/openai-astra-for-law-gpt-6-legal-search-index",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    },
+    {
+      "title": "NVIDIAのフアンCEO「来年はチップ販売数量が2倍に」 — AI需要の減速論を否定",
+      "summary": "NVIDIAのジェンスン・フアンCEOは、来年のチップ販売数量が今年の2倍になるとの見通しを示した。売上高ベースではなく半導体の出荷個数ベースの見立てで、GPUに加えCPUやスイッチ、光ネットワーク向けチップなども含まれる。各国でAI投資意欲が強いことを理由に挙げ、AI需要の減速を指摘する声を退けた形で、サムスン電子やSKハイニックスなどメモリ株の追い風にもなった。",
+      "url": "https://en.sedaily.com/international/2026/09/18/nvidia-ceo-says-chip-sales-volume-will-double-next-year",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    },
+    {
+      "title": "Google DeepMindがAGI議論の新組織「DeepMind Institute」を設立",
+      "summary": "Google DeepMindは、AGI（汎用人工知能）に社会がどう備えるべきかを検討する社内シンクタンク「DeepMind Institute」を立ち上げた。デミス・ハサビス氏、シェーン・レッグ氏、ジェームズ・マニーカ氏が運営し、AGIの安全性や推論の透明性、経済政策、科学・教育へのアクセスなどを研究対象とする。社外の研究者にも寄稿を開放し、各論考にはGoogleの公式見解ではない旨の注記が付される。",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "collectedAt": "2026-09-18T23:10:00Z"
+    }
+  ]
+}
