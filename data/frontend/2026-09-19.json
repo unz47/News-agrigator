@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-19",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Storybook 11.0.0-alpha.1 公開 — Angular 21 / Next.js 15 / Vite 7 へ要件を引き上げ、CRA サポートを終了",
+      "summary": "Storybook 11 系の2番目のアルファ版が公開され、Node.js 22.12+ を必須としたうえで Angular 21、Next.js 15、Vitest 4、Vite 7 へと最低要件を引き上げた。Create React App と Yarn PnP のサポートは削除され、@storybook/nextjs パッケージも v12 での削除に向け非推奨となる。Addon Links に同期的にURLを生成する hrefToSync が加わったほか、モーダルのフォーカス管理などアクセシビリティ改善も多数含む。",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v11.0.0-alpha.1",
+      "collectedAt": "2026-09-19T23:07:20Z"
+    },
+    {
+      "title": "Nx 23.3.0-beta.2 リリース — プラグイン機能のキャッシュで読み込みコストを1回に削減",
+      "summary": "モノレポ管理ツール Nx の 23.3.0 ベータ2が公開された。プラグインの capability をキャッシュし、読み込みコストを最大でも1回に抑える最適化が入ったほか、Nx Cloud のプロンプトから「never」の選択肢が削除された。esbuild のバンドル出力先が overridden outputPath に書き込まれない不具合や、プロジェクトグラフ構築失敗時のエラーが見えにくい問題も修正されている。",
+      "url": "https://github.com/nrwl/nx/releases/tag/23.3.0-beta.2",
+      "collectedAt": "2026-09-19T23:07:20Z"
+    },
+    {
+      "title": "Turborepo v2.11.0 公開 — TUI の仮想端末を Ghostty へ移行、mimalloc 採用で高速化",
+      "summary": "Turborepo のマイナーアップデート v2.11.0 が公開され、TUI の仮想端末実装が vt100 から Ghostty に置き換わって互換性が向上した。グローバルアロケータへの mimalloc 採用、Git blob の SHA-1 ハッシュのハードウェアアクセラレーション、pnpm/Yarn Berry/Bun のロックファイル解析最適化など性能面の改善が並ぶ。uv ワークスペースの自動検出や pytest によるPythonタスク実行、Rust 向け sccache 内蔵など多言語対応も進んだ。",
+      "url": "https://github.com/vercel/turborepo/releases/tag/v2.11.0",
+      "collectedAt": "2026-09-19T23:07:20Z"
+    },
+    {
+      "title": "pnpm 12.5.1 リリース — 未知の設定でも停止せず継続、16MiB超ロックファイルの再インストール問題も解消",
+      "summary": "pnpm 12.5 系の最初のパッチが公開された。`pnpm-workspace.yaml` に未知の設定があっても起動を拒否せず警告して処理を続けるようになり、将来のバージョンとの前方互換性が高まった。Cargo 設定がシンボリックリンクの場合に「Too many levels of symbolic links」となる不具合や、16MiB を超えるロックファイルで毎回フルインストールが走る問題も修正されている。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v12.5.1",
+      "collectedAt": "2026-09-19T23:07:20Z"
+    },
+    {
+      "title": "Svelte 5.57.1 公開 — パーサー高速化とSSRのGC負荷軽減を含む14件の修正",
+      "summary": "Svelte のパッチリリース 5.57.1 が公開され、14件の修正とパフォーマンス改善が入った。クリーンアップ時に遅延イベントリスナーをキャンセルする修正や、スコープ対象要素を持たないコンポーネントでグローバルCSSを保持する修正が含まれる。SSR のレンダリング結果に伴うガベージコレクションを削減し、Acorn とのやり取りを減らすことでパーサー処理も高速化された。",
+      "url": "https://github.com/sveltejs/svelte/releases/tag/svelte%405.57.1",
+      "collectedAt": "2026-09-19T23:07:20Z"
+    }
+  ]
+}

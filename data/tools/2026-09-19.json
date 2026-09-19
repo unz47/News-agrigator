@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-19",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.278 — auto モードの判定をサーバー側分類器に変更し分類オーバーヘッド課金を削減",
+      "summary": "Claude API および Enterprise 利用者向けに、auto モードの既定動作がサーバー側の分類器を使う方式へ変更され、分類処理にかかる追加課金が減る。現在のセッションで分類器がどこで動いているかを示す「Auto mode server」ステータス表示も追加された。空のテキストブロックを含むアシスタント応答で会話が失敗する不具合や、旧ビルドの併存による予期しないログアウトも修正されている。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-19T23:07:20Z"
+    },
+    {
+      "title": "OpenAI Codex 0.155.0 公開 — 実験的な音声会話 `/voice` とMacのTouch ID確認に対応",
+      "summary": "OpenAI の CLI エージェント Codex の 0.155.0 が公開され、ライブ文字起こしとマイク制御を備えた実験的な音声会話コマンド `/voice` が追加された。TUI はステータス行に推論サマリーと完了時刻を表示するようになり、エージェント一覧でタスクの非表示・アーカイブ・削除が可能になった。対応Macでは MCP リクエストの確認に Touch ID を利用でき、翌18日の 0.155.1 では推論サマリーを既定で無効に戻す修正が入っている。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0",
+      "collectedAt": "2026-09-19T23:07:20Z"
+    },
+    {
+      "title": "GitHub Copilot 週次リリース（9月14日週）— Sentry 連携とコスト/品質を選ぶ3ティア",
+      "summary": "Copilot の週次アップデートがまとめて公開された。コードレビューは対応済みコメントを自動解決し、提案適用時にコミットメッセージを生成するようになったほか、コストと品質・応答速度の重み付けを選べる efficiency / balance / intelligence の3ティアが導入された。Copilot アプリでは Sentry 連携によりクラッシュレポートから修正まで一気通貫で進められ、VS Code Agents ウィンドウから離れずにプルリクエストを作成できるようになった。",
+      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+      "collectedAt": "2026-09-19T23:07:20Z"
+    },
+    {
+      "title": "Devin が仮想環境で macOS を提供開始 — Mac実機なしで iOS アプリのビルドからTestFlight配信まで",
+      "summary": "AIコーディングエージェント Devin が、これまでの Ubuntu Linux と Windows に加えて仮想環境での macOS 提供を開始した。Mac の実機を用意しなくても macOS/iOS 向けのコード生成、テスト、デバッグ、実行が可能で、App Store 配信前の TestFlight によるベータ公開まで Devin 側で完結できる。iOS シミュレータを起動してテストプレイまで行う様子もデモとして示されている。",
+      "url": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
+      "collectedAt": "2026-09-19T23:07:20Z"
+    },
+    {
+      "title": "PlanetScale、PostgreSQL のシャーディングを自動化する新DBサービス「Neki」をプレビュー公開",
+      "summary": "PlanetScale が、Vitess に着想を得て PostgreSQL のシャーディングを自動化する新サービス「Neki」をプレビュー公開した。約1.4ペタバイトのデータを512シャードに分割したベンチマークで最大1億1875万QPSを記録し、シャード数にほぼ比例して性能が伸びたという。クライアント接続は標準の PostgreSQL プロトコルを使うため既存ドライバやツールをそのまま利用でき、非シャード構成から始めて後からシャーディングへ移行することもできる。",
+      "url": "https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html",
+      "collectedAt": "2026-09-19T23:07:20Z"
+    }
+  ]
+}
