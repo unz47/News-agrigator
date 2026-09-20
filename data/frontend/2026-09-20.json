@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-20",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Safari 27.0 のWebKit新機能が公開 — カスタマイズ可能な select、Safari MCPサーバー、844件の品質改善",
+      "summary": "WebKitがSafari 27.0の新機能をまとめたリリースノートを公開した。ネイティブの`<select>`を完全にスタイル可能にするカスタマイズ可能セレクト（`::picker-icon`や`<selectedcontent>`）、コーディングエージェントがレンダリング結果やDOM、アクセシビリティを直接確認できる「Safari MCPサーバー」が目玉となる。加えてスクロールアンカリング、WebAssembly JSPI、トップレベルawaitのための ESモジュールローダー刷新など、過去最大規模となる844件の修正が盛り込まれた。",
+      "url": "https://webkit.org/blog/18325/webkit-features-for-safari-27-0/",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    },
+    {
+      "title": "Next.js v16.4.0-canary.37 公開 — Turbopackで追加ルート指定とNFTメタデータを拡充",
+      "summary": "Next.js 16.4系のcanaryビルドが更新され、クライアント側のルート予測でclosed parameterの制約を保持する修正が入った。Turbopack側では追加ルート（additional roots）の指定に対応し、シンボリックリンクと追加ルートをNFTメタデータに含めるようになっている。デプロイテストが暗黙の起動に依存していた問題も併せて解消された。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.37",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    },
+    {
+      "title": "React Router v8.4.0 リリース — コンテキスト分割で再レンダーを削減、ルートマッチングも高速化",
+      "summary": "内部のデータルーターコンテキストを4つの粒度に分割し、`useLocation`などを使うコンポーネントが`navigation.state`のような無関係な状態変化で再レンダーされないようになった。さらに`unstable_routePatternMatching`フラグで`@remix-run/route-pattern`ベースのマッチングを有効化でき、ルート100件で約19〜38%、1000件で約71〜88%の高速化がベンチマークで確認されている。正規表現でパラメータを検証する`unstable_validateParams`も追加された。",
+      "url": "https://github.com/remix-run/react-router/releases/tag/react-router%408.4.0",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    },
+    {
+      "title": "Hono v4.13.8 リリース — JSX/DOMの大量キー更新を高速化、Accept ヘッダー処理を修正",
+      "summary": "JSX/DOMの大量のキー付き更新と、再構築時のマッチングヘッド子要素探索のパフォーマンスが改善された。Acceptヘッダーの扱いでは品質値q=0のエントリをマッチ対象から除外し、qパラメータ名を大文字小文字を区別せずに扱い、負のqを1ではなく0にクランプするよう修正している。AWS Lambdaでレスポンスボディをストリームする際にバックプレッシャーを尊重する修正も含まれる。",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.13.8",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    },
+    {
+      "title": "oxlint v1.83.0 / oxfmt v0.68.0 公開 — React 19.3対応と約20ルールのメモリ最適化",
+      "summary": "Rust製リンタのoxlintがReact 19.3の変更に追随し、unicornの`prefer-array-flat-map`や`prefer-at`、eslintの`no-unused-vars`、typescriptの`prefer-for-of`など複数ルールの不具合を修正した。約20のルールで一時的なアロケーションを回避する最適化が入り、lint実行時のメモリ負荷が下がっている。フォーマッタoxfmtもコメント処理やJSX・TypeScriptのパラメータ整形、YAML設定まわりを改善した。",
+      "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.83.0",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    }
+  ]
+}

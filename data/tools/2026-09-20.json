@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-20",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "OpenAI Codex 0.155.1 リリース — 新規TUIセッションで推論サマリーを既定オフに",
+      "summary": "ローカルで新しく開始するTUIセッションについて、推論サマリー（reasoning summaries）を既定で無効にする修正が入った。これにより、推論サマリーに対応していないプロバイダーでリクエストが拒否される問題が解消される。明示的に推論サマリーの設定を指定した場合はこれまで通り尊重される。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.1",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    },
+    {
+      "title": "Kiro、GPT-5.6ファミリーのコンテキストウィンドウを100万トークンに拡大",
+      "summary": "KiroがGPT-5.6ファミリーの利用可能コンテキストを従来の27.2万トークンから100万トークンへ引き上げた。リポジトリ規模のリファクタリングやエンドツーエンドのデバッグ、長時間に及ぶエージェント的タスクでも、会話の序盤の文脈を失わずに進められるようになる。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    },
+    {
+      "title": "Kiro IDE 1.1 公開 — エージェント成果物を残す「Agent Artifacts」とARM64ネイティブビルド",
+      "summary": "Kiro IDE 1.1では、エージェントが生成したドキュメントや図、コードをチャット履歴とは別に永続的な成果物として保持する「Agent Artifacts」が追加された。あとから見返したり手を入れたりできるため、会話をさかのぼって探す手間がなくなる。あわせてARM64向けのネイティブビルドも提供が始まった。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    },
+    {
+      "title": "GitHub、Copilot CLIのエージェント機能の利用状況をメトリクスAPIで取得可能に",
+      "summary": "Copilot CLIの利用メトリクスAPIが拡張され、スキル・カスタムエージェント・MCPサーバー・スラッシュコマンド・プラグインの利用データを取得できるようになった。どのカスタマイズがよく使われ、開発者がいくつの項目を使い分けているかが可視化され、自動化の普及状況や機能のギャップを把握しやすくなる。GitHub提供の項目は名称が表示される一方、利用企業が独自定義したものはプライバシーに配慮して名称が伏せられる。",
+      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    },
+    {
+      "title": "Claude に Salesforce 連携がベータ提供 — 営業向けスキル37種を同梱",
+      "summary": "ClaudeからSalesforceの取引先・商談・パイプラインにアクセスできる連携がベータとして提供開始された。営業業務向けにあらかじめ用意されたスキルが37種類そろい、CRMのデータを会話の中で参照しながら作業を進められる。有料プラン全般が対象となっている。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    }
+  ]
+}

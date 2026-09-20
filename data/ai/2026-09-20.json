@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-20",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAIのアルトマンCEO、国連安保理でAI安全保障を説明へ — 議長国フランスが招集",
+      "summary": "ロイターの報道によると、OpenAIのサム・アルトマンCEOが国連総会ハイレベル週間に合わせ、国連安全保障理事会でAIについて直接ブリーフィングを行う。9月の議長国フランスが招集した会合で、国際協調の必要性や共通の安全基準、OpenAIが取る対策が中心テーマになる見通し。AI業界の一部が開発ペースの協調的な減速を呼びかけた直後のタイミングで、Anthropicの参加も見込まれている。",
+      "url": "https://www.cp24.com/news/world/2026/09/18/openais-sam-altman-to-brief-un-security-council-next-week-reuters-exclusive/",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    },
+    {
+      "title": "Anthropicが物理実験を行う「ウェットラボ」を運営していたと判明",
+      "summary": "Anthropicがサンフランシスコ・ベイエリアに生物学の実験を行う自前のウェットラボを設けていたことが明らかになった。ライフサイエンス責任者は「生物学の最終的な検証は今後しばらく実際のラボ作業にある」と述べ、主眼は創薬ではなく基礎生物学だと説明している。Claudeがロボットのラボアシスタントを指揮し、人手を最小限に実験を進める能力の強化を狙うとみられる。",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    },
+    {
+      "title": "AIの「幻覚」が米軍作戦を誘発しかけた — 中国船への臨検が直前で中止",
+      "summary": "CNNの報道によれば、今春に米軍が中国籍船舶への武装作戦に踏み切る直前、根拠となった情報がAIチャットボットの幻覚（ハルシネーション）だったと判明し、作戦が中止された。特殊作戦軍のアナリストがオープンソース情報と機密情報の統合にチャットボットを使ったことが発端で、核兵器計画の部品を積載しているという誤った報告が上層部まで伝わった。AI依存の拡大で誤りが指揮系統を駆け上がる危険が改めて浮き彫りになった。",
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    },
+    {
+      "title": "カリフォルニア州知事、AI「キルスイッチ」検討を指示する知事令に署名",
+      "summary": "ニューサム知事が州のAI安全・セキュリティ法制を強化する検討を専門家グループに指示する知事令（EO N-9-26）に署名した。フロンティアAI企業に対する第三者による安全計画の策定義務付けや、緊急停止装置＝「キルスイッチ」の導入要件が検討対象に挙がっている。現時点で開発各社に実装を義務付けるものではなく、州機関は11月16日までに提言をまとめる。",
+      "url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    },
+    {
+      "title": "バージニア州が全米最も厳しいデータセンター規制の枠組みを発表 — AIタスクフォースも新設",
+      "summary": "データセンター集積地であるバージニア州のスパンバーガー知事が、州として「全米で最も包括的で積極的」と位置づけるデータセンター説明責任の枠組みを知事令で打ち出した。州機関がデータセンター案件で秘密保持契約を結ぶことを禁じ、25メガワットを超える計画には公聴会と承認手続きを必須として「by-right」承認を廃止する。あわせて雇用喪失やデータプライバシー、サイバーセキュリティのリスクを扱うAIタスクフォースを設置した。",
+      "url": "https://thehill.com/homenews/state-watch/6098665-spanberger-data-center-accountability/",
+      "collectedAt": "2026-09-20T23:09:28Z"
+    }
+  ]
+}
