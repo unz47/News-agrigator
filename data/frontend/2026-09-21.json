@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-21",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js が緊急セキュリティ更新を予告 — 9月22日に 16.3.6 / 15.5.26 を臨時リリース",
+      "summary": "Vercelは上流依存パッケージにCritical(緊急)の脆弱性が見つかったとして、9月22日にNext.js 16.3.6と15.5.26を通常サイクル外でリリースすると予告した。影響範囲・対象バージョン・アップグレード手順を含む正式なアドバイザリ GHSA-vcvr-r3jv-pc5j は更新の公開と同時に発表される。利用者は該当バージョンが出次第、速やかにアップグレードするよう求められている。",
+      "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-september-22-2026",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    },
+    {
+      "title": "Angular 22.2.0-rc.0 / 22.1.7 公開 — 出力バインディングのスペルミスを検出する新オプション",
+      "summary": "RC版では誤記したアウトプットバインディングを検出する `strictUnclaimedEventNames` オプションがcompiler-cliに追加された。コンパイラ側では非nullアサーションの前に置かれた `@for` のコレクション式が正しくラップされない不具合を修正し、Routerはロールバック中の状態凍結を維持するよう改善された。パッチ版22.1.7にも同じコンパイラ修正とForms(FVC相互運用時のdirty状態)の修正が入っている。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    },
+    {
+      "title": "Astro 7.3.3 リリース — 開発サーバー高速化と astro2tsx の Biome ベース刷新",
+      "summary": "本体7.3.3では画像エンドポイントやロケール一致判定の不具合、CSPのためのSVGスタイルハッシュ、`getImage()` の型補完などが修正され、開発サーバーのパフォーマンスも改善された。同時公開の astro-vscode 2.17.0 と language-server 2.17.0 は astro2tsx をBiomeベースに作り直し、不完全な構文やジェネリック型、各種エッジケースへの対応が大幅に向上した。Cloudflare / Node / Netlify 各アダプタも同日更新されている。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    },
+    {
+      "title": "Vue 3.6.0-rc.9 公開、安定版は 3.5.43 に — 3.6 正式版に向け最終調整",
+      "summary": "Vue.jsコアは9月18日に 3.6.0-rc.9 をプレリリースし、8月から続くRCシリーズの仕上げ段階に入った。安定版ラインでは9月17日に 3.5.43 がリリースされ、こちらが現行の最新安定版となっている。変更点の詳細はmainブランチとminorブランチそれぞれのCHANGELOG.mdで公開されている。",
+      "url": "https://github.com/vuejs/core/releases",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    },
+    {
+      "title": "Biome 2.5.14 公開 — CJK文字間の改行を保持するフォーマッタ改善と新ルール3件",
+      "summary": "フォーマッタが日本語・中国語などCJK文字の間に書かれた改行をスペースに置き換えず、記述どおり保持するようになり東アジア言語の扱いが改善された。新しいnurseryルールとして、Promiseコールバック内のreturnを禁じる `noReturnInFinally`、Svelteのデバッグタグを除去する `noSvelteAtDebugTags`、テスト名の規約を強制する `useValidTestTitle` が追加された。直前の2.5.13ではZodなど大規模ライブラリの型推論が強化され、フォーマッタ性能もケースによって約50%向上している。",
+      "url": "https://github.com/biomejs/biome/releases",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    }
+  ]
+}

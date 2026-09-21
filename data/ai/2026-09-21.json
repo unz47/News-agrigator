@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-21",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropicがアクセンチュアと提携し「埋め込み型評価」を開始 — 5年で10億ドル超を投資",
+      "summary": "Anthropicはアクセンチュア傘下Facultyの独立評価者を社内に常駐させ、従業員レベルのアクセスでモデル開発・学習判断・デプロイ実務を観察させる取り組みを発表した。評価者はレッドチーミングやアライメント評価、安全性テストを実施し、企業が安全性のコミットメントを守っているか検証して盲点を洗い出す。両社は5年間で最低10億ドルを投じる計画で、METRなど非営利の評価機関との協業も並行して続ける非排他的な枠組みとしている。",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    },
+    {
+      "title": "Anthropicが「Life Sciences Verification Program」を開始 — 検証済み研究機関に生物学向けClaudeを開放",
+      "summary": "創薬・研究生物学・臨床開発・製造など、通常のモデルではブロックされるタスクに使えるよう調整されたセーフガード付きClaudeへのアクセスを、審査を通過したライフサイエンス組織に提供する。研究実績・セキュリティ基準・倫理審査体制を確認したうえで、年次更新の「標準利用」と半年更新の「高リスク利用」の2階層を用意する。リアルタイム遮断ではなくオフライン監視で不正利用パターンを検出する方式を採り、正当な研究の中断を減らす狙い。",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    },
+    {
+      "title": "Anthropic、フロンティアAI開発のペースを可視化する指標を提案",
+      "summary": "Anthropicの研究部門が、最先端AI研究所の内部でどれだけの速さで開発が進んでいるかを外部から把握するための新しい測定指標を提案した。一般社会がフロンティアAI開発の進展を見通せるようにすることが目的で、透明性と説明責任の枠組みづくりを狙う。",
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    },
+    {
+      "title": "GeminiをOSの中核に据えたAIノートPC「Googlebook」が21日に予約開始 — 899ドルから",
+      "summary": "GoogleはChromeOSとAndroidを融合し「Gemini Intelligence」向けに設計した新カテゴリのノートPC「Googlebook」の予約受付を米国時間21日に開始した。カーソル操作から文脈を読み取って作業を補助する「Magic Pointer」や、指示だけでウィジェットを作れる「Create My Widget」などのAI機能を搭載する。Acer・ASUS・XPS・HP・Lenovoの5モデルが899ドルから展開され、米国やカナダ、英国など7カ国が対象で日本は初期展開に含まれない。",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2141275.html",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    },
+    {
+      "title": "OpenAI API、APIキーのガバナンス制御と有効期限を追加 — Agents APIもパブリックベータに",
+      "summary": "OpenAIは9月15日、組織・プロジェクト単位でAPIキーの種類を制限したり新規発行を無効化できる管理機能を追加した(組織設定がプロジェクト設定に優先し、既存キーには影響しない)。9月10日にはプロジェクトAPIキーへの有効期限設定と、管理者が最大有効期間を強制できる機能も導入済み。同じく10日にはセッション統括・コンテキスト圧縮・復旧を肩代わりするマネージド型の「Agents API」がパブリックベータで公開された。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    }
+  ]
+}

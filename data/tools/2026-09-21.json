@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-21",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot で xAI の Grok 4.7 が利用可能に — エージェント型コーディング向け推論モデル",
+      "summary": "エージェント型のコーディングや複数ステップにわたる複雑なワークフロー向けに設計されたGrok 4.7が、GitHub Copilotで段階的に提供開始された。Copilot Pro / Pro+ / Max / Business / Enterprise の各プランで、VS Code・Visual Studio・JetBrains・Xcodeなどのモデルピッカーから選択できる。課金はプロバイダーの表示価格に基づく従量課金で、EnterpriseとBusinessの管理者はモデルポリシー設定でアクセスを制御できる(新モデルは既定で有効)。",
+      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    },
+    {
+      "title": "GitHub Enterprise に資格情報インベントリのエクスポート機能 — インシデント対応を効率化",
+      "summary": "Enterpriseのオーナーが、組織にアクセスしているSSHキー、クラシック/ファイングレインドPAT、OAuth Appのアクセストークン、GitHub Appのuser-to-server・installationトークンを一覧としてエクスポートできるようになった。フィルタリングやメタデータの確認に加え、APIからのプログラム的な取得にも対応する。インシデント対応時にリスクの広がりを素早く評価し、監査ログと資格情報の利用状況を突き合わせる用途を想定している。",
+      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    },
+    {
+      "title": "VS Code 1.138 リリース — Dev Container内でエージェントを実行、PR作成にも対応",
+      "summary": "9月16日公開の1.138では、プロジェクトのツールと依存関係をそのまま使えるローカルDev Container内でエージェントを動かせるようになった。Agentsウィンドウから、タイトルや説明、マージオプションを指定してプルリクエストを直接作成できる機能も加わった。Codex連携ではCopilotとChatGPTのサブスクリプションを切り替えたりアプリをまたいでセッションを継続でき、マージ済みセッションの自動完了マークや、対応が必要なセッションを知らせるバッジ通知も追加された。",
+      "url": "https://code.visualstudio.com/updates",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    },
+    {
+      "title": "Kiro、Claude Fable 5.1 プレビューを企業向けに展開 — CLI 2.22.0 はフルスクリーンチャットを追加",
+      "summary": "Anthropicのエージェント型コーディングモデル Claude Fable 5.1 が、100万トークンのコンテキストウィンドウとクレジット6倍の倍率でエンタープライズ向けに順次提供開始された。複数ファイルにまたがるリファクタリングや長時間の自律実行が改善されている。同日公開のCLI 2.22.0では `/fullscreen` コマンドによる全画面チャットモードと、検索・フィルタリングを強化したV3セッションダッシュボードが導入された。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    },
+    {
+      "title": "GitHub Actions の Ubuntu 26.04 ランナーが正式提供 — ubuntu-latest は10月19日から順次移行",
+      "summary": "x64とarm64の両アーキテクチャでUbuntu 26.04ランナーイメージがパブリックプレビューを終え、本番ワークフローで正式にサポートされるようになった。`ubuntu-latest` ラベルは2026年10月19日から11月19日にかけて24.04から26.04へ段階的に切り替わるため、事前の動作確認が推奨されている。すぐに試すには `runs-on: ubuntu-26.04`(またはubuntu-26.04-arm)を、現行のまま据え置くには `ubuntu-24.04` にピン留めする。",
+      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "collectedAt": "2026-09-21T23:05:25Z"
+    }
+  ]
+}
