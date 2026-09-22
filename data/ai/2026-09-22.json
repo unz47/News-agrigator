@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-22",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropicが「Claude Opus 5.5」を公開 — Fable 5.1並みの性能で運用コスト4割減",
+      "summary": "Claude 5.5ファミリーの第1弾となるOpus 5.5が公開され、エージェント型コーディング・ナレッジワーク・コンピュータ操作で大幅な性能向上を示した。Terminal-Bench 4.0で66.4%、OSWorld 2.0で81.8%を記録し、価格は入力100万トークンあたり4ドル・出力20ドルとOpus 5から2割値下げ、キャッシュ読み出しは6割引きで典型的なワークロードのコストは約40%減となる。AWS・Google Cloud・Azure・Claude Platformで同日提供が始まり、Sonnet 5.5とHaiku 5.5も数週間以内に続く。",
+      "url": "https://www.anthropic.com/news/claude-opus-5-5",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    },
+    {
+      "title": "OpenAIが「GPT-6 Sol」「GPT-6 Luna」を提供開始 — API価格を5.6系から50%引き下げ",
+      "summary": "GPT-6 Astraと同様の手法で訓練された中位・軽量モデルとして、日常業務向けのSolと高速・大量処理向けのLunaが登場した。キャッシュと推論の改善により、API価格はGPT-5.6のプロモーション価格比で50%引き下げられ、Solが入力100万トークン2ドル・出力10ドル、Lunaが0.10ドル・0.50ドルとなる。ChatGPT WorkとCodexではPlus/Pro/Business/Enterprise/Edu向けに、LunaはFree・Goユーザーのデスクトップアプリでも利用できる。",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    },
+    {
+      "title": "OpenAIのナビエ・ストークス「解決」に数学者から疑問の声 — 得るものが少ないと指摘",
+      "summary": "OpenAIが1万体のエージェントを協調させて88時間でナビエ・ストークス方程式のミレニアム懸賞問題を解いたと発表したが、数学界では評価が分かれている。証明されたのは外力を加えた「強制版」で、速度が無限大に発散する渦の存在を示したものだが、その外力は現実には起こりえない人為的なものだとの批判が出ている。シカゴ大学の数学者は「クレイ問題は決着したが、ナビエ・ストークス方程式の本質的な問題は未解決のままだ」と述べ、AIによる証明が人間の理解にほとんど寄与していないと指摘した。",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5968588/openai-navier-stokes-problem-mathematicians-learn-little",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    },
+    {
+      "title": "AmazonがMetaのAIエージェント「Muse」を遮断 — Shopifyは全店舗で受け入れ、対応が二分",
+      "summary": "Amazonは、MetaのパーソナルAIエージェントMuseが事前通知なく自社ストアにアクセスし、エージェントであることを明示せずに顧客の認証情報を保存している疑いがあるとして、アクセスを遮断した。Metaへの自主的な制限要請が不調に終わった末の措置で、利用者には「認可されていないAIエージェントによる継続的なアクセスは利用規約違反」とのポップアップが表示される。一方Shopifyは翌日にMuseとの提携を発表し、Shop Payによるエージェント決済を全店舗で開放しており、エージェント型コマースへの姿勢が真っ二つに割れる形となった。",
+      "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    }
+  ]
+}

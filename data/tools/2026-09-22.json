@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-22",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot で Claude Opus 5.5 が利用可能に — 発表と同日に対応",
+      "summary": "Anthropic が同日公開した Claude Opus 5.5 が、GitHub Copilot でも即日利用できるようになった。エージェント型コーディングやコンピュータ操作で前世代を上回る性能を持ちながら、Opus 5 比で運用コストが約4割低いモデルで、対応プランのユーザーはモデルピッカーから選択できる。",
+      "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    },
+    {
+      "title": "GitHub Copilot に OpenAI の GPT-6 Sol / GPT-6 Luna が追加",
+      "summary": "対話型・エージェント型コーディングをバランスよくこなす GPT-6 Sol は Pro+/Max/Business/Enterprise で、GPT-6 ファミリー最安の軽量モデル GPT-6 Luna は Pro を含む全有料プランで利用できる。いずれも従量課金で、VS Code・Visual Studio・JetBrains・Xcode・GitHub.com・モバイルアプリに対応する。Business と Enterprise の管理者は Copilot 設定でモデルのアクセス制御が可能だが、新モデルは明示的に無効化しない限り既定で有効となる。",
+      "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    },
+    {
+      "title": "Copilot CLI の C++ コード解析が高速化 — コードベース全体のインデックス化に対応",
+      "summary": "Microsoft C++ Language Server がプロジェクト全体（未オープンのファイルを含む）のシンボルを永続インデックス化する Whole Codebase Indexing (WCI) が導入された。リクエストごとにシンボルを再探索せず既存インデックスを再利用するため、定義・参照・実装の検索待ち時間が大きく短縮される。既定で有効だが、大規模コードベースでは初回インデックス作成に時間とメモリを要するため無効化も可能で、進捗は `/lsp logs` で確認できる。",
+      "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    },
+    {
+      "title": "GitHub が SSH のセキュリティを刷新 — ssh-rsa 廃止と耐量子鍵交換の追加",
+      "summary": "SHA-1 を使う `ssh-rsa` 署名形式と `diffie-hellman-group-exchange-sha256` 鍵交換が廃止され、10月14日以降に登録する新しいRSA鍵は3072ビット以上が必須となる。あわせて耐量子性のある `mlkem768x25519-sha256` 鍵交換が github.com とデータレジデンシー対応の GitHub Enterprise Cloud（米国リージョンを除く）に追加される。11月4日と12月9日にブラウンアウトを実施したうえで完全廃止となる予定で、HTTPS リモート利用者に影響はなく、Ed25519 や ECDSA への移行が推奨されている。",
+      "url": "https://github.blog/changelog/2026-09-22-security-improvements-for-ssh",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    },
+    {
+      "title": "GitHub のリポジトリ別プルリクエスト一覧ページが刷新され一般提供に",
+      "summary": "フィルタ入力を補助するコンテンツアシスト、AND/OR とネストに対応した高度な検索、「Authored by me」などによく使う条件をまとめた折りたたみ可能なサイドバーが利用できるようになった。1画面あたりの表示件数を増やすコンパクト表示や、ステータスチェック数・スタック表示・未読更新の通知といった文脈情報も加わっている。パブリックプレビューのフィードバックを受け、クローズ・ラベル付け・マイルストーン変更の一括操作も追加された。",
+      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    }
+  ]
+}

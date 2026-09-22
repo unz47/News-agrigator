@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-22",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js が緊急セキュリティ更新 16.3.6 / 15.5.26 を公開 — next/og の重大なRCEを修正",
+      "summary": "予告どおり9月22日に臨時のアウトオブバンド更新がリリースされ、Active LTS の 16.3.6 と Maintenance LTS の 15.5.26 が公開された。SatoriをはじめとするアップストリームのSVG生成依存パッケージを更新し、リモートコード実行につながる可能性のある問題に対処している。15.5.26 は関連するハードニングのみで、15.x 系自体はRCEの影響を受けない。",
+      "url": "https://nextjs.org/blog/nextjs-security-update-september-22-2026",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    },
+    {
+      "title": "Next.js の脆弱性詳細が公開 — CVE-2026-94545、CVSS 9.5 のCritical",
+      "summary": "アドバイザリ GHSA-vcvr-r3jv-pc5j によると、影響を受けるのは Next.js 16.2.0 以上 16.3.5 未満で、next/og の Node.js 版 ImageResponse に攻撃者が制御可能な値をSVGの内容・属性・スタイルとして渡した場合にリモートコード実行が成立しうる。原因はSatoriが生成するSVG出力のエスケープ不備と上流依存パッケージの脆弱性の組み合わせで、Edge ランタイム版の ImageResponse は影響を受けない。即時のアップグレードか、信頼できないデータをSVGに渡さないことが緩和策として案内されている。",
+      "url": "https://github.com/vercel/next.js/security/advisories/GHSA-vcvr-r3jv-pc5j",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    },
+    {
+      "title": "Astro 7.3.4 リリース — インクリメンタルビルドとドメイン別i18nルーティングを修正",
+      "summary": "増分ビルドの不具合修正に加え、Markdown画像のalt属性のエスケープ処理、ドメインベースのi18nルーティングの挙動が改善された。TypeScript 7 のサポート状況を示すメッセージも追加されている。同日には @astrojs/vercel 11.0.11（ISRページのキャッシュとCache-Controlヘッダー順の修正）や @astrojs/cloudflare 14.3.3 など、10本のパッケージが一斉に公開された。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    },
+    {
+      "title": "@astrojs/react 7.0.0 が公開 — JSX処理をOxcベースに刷新、React Compilerをオプション対応",
+      "summary": "Astro の React インテグレーションがメジャーアップデートされ、JSX の変換処理が Rust製ツールチェーンの Oxc ベースに置き換えられた。あわせて React Compiler をオプションで有効化できるようになり、コンパイル時の自動メモ化を試せる。ビルド速度の改善とReact 19世代の最適化機能の取り込みを狙った変更となる。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    },
+    {
+      "title": "Astro が @astrojs/ts-content-mapper 0.2.0 を初公開 — .astroファイルの型マッピングを提供",
+      "summary": "Astroファイル向けのTypeScriptコンテンツマッパーが新パッケージとして登場した。同日には言語サーバー @astrojs/language-server 2.17.1 も公開され、診断機能とスニペット編集の挙動が改善されている。エディタ上での型情報の精度とオーサリング体験の底上げを図る動きといえる。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-09-22T23:10:00Z"
+    }
+  ]
+}
