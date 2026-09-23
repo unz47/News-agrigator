@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-23",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Cursor が2つの新ボット「Rollouts」「Security Review」を提供開始",
+      "summary": "Rollouts はデプロイ中のプルリクエストを監視し、環境ごとの変更の健全性を「正常と確認」「リグレッション検出」「判定不能」として報告する。監視計画によるリスク特定、複数環境をまたぐデプロイ追跡、リグレッション検出時の自動リバートPR作成（任意）に対応する。Security Review は全PRをスキャンしてインジェクション、認証バイパス、シークレット混入、安全でないデシリアライズなど悪用可能な脆弱性を検出し、重大度・攻撃経路・修正案を提示する。いずれも Teams / Enterprise プラン向け。",
+      "url": "https://cursor.com/changelog",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    },
+    {
+      "title": "VS Code 1.139 リリース Dev Container内でのエージェント実行に対応",
+      "summary": "SSH・トンネル・WSL の各ホスト上でも、プロジェクトの Dev Container 内でエージェントを実行できるようになった。大量のセッション一覧の読み込みが従来比で約12倍高速化され、コンパクトなセッションビュー、その場でのリネームも追加された。あわせて括弧の自動閉じ挙動が改善され、セッション内で複数チャットをどう表示するかを設定で選べるようになっている。",
+      "url": "https://code.visualstudio.com/updates",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    },
+    {
+      "title": "Claude Code 2.1.281 公開 MCPのURLモードelicitationと/insightsの自動モード推奨を追加",
+      "summary": "新しいDesktopキーに対する権限制御を含むClaude appsゲートウェイ対応、ブラウザ経由フロー向けのMCP URLモードelicitation、`/insights` での自動モード推奨機能が追加された。修正面ではセッション再開の不具合、プロンプトキャッシュの喪失、ツール呼び出しの問題に対応し、フルスクリーンモードやダイアログ、キーボードナビゲーションのUI改善が多数入っている。回復不能なインターフェースエラーによるクラッシュも解消され、大きなPDFや権限プロンプトの扱いも改善された。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    },
+    {
+      "title": "GitHub Copilot アプリにローカルサンドボックス機能（パブリックプレビュー）",
+      "summary": "意図しないコマンド実行の影響を抑えるため、ローカルマシン上のファイル・ネットワーク・認証情報へのアクセスを制限するプロジェクト単位のポリシー設定が追加された。開発者はアプリ設定でプロジェクトごとにサンドボックスを有効化し、ファイルシステムのアクセスレベル、ネットワーク権限、認証情報の制限を構成でき、OSが対応できない場合はセッション開始時に安全側で失敗する。現時点ではローカルリポジトリのセッションで既定無効のパブリックプレビューで、クラウドやリモートホストのセッションには影響しない。",
+      "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    },
+    {
+      "title": "GitHub Actions で Node 20 の提供が終了",
+      "summary": "GitHub Actions のランタイムとして Node.js 20 が利用できなくなった。Node 20 を前提としたアクションやワークフローはより新しいランタイムへの移行が必要となる。あわせて同日、Copilot のコードレビューをリクエスト・設定する方法の選択肢が拡張され、レビュープロセスの制御がより柔軟になった。",
+      "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    }
+  ]
+}

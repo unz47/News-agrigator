@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-23",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、Claudeが未知の酵素システム「ART」を自律的に発見",
+      "summary": "Anthropicの新設ライフサイエンス研究チームは、Claudeがバクテリオファージ内に未解明の酵素システム「array-associated reverse transcriptases（ART）」を発見したと発表した。Claudeは20万件を超える逆転写酵素を解析し、CRISPRアレイに似た異常なDNA反復パターンを自ら検出した。通常は専門家が数週間かけて行う分析であり、AIエージェントがDNAを体系的に読み解いて有用な生物システムを見つけ出せることを示す成果としている。",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    },
+    {
+      "title": "Google、音声生成モデル「Gemini 3.8 Flash TTS」「同 Flash-Lite TTS」を正式提供",
+      "summary": "Googleは同社史上最も表現力が高いという音声生成モデル2種を発表し、Gemini APIとAI Studioで一般提供を開始した。Flash TTSは自然言語プロンプトで新しい声を一から作成でき、台本の一行ごとに演技・間の取り方・方言まで指定できる創作向けで130言語に対応。Flash-Lite TTSは大量の吹き替えや音声エージェント向けの低コスト版で101言語に対応する。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    },
+    {
+      "title": "ChatGPTモバイルアプリに音声ベースのエージェント機能が追加",
+      "summary": "OpenAIはChatGPTのモバイルアプリで、音声からエージェント的なワークフローを起動できる機能の提供を始めた。PlusとProのユーザーはスマートフォンの「Work」タブから文書作成、メールの下書き、Slackメッセージの要約を指示でき、サイト構築やプレゼン作成、クラウドブラウザの利用も可能になる。これまでデスクトップ中心だったエージェント機能がモバイルに広がる形となる。",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    },
+    {
+      "title": "Bessemer Venture Partnersが2つの新ファンドで57.5億ドルを調達 AI領域に集中投資",
+      "summary": "Anthropic、Cognition、Perplexity、Ramp、Waymoなどに出資してきたBessemer Venture Partnersが、2つの新ファンドで合計57.5億ドルを調達したと発表した。うち17.5億ドルをシード・アーリーステージ、残る40億ドルをグロース段階のスタートアップに充てる。AIスタック全体への投資を加速させる狙いで、AI向け資金流入の勢いが続いていることを示している。",
+      "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    },
+    {
+      "title": "AIエージェントで社内業務を自動化するEmaが7,700万ドルを調達",
+      "summary": "人事・IT・財務といった企業内プロセスをAIエージェントのチームで自動化するスタートアップEmaが、新ラウンドで7,700万ドルを調達した。従来はエンタープライズソフトウェアやITサービス企業が担ってきた業務を取り込むことを目指す。AIが既存のSaaS・受託サービス市場を侵食し始めている流れを象徴する調達となっている。",
+      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    }
+  ]
+}

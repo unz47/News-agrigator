@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-23",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js、9月30日の定例セキュリティリリースを予告 9件の脆弱性を修正へ",
+      "summary": "Vercelは9月30日に予定しているNext.jsの定例セキュリティリリースを事前告知した。修正対象はcritical 1件、high 2件、medium 5件、low 1件の計9件で、16.3.7 と 15.5.27 を公開し、影響範囲や対象バージョン、アップグレード手順を含むアドバイザリも同時に公表する予定。チームが計画的にアップグレードできるよう前倒しで周知する狙いで、公開後は速やかなパッチ適用が推奨されている。",
+      "url": "https://nextjs.org/blog/upcoming-nextjs-security-release-september-2026",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    },
+    {
+      "title": "Angular 22.2.0 がリリース ErrorBoundary APIやイベント名の厳格チェックを追加",
+      "summary": "Angular 22.2.0 では、テンプレートからprivateプロパティへアクセスできるコンパイラ改善に加え、出力バインディングのスペルミスを検出する `strictUnclaimedEventNames` オプションが追加された。coreにはErrorBoundaryのプログラマティックAPIやディレクティブテスト用ユーティリティ、ビュー/コンテンツクエリからのInjector取得が入り、routerには `containsTree` の公開や `RedirectCommand` のthrowによるリダイレクトが加わった。signal formsでは常時hiddenなフィールドのサポートも追加され、破壊的変更はない。",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.0",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    },
+    {
+      "title": "Safari Technology Preview 253 公開 スクロールタイムラインとSVG 2対応を強化",
+      "summary": "WebKitはSafari Technology Preview 253をリリースし、スタイル由来のスクロールタイムラインのグローバルなマッチングと、`<textPath>` 要素におけるSVG 2 の `path` 属性をサポートした。CSS Gridのサイズ計算の不具合やBigInt乗算の高速化などJavaScript性能の改善、テーブル・リストマーカー・フィルター効果のレンダリング修正も多数含まれる。アクセシビリティ、WebGPUのテクスチャ処理、Web Extensions API、WebDriver互換性も改善された。",
+      "url": "https://webkit.org/blog/18357/release-notes-for-safari-technology-preview-253/",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    },
+    {
+      "title": "@astrojs/react 7.0.0 が BabelからOxcへ移行 破壊的変更あり",
+      "summary": "AstroのReactインテグレーションが `@vitejs/plugin-react` v6 ベースに刷新され、JSX変換とFast RefreshがBabelからOxcに置き換わった。これに伴い `babel` インテグレーションオプションが削除されたため、独自のBabel変換を使っているプロジェクトは `@rolldown/plugin-babel` と `@babel/core` を導入してVite側のプラグインに設定を移す必要がある。あわせて、クライアントコンポーネントとフックをメモ化するOxcベースのReact Compilerが `compiler: true` でオプトイン利用できるようになった。",
+      "url": "https://github.com/withastro/astro/releases/tag/%40astrojs/react%407.0.0",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    },
+    {
+      "title": "Astro 7.3.4 リリース 差分ビルドの再レンダリング問題と開発サーバー性能を改善",
+      "summary": "バンドル済みアセットを参照するモジュールやコンパイル済みCSSがあると、差分ビルドで変更のないページを繰り返しレンダリングしてしまう問題が修正された。開発サーバーではリクエストごとに不要なモジュールグラフの再評価を行わないよう改善され、Markdownの画像 `alt`/`title` 属性でアンパサンドが二重エスケープされる不具合も解消。ドメインベースのi18nルーティングが `security.allowedDomains` を尊重するようになり、`astro check` はTypeScript 7 未対応であることを明示するエラーメッセージを返すようになった。",
+      "url": "https://github.com/withastro/astro/releases/tag/astro%407.3.4",
+      "collectedAt": "2026-09-23T23:15:00Z"
+    }
+  ]
+}
