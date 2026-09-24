@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-24",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、Videos API と Sora 2 系モデルを本日9月24日で提供終了",
+      "summary": "OpenAIは3月24日に予告していた通り、Videos API と sora-2 / sora-2-pro などの動画生成モデルを9月24日に API から削除した。公式の非推奨一覧では代替モデルが「---」と記載されており、推奨される移行先は示されていない。Soraのウェブ/アプリ版はすでに4月26日に終了しており、これでSora系サービスは一区切りとなる。",
+      "url": "https://developers.openai.com/api/docs/deprecations",
+      "collectedAt": "2026-09-24T22:00:00+09:00"
+    },
+    {
+      "title": "Google DeepMind、Gemini 4 がポストトレーニング段階へ 「できるだけ早く」投入の方針",
+      "summary": "Google DeepMindのKoray Kavukcuoglu氏が、次期フラッグシップのGemini 4が事前学習を終えてポストトレーニング段階に入ったことを明らかにした。「有望な結果がすでに見えており、早期のポストトレーニング版をできるだけ早く展開したい」と述べ、年末より大幅に前倒しでの投入を示唆している。Gemini 4の事前学習開始は7月21日に発表されており、約2カ月での移行は異例の速さとなる。",
+      "url": "https://9to5google.com/2026/09/24/google-says-gemini-4-release-is-coming-as-soon-as-possible/",
+      "collectedAt": "2026-09-24T22:00:00+09:00"
+    },
+    {
+      "title": "OpenAIとAnthropicのCEO、国連安保理でAIの国際的な規制枠組みを要請",
+      "summary": "国連安全保障理事会の会合で、OpenAIのSam Altman氏とAnthropicのDario Amodei氏がAI業界には世界規模の監督が必要だと訴えた。Amodei氏は「運用を誤れば、AIは人類全体にとってのリスクになりうる」と警告し、Altman氏は国際的な基準づくりと迅速かつ正確なインシデント報告の仕組みを求めた。一方で米国代表のMichael Kratsios氏は「国際機関によるAIの中央集権的統制の試みを全面的に拒否する」と述べ、対立が鮮明になった。",
+      "url": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation",
+      "collectedAt": "2026-09-24T22:00:00+09:00"
+    },
+    {
+      "title": "Anthropic、コンゴ民主共和国のエボラ流行対応にClaudeを投入",
+      "summary": "Anthropicは、コンゴ民主共和国で発生したブンディブギョ型エボラウイルスの流行対応にClaudeを活用している事例を公開した。専用スキルにより各保健区からの日次疫学データを集約する状況報告書の作成が丸1日から1時間未満に短縮され、複数の流行予測モデルを並行実行して治療センターの配置判断にも使われている。さらにClaude Scienceを使い、バイオインフォマティクス担当者が自然言語でウイルスゲノムの構築と感染系統樹の作成を行えるようになった。",
+      "url": "https://www.anthropic.com/features/ebola-response",
+      "collectedAt": "2026-09-24T22:00:00+09:00"
+    }
+  ]
+}

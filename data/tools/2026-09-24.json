@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-24",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub、高影響操作に「proof of presence」を要求する機能をパブリックプレビュー",
+      "summary": "GitHubは、トークン作成・Webhook編集・セキュリティ設定変更といった影響の大きい操作の実行時に、IdPへリダイレクトして本人確認を求める proof of presence を公開した。セッションCookieやトークンの窃取によるサプライチェーン攻撃への対策で、チャレンジ通過後は同一ブラウザセッションで2時間は再認証なしに操作できる。現時点ではMicrosoft Entra IDをSAML/OIDCで利用するEMU(managed user)エンタープライズ限定で、PRマージへの適用は今後対応予定。",
+      "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+      "collectedAt": "2026-09-24T22:00:00+09:00"
+    },
+    {
+      "title": "GitHub Copilot コードレビューの設定項目が拡充、全プランで一般提供",
+      "summary": "これまで上位プラン限定だったCopilotコードレビューの専用設定ページが、BusinessやEnterpriseを含むすべてのCopilotプランで利用できるようになった。PR作成時やドラフト解除時の自動レビュー、ドラフトPR・新規プッシュごとの個別トグル、既定のレビュー精度(LiteまたはBalanced)の選択が可能になる。Enterprise管理者は組織全体の既定レビュー精度を設定でき、組織やリポジトリ単位で上書きもできる。",
+      "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+      "collectedAt": "2026-09-24T22:00:00+09:00"
+    },
+    {
+      "title": "Claude Code 2.1.282 公開 maxProseWidth 設定と多数のセッション不具合修正",
+      "summary": "Claude Code 2.1.282が9月24日にリリースされ、幅広いターミナルで本文テキストの折返し幅を制限する maxProseWidth 設定が追加された(表とコードブロックは全幅を維持)。--continue / --resume でのセッション再開時にメッセージが改変されて再送される問題、スラッシュコマンドで拡張思考が欠落する問題、redacted_thinking ブロックのAPIエラーなども修正されている。無視されたテレメトリ変数を起動時に通知する仕組みや、VS Code連携・vimモード・クラウドセッションの改善も含まれる。",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.282",
+      "collectedAt": "2026-09-24T22:00:00+09:00"
+    },
+    {
+      "title": "Kiro CLI 2.23.0 公開 /model から推論設定を変更でき、リポジトリ接続前にクラウドセッション開始が可能に",
+      "summary": "Kiro CLI 2.23.0では /model パネルから thinking と effort を直接設定できるようになり、選択中のモデルが対応するオプションだけが表示され設定は次回以降も保持される(V2の引数なし /effort は非推奨)。V3ではリポジトリを接続する前にクラウドセッションを開始でき、後から /repo でリポジトリを紐付けられる。進捗表示やストリーミングの滑らかさ、フルスクリーンのスクロール効率も改善された。",
+      "url": "https://kiro.dev/changelog/cli/2-23/",
+      "collectedAt": "2026-09-24T22:00:00+09:00"
+    }
+  ]
+}

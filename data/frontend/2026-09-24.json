@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-24",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Astro 7.3.5 リリース コンテナAPIに renderComponent() を追加",
+      "summary": "Astro 7.3.5が9月24日に公開され、実験的なコンテナAPIに新関数 renderComponent() が追加された。`?container` クエリ付きでコンポーネントをインポートすると、スタイルとスクリプトをインライン化した状態でAstroコンポーネントをプログラム的にレンダリングできる。テストやサーバーサイドでの部分レンダリング用途で扱いやすくなる。",
+      "url": "https://github.com/withastro/astro/releases/tag/astro%407.3.5",
+      "collectedAt": "2026-09-24T22:00:00+09:00"
+    },
+    {
+      "title": "Vite 8.3.1 公開 server.ws の設定マージや依存最適化のバグを修正",
+      "summary": "Viteのパッチリリース8.3.1が9月24日に公開された。server.ws と build.rolldownOptions.output.comments の設定マージ不具合、型インポートのバインディングを含む依存最適化の問題、サーバーwatcherの再初期化などが修正されている。ソースマップでURL由来のソースルートをスキップする対応や、rolldown関連を含む依存パッケージの更新も含まれる。",
+      "url": "https://github.com/vitejs/vite/releases/tag/v8.3.1",
+      "collectedAt": "2026-09-24T22:00:00+09:00"
+    },
+    {
+      "title": "Node.js 26.10.0 リリース util.throttle / debounce や crypto.parsePKCS12() を追加",
+      "summary": "Current系のNode.js 26.10.0が9月22日に公開され、複数のSEMVER-MINOR機能が入った。ユーティリティとして util.throttle と util.debounce、util.markPromiseAsHandled が追加されたほか、PKCS#12証明書を解析する crypto.parsePKCS12()、fs.openAsBlobSync()、net.BoundSocket のスレッド/子プロセス間受け渡しに対応している。FFIのVFSからのライブラリ読み込みやperf_hooksのSlidingWindowHistogramも導入された。",
+      "url": "https://github.com/nodejs/node/releases/tag/v26.10.0",
+      "collectedAt": "2026-09-24T22:00:00+09:00"
+    },
+    {
+      "title": "Node.js 22.23.3 (LTS) 公開 HTTP/2のuse-after-free修正とルート証明書更新",
+      "summary": "LTS版のNode.js 22.23.3 'Jod' が9月23日にリリースされた。HTTP/2のRSTストリーム処理における use-after-free の可能性がある不具合を修正し、ルート証明書をNSS 3.125に更新している。npm 10.9.9、OpenSSL 3.5.8、undici 6.28.1、ICU 78.3などの依存更新に加え、Node-APIで napi_create_typedarray が SharedArrayBuffer に対応した。",
+      "url": "https://github.com/nodejs/node/releases/tag/v22.23.3",
+      "collectedAt": "2026-09-24T22:00:00+09:00"
+    }
+  ]
+}
