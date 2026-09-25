@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-25",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Angular Language Serviceの VS Code 拡張 22.2.0 が公開 インラインテンプレートのインレイヒントに対応",
+      "summary": "Angularチームは VS Code 拡張「Angular Language Service」22.2.0 をリリースした。これまで @Component({ template: ... }) 形式のインラインテンプレートで表示されなかったインレイヒントが機能するようになり、補間文字列を含むテンプレートの折りたたみ範囲も提供される。デコレーターのフィールド判定でテンプレートリテラルを扱えるようにする修正と、@boundary ブロックのサポート追加も含まれる。",
+      "url": "https://github.com/angular/angular/releases/tag/vsix-22.2.0",
+      "collectedAt": "2026-09-25T23:12:00Z"
+    },
+    {
+      "title": "Chrome 154 が安定版に scroll-marker-group の新モードや text-decoration-inset を追加",
+      "summary": "Chrome 154 が全プラットフォームで安定版として公開された。CSS では ::scroll-marker-group をナビゲーションリンク風とタブリスト風で切り替えられる新モード、下線などの余白を調整する text-decoration-inset、ポップオーバー/ダイアログのライトディスミス改善が入った。JavaScript にイテレーターの includes() が追加され、WebSocket コンストラクターのオプション指定や、プライベートブラウジングへ信頼を引き継ぐ Private Verification Tokens のオリジントライアルも始まった。",
+      "url": "https://developer.chrome.com/release-notes/154",
+      "collectedAt": "2026-09-25T23:12:00Z"
+    },
+    {
+      "title": "Next.js 16.4 の canary が進行中 Turbopack のチャンク分割とプリフェッチを改善",
+      "summary": "Next.js は 16.4 系の canary リリースを続けており、9月25日公開の 16.4.0-canary.47 では 'use cache' の静的ルートパラメーター追跡の準備や、パッケージディレクトリからプロジェクト全体をトレースしないようにする Turbopack の最適化が入った。直前の canary.46 では turbo-tasks のガベージコレクション改善と、プリフェッチのスケジューラーをナビゲーションのツリー走査に合わせる変更が行われている。実験的な独自 webpack サポートは取り消された。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.47",
+      "collectedAt": "2026-09-25T23:12:00Z"
+    }
+  ]
+}

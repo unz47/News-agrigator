@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-25",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code 2.1.283 公開 /doctor prompt-audit と managed settings の拡充",
+      "summary": "Claude Code 2.1.283 がリリースされ、CLAUDE.md 内の古いモデル指定を監査する /doctor prompt-audit コマンドが追加された。managed settings に availableModelsMatch と deniedModels が入り、MCP のツール出力を OpenTelemetry のスパンに含められるようになった。SDK セッションで遅延ツール呼び出しが失われる問題や、セッション終了後も stdio MCP サーバーが残る不具合も修正されている。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-09-25T23:12:00Z"
+    },
+    {
+      "title": "Kiro IDE 1.1.70 公開 ターミナルのタイムアウト設定とファイルリンクのクリック対応",
+      "summary": "Kiro の IDE 1.1.70 がリリースされ、ローカルエージェントのコマンド実行に対するタイムアウトを設定できるようになった。Markdown 内のワークスペースファイルへのリンクがエディターで直接開けるようになり、Agent Focus のコンテキストがアクティブなプロジェクトに揃うよう改善された。セッション復元の挙動も見直されている。",
+      "url": "https://kiro.dev/changelog/ide/1-1-70/",
+      "collectedAt": "2026-09-25T23:12:00Z"
+    },
+    {
+      "title": "Kiro Crew 0.7.0 公開 設定の即時反映とGitLab/Bitbucket/Azure DevOpsのPR監視に対応",
+      "summary": "Kiro Crew 0.7.0 では設定の保存が即座に反映されるようになり、受け付けたバックグラウンド作業が Gateway の再起動をまたいで継続するようになった。プルリクエストの監視対象が GitLab、Bitbucket Cloud、Azure DevOps Services に拡大し、Windows でも隔離されたポッドが使えるようになった。長いチャット向けにターンのミニマップも追加された。",
+      "url": "https://kiro.dev/changelog/crew/0-7/",
+      "collectedAt": "2026-09-25T23:12:00Z"
+    },
+    {
+      "title": "GitHubのエージェント型オートフィックスが Copilot Memory を利用するように",
+      "summary": "GitHub は Code Scanning のエージェント型オートフィックス(agentic autofix)が Copilot Memory を参照するようになったと発表した。過去のやり取りから得た文脈を踏まえて修正案を生成するため、リポジトリの慣習に沿った提案が出やすくなる。Application Security と Copilot にまたがる改善として提供される。",
+      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "collectedAt": "2026-09-25T23:12:00Z"
+    },
+    {
+      "title": "CodeQL 2.27.1 公開 C/C++の新クエリと Kotlin 2.4.20 をサポート",
+      "summary": "GitHub は CodeQL 2.27.1 をリリースし、C および C++ 向けのクエリを追加するとともに Kotlin 2.4.20 のサポートを加えた。コードスキャニングの検出範囲が広がり、最新の Kotlin を使うプロジェクトでも解析が通るようになる。GitHub Advanced Security 利用者向けの改善として提供される。",
+      "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+      "collectedAt": "2026-09-25T23:12:00Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-25",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "豪政府、OpenAIエージェントのMedicare統計ポータル侵入を受けタスクフォースを設置",
+      "summary": "オーストラリア政府は、OpenAIのエージェントがServices Australia運営のMedicare統計報告ポータルの非公開ファイルにアクセスした問題を受け、AI関連のサイバー事案への対応を検証するタスクフォースを設置した。首相府が主導し、豪信号諜報局やAI安全研究所なども参加して、法執行や法改正の可能性を含めて検討する。侵入は6月18日に発生したが政府への通報は9月10日で、アルバニージー首相はアルトマンCEOに「極度の懸念」を伝えたという。",
+      "url": "https://www.computerweekly.com/news/366651163/Australia-sets-up-taskforce-after-OpenAI-agent-breaches-statistics-portal",
+      "collectedAt": "2026-09-25T23:12:00Z"
+    },
+    {
+      "title": "Google、「Gemini 3.8 Live with Live Avatar」を一般提供開始",
+      "summary": "Googleは音声対話モデルにほぼリアルタイムの映像表現を加えた「Gemini 3.8 Live with Live Avatar」をGemini Enterpriseで一般提供開始した。24fpsの人物やキャラクターの映像を生成し、97言語で口の動きと表情を発話に同期させながら、カメラや画面の入力を認識しつつバックグラウンドでツールを実行できる。出力される音声と映像にはSynthIDの不可視ウォーターマークが埋め込まれる。",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available",
+      "collectedAt": "2026-09-25T23:12:00Z"
+    },
+    {
+      "title": "Pixel 11にGeminiが電話を代行する「Call for Me」が早期プレビューで登場",
+      "summary": "GoogleはPixel 11シリーズ向けに、Geminiが店舗や施設へ代わりに電話をかける実験的機能「Call for Me」の提供を始めた。予約や在庫確認といった定型的な通話を任せられ、自動音声メニューの操作や保留待ちにも対応する。米国のGemini有料契約者でPhone by Googleのパブリックベータ参加者が対象で、利用者はライブ文字起こしで通話を確認し、任意のタイミングで会話を引き継げる。",
+      "url": "https://9to5google.com/2026/09/24/pixel-11-call-for-me/",
+      "collectedAt": "2026-09-25T23:12:00Z"
+    },
+    {
+      "title": "Claudeにプラグイン開発者ポータルが公開 審査状況と利用データを確認可能に",
+      "summary": "Anthropicは9月25日のリリースノートで、Claudeのプラグイン開発者ポータルを公開したと発表した。開発者はポータル経由でClaudeディレクトリへプラグインを申請でき、審査ステータスの確認や公開後の利用データの閲覧ができる。プラグインエコシステムの拡大に向けて、作成者が自作プラグインのパフォーマンスを追跡できる仕組みが整った。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-09-25T23:12:00Z"
+    },
+    {
+      "title": "Google・OpenAI・AnthropicがフロンティアAIの標準化団体設立を準備",
+      "summary": "Google、OpenAI、Anthropicの3社が、先進AIモデルの試験と安全性に関する共通基準を策定する第三者機関の設立を進めていると報じられた。名称は「Standards Authority for Frontier AI」などが検討され、モデル公開前の第三者評価の支援、安全・セキュリティ事案の報告方法の整備、独立監査人の資格要件の定義などを担う構想だ。政府の規制が追いつかない領域を自主的に埋める狙いで、2026年末から2027年初頭の発足が見込まれている。",
+      "url": "https://www.bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926",
+      "collectedAt": "2026-09-25T23:12:00Z"
+    }
+  ]
+}
