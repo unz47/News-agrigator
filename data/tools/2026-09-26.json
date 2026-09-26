@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-26",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "OpenAI Codex 0.157.0 公開 GPT-6 Sol/LunaとAmazon Bedrockに対応",
+      "summary": "Codex CLIの0.157.0が9月25日にリリースされ、新モデルGPT-6 SolとLunaおよびAmazon Bedrock経由の利用に対応した。フルスクリーンの文字起こし表示が既定で有効になり、Shift+クリックでのテキスト選択、`f`キーによる会話のフォーク、リモート/バックグラウンドセッションでの`/import`などが追加された。翌26日には追従のパッチ版0.157.1も公開されている。",
+      "url": "https://github.com/openai/codex/releases/tag/0.157.0",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    },
+    {
+      "title": "Kiro CLI 2.24.0 公開 `/tools trust-all`でセッション全体のツール承認が可能に",
+      "summary": "Kiro CLI 2.24.0では、V3セッションで`/tools trust-all`を実行すると以降のツール呼び出しを自動承認できるようになった。プロジェクトの`.env`ファイルがチャットやMCPサーバー、ツールへ自動的に読み込まれなくなり、必要な環境変数はシェル側で明示的にexportする方式に変更されている。`/sessions`画面にはフィルタ・ソート・グループ化がインラインで表示されるようになった。",
+      "url": "https://kiro.dev/changelog/cli/2-24/",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    },
+    {
+      "title": "GitHub Actions、2,500件を超えるクエリ結果を「2,500+」と表示する仕様に変更",
+      "summary": "GitHubは9月25日、Actions のAPIとUIで検索結果が2,500件を超える場合に正確な件数ではなく「2,500+」と返す変更を告知した。2,500件超のクエリは頻繁にタイムアウトし、打ち切り時点の不正確な件数を返していたためで、精度と性能の改善が狙い。2,500件超のワークフロー実行を取得している場合は、日付範囲を加えるなどフィルタを絞る対応が必要になる。",
+      "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    },
+    {
+      "title": "GitHub Issues にプライベートな保存ビューが追加、「Relates to」関連付けがGAに",
+      "summary": "リポジトリのIssuesページで、他人に共有されない個人用の保存ビューを作成できるようになった。あわせてIssue同士を結ぶ「Relates to」関連付けが一般提供となり、REST API、GraphQL API、Webhook、タイムラインイベント、Issue検索、プロジェクト検索の各所で利用できる。",
+      "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    },
+    {
+      "title": "GitHub Copilot、エンタープライズ管理設定の検証ツールを製品内に追加",
+      "summary": "GitHubはCopilotのエンタープライズ管理設定を製品内で検証できる機能を追加した。不正なJSON、未サポートの設定、無効なチームマッピングなどポリシーの適用を妨げるエラーを検出し、`.github-private`リポジトリ内のどのファイルのどのJSONパスで問題が起きているかを示す。管理者はエンタープライズのAIコントロール画面にある「Copilot settings validation」から確認・修正できる。",
+      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    }
+  ]
+}

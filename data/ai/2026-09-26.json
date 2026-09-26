@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-26",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、GPT-6 Sol/Lunaの画像エンコード不具合を修正 視覚タスクの精度が改善",
+      "summary": "OpenAIは9月25日のAPIチェンジログで、GPT-6 SolとGPT-6 Lunaの画像理解性能を低下させていた画像エンコードのバグを修正したと公表した。この修正によりAPIおよびCodexでの視覚タスクの結果が改善し、コンピュータ操作を含むユースケースにも効果があるという。画像入力を使っているシステムは再評価が推奨されている。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    },
+    {
+      "title": "米ホワイトハウス、OpenAIとAnthropicに英AI Security Instituteへの新モデル提供保留を要請",
+      "summary": "ホワイトハウスの国家サイバー長官室が、OpenAIとAnthropicに対し、米国の審査が終わるまで英国のAI Security Instituteへ新モデルを渡さないよう求めていたことが分かった。政府高官はPoliticoに対し、パートナー国への共有前に米国のシステムの安全性を確認する狙いだと説明した。Anthropicは既に要請に応じ、最新モデルClaude Mythos 5.1のアクセスを米国内組織に限定している。",
+      "url": "https://thenextweb.com/news/white-house-openai-anthropic-uk-ai-security-institute-models",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    },
+    {
+      "title": "米中、AIを「SI(スーパーインテリジェンス)」と呼称 新たな対話枠組みの設置で合意",
+      "summary": "米ホワイトハウスは25日、米中両首脳がAIの呼称を「スーパーインテリジェンス（超知能、SI）」とすることで一致したと、24日の首脳会談の成果文書で明らかにした。AIのリスクと利点を議論する「米中スーパーインテリジェンス対話」を新設し、次回協議を11月までに開催するほか、AIをめぐる事案発生時の専用連絡経路も設ける。ただし中国国営新華社が26日に伝えた合意内容には、AIをSIと呼ぶことへの言及はなかった。",
+      "url": "https://www.nikkei.com/article/DGXZQOCB262EY0W6A920C2000000/",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    },
+    {
+      "title": "Anthropic、パートナー製プラグインを集約する「Claude Marketplace」を公開",
+      "summary": "Anthropicは、パートナー企業が提供するプラグインやエージェント、サービスを一か所で探せる「Claude Marketplace」を公開した。チームがClaudeでより多くの業務をこなせるよう、外部ツールとの連携手段を横断的に発見・導入できるようにするのが狙い。9月25日にはプラグイン開発者向けの解説記事「Build plugins for Claude」も合わせて公開されている。",
+      "url": "https://claude.com/blog/claude-marketplace",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    },
+    {
+      "title": "Claude Platform、一部カテゴリの拒否レスポンス課金を再開 コンプライアンスAPIも更新",
+      "summary": "Anthropicは9月24日のプラットフォームリリースノートで、出力前に返る拒否レスポンスのうち stop_details.category が bio / frontier_llm / reasoning_extraction のものについて課金を再開したと発表した。これらは誤検知が少ないカテゴリで、通常のリクエストと同じモデル料金が適用される。同時にコンプライアンスAPIではMicrosoft 365向けローカルセッション用エンドポイントがベータを終了し、アクティビティフィードからファイル名やアーティファクト名が返らなくなった。",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    }
+  ]
+}

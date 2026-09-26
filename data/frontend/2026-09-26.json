@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-26",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js v16.4.0-canary.49 公開 Turbopackがファイルシステム境界をまたぐwebpackローダーに対応",
+      "summary": "Next.js 16.4の開発版となるcanary.49が9月26日に公開された。Turbopackがファイルシステムの境界をまたぐwebpackローダーを扱えるようになり、モノレポやシンボリックリンク構成での取り回しが改善した。ビルド側ではエクスポートのmangleだけを目的としたファサード分割を避ける最適化も入っている。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.49",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    },
+    {
+      "title": "Next.js v16.4.0-canary.48 公開 PPRページ遷移後にServer Actionsが止まる不具合を修正",
+      "summary": "9月25日公開のcanary.48では、PPR（部分プリレンダリング）対応ページへ遷移した後にServer Actionsが応答しなくなる不具合が修正された。あわせてバンドルアナライザーが低DPIディスプレイで正しく表示されない問題や、メタデータのストリーミングポリシーの不具合も解消されている。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.48",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    },
+    {
+      "title": "Vitest 5.0.2 リリース toMatchObjectと非同期リーク検出まわりの不具合を修正",
+      "summary": "テストランナーVitestのパッチリリース5.0.2が9月25日に公開された。非対称マッチャーを渡した際の toMatchObject の判定誤り、プロセスのバインディング、スパイのスタックオーバーフローといった不具合が修正されている。9月3日のメジャーリリース5.0以降の安定化を進める内容で、5.0系はNode.js 22以上とVite 6.4以上を要求する。",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v5.0.2",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    },
+    {
+      "title": "Storybook 11.0.0-alpha.1 公開 Create React Appサポート削除、Angularは21以上が必須に",
+      "summary": "Storybookの次期メジャーとなる11.0のアルファ第2弾が公開された。Create React Appのサポートが削除され、必要環境がNode.js 22.12以上、Angularは21以上に引き上げられる破壊的変更が含まれる。addon-linksに同期的にURLを生成する hrefToSync が追加されたほか、Vitest 5のブラウザテストにも対応した。",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v11.0.0-alpha.1",
+      "collectedAt": "2026-09-26T23:10:00Z"
+    }
+  ]
+}
