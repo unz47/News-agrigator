@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-27",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot 週次リリース(9/21週) Claude Opus 5.5・GPT-6 Sol/Luna・Grok 4.7 を追加",
+      "summary": "GitHubはCopilotの週次リリースで、Claude Opus 5.5、GPT-6 Sol、GPT-6 Luna、Grok 4.7 をプランごとに順次提供開始した。Copilotアプリではエージェントのファイル・ネットワーク・認証情報へのアクセスを制限するローカルサンドボックスがパブリックプレビューとなり、OpenTelemetry によるエージェント活動の追跡にも対応。JetBrainsでは低リスクなツール呼び出しを自動承認する「Assisted approvals」がプレビュー公開された。",
+      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21/",
+      "collectedAt": "2026-09-27T23:10:11Z"
+    },
+    {
+      "title": "Zed v1.21.0 リリース Claude Opus 5.5 や GPT-6 系に対応、シンタックスハイライトの描画を高速化",
+      "summary": "Rust製エディタ Zed の安定版 v1.21.0 が9月23日に公開された。シンタックスハイライトされたファイルとMarkdownコードブロックの描画が高速化され、言語サーバーのコマンドピッカーや、長時間のエージェント実行中にシステムスリープを抑止する設定が追加された。Claude Opus 5.5、GPT-6 系、DeepSeek Flash 4.1 といったモデルにも対応し、コミットメッセージエディタへのカット/コピー/ペースト操作も加わった。",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v1.21.0",
+      "collectedAt": "2026-09-27T23:10:11Z"
+    },
+    {
+      "title": "Gemini CLI v0.61.0 公開 ビルドファイル経由の間接プロンプトインジェクションを防止",
+      "summary": "Google の Gemini CLI の安定版 v0.61.0 が9月23日に公開された。ビルドファイルの改変や信頼できないフラグを経由した間接プロンプトインジェクションを防ぐ修正が入り、サンドボックスではファイルシステム境界の強化とランタイム状態の分離が行われた。明示的にバージョン指定された Flash モデルIDを保持する修正や、AgentLoopContext のプロパティがスプレッド時に失われる問題の修正も含まれる。",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.61.0",
+      "collectedAt": "2026-09-27T23:10:11Z"
+    },
+    {
+      "title": "OpenAI「Codex」で約1時間の障害 謝罪として有料ユーザーの使用量をリセット",
+      "summary": "OpenAIのAIコーディングツール「Codex」で9月26日、日本時間8時前から約1時間にわたる障害が発生し、8時54分に復旧した。ChatGPTなど他のOpenAIサービスには影響がなかったという。Codexの責任者は謝罪として、CodexとChatGPTの全有料ユーザーの使用量上限をリセットすると表明した。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/",
+      "collectedAt": "2026-09-27T23:10:11Z"
+    }
+  ]
+}

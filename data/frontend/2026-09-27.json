@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-27",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js v16.4.0-canary.50 公開 プレリリースチャンネルでのエージェント的アップグレードに対応",
+      "summary": "Next.js 16.4 のcanary.50が9月26日に公開された。コア機能の変更はなく、プレリリースにおけるセキュリティアップグレードの制限について説明を追加したほか、プレリリースチャンネルでも最新のエージェント的アップグレードをサポートするようになった。Gitを使わないエージェント的アップグレードも可能になっている。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.50",
+      "collectedAt": "2026-09-27T23:10:11Z"
+    },
+    {
+      "title": "TanStack Router が9月27日付リリース ネイティブのスクロール復元やパスパラメータ解析を修正",
+      "summary": "TanStack Router が27日にリリースを公開し、@tanstack/react-router は 1.170.40 となった。リロード時にネイティブのスクロール復元が効かない問題、サーバールートハンドラより前にパスパラメータを解析する問題、無効化されたローダー予約の破棄などを修正。あわせてプリロード無効時に未使用のLinkプリロードのクリーンアップをスキップする最適化や、ミドルウェア配列のアロケーション削減も入った。",
+      "url": "https://github.com/TanStack/router/releases/tag/%40tanstack%2Freact-router%401.170.40",
+      "collectedAt": "2026-09-27T23:10:11Z"
+    },
+    {
+      "title": "Rolldown v1.2.11 リリース watchモードをファイルイベントのみの報告に変更",
+      "summary": "Rustベースのバンドラ Rolldown の v1.2.11 が9月24日に公開された。watchモードがファイルイベントのみを報告するようになり、削除パスの扱いやイベントマッピングの不具合も修正された。collapse_sourcemaps を通しても名前が保持されるようソースマップを修正し、rolldown_fs_watcher 周辺のリファクタリングも進んでいる。",
+      "url": "https://github.com/rolldown/rolldown/releases/tag/v1.2.11",
+      "collectedAt": "2026-09-27T23:10:11Z"
+    },
+    {
+      "title": "oxlint v1.85.0 / oxfmt v0.70.0 公開 Vite+ モードでネストした設定を探索しない挙動に",
+      "summary": "Rust製リンタ・フォーマッタの oxlint v1.85.0 と oxfmt v0.70.0 が公開され、Vite+ モードで動作する際にネストした設定ファイルを探索しないようになった。直前の v1.84.0 / v0.69.0 では Vite の設定検出の改善、JavaScriptプラグインのルール実行時間レポート、Markdownフォーマッタの実装などが入っている。",
+      "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.85.0",
+      "collectedAt": "2026-09-27T23:10:11Z"
+    }
+  ]
+}

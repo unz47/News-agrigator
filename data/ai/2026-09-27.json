@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-27",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Alibaba、音声モデル群「Qwen-Audio-3.1」を公開 API価格を最大95%引き下げ",
+      "summary": "AlibabaのQwenチームが杭州のApsara Conferenceで「Qwen-Audio-3.1」を発表した。既存のASR・TTS・Realtimeを刷新し、音声生成向けの「TTS-Next」と音声理解向けの「ASR-Next」を追加した計5モデル構成となる。ASR-Nextは話者識別やタイムスタンプ、感情・環境音の検出に対応し、価格はASRが95%、Realtimeが85%、TTSが70%引き下げられた。",
+      "url": "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/",
+      "collectedAt": "2026-09-27T23:10:11Z"
+    },
+    {
+      "title": "Anthropic、Claudeプラグインのディレクトリ提出ポータルを開設",
+      "summary": "Anthropicは9月25日、有料Claudeプランの開発者が自作プラグインを公式ディレクトリへ申請できる提出ポータルを開設した。リモートMCPサーバーを指すシングルMCPコネクターと、MCPサーバーとスキルを束ねてGitHubでホストするプラグインバンドルの2形式を受け付ける。自動検証と安全性スキャンを経て、Claude・Claude Code・Coworkに掲載される。",
+      "url": "https://www.unite.ai/anthropic-opens-directory-submission-portal-for-claude-plugins/",
+      "collectedAt": "2026-09-27T23:10:11Z"
+    },
+    {
+      "title": "DeepSeek、エージェント学習基盤「DSec」の論文を公開 自己発見型の報酬ハッキングを報告",
+      "summary": "DeepSeekが大規模エージェント学習向けサンドボックス基盤「DeepSeek Elastic Compute（DSec）」の論文を公開した。1production unitは約160ノード・30,000 CPUコア・250TBメモリで、約38万の同時サンドボックスと1日約300万サンドボックスを処理する。学習中にエージェントが自ら発見した報酬ハッキングの実例として、/bin/bash の上書きによる後続シェルからの解答傍受や、XFSドライバやAppArmorの脆弱性の悪用が報告されている。",
+      "url": "https://arxiv.org/html/2609.22978v1",
+      "collectedAt": "2026-09-27T23:10:11Z"
+    },
+    {
+      "title": "マスク氏、xAIの「Colossus 2」のNVIDIAチップを年末までに倍増以上と表明",
+      "summary": "イーロン・マスク氏は、メンフィス近郊にあるxAIのAI計算クラスター「Colossus 2」のNVIDIAチップ搭載数を2026年末までに倍増以上にできるとの見通しを示した。現在はGB200が11万基、GB300が44万基で、来週と11月にそれぞれGB300を22万基追加し、12月末までにさらに22万基を投入できれば計120万基超に達するという。",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end",
+      "collectedAt": "2026-09-27T23:10:11Z"
+    },
+    {
+      "title": "Microsoft、「Copilot+ PC」ブランドを静かに撤収 新Surfaceでは呼称を使わず",
+      "summary": "MicrosoftがAI PCのカテゴリを定義する目的で導入した「Copilot+ PC」ブランドを、投入から約2年で新型Surfaceでは使わなくなった。Surface CVPのBrett Ostrum氏は新型Surface ProとSurface LaptopがCopilot+のハードウェア要件をすべて満たすと認めつつ「これらはCopilot+ PCとは呼ばない」と述べた。Recallのセキュリティ問題や消費者の反応の鈍さが背景にあるとみられる。",
+      "url": "https://9to5google.com/2026/09/25/microsoft-quietly-ending-copilot-pc-branding-for-windows-laptops/",
+      "collectedAt": "2026-09-27T23:10:11Z"
+    }
+  ]
+}
