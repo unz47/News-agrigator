@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-28",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "oxlint v1.86.0 リリース Reactの複合コンポーネント向けルールを強化",
+      "summary": "Rust製リンターoxlintのv1.86.0が9月28日に公開された。Reactリンタールールが複合コンポーネント(Compound Components)のパターンに対応し、誤検知が減った。加えて、生成された空のオブジェクト型を検出する新しいTypeScriptルールが追加され、リント精度と実行性能の両面で複数の修正が入っている。",
+      "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.86.0",
+      "collectedAt": "2026-09-28T23:06:08Z"
+    },
+    {
+      "title": "oxfmt v0.71.0 公開 同梱Prettierを3.9.9へ更新",
+      "summary": "フォーマッタoxfmtのv0.71.0が9月28日にリリースされ、同梱するPrettierがバージョン3.9.9へ更新された。コメントの扱いやフォーマットのエッジケースに関する改善が入り、Markdownについてはネストしたリストやインライン要素の整形が修正されている。",
+      "url": "https://github.com/oxc-project/oxc/releases/tag/oxfmt_v0.71.0",
+      "collectedAt": "2026-09-28T23:06:08Z"
+    },
+    {
+      "title": "oxc crates v0.152.0 公開 文字列処理型を追加しReact Compilerの診断を外部公開",
+      "summary": "oxcのRustクレート群v0.152.0が9月28日に公開された。新たに JSStr・JSChar・JSStrBuilder という文字列処理用の型が導入され、正規表現ではバッファ境界アサーションのサポートが追加された。また reportDiagnostics オプション経由でReact Compilerの診断結果を取得できるようになり、ツール側からの活用がしやすくなっている。",
+      "url": "https://github.com/oxc-project/oxc/releases/tag/crates_v0.152.0",
+      "collectedAt": "2026-09-28T23:06:08Z"
+    },
+    {
+      "title": "Next.js v16.4.0-canary.51 公開 DevToolsにセキュリティアップグレードの情報を表示",
+      "summary": "Next.jsのプレリリース版 v16.4.0-canary.51 が9月27日に公開された。DevTools上でセキュリティアップグレードに関する情報を確認できるようになり、npmのアドバイザリを絞り込んで表示する。アップグレードの準備が整ったものだけを促す挙動に変更され、不要な通知が抑えられている。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.51",
+      "collectedAt": "2026-09-28T23:06:08Z"
+    },
+    {
+      "title": "TanStack Vue Router v1.170.36 リリース プリロード無効時の不要な後処理をスキップ",
+      "summary": "TanStack Routerのvue-routerパッケージ v1.170.36 が9月27日に公開された。プリロードが無効な場合にLinkのプリロードのクリーンアップ処理を行わず、キューに入ったビューポート処理も無視するよう修正されている。あわせてrouter-coreの依存も更新された。",
+      "url": "https://github.com/TanStack/router/releases/tag/%40tanstack%2Fvue-router%401.170.36",
+      "collectedAt": "2026-09-28T23:06:08Z"
+    }
+  ]
+}

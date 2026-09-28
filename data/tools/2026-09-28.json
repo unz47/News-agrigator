@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-28",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.284 公開 Claude Sonnet 5.5を既定のSonnetモデルに",
+      "summary": "Claude Code v2.1.284が9月28日にリリースされ、1Mコンテキストウィンドウを持つClaude Sonnet 5.5が既定のSonnetモデルになった。auto modeの権限確認に「はい、ただし次回も確認する」の選択肢が加わり、/usage コマンドでは利用上限に対する消費額がドル表示されるようになった。effortスライダーやUltracodeのキーバインド追加、失敗したMCPサーバーを再接続する /mcp reconnect all も導入されている。",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.284",
+      "collectedAt": "2026-09-28T23:06:08Z"
+    },
+    {
+      "title": "GitHub Copilot で Claude Sonnet 5.5 が一般提供開始",
+      "summary": "GitHubは9月28日、AnthropicのClaude Sonnet 5.5をGitHub Copilotで一般提供すると発表した。機能追加やバグ修正といった範囲の明確な日常業務向けに設計され、テストでは効率性の向上が確認されたとしている。Copilot Pro/Pro+/Max/Business/Enterpriseが対象で、VS Code・Visual Studio・Copilot CLI・github.com・JetBrains・Xcode・Eclipseなどのモデルピッカーから段階的に選択できるようになる。",
+      "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+      "collectedAt": "2026-09-28T23:06:08Z"
+    },
+    {
+      "title": "Kiro、Claude Opus 5.5 を追加 クレジット倍率2.0倍・1Mコンテキストで提供",
+      "summary": "AWSのAI IDE「Kiro」が9月28日、Claude Opus 5.5をモデルとして追加した。Opus 5より強力なエージェント的コーディングと明確なコミュニケーションを備えつつ、クレジット倍率は2.0倍に引き下げられている。1Mトークンのコンテキストウィンドウに対応し、IDE・CLI・Crew・Webの各プラットフォームで利用できる。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-09-28T23:06:08Z"
+    },
+    {
+      "title": "GitHub Actions、セルフホストランナーのバージョン強制適用を9月29日開始",
+      "summary": "GitHubはGitHub Enterprise Cloudにおけるセルフホストランナーのバージョン要件について、9月28日に変更を反映し29日から完全に強制適用すると告知した。バージョン2.329.0未満のランナーは登録・再登録ができず、実行最小バージョンを下回る既存ランナーはジョブの実行を停止する。廃止予定日を確認して自動アラートを設定できる新しいREST APIも提供されており、29日までのアップグレードが必要となる。",
+      "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+      "collectedAt": "2026-09-28T23:06:08Z"
+    },
+    {
+      "title": "Cursor、PRを監視する「Rollouts」とセキュリティ診断ボットを Teams/Enterprise 向けに公開",
+      "summary": "Cursorは9月23日、Teams/Enterpriseプラン向けに2つの新しいボットを公開した。「Rollouts」はデプロイ中のプルリクエストを監視し、監視計画をPRコメントとして書き込んで各環境の変更の健全性を報告、Datadogなどのテレメトリと連携してリグレッションを検知する。「Security Review」は全PRを解析してインジェクションや認証バイパス、コード内の秘密情報、危険なデシリアライズなどを深刻度・攻撃経路・修正案付きで報告する。",
+      "url": "https://cursor.com/changelog",
+      "collectedAt": "2026-09-28T23:06:08Z"
+    }
+  ]
+}
