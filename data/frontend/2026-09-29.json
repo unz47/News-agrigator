@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-29",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js v16.3.7 リリース キャンセル済みタスクでの強整合性読み取りのハングを修正",
+      "summary": "Next.jsの安定版 v16.3.7 が9月29日に公開された。バックポート中心のパッチリリースで、主な修正はキャンセルされたタスクに対する強整合性読み取り(strongly consistent read)がハングする問題への対処。canaryに入っている未リリースの機能や変更は含まれない。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.7",
+      "collectedAt": "2026-09-29T23:10:00Z"
+    },
+    {
+      "title": "Next.js v16.4.0-canary.52 公開 navigation()とprefetch()から unstable_ プレフィックスを削除",
+      "summary": "canary.52では`navigation()`と`prefetch()`のAPIから unstable_ プレフィックスが外され、安定化に向けて一歩進んだ。Turbopackではモジュール処理とimportの保持まわりが最適化され、バンドルアナライザーには仮想スクロールと差分ソートの修正が入った。AIアップグレードツールでのモデル/権限の選択や、初回リクエスト時のカスタムキャッシュハンドラの不具合修正も含まれる。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.52",
+      "collectedAt": "2026-09-29T23:10:00Z"
+    },
+    {
+      "title": "Storybook v10.6.1 リリース Vitest 5 のブラウザテストに対応",
+      "summary": "Storybook v10.6.1が9月29日に公開された。addon-vitestがVitest 5のブラウザテストをサポートし、Next.jsの新規インストール時に起きていたvitest周りのERESOLVE依存衝突も解消された。a11yアドオンではFirefoxで効かなかった視覚シミュレータのカラーフィルタを修正し、参照到達性チェックの失敗でビルドがクラッシュする問題やサイドバーの変更検知CTAの復旧、TanStackの`interpolatePath`両シグネチャ対応も入っている。",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v10.6.1",
+      "collectedAt": "2026-09-29T23:10:00Z"
+    },
+    {
+      "title": "Rspack v2.2.8 リリース 新キャッシュ機構にリゾルバキャッシュを追加しメモリ使用量を削減",
+      "summary": "Rspack v2.2.8が公開され、新しいキャッシュシステムにリゾルバキャッシュが加わり、JavaScript URLエントリのファクトリ種別プローブにも対応した。exports info・パーサー・依存関係ストレージを対象にメモリフットプリントを削減する最適化が広範に入っている。型定義やキャッシュ処理、ローダーの挙動に関する25件以上のバグ修正も含まれる。",
+      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v2.2.8",
+      "collectedAt": "2026-09-29T23:10:00Z"
+    }
+  ]
+}

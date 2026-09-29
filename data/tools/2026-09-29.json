@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-29",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.285 公開 WebFetch無効化の環境変数と `claude --desktop` を追加",
+      "summary": "Claude Code v2.1.285がリリースされ、WebFetchツールを制御する環境変数`CLAUDE_CODE_DISABLE_WEB_FETCH`と、デスクトップアプリを開く`claude --desktop`が追加された。`claude plugin configure`によるプラグイン設定や、MCPサーバーの設定・エラーハンドリングも改善されている。サブエージェントでの権限プロンプト、SSH経由のインストール、クラウドセッションのアーティファクト管理、セッション途中のモデル切り替えなど多数の不具合も修正された。",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.285",
+      "collectedAt": "2026-09-29T23:10:00Z"
+    },
+    {
+      "title": "GitHub Copilot で GPT-6.1 Sol が一般提供開始 トークンとステップ数を大幅削減",
+      "summary": "OpenAIの新モデルGPT-6.1 SolがGitHub Copilotで一般提供された。エージェント的なコーディングとターミナル操作に強く、複数ステップにまたがる作業で高い性能を示すという。Copilot Pro+/Max/Business/Enterpriseが対象で、VS Code・Visual Studio・Copilot CLI・JetBrains IDE・GitHub.comのモデルピッカーから選択できる。初期検証ではGPT-6やGPT-5.6系より使用トークンとステップ数が明らかに少なかったとしている。",
+      "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+      "collectedAt": "2026-09-29T23:10:00Z"
+    },
+    {
+      "title": "OpenAI Codex v0.159.0 / v0.159.1 公開 応答への割り込みに対応しGPT-6.1 Solを既定モデルに",
+      "summary": "Codex CLIのv0.159.0がリリースされ、モデルの応答を途中で操作できるオプトイン方式の割り込み機能が追加された。新規セッションのウェルカム画面やヘッダーが再設計され、警告ビューアの改善、Mermaid図の描画対応、書式を保つトランスクリプトのコピーなども入った。自動フォローアップ提案と同梱のplugin-creatorスキルは削除。続くv0.159.1では、同梱カタログとAmazon Bedrock向けカタログの既定モデルがGPT-6.1 Solに変更された。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.159.0",
+      "collectedAt": "2026-09-29T23:10:00Z"
+    },
+    {
+      "title": "Dependabot のランナー設定がリポジトリ単位で可能に 専用環境への振り分けが容易に",
+      "summary": "GitHubは、Dependabotの更新ジョブで使うランナー種別・カスタムラベル・ランナーグループを、リポジトリ管理者がリポジトリ単位で設定できるようにした。従来は組織単位でしか指定できなかったため、全リポジトリに同じ設定を適用するしかなかった。プライベートなパッケージレジストリへのアクセスや特殊な実行環境が必要な場合に、セルフホストランナーや大型のGitHubホストランナーへ個別に振り分けられる。",
+      "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
+      "collectedAt": "2026-09-29T23:10:00Z"
+    },
+    {
+      "title": "GitHub、外部システムと同期する「external custom properties」をパブリックプレビュー公開",
+      "summary": "GitHubは、CMDBや社内開発者ポータルなど外部システムのビジネス情報をリポジトリへ同期できる「external custom properties」をパブリックプレビューで提供開始した。オーナーシップ・サービスティア・コンプライアンス状況・ライフサイクル段階といったメタデータを、元システムを唯一の正とした上で継続的に更新でき、GitHubのUI上では読み取り専用になる。同期された情報はリポジトリ一覧の表示・絞り込みやrulesetでも利用できる。",
+      "url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
+      "collectedAt": "2026-09-29T23:10:00Z"
+    }
+  ]
+}
