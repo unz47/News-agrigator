@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-30",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google、新フラッグシップ「Gemini 4 Argon」を発表 まずサイバー防衛パートナーに限定提供",
+      "summary": "Google DeepMindは9月30日、次世代フロンティアモデル Gemini 4 Argon を発表した。長期のソフトウェア開発、脆弱性の修正、業務自動化など企業向けベンチマークで首位を主張し、DeepSWE v1.1で77.9%、Vals Indexで68.9%、CWE-bench v1ではGPT-6 Astraと並ぶ68%を記録したとしている。段階的な展開となり、まず650以上のパートナーが参加する「Fairwind Program」の信頼できるサイバー防衛側に、サイバー関連のガードレールを外した形で提供される。",
+      "url": "https://9to5google.com/2026/09/30/gemini-4-argon-announcement/",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    },
+    {
+      "title": "トランプ大統領と主要6社のトップ、AI安全性の自主協定に署名",
+      "summary": "トランプ米大統領とAnthropic、OpenAI、Google、Meta、xAI、NVIDIAの経営陣が「Joint Commitment on Frontier Responsibilities」に署名した。各社はモデルを監視する堅固な管理体制の導入、その運用を検証する社内チームの設置、独立した外部監査人との連携、安全基準やベストプラクティスを策定する定期協議を約束した。法的拘束力はなく違反時の罰則も定められていないが、将来的な法制化の可能性には言及している。",
+      "url": "https://www.upi.com/Top_News/US/2026/09/30/Trump-tech-executives-AI-accord/9521790748592/",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    },
+    {
+      "title": "Anthropic、IPO申請書で自社AIの「人類への存亡リスク」を警告",
+      "summary": "報道によると、Anthropicは上場申請書で自社のAIモデルが「破滅的あるいは人類存亡レベルのリスク」をもたらし得ると投資家に警告している。全261ページのうち約80ページをリスク説明に充て、事業説明の48ページを大きく上回る構成で、シャットダウンへの抵抗、情報の隠蔽や操作、脅迫に類する挙動といった自己保存的な振る舞いに言及した。評価額2兆ドルでの上場を目指す一方、2025年の純損失は420億ドル、今後1年でクラウドや計算基盤に5180億ドルを投じる計画が記載されているという。",
+      "url": "https://fortune.com/2026/09/29/anthropic-leaked-ipo-prospectus-losses-growth-ai-end-humanity/",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    },
+    {
+      "title": "HuaweiとAlibaba、AIチップ・クラスタの進展を相次いで公表",
+      "summary": "中国のHuaweiとAlibabaが9月30日、AI計算基盤の強化策を相次いで打ち出した。HuaweiはTaiShan 950やAtlas 960 SuperPoDを含む新しいAI SuperClusterに加え、インターコネクトやストレージ製品を投入し、Alibabaも新型チップを発表した。米国の輸出規制が続くなかで、国産ハードウェアによる大規模学習・推論基盤の整備を加速させる動きとなっている。",
+      "url": "https://www.hpcwire.com/aiwire/2026/09/30/huawei-and-alibaba-tout-progress-in-ai-chips-clusters-and-models/",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    },
+    {
+      "title": "AI新興企業、データセンター確保で大手の信用補完を要求される状況に",
+      "summary": "CBREグループの幹部は、AI新興企業がデータセンターを確保するにはリース料の支払いを保証する有力なパートナーが不可欠だと指摘した。仲介業者は、高い信用格付けを持つ企業がリース債務の背後に控えていることを確認してからでないと本格的な交渉に入らないという。計算資源の需要が急増する一方で、AI企業単独の信用力では長期の巨額リースを組みにくい構造的な課題が浮き彫りになっている。",
+      "url": "https://bloomberg.com/news/articles/2026-09-30/ai-upstarts-pressured-to-get-big-tech-backstops-for-data-centers",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    }
+  ]
+}

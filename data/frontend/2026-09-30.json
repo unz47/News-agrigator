@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-30",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js が2026年9月のセキュリティリリースを公開 高危険度のSSRFなど7件を修正",
+      "summary": "Vercelは9月30日、Next.js の9月セキュリティリリースとして v16.3.8 (Active LTS) と v15.5.27 (Maintenance LTS) を公開した。最も深刻なのは画像最適化における高危険度のSSRF (CVE-2026-94483) で、許可リストに載った攻撃者制御のリモートURLを介して私的IP範囲へ到達できる恐れがある。ほかにSSG/ISRページのキャッシュ汚染2件、metadata画像ルートでのdynamicParams迂回による情報漏えい、'use cache' のキャッシュキー欠落、Draft Modeの未公開コンテンツ混入、開発サーバーのMCPエンドポイントからの情報漏えい (低) が修正されている。",
+      "url": "https://nextjs.org/blog/september-2026-security-release",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    },
+    {
+      "title": "Angular 22.2.1 公開 サニタイザーが data: と vbscript: の危険なURLを遮断",
+      "summary": "Angularチームは9月30日にパッチリリース 22.2.1 を公開した。coreではサニタイザーが危険な `data:` と `vbscript:` のURLを遮断するようになり、実行されないMIMEタイプの `data:` URLについては許可リストを拡張している。またNgOptimizedImageが最適化無効時に `[srcset]` バインディングをそのまま通すよう修正され、afterRenderEffectに `debugName` が追加、NG0600のエラーメッセージにシグナルとコンポーネント名が含まれるようになった。",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.1",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    },
+    {
+      "title": "Angular 21.2.25 / 20.3.33 も同時公開 ルーターとSSRのセキュリティ修正をバックポート",
+      "summary": "Angularは9月30日、保守中の 21.2.25 と 20.3.33 も公開し、ルーターとサーバーサイドレンダリングの修正をバックポートした。platform-serverでは resolveUrl がプロトコル相対パスを拒否するようになり、ルーターでは本番ビルドでの重複アウトレットの拒否、子セグメント処理前にアウトレットがルートに一致することの要求といった挙動変更が入っている。あわせてURLサイズのオブジェクトを全ルートスナップショットへコピーしない最適化や、RouterLinkがUrlTreeを保持しない改善も含まれる。",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.25",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    },
+    {
+      "title": "Vitest v5.0.3 リリース repeats実行間での結果ステータス分離やブラウザモードの安定化",
+      "summary": "Vitestは9月30日に v5.0.3 をリリースした。`repeats` による繰り返し実行の間で `result.status` が混ざる問題を解消し、`test.fails` が期待どおり失敗した場合にリトライしないよう修正、キャッシュキー生成をプロジェクト単位にスコープした。ブラウザモードではテスト開始までサーバー初期化を遅延させ、リトライ時のスクリーンショット照合やキャンセル中のページクラッシュ処理を改善している。11人の開発者が貢献した。",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v5.0.3",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    },
+    {
+      "title": "Angular 22.3.0-next.0 公開 テンプレート式でインクリメント/デクリメント演算子に対応",
+      "summary": "Angularは9月30日に次期マイナーの先行版 22.3.0-next.0 を公開した。テンプレート式の中でインクリメント/デクリメント演算子 (`++`/`--`) を使えるようになり、イベントハンドラなどでのカウンタ操作が簡潔に書ける。あわせて `@for` 式で反復不能な値が無言で無視される問題や、TypeScriptの型定義における基底クラス検出の不具合も修正されている。",
+      "url": "https://github.com/angular/angular/releases/tag/v22.3.0-next.0",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    }
+  ]
+}

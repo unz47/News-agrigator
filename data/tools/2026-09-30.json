@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-30",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "VS Code 1.140 リリース Copilot Harnessとマルチフォルダーセッションを導入",
+      "summary": "Visual Studio Code 1.140 が9月30日に公開された。専用のエージェントホストプロセス上で動く「Copilot Harness」により、Copilot製品間でエージェントの挙動が統一される。1つのセッションで複数のリポジトリやワークツリーを横断でき、チャットごとに独立したフォルダーコンテキストを保てるマルチフォルダーセッションや、接続済みのリモートホストへエージェントがタスクを委譲する機能、node_modules などをワークツリー間でシンボリックリンク共有する仕組みも加わった。",
+      "url": "https://code.visualstudio.com/updates/v1_140",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    },
+    {
+      "title": "GitHub、モデル編成機能「HydraFusion」をVS CodeとCopilotアプリへ拡大",
+      "summary": "GitHubは9月30日、これまでCopilot CLI限定だった HydraFusion を VS Code と GitHub Copilot アプリに展開した。HydraFusionはワークフロー選択を最適化問題として扱い、単一モデルで解く Single、軽量モデルが下書きして必要時に上位モデルへ引き継ぐ Cascade、下書きを別モデルが批評して元モデルが改稿する Critique の3パターンを使い分ける。処理手順の可視化やリアルタイムの進捗表示も強化され、Pro/Pro+/Business/Enterprise向けのリサーチプレビューとして提供される。",
+      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    },
+    {
+      "title": "Kiro、再利用可能な多段エージェント計画「Workflows」をWeb・IDE・CLIに同時投入",
+      "summary": "Kiroは9月30日、Workflows を Web、IDE 1.2.4、CLI 2.26.0 で同時に提供開始した。再利用可能な多段のエージェント計画をクラウドセッションでバックグラウンド実行でき、各ステップを確認・誘導しながら親の会話では作業を続けられる。IDE 1.2.4では信頼できないワークスペースに対する保護の強化とサインイン方式のエンタープライズ制御も追加され、CLI 2.26.0ではWorkflowsはオプトインでの提供となる。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    },
+    {
+      "title": "GitHub、npm の Trusted Publishing に dist-tag 権限をオプトインで追加",
+      "summary": "GitHubは9月30日、npm の Trusted Publishing で dist-tag 操作を扱える新権限を追加した。これまで Trusted Publishing は公開とステージングのみを対象としており、`latest` への昇格や `next`・`beta` の付け替えは長期有効なトークンに頼る必要があったが、短命なOIDC認証情報で実行できるようになる。新設の「Allow npm dist-tag」権限は新規・既存の設定いずれでも既定で無効で、公開権限とは独立して管理される。",
+      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    },
+    {
+      "title": "Claude Code v2.1.286 公開 権限プロンプトの件数表示とリスト操作のマウス対応を追加",
+      "summary": "Claude Code v2.1.286 が9月30日に公開された。権限プロンプトに「N of X」の件数カウンターが付き、フルスクリーンのリスト操作でマウスが使えるようになり、あふれた行は「↑ N more」「↓ N more」と表示される。認証情報の期限切れ時に複数のログインブラウザが開く問題、並列ツール呼び出し後にクラッシュしたセッションで `--resume`/`--continue` がターンを失う問題、履歴の大きいクラウドセッションが復帰しない問題などが修正され、VS Code拡張にはClaudeの応答を保存するブックマークパネルが追加された。",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.286",
+      "collectedAt": "2026-09-30T23:09:26Z"
+    }
+  ]
+}
