@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-01",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、英バークレイズがClaudeを全社展開し業務高度化に活用と発表",
+      "summary": "Anthropicは10月1日、英金融大手バークレイズがClaudeを全社規模に展開し、業務プロセスの効率化と顧客体験の改善に活用していると発表した。規制産業である金融分野での大規模導入事例として、コンプライアンス要件を満たしつつ従業員の日常業務にAIを組み込む取り組みが紹介されている。",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "collectedAt": "2026-10-01T23:05:00Z"
+    },
+    {
+      "title": "OpenAI、低コスト上位モデル「GPT-6.1 Sol」をAPIで公開 マルチエージェント委任もベータ提供",
+      "summary": "OpenAIはAPIのチェンジログで、複雑なタスク向けの新モデル「GPT-6.1 Sol」を公開したと告知した。GPT-6 Astraより低コストで複雑な作業をこなせる位置づけで、Responses API経由でマルチエージェントの委任機能もベータ提供される。合わせてGPT-6 Astra向けに出力トークン間の待ち時間を縮める「Ultrafast mode」も追加された。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-10-01T23:05:00Z"
+    },
+    {
+      "title": "OpenAI、Agents APIにコンピュータ操作機能を追加 ホスト型ブラウザでタスク実行",
+      "summary": "OpenAIはAgents APIにcomputer use(コンピュータ操作)を追加し、エージェントがOpenAIのホストするブラウザ上で直接タスクを完了できるようにした。サイトへのアクセス承認やサインインはアプリケーション側で制御する設計で、認証が必要な業務フローの自動化を想定している。Agents API自体は9月に公開ベータとなったばかりの新APIである。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-10-01T23:05:00Z"
+    },
+    {
+      "title": "Anthropic、Claude Sonnet 5.5を公開 Opus 5.5の低コスト補完モデルとして投入",
+      "summary": "Anthropicの公式リリースノートによると、9月28日にClaude Sonnet 5.5が公開された。9月22日に発表されたClaude Opus 5.5を補完する「より高速で低コスト」なモデルとして位置づけられ、Claude 5.5ファミリーが構成された。Opus 5.5はFable 5.1相当の性能でOpus 5より約40%安い運用コストをうたっており、日常的なコーディングや文書作成の主力をSonnet 5.5に寄せる構成になる。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-10-01T23:05:00Z"
+    }
+  ]
+}

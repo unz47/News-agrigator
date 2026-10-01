@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-01",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Vite v8.3.2 リリース CSSプリロードとソースマップ周りの不具合を修正",
+      "summary": "Viteのパッチリリースv8.3.2が公開され、13件のバグ修正と3件の性能改善が入った。renderBuiltUrlがクエリ付きURLを返す場合のCSSプリロード、遅延チャンクのソースマップ配信、HTMLのsrcset解決などが修正されている。中間ソースマップのエンコードを省く最適化や、cross-spawnからtinyexecへの依存置き換えも行われた。",
+      "url": "https://github.com/vitejs/vite/releases/tag/v8.3.2",
+      "collectedAt": "2026-10-01T23:05:00Z"
+    },
+    {
+      "title": "Astro 7.4.0-beta.0 公開 インテグレーションがビルド出力先を制御可能に",
+      "summary": "Astroのベータ版7.4.0-beta.0が公開され、インテグレーション側からビルド出力先を制御できるようになった。カスタムプリレンダラーがclient/server/prerenderの各パスをoutputDirectoriesコンテキストとして受け取れる設計で、Viteのマニフェストを使えなかったデプロイ系インテグレーションの問題が解消される。@astrojs/cloudflareはCloudflare v2プラグインを使うメジャー更新(15.0.0-beta.0)として同時にベータ公開された。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-10-01T23:05:00Z"
+    },
+    {
+      "title": "TypeScript公式のVS Code拡張 vscode-typescript v1.0.1 が公開 TypeScript 7.0.2を同梱",
+      "summary": "TypeScriptチームが9月30日にVS Code拡張 vscode-typescript v1.0.1 を公開した。Go実装への移植で約10倍高速化したTypeScript 7.0.2を同梱しており、エディタ側から新しいネイティブ言語サービスを利用できる。VS Code標準同梱版を待たずに最新コンパイラを試せる配布経路として位置づけられる。",
+      "url": "https://github.com/microsoft/TypeScript/releases",
+      "collectedAt": "2026-10-01T23:05:00Z"
+    },
+    {
+      "title": "Safari Technology Preview 253 公開 スクロールタイムラインやIntl.PluralRulesのBigInt対応",
+      "summary": "WebKitがSafari Technology Preview 253を公開した。スタイル由来のスクロールタイムラインのグローバル挙動対応、CSSContainerRule.conditionsの追加、東アジア系カウンタースタイルの数値範囲拡張など、CSS関連で30件以上の修正が入っている。JavaScriptではIntl.PluralRulesのBigInt対応と大きなBigInt乗算の高速化(Toom-3)、Web InspectorにはネットワークのスロットリングUIが追加された。",
+      "url": "https://webkit.org/blog/18357/release-notes-for-safari-technology-preview-253/",
+      "collectedAt": "2026-10-01T23:05:00Z"
+    }
+  ]
+}
