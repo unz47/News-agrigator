@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-02",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.288 公開 クラウドセッションに組み込みの `gh api` とCtrl+Cした入力の復元を追加",
+      "summary": "Claude Code v2.1.288が公開され、GitHub CLIが入っていないクラウドセッション向けに組み込みの`gh api`が用意された。Ctrl+Cで消したプロンプトを上キーで貼り付け画像ごと復元できる機能、/code-reviewの`--max-findings <n>|all`、agentsビューのCtrl+Fによるセッション検索も追加されている。応答途中のAPIタイムアウトでターンが失敗する問題や、長い会話が自動コンパクトされず「Prompt is too long」で落ちる問題など、安定性の修正も多数入った。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    },
+    {
+      "title": "Kiro CLI 2.27.0 公開 Workflowsへの委譲とSteeringのライブコンテキストに対応",
+      "summary": "Kiroは10月1日にCLI 2.27.0を公開し、Control V3からWorkflowsへタスクを委譲できるようになった。Steeringに対してファイルやフォルダをライブコンテキストとして追加でき、エージェントが常に最新の内容を参照できる。保存済みプロンプトをスラッシュコマンドとして呼び出す機能も加わった。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    },
+    {
+      "title": "GitHub、Copilot code reviewにAPI対応を追加しデフォルトのeffortを「Balanced」に変更",
+      "summary": "GitHubは10月2日、Copilot code reviewをRESTおよびGraphQL APIから実行できるようにしたと発表した。レビューのeffortレベルをAPI呼び出し時に指定でき、社内ツールや既存のワークフローへ組み込みやすくなる。あわせて9月28日付でデフォルトのeffortが「Default」から「Balanced」に変更され、「Lite」を明示的に選んでいた設定はそのまま維持される。",
+      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    },
+    {
+      "title": "GitHub Appのインストールトークンがステートレス化 40文字から約520文字へ",
+      "summary": "GitHubは10月2日、GitHub Appのインストールトークンをステートレス方式へ移行する展開が完了したと発表した。形式は`ghs_APPID_JWT`となり、従来の40文字固定から約520文字に伸びるため、長さを決め打ちした検証やDBカラム長を使っている実装は見直しが必要になる。発行と検証が速くなりAPIの信頼性も向上する一方、一時的な回避用ヘッダー`X-GitHub-Stateless-S2S-Token`は2026年11月30日に廃止される。",
+      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    },
+    {
+      "title": "GitHub、Copilot CLIとCopilotアプリに「dynamic workflows」をパブリックプレビュー提供",
+      "summary": "GitHubは10月1日、Copilot CLI・Copilotアプリ・Copilot SDKで「dynamic workflows」を利用できるようにしたと発表した。オーケストレーションをコードとして定義し、複数エージェントによる処理を直列・並列に走らせながら、段階間で構造化された結果を受け渡したり確認ポイントで一時停止したりできる。全プランでパブリックプレビュー提供され、CLIでは`--experimental`フラグが必要となる。",
+      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    }
+  ]
+}

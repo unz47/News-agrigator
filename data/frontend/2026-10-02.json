@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-02",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js v16.4.0-canary.57 / .56 公開 Turbopackの改善とパラメータマッチングAPIを追加",
+      "summary": "Next.jsのcanary版16.4.0-canary.56と.57が10月2日に相次いで公開された。canary.56ではTurbopackまわりの改善に加え、ルートのパラメータマッチング用APIと、AIによるアップグレード支援の計測が入った。canary.57ではReactの依存バージョン警告が出る問題を解消し、アップグレード手順のドキュメントを公開ドキュメントから整理している。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.57",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    },
+    {
+      "title": "Next.js v16.4.0-canary.55 公開 ensureStaticを安定化しタグ再検証の伝播を修正",
+      "summary": "10月1日に公開されたNext.js v16.4.0-canary.55では、実験的APIだった`ensureStatic`が安定版APIに昇格した。あわせてビルドID生成の不具合と、キャッシュタグによる再検証が正しく伝播しない問題が修正されている。Cache Components周辺の挙動を固める地ならしの更新となる。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.55",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    },
+    {
+      "title": "Astro、Cloudflareアダプタをv2プラグイン対応にメジャー更新 wranglerがpeer依存から外れる",
+      "summary": "@astrojs/cloudflare 15.0.0-beta.0が10月1日、続く15.0.0-beta.1が10月2日に公開され、@cloudflare/vite-pluginのv2を採用するメジャー更新となった。設定の読み込み元がWranglerから`cloudflare.config.ts`に変わり、wranglerはpeer dependencyではなくなる。`cf`によるデプロイにも対応し、Cloudflare向けAstroサイトの構成が大きく変わる。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    },
+    {
+      "title": "Astro 7.4.0-beta.1 公開 astro addがCloudflare設定ファイルを自動生成",
+      "summary": "Astro本体の7.4.0-beta.1が10月2日に公開され、`astro add`コマンドがCloudflareベータ版インテグレーションの追加に対応した。`cf`パッケージのインストール、`cloudflare.config.ts`の雛形生成、型定義の生成までを一括で行う。アダプタ側のメジャー更新に合わせ、導入時の手作業を減らす変更となっている。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    },
+    {
+      "title": "Biome v2.5.15 リリース 新ルール11種とHTMLフォーマッタ最大4倍高速化",
+      "summary": "Rust製のリンタ/フォーマッタBiomeのv2.5.15が9月30日に公開された。Reactのデフォルトprop、Svelteの`export let`、CSSの論理プロパティ、Tailwindの生カラー指定などを対象としたnurseryルールが11種追加されている。性能面ではHTMLフォーマッタが最大4倍、ZodやValibotなど大型ライブラリの型推論が2〜240倍高速化し、大きなファイルの解析も最大2倍速くなった。",
+      "url": "https://github.com/biomejs/biome/releases",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    }
+  ]
+}

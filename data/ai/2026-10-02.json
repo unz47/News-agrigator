@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-02",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、1億ドルを投じAIエンジニア1万人を育成する「Claude Frontier Academy」を発表",
+      "summary": "Anthropicは10月2日、企業でClaudeを本番運用できる人材を育てる研修プログラム「Claude Frontier Academy」を発表し、1億ドルを投じて2027年末までに1万人の「Frontier Deployed Engineer」を育成すると表明した。サンフランシスコ・ニューヨーク・ロンドンでの数日間の集中研修と、自社に戻ってからの12週間の実践配属という医療研修に近い2段階構成を採る。初回コホートにはアクセンチュア、ベイン、デロイト、マッキンゼー、モルガン・スタンレー、ノボノルディスクなどが参加する。",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    },
+    {
+      "title": "Microsoft、年次セキュリティ報告書「Digital Defense Report 2026」を公開 AIが攻撃側の速度を押し上げる",
+      "summary": "Microsoftが2025年7月〜2026年6月のテレメトリを基にした年次報告書「Microsoft Digital Defense Report 2026」を公開した。AIが攻撃の所要時間を圧縮し高度な攻撃能力のコストを下げていると指摘する一方、防御側も検知・分析・対応の高速化で恩恵を受けられるとしている。AIシステム自体が新たな攻撃面になりつつあることにも触れ、ChatGPTの会話履歴を約1万組織から窃取していた悪性ブラウザ拡張の事例を挙げた。",
+      "url": "https://www.microsoft.com/mddr",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    },
+    {
+      "title": "GitHub Copilot、Claude Opus 4.7やGemini 3.5/3.6 Flashなど4モデルを提供終了",
+      "summary": "GitHubは10月2日、Copilotで選択できるモデルのうち4つを提供終了にすると発表した。Gemini 3.5 FlashとGemini 3.6 FlashはGemini 3.8 Flashへ、Kimi K2.7 CodeはKimi K3へ、Claude Opus 4.7はClaude Opus 5.5へそれぞれ移行する。利用者はワークフローや連携設定の参照モデルを更新する必要があり、企業管理者は後継モデルへのアクセスをポリシーで有効化する必要がある場合がある。",
+      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    },
+    {
+      "title": "NVIDIA、AIエージェントの権限逸脱を防ぐ「Open Agent Safety Platform」を発表",
+      "summary": "NVIDIAは9月28日、自律的に動くAIエージェントが与えられた権限の外に出てしまう事態を防ぐための安全基盤「Open Agent Safety Platform」を発表した。業界横断で共通の安全策を整備する取り組みと位置づけられ、複数のAI・クラウド各社が参加している。一方でOpenAIはこの枠組みに名を連ねておらず、Altman CEOは取り組み自体は評価しつつ自社で同種の仕組みを進めていると説明している。",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "collectedAt": "2026-10-02T23:12:46Z"
+    }
+  ]
+}
