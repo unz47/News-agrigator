@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-03",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Kiro、Claude Sonnet 5.5を提供開始 1Mトークン文脈と30%高速な出力",
+      "summary": "KiroはAnthropicのClaude Sonnet 5.5をIDE・CLI・Crew・Webで利用可能にした。出力速度は従来比30%以上向上し、実務的なナレッジワークではOpus 5.5に迫る性能だとしている。1Mトークンのコンテキストウィンドウとデフォルト有効のadaptive thinkingを備え、クレジット倍率は1.3倍、Proティア以上の米東部・EU中央リージョンから順次提供される。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-03T23:07:38Z"
+    },
+    {
+      "title": "GitHub、リポジトリのセキュリティアドバイザリに「機密コメント」を導入",
+      "summary": "GitHubは、書き込み権限を持つメンテナだけが閲覧できる機密コメントをリポジトリのセキュリティアドバイザリに追加した。報告者や他のコラボレータに見せずに、不正利用の疑いや調査内容を内部で共有・調整できる。投稿後に通常コメントへ変換することはできず、操作は監査ログに記録される。",
+      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+      "collectedAt": "2026-10-03T23:07:38Z"
+    },
+    {
+      "title": "GitHub、セキュリティアドバイザリのコメントAPIをパブリックプレビュー提供",
+      "summary": "GitHubはリポジトリのセキュリティアドバイザリに対するコメントを一覧・取得・追加・編集できるREST APIを公開した。非公開の脆弱性報告から作成されたアドバイザリにも対応し、更新日時によるフィルタやコメント件数の表示も利用できる。削除は現時点では未対応で、既存のアクセス制御はそのまま適用される。",
+      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "collectedAt": "2026-10-03T23:07:38Z"
+    },
+    {
+      "title": "GitHub、SecurityAdvisory GraphQL APIに5つのフィールドと2つのフィルタを追加",
+      "summary": "GitHubはGraphQLのSecurityAdvisoryにcveId・sourceCodeLocation・githubReviewedAt・nvdPublishedAt・repositoryAdvisoryUrlの5フィールドを追加した。あわせてseveritiesとisWithdrawnによるサーバーサイド絞り込みにも対応し、深刻度別のトリアージや取り下げ済みアドバイザリの監査がAPI往復を減らして行える。変更は後方互換。",
+      "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "collectedAt": "2026-10-03T23:07:38Z"
+    },
+    {
+      "title": "GitHub、プルリクエストの非同期マージAPIを正式提供へ",
+      "summary": "GitHubは非同期マージAPIを一般提供（GA）にした。PUTでマージ要求を投げ、返却されたIDをGETで確認する2段階方式のため、処理の重いリポジトリでも自動化がブロックされない。単体・スタックされたPRのマージやマージキューへの追加、ルールのバイパスにも対応し、従来の同期的なREST/GraphQLに代わる推奨手段となる。",
+      "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+      "collectedAt": "2026-10-03T23:07:38Z"
+    }
+  ]
+}

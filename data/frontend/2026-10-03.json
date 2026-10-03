@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-03",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js v16.4.0-canary.58 公開 バンドルアナライザにルートサマリーと差分比較を追加",
+      "summary": "Next.jsのcanary.58では、バンドルアナライザのツールバーを再編し、ルート単位のサマリーやツリーマップでのバンドル差分比較、非同期モジュールスコープの可視化が加わった。Turbopack側ではDiskFileSystemMapのFrozenMap化や複数ルートに対するResolveMapの照合など内部最適化が進んでいる。未設定のPartial Prefetchingに対する警告も追加された。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.58",
+      "collectedAt": "2026-10-03T23:07:15Z"
+    },
+    {
+      "title": "ESLint v10.12.0 リリース SourceCode#getText()がトークンとコメントを受け付けるように",
+      "summary": "ESLint 10.12.0では、SourceCode#getText()にトークンやコメントを直接渡せるようになり、ルール実装の柔軟性が向上した。new-capをはじめ複数ルートでBMP外（アストラル）文字の扱いが修正され、prefer-arrow-callbackの条件式での誤検知やcurlyの自動修正時のスペース挿入も改善されている。",
+      "url": "https://github.com/eslint/eslint/releases/tag/v10.12.0",
+      "collectedAt": "2026-10-03T23:07:15Z"
+    },
+    {
+      "title": "Rolldown v1.2.12 公開 import()を含む共通チャンクのインライン化を実験提供",
+      "summary": "Rolldown 1.2.12は、import()を含む共通チャンクをインライン化する実験的オプションinlineCommonChunksを追加し、遅延読み込みモジュール間の重複コード削減を狙う。HMRでは部分acceptのためのimportedバインディング送出に対応し、import.meta.hot.acceptの依存解決をViteの挙動に揃えた。チャンクの実行順序やコード分割時の初期化パスの不具合も修正された。",
+      "url": "https://github.com/rolldown/rolldown/releases/tag/v1.2.12",
+      "collectedAt": "2026-10-03T23:07:15Z"
+    },
+    {
+      "title": "Storybook v10.6.1 リリース Vitest 5対応とアクセシビリティ改善",
+      "summary": "Storybook 10.6.1はパッチリリースで、Vitest 5のサポートを取り込みテスト連携の互換性を確保した。アクセシビリティまわりの改善やNext.js向けCLIの修正、ビルドの安定性向上も含まれる。次期メジャーのv11は現在アルファ版が進行中。",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v10.6.1",
+      "collectedAt": "2026-10-03T23:07:15Z"
+    },
+    {
+      "title": "oxlint v1.86.0 / oxfmt v0.71.0 公開 TypeScript向けリントとPrettier 3.9.9同梱",
+      "summary": "Rust製ツールチェーンoxcのoxlint 1.86.0では、ReactルールでのallowCompoundComponents指定に対応し、TypeScript向けのリント機能が追加された。同時公開のoxfmt 0.71.0は同梱Prettierを3.9.9へ更新し、代入演算子周辺のコメント処理とJSDocの整形を改善している。",
+      "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.86.0",
+      "collectedAt": "2026-10-03T23:07:15Z"
+    }
+  ]
+}
