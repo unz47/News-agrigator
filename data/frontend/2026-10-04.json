@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-04",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js v16.4.0-canary.59 公開 URL更新時の不要なSuspenseフォールバックを修正",
+      "summary": "Next.jsの最新canary版 v16.4.0-canary.59 が10月4日に公開された。URL更新によって不要なSuspenseフォールバックが発生する問題を修正し、浅いURL更新ではクライアント側パラメータがサスペンドしないよう改めた。React Compilerのメモ化を保持するオプションの追加や、trace-serverのMCPプロトコルへのアロケーション・メモリ情報の追加も含まれる。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.59",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    },
+    {
+      "title": "pnpm 12.9.1 リリース WebAssemblyビルドを別パッケージに分離しサイズを55MB→4MBに",
+      "summary": "pnpm 12.9.1 が10月3日に公開され、StackBlitz WebContainers向けのWebAssemblyビルドが @pnpm/wasm として別パッケージ化された。これによりpnpm本体の展開後サイズが約55MBから約4MBへ縮小し、実行バイナリ自体も約10%小さくなった。GitLab CIからのprovenance付きpublishでnpmレジストリが422を返す不具合や、Git 2.24〜2.27での [<since>] フィルタの動作も修正されている。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v12.9.1",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    },
+    {
+      "title": "pnpm 11.28.4 リリース 認証情報が漏れる2つの経路を修正",
+      "summary": "LTS系の pnpm 11.28.4 が10月3日に公開され、リダイレクト時のリクエストボディと整合性チェックのエラーメッセージから認証情報が漏れる2つの経路が修正された。--frozen-lockfile が依存関係のないプロジェクトやワークスペースのディレクトリ欠落で誤って失敗する問題も解消している。オプショナル依存の取得失敗時に警告を出し、壊れたシンボリックリンクの生成を防ぐ改善も入った。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.28.4",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    },
+    {
+      "title": "Hono v4.13.13 公開 app.mount() をミドルウェア化し従来APIは非推奨に",
+      "summary": "軽量Webフレームワーク Hono の v4.13.13 が10月4日にリリースされた。これまでメソッドとして提供されていた app.mount() が hono/mount のミドルウェアとして使えるようになり、app.all('/path/*', mount(handler)) の形で登録する。従来の app.mount() はv4では動作するが非推奨となり、v5で削除される予定。JSXで関数コンポーネントの戻り値としてJSXNodeを許容する修正も含まれる。",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.13.13",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    },
+    {
+      "title": "jsdom 30.1.2 リリース 大規模DOM構築時の深刻な性能低下を修正",
+      "summary": "jsdom 30.1.2 が10月4日に公開され、v30.1.0で発生していたD3のSVGチャートなど大規模DOMツリー構築時の深刻な速度低下が修正された。スタイルシート変更やセレクタ・メディアクエリの変化後に getComputedStyle() が最新の結果を返すようになり、:focus 系擬似クラスの更新や SVG の foreignObject に対する matches()/closest() も改善されている。スタイルシート解析と MutationObserver のメモリリークも解消した。",
+      "url": "https://github.com/jsdom/jsdom/releases",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    }
+  ]
+}

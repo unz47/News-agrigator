@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-04",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "トランプ大統領、AI政策の調整組織「Super Intelligence Force」創設を発表",
+      "summary": "トランプ米大統領は10月4日、超知能（SI）分野における連邦政府の取り組みを調整する新組織「Super Intelligence Force（SIF）」の創設を発表した。ジェイ・クレイトン国家情報長官が率い、FTCのファーガソン委員長、国防次官補のエミル・マイケル氏、人事管理局のクポア局長らが参加する。今後120日間でAIのリスクと機会を評価し、社会への脅威への対処や政府への通報の在り方を見直す。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000001990/",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    },
+    {
+      "title": "ベッセント米財務長官、AI業界の規制要求を「解決策なき警鐘」と批判",
+      "summary": "ベッセント米財務長官は、AI業界の一部による危機の訴えを「解決策なき警鐘であり、リーダーシップではない」と批判した。9月にAnthropicのアモデイ氏、OpenAIのアルトマン氏、xAIのマスク氏が最先端モデル開発の減速を呼びかけたことについては「ならば自分たちで減速すればよい」と述べ、リスク管理の責任は企業側にあるとの立場を示した。トランプ政権は新たな連邦規制に反対し、対中競争力を最優先に据えている。",
+      "url": "https://thenextweb.com/news/bessent-says-ai-alarmism-without-solutions-is-not-leadership",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    },
+    {
+      "title": "Cloudflare、オープンウェイトの意思決定モデル「Clef」「Clef-flash」をWorkers AIで公開",
+      "summary": "Cloudflareは10月1日、エージェントのワークフロー内で判断を担うオープンウェイトモデル「Clef」（270億パラメータ）と「Clef-flash」（90億パラメータ）を公開した。テキストではなく定型の問いに対する確率を返す設計で、いずれも6万4000トークンの文脈長を持ち画像と動画も扱える。Clef-flashは中央値38.8ミリ秒で応答し、重みはApache 2.0ライセンスでHugging Faceに公開されている。",
+      "url": "https://datanorth.ai/news/cloudflare-releases-clef-and-clef-flash",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    },
+    {
+      "title": "Microsoft、リアルタイム文字起こし「MAI-Transcribe-2-Streaming」と音声合成「MAI-Voice-2.1」を公開",
+      "summary": "Microsoftは10月1日、初のリアルタイム文字起こしモデル「MAI-Transcribe-2-Streaming」と、音声合成の「MAI-Voice-2.1」「MAI-Voice-2.1-Flash」を公開した。文字起こしは60言語に対応し自動で言語を切り替え、Artificial Analysisの評価で単語誤り率2.5%、発話終了から0.13秒で最終結果を返すという。MAI-Voice-2.1は23言語26ロケールに対応し、同一話者の声質を保ったまま言語を切り替えられる。",
+      "url": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-04",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.289 公開 入れ子シェルコマンドの権限ルールとシンボリックリンク経由のアクセスを修正",
+      "summary": "Claude Code v2.1.289 が10月3日に公開された。入れ子になったシェルコマンドで権限ルールが正しく適用されない問題、閉じられていないscriptタグでターミナルが固まる問題、シンボリックリンク経由のファイルアクセスの不具合が修正された。プラグインの検証やMCPサーバー管理、Claude Mods内のUI描画に関する修正も含まれる。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    },
+    {
+      "title": "GitHub Copilot CLI v1.0.92-4 公開 設定を操作するサブコマンドを追加",
+      "summary": "GitHub Copilot CLI の v1.0.92-4 が10月4日に公開された。設定の一覧・参照・変更・削除を行うconfigサブコマンドが追加され、子プロセスの切り出しにより起動性能が改善されている。MCPサーバーへの接続不具合やシェルコマンド出力のストリーミング、Windowsでのサンドボックス認証とファイル書き込みの問題も修正された。",
+      "url": "https://github.com/github/copilot-cli/releases",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    },
+    {
+      "title": "GitHub Copilot CLI v1.0.92-3 公開 ローカルとクラウドの実行環境を切り替える環境ピッカーを導入",
+      "summary": "GitHub Copilot CLI の v1.0.92-3 が10月2日に公開され、ローカル実行とクラウド実行を切り替えられる環境ピッカーが導入された。高速な連続入力時の応答性が改善され、サンドボックス環境でのGit認証も強化されている。選択候補からは古くなったモデルが削除された。",
+      "url": "https://github.com/github/copilot-cli/releases",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    },
+    {
+      "title": "GitHub Copilot CLI v1.0.91 が安定版としてリリース サンドボックスの証明書管理コマンドを追加",
+      "summary": "GitHub Copilot CLI の安定版 v1.0.91 が10月1日にリリースされた。サンドボックスの証明書認証局（CA）を管理する一連のコマンドが追加され、セッションのタイムライン上のステータス処理が改善されている。ファイルシステムの列挙ができないWindows環境への対応や、CLI終了時のテレメトリ送信、シェルパイプライン実行時の根拠確認の拡充も含まれる。",
+      "url": "https://github.com/github/copilot-cli/releases",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    },
+    {
+      "title": "OpenAI Codex、v0.162.0系のアルファ版を1日複数回のペースで公開",
+      "summary": "OpenAI Codex は10月3日から4日にかけて v0.162.0-alpha.9 から alpha.13 までを連続して公開した。いずれもGitHub Actionsによる自動生成のプレリリースで、各版に178個のビルド成果物が添付されている。安定版に向けて1日複数回という高頻度のリリースサイクルが続いている。",
+      "url": "https://github.com/openai/codex/releases",
+      "collectedAt": "2026-10-04T23:07:05Z"
+    }
+  ]
+}
