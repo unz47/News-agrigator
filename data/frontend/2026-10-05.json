@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-05",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "oxlint v1.87.0 / oxfmt v0.72.0 / oxc v0.153.0 公開 Markdownフォーマットに破壊的変更",
+      "summary": "Rust製ツールチェーンのoxcプロジェクトが10月5日に一斉リリースを行った。oxlint v1.87.0はReactとUnicorn系ルールへのsuggestion(自動修正候補)実装を追加し、JSXアクセシビリティ検査と数値セパレータ処理のバグを修正。oxfmt v0.72.0はMarkdownファイルの整形に破壊的変更を含み、oxc crates v0.153.0では文のマージやビット演算に関するminifier強化とTypeScript検証まわりのパーサ改善が入った。",
+      "url": "https://github.com/oxc-project/oxc/releases",
+      "collectedAt": "2026-10-05T23:06:20Z"
+    },
+    {
+      "title": "Storybook v11.0.0-alpha.2 公開 全パッケージをTypeScript strictモードに移行",
+      "summary": "Storybookの次期メジャーとなるv11の2本目のアルファが10月5日に公開された。全パッケージでTypeScriptのstrictモードを有効化し、タグフィルタリングAPIを安定版へ格上げしている。Addon Docs / Links / Vitest の各アドオンやAngular-Vite、ビルダー、CLI自動化まわりの修正も多数含まれる。",
+      "url": "https://github.com/storybookjs/storybook/releases",
+      "collectedAt": "2026-10-05T23:06:20Z"
+    },
+    {
+      "title": "Next.js v16.4.0-canary.60 公開 バンドルアナライザの差分カラーを統一",
+      "summary": "Next.jsのcanaryチャネルで10月4日にv16.4.0-canary.60が公開された。直前のcanary.58で追加されたバンドルアナライザの差分比較機能について、増減を示すカラー表現を統一する調整が入っている。canary.59ではURL更新時に不要なSuspenseフォールバックが発火する問題の修正や、React Compilerのメモ化オプション、turbo-tasksバックエンドの改善も行われた。",
+      "url": "https://github.com/vercel/next.js/releases",
+      "collectedAt": "2026-10-05T23:06:20Z"
+    },
+    {
+      "title": "Vite v8.3.2 リリース プリロードヘルパーのリンク走査を線形化しビルド性能を改善",
+      "summary": "Viteが10月1日にv8.3.2をリリースした。プリロードヘルパーが行っていたlink要素の走査が入力量に対して二乗オーダーになっていた問題を解消し、大規模ページでの処理コストを削減している。あわせて renderBuiltUrl がクエリ付きURLを返す場合のCSSプリロード不具合、bundled devモードでの遅延チャンクのソースマップ配信、terser使用時のworker URLの不整合などを修正した。",
+      "url": "https://github.com/vitejs/vite/releases",
+      "collectedAt": "2026-10-05T23:06:20Z"
+    },
+    {
+      "title": "Angular v22.2.1 / v22.3.0-next.0 公開 URLサニタイザを強化しプロトコル相対パスを拒否",
+      "summary": "Angularは9月30日にv22.2.1のパッチと次期マイナーのv22.3.0-next.0を公開した。v22.2.1ではcoreのURLサニタイザのセキュリティ強化、ngOptimizedImageのsrcsetバインディング修正、Routerの性能最適化が入り、同日リリースのv21.2.25 / v20.3.33ではplatform-serverがプロトコル相対パスを拒否するよう修正された。v22.3.0-next.0はテンプレート式でのインクリメント/デクリメント演算子をサポートする。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-10-05T23:06:20Z"
+    }
+  ]
+}

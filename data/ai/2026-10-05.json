@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-05",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "日経「生成AIサミット」開幕 古川デジタル相「日本にはウェブ上にないデータが残っている」",
+      "summary": "日本経済新聞社主催の「生成AIサミット」が5日に都内で開幕し、「AIネイティブ社会への移行」をテーマに産官学の有識者が制度・産業・人の役割の再設計を議論した。基調講演に立った古川俊治デジタル相は「『生成AIがデータを食い尽くした』との話もあるが、日本にはウェブ上にない医療や工場のデータが残っている」と述べた。フィジカルAIなどの活用促進が「日本の目指す道だ」として、現実世界のデータを強みにする戦略を示した。",
+      "url": "https://nikkei.com/article/DGXZQOUC30BR80Q6A930C2000000",
+      "collectedAt": "2026-10-05T23:05:59Z"
+    },
+    {
+      "title": "OpenAI、APIにHIPAA準拠の受け入れ機能を追加 組織設定から直接BAA締結が可能に",
+      "summary": "OpenAIは10月5日、API利用者向けにHIPAA準拠サポートを製品内に組み込んだと発表した。対象となる組織の管理者は、Organization設定画面からBAA(事業提携契約)を直接受諾し、HIPAA準拠モードを有効化できる。医療データを扱う事業者が個別交渉を経ずにAPIを利用開始できるようになる。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-10-05T23:05:59Z"
+    },
+    {
+      "title": "OpenAI、低コスト版「GPT-6.1 Sol」を公開 Responses APIでマルチエージェント委譲をベータ提供",
+      "summary": "OpenAIは9月29日、複雑な業務をより低コストで処理する推論モデル「GPT-6.1 Sol」をAPIで公開した。あわせてResponses APIで複数エージェントへのタスク委譲(Multi-agent delegation)をベータ提供し、1つのリクエストから子エージェントへ作業を振り分けられるようにした。同日にはGPT-6 Astra向けの出力トークン間レイテンシを削減するUltrafastモードも追加されている。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-10-05T23:05:59Z"
+    },
+    {
+      "title": "英バークレイズがClaudeを全社展開 業務高度化と顧客体験の改善へ",
+      "summary": "Anthropicは10月1日、英大手銀行バークレイズがClaudeを全社規模で展開し、業務オペレーションの高度化と顧客体験の改善に活用していると発表した。金融規制下の大規模組織でのAIアシスタント導入事例として、社内業務からクライアント対応まで適用範囲を広げている。エンタープライズ領域でのClaude採用が金融分野にも波及していることを示す事例となる。",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "collectedAt": "2026-10-05T23:05:59Z"
+    },
+    {
+      "title": "仏シュナイダーエレクトリック、米PTCを約3.5兆円で買収へ 産業AIを強化",
+      "summary": "フランスの電機大手シュナイダーエレクトリックは5日、米産業用ソフトウェア大手のPTCを買収すると発表した。買収額は約226億ドル(約3兆5700億円)で、同社として過去最大規模となる。設計・製造ソフトと電力・自動化技術を組み合わせ、産業向けAI事業を強化する狙い。",
+      "url": "https://nikkei.com/article/DGXZQOGR058F40V01C26A0000000",
+      "collectedAt": "2026-10-05T23:05:59Z"
+    }
+  ]
+}

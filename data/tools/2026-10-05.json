@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-05",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub、Secret scanningにLovable・Supabase・Pydanticの検出器を追加",
+      "summary": "GitHubは10月5日、Secret scanningの対応プロバイダを拡充したと発表した。新たにLovable Labsがシークレットスキャンのパートナープログラムに参加し `lovable_api_key` を検出対象に追加。あわせてPydantic Services の `logfire_token` / `pydantic_ai_gateway_api_key`、Supabase の `supabase_oauth_access_token` / `supabase_scoped_personal_access_token` も検出できるようになった。",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "collectedAt": "2026-10-05T23:06:40Z"
+    },
+    {
+      "title": "GitHub Copilot CLI v1.0.92 が安定版としてリリース 設定サブコマンドと環境ピッカーを正式搭載",
+      "summary": "GitHub Copilot CLIが10月5日にv1.0.92を安定版としてリリースした。プレビューで追加されていた `copilot config` サブコマンド群と、ローカル/クラウドの実行環境を切り替えるCtrl+Eの環境ピッカーが正式に入った。MCPサーバーの資格情報更新やHTTP接続タイムアウトの不具合を修正し、シェル出力のストリーミング、画像の取り扱い、セッション性能、サンドボックスのセキュリティも改善している。",
+      "url": "https://github.com/github/copilot-cli/releases",
+      "collectedAt": "2026-10-05T23:06:40Z"
+    },
+    {
+      "title": "OpenAI Codex v0.160.1 公開 Windows実行環境のリモートMCP起動時に環境変数を保持",
+      "summary": "OpenAI Codexは10月5日にv0.160.1をリリースした。リモートの環境変数を明示的に設定した状態でstdio方式のMCPサーバーを起動する際、SYSTEMROOT・TEMP・TMPが引き継がれるよう修正している。これによりUnixホストからWindows実行環境を動かす構成でも起動時の環境が維持される。並行してv0.162.0系のアルファも1日複数回のペースで公開が続いている。",
+      "url": "https://github.com/openai/codex/releases",
+      "collectedAt": "2026-10-05T23:06:40Z"
+    },
+    {
+      "title": "VS Code 1.140 リリース マルチフォルダセッションとリモート委譲、worktree共有に対応",
+      "summary": "Visual Studio Code 1.140が9月30日に公開された。Copilot SDKベースの新しいハーネスにより、複数リポジトリを1セッションで扱うマルチフォルダセッションや、接続済みのリモートエージェントホストへタスクを委譲するリモート委譲が追加された。worktree間で無視対象フォルダを再利用する共有worktreeで依存関係の再インストールを回避できるほか、モデルとワークフローを自動選択するHydraFusion(リサーチプレビュー)も入っている。",
+      "url": "https://code.visualstudio.com/updates",
+      "collectedAt": "2026-10-05T23:06:40Z"
+    },
+    {
+      "title": "npmのstaged publishingが新規パッケージの作成に対応",
+      "summary": "GitHubは10月2日、npmのstaged publishing(段階的公開)で新規パッケージを作成できるようになったと発表した。これまで既存パッケージの更新に限られていたステージング経由の公開フローが、初回公開にも使えるようになる。パッケージ配布におけるサプライチェーンセキュリティのワークフローが広がる。",
+      "url": "https://github.blog/changelog/2026-10-02-npm-staged-publishing-now-supports-creating-new-packages",
+      "collectedAt": "2026-10-05T23:06:40Z"
+    }
+  ]
+}
