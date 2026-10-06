@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-06",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.4 公開 Cache Componentsを全アプリ推奨に、エージェント向けアップグレード機能も追加",
+      "summary": "Vercelは6日、Next.js 16.4を公開し、キャッシュをコンポーネント単位でオプトインする新モデル「Cache Components」をすべてのアプリに推奨する方針へ切り替えた。create-next-appでは既定で有効となり、ルートの静的性を保証する`ensureStatic`や、プリフェッチから特定コンテンツを除外する`navigation()`/`prefetch()`が追加された。あわせてReact 19.3対応、Turbopackのディスクキャッシュ20〜25%削減、本番バンドル縮小、`next upgrade --agent`によるエージェント主導の移行支援も入っている。",
+      "url": "https://nextjs.org/blog/next-16-4",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    },
+    {
+      "title": "Vite v8.3.3 リリース HTMLファイル名のクエリ処理やWASMインスタンス判定を修正",
+      "summary": "Viteはパッチリリースv8.3.3を公開した。クエリ付きHTMLのファイル名処理、サーバー側のWebAssemblyインスタンス判定、モジュールパスの保持に関する不具合が修正されている。同日には8.2.4、8.1.6、7.3.7、6.4.4の各メンテナンスブランチも更新された。",
+      "url": "https://github.com/vitejs/vite/releases",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    },
+    {
+      "title": "Astro 7.3.6 公開 HMR時の古いスコープ付きスタイル残留やCSS漏れを修正",
+      "summary": "Astro 7.3.6がリリースされ、HMRでスコープ付きスタイルが古い状態のまま残る問題や、開発モードでCSSがページ間に漏れる不具合が修正された。あわせて@astrojs/nodeがHostヘッダーを許可リストで検証するようになり、@astrojs/vercelではミドルウェアのリライトがSSRの404ページで404を返す問題が解消された。create-astroもタグ付きバージョンのインストールに対応している。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    },
+    {
+      "title": "Storybook v11.0.0-alpha.3 公開 Skills機能でaddon-mcp必須を解除",
+      "summary": "Storybookのv11系アルファ版が進み、alpha.3ではSkillsアーキテクチャを改善してaddon-mcpの導入を必須としない構成に変更された。CLIとMCPツールの入力スキーマ検証も厳格化されている。前日のalpha.2では全パッケージのTypeScript strictモード化やVue向けMCP/Skills対応が入っており、エージェント連携の整備が続いている。",
+      "url": "https://github.com/storybookjs/storybook/releases",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    }
+  ]
+}

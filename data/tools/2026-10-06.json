@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-06",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.292 公開 マーケットプレイス指定インストールやサブエージェントのeffort指定に対応",
+      "summary": "Claude Code v2.1.292では、`--marketplace <source>`でプラグインのインストール元を指定できるようになり、Agentツールのサブエージェント実行にeffortパラメータが追加された。modsでの`$.model.complete`によるプロンプトキャッシュ対応や、`agent.spawn`フックでのワークフローエージェント統合も入っている。サンドボックス実行がステージ済みファイルのコピーへアクセスできる問題と、ネットワークパスの権限バイパスも修正された。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    },
+    {
+      "title": "Claude Code v2.1.291 公開 クラウドセッションで権限応答が失われる退行を修正",
+      "summary": "v2.1.291は直前のバージョンで生じた退行の修正に絞ったパッチリリース。v2.1.290でクラウドセッションの権限プロンプトへの回答が取りこぼされる問題と、v2.1.288で終了時にセッション末尾のメッセージが失われる問題が修正された。v2.1.290ではWebFetchが`offset`で部分読み込みに対応し、modsの`turn.step`フックに`serverToolUses`が追加されている。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    },
+    {
+      "title": "GitHub、スタックドプルリクエストを一般提供開始",
+      "summary": "GitHubは大きな変更を小さなPRに分割して個別にレビューしつつまとめてマージできる「スタックドプルリクエスト」をパブリックプレビューから一般提供へ移行した。リベース時に未変更コードの承認と署名付きコミットを維持し、ベースブランチ削除時の自動リターゲット、Shift+J/Kでのスタック内移動、スタックへの自動マージ、CLIのGit worktree対応が加わった。スタックを使うリポジトリではマージされたコード量が9%増え、マージまでの時間が5%改善したという。",
+      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    },
+    {
+      "title": "GitHub、Security overviewでAI Scanの有効化状況を確認できるように",
+      "summary": "GitHubはSecurity overviewのcoverageビューで、プルリクエスト向けCode Scanning AI Scanの有効化状況を組織・エンタープライズ単位で把握できるようにした。有効/無効のリポジトリ数のサマリと個別状況が表示され、`code-scanning-ai-scan-pr-scan:enabled`などでのフィルタやCSVエクスポートにも対応する。組織全体での導入状況の追跡と管理が目的とされている。",
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    },
+    {
+      "title": "Kiro、CLI 2.27.0でSteeringのファイル/フォルダ参照と保存プロンプトのスラッシュコマンド化に対応",
+      "summary": "Kiro CLI 2.27.0では、ワークフローの委譲を制御する設定が追加され、Steeringが`#[[file:...]]`と`#[[folder:...]]`によるライブなファイル・フォルダ参照に対応した。保存したプロンプトを引数ヒント付きのスラッシュコマンドとして呼び出せるようにもなっている。あわせて10月2日にはIDE・CLI・Crew・WebでClaude Sonnet 5.5が利用可能になり、出力速度が30%以上向上し1Mトークンのコンテキストに対応した。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    }
+  ]
+}

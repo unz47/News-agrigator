@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-06",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、セキュリティ専門家向け「Cyber Verification Program」を拡大 3段階のアクセス階層へ",
+      "summary": "Anthropicは、サイバーセキュリティ業務向けに安全制限を緩和したモデルアクセスを提供するCyber Verification Programを刷新し、Project Glasswingと統合した。インシデント対応やマルウェア解析向けの「Defense Access」、認可されたペネトレーションテスト向けの「Red Team Access」、電力網や航空システムなど重要インフラ試験向けの「Specialized Access」の3階層を用意する。Project Glasswingでは4〜7月に12万9000件以上の脆弱性が検証され、うち3万3000件超が重大・高深刻度と評価された。",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    },
+    {
+      "title": "Mistral、1.05兆パラメータのオープンウェイトモデル「Mistral Large 4」を公開",
+      "summary": "仏Mistral AIは、総パラメータ1.05兆・アクティブ49億のマルチモーダルMoEモデル「Mistral Large 4」(通称Le Chonk)をAPIパブリックプレビューで公開した。欧州のデータセンターでNVIDIA Grace Blackwell約4000基を使い約2カ月で学習し、160以上の言語とテキスト・画像入力に対応する。同社は中国勢以外で最強のオープンウェイトモデルと主張し、重みの公開は10月下旬を予定している。",
+      "url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    },
+    {
+      "title": "OpenAI、構造化出力に特化した「Decisions API」をベータ公開 gpt-6-lunaを採用",
+      "summary": "OpenAIはAPIの新機能として、テキストや画像を型付きの回答に変換するDecisions APIをベータ提供開始した。専用モデル「gpt-6-luna」を使い、Responses APIと比べて最大10倍高速に結果を返せるとしている。分類や抽出のように決まった形式の答えだけが必要な用途を想定した設計となっている。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    },
+    {
+      "title": "OpenAI、API利用ティアを5段階から3段階に簡素化 Build・Launch・Growへ",
+      "summary": "OpenAIはAPIの利用ティア体系を見直し、従来の5段階から「Build」「Launch」「Grow」の3段階に整理した。クレジット購入額に応じてティアが自動的に引き上げられる仕組みで、レート制限の見通しが立てやすくなる。開発者は組織設定から現在のティアを確認できる。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    },
+    {
+      "title": "Anthropic、1億ドル投じ「Claude Frontier Academy」開設 2027年末までにAI技術者1万人育成",
+      "summary": "Anthropicは1億ドルを投資し、企業内でClaudeを大規模展開できる技術者を育てるClaude Frontier Academyを立ち上げた。2027年末までに1万人の「Frontier Deployed Engineer」を養成する計画で、集合研修と自社に戻ってからの12週間レジデンシーという医療研修に似た2段構えの認定プログラムを採用する。初期コホートはサンフランシスコ・ニューヨーク・ロンドンで実施され、Accenture、Bain、Deloitte、McKinsey、Morgan Stanleyなどが参加する。",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "collectedAt": "2026-10-06T23:07:46Z"
+    }
+  ]
+}
