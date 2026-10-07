@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-07",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Astro 7.3.7 公開 deferRender時のレイアウト解決やcheckOriginの誤判定を修正",
+      "summary": "Astro 7.3.7がリリースされ、glob({ deferRender: true })で読み込んだMarkdownコレクションがlayoutを持つ場合のビルドエラーが解消された。astro add cloudflare がpnpm v11以降で正しく動くようになり、失敗時はパッケージマネージャのエラーを表示する。開発サーバーがAVIF画像をHEIFではなくAVIFとして配信するようになり、security.checkOrigin がJSONなどフォーム以外のContent-Typeのクロスオリジン要求を誤って拒否する問題も修正された。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    },
+    {
+      "title": "@astrojs/node 11.1.7 公開 HostヘッダーをallowedDomainsで検証",
+      "summary": "AstroのNodeアダプタ @astrojs/node 11.1.7が公開された。Nodeアダプタ利用時に受信リクエストのHostヘッダーを security.allowedDomains の設定値と照合して検証するようになり、ホストヘッダーを偽装した要求への耐性が高まった。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    },
+    {
+      "title": "Next.js、16.5のcanary系列が始動 next/font/googleの取得失敗を明示",
+      "summary": "Next.jsは16.4の安定版公開に続き、v16.5.0-canary.0〜.2を相次いで公開した。Turbopackが next/font/google のフォントファイル取得失敗を「Module not found」ではなく実際のエラーとして報告するようになり、リポジトリのバージョン管理はpnpmへ移行した。turbo-tasksのスナップショットをbincodeで符号化する改善や、Tokioワーカースレッドのトレースなど内部の性能・観測性の作業も進んでいる。",
+      "url": "https://github.com/vercel/next.js/releases",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    },
+    {
+      "title": "Storybook v11.0.0-alpha.4 公開 Svelte CSFアドオンをフレームワークパッケージへ統合",
+      "summary": "Storybook 11系のalpha.4が公開された。CLIがSvelte CSFアドオンの代わりにフレームワークパッケージを導入するようになり、Angularのstory docsが認識できないstandaloneメタデータを保持するよう改善された。同じコンポーネントIDを共有する全CSFファイルのストーリーがstory docsに含まれ、defineToolset は厳密な入力スキーマを必須とする。",
+      "url": "https://github.com/storybookjs/storybook/releases",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    },
+    {
+      "title": "pnpm 12.10.0 / 12.10.1 公開 実験的な loaded ノードリンカーとパストラバーサル対策",
+      "summary": "pnpm 12.10.0が公開され、実験的なノードリンカー nodeLinker.type: loaded が追加された。ロックファイルが解決設定を記録できるようになり、キャッシュ済みレジストリメタデータの読み込みも高速化した。依存バージョンにパストラバーサルが含まれる場合にグローバル仮想ストアの外へ書き込めてしまう問題などのセキュリティ修正も入り、直後の12.10.1でoverrides変更後のインストール失敗などを修正している。",
+      "url": "https://github.com/pnpm/pnpm/releases",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    }
+  ]
+}

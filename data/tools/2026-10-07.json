@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-07",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.293 公開 Haiku 5.5を既定のHaikuモデルに",
+      "summary": "Claude Code v2.1.293が公開され、Anthropic APIでの既定のHaikuモデルが新しいClaude Haiku 5.5(claude-haiku-5-5)になった。あわせてコンパクションの不具合、MCPのメモリリーク、/model のeffort指定、Claude in Chrome、バックグラウンドセッションの修正が入り、Claude TagとCode Reviewの更新も含む。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    },
+    {
+      "title": "GitHub Copilot、Claude Haiku 5.5を一般提供 サブエージェントや端末作業向け",
+      "summary": "GitHubはCopilotでClaude Haiku 5.5の一般提供を開始した。サブエージェントや小さな編集、ターミナル作業といった高頻度の処理を想定し、Pro/Pro+/Max/Business/Enterpriseの各プランで利用できる。VS Code、Visual Studio、Copilot CLI、github.com、JetBrains系IDEなど幅広い環境でモデルピッカーから選択でき、提供は段階的に展開される。",
+      "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    },
+    {
+      "title": "GitHub、シークレット漏えい検出に専用のファインチューニングモデルを投入",
+      "summary": "GitHubはSecret scanningのアラート、プッシュ保護、Copilotの /security-review 向けに、シークレット検出専用にファインチューニングしたモデルを導入した。周辺コードの文脈を読み、トークン形式を持たないパスワードのような資格情報も検出できる。AI検出アラートはGitHub Secret ProtectionとAdvanced Securityの契約者に追加費用なしで切り替わり、プッシュ保護とセキュリティレビューでの検査はプライベートプレビューでAIクレジットを消費する。",
+      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    },
+    {
+      "title": "GitHub Copilotのローカルサンドボックスが一般提供開始",
+      "summary": "GitHubは、Copilotのツールやコマンドを開発者のマシン上の制限された環境で実行するローカルサンドボックスを一般提供した。ファイルやディレクトリ、ネットワーク、Git/GitHub CLIの資格情報へのアクセスを制限し、対応するローカルMCPサーバーや言語サーバーにも適用できる。Microsoft eXecution Container(MXC)を基盤にWindows・macOS・Linuxのネイティブ機能へ共通ポリシーを割り当て、Copilot CLI、Copilotアプリ、Agent Hostを使うVS Codeセッションで追加費用なしに使える。",
+      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    },
+    {
+      "title": "Kiro CLI 2.28.0 公開 V3 Hooksがツール種別でマッチ可能に",
+      "summary": "Kiroは10月5日にCLI 2.28.0を公開した。V3のHooksがシェル・読み取り・書き込みといったツールのカテゴリや、特定のMCPサーバー/ツールを条件にマッチできるようになった。クラシックセッションからターミナルを離れずに3.0へ切り替えられるようになり、長時間のV3セッションの安定性も改善した。同日にはWorkflowsや未信頼ワークスペース保護を導入したIDE 1.2系へのパッチ1.2.37も出ている。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    }
+  ]
+}

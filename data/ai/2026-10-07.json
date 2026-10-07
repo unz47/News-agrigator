@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-07",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、小型モデル「Claude Haiku 5.5」を公開 effort調整に初対応",
+      "summary": "Anthropicは10月7日、同社史上最も安価で高速な小型モデルと位置づける「Claude Haiku 5.5」を公開した。Haiku系では初めてeffort(思考量)の調整に対応し、コンピュータ操作のOSWorld 2.1で72.4%(Haiku 4.5は15.7%)、エージェント型コーディングのTerminal-Bench 4.0で39.2%と大きく伸びた。価格は入力100万トークン0.10ドル・出力0.50ドルで、平均の実行コストはHaiku 4.5比で約75%安いとしている。",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    },
+    {
+      "title": "ClaudeのMax・Teamプランに月次APIクレジットを付与",
+      "summary": "Anthropicは10月7日のリリースノートで、MaxプランとTeamプランに自前のアプリやエージェントを動かすための月次APIクレジットを含めると公表した。請求設定からClaude Consoleの組織を連携することでクレジットを受け取れる。提供は数日かけて順次展開される。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    },
+    {
+      "title": "OpenAI、社内AIによる数学原稿722本を公開 「準リーマン予想」の証明も主張",
+      "summary": "OpenAIは未公開の社内フロンティアモデルが生成した数学の原稿722本をGitHubで公開した。ディリクレL関数の零点が存在しない領域を示したとする「準リーマン予想」の証明が含まれるが、Leanによる形式検証が完了しているのは162本にとどまる。査読を経ずに成果を公表する手法には数学コミュニティから批判も出ている。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    },
+    {
+      "title": "OpenAI、APIの chat-latest をChatGPT最新モデルに更新",
+      "summary": "OpenAIは10月7日、APIの chat-latest スナップショットをChatGPTで提供中の最新モデルへ更新した。chat-latest は指し先が随時変わるため、本番利用ではGPT-6ファミリーのモデルを明示的に指定することを推奨している。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    },
+    {
+      "title": "Google、新フロンティアモデル「Gemini 4 Argon」を発表 出力上限を100万トークンに",
+      "summary": "Googleは長時間にわたる複雑なワークフローで深い推論を維持することを狙ったフロンティアモデル「Gemini 4 Argon」を発表した。出力トークン上限を従来の6万4000から100万に引き上げ、ソフトウェア開発や法務・金融の知識労働、サイバー防御での性能を訴求している。当初はサイバー防御の担当者に限定提供し、その後に有料API利用者とGoogle AI Ultra契約者へ広げる段階的な公開方針を採る。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "collectedAt": "2026-10-07T23:06:42Z"
+    }
+  ]
+}
