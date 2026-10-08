@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-08",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js、10月14日に臨時セキュリティ更新を予告 上流依存の重大2件・高1件に対応",
+      "summary": "Next.jsチームは8日、10月14日(水)に臨時のセキュリティ更新を公開する予定だと予告した。上流依存パッケージに起因する脆弱性3件(Critical 2件、High 1件)に対応するもので、うち2件は上流との調整のため9月のセキュリティリリースから延期されていた。影響範囲や対象バージョン、アップグレード手順を含むアドバイザリは更新と同時に公開される予定で、公開後は速やかにパッチ版へ更新するよう呼びかけている。",
+      "url": "https://nextjs.org/blog/upcoming-nextjs-security-update-october-2026",
+      "collectedAt": "2026-10-08T23:06:07Z"
+    },
+    {
+      "title": "Astro 7.3.8 公開 内部バンドルをesbuildからOxc/Rolldownへ移行",
+      "summary": "Astro 7.3.8が8日にリリースされ、内部バンドル処理をesbuildからViteのOxcベースの transformWithOxc と Rolldown へ移行した。カスタム404/500ページで Astro.cache が undefined になる不具合や、pnpm v11.0〜v11.22 で astro add が既存の allowBuilds 承認を失う問題、開発時の glob() ローダーが一部のextglobパターンを再読み込みしない問題も修正された。同じ移行は astro-vscode や @astrojs/vercel、@astrojs/netlify などにも反映されている。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-10-08T23:06:07Z"
+    },
+    {
+      "title": "Vite v8.3.4 リリース bundled dev で import.meta.hot.acceptExports に対応",
+      "summary": "Viteのv8.3.4が8日に公開され、bundled dev 環境で import.meta.hot.acceptExports をサポートした。chunkImportMap を非ルートbaseと併用した際のビルド時プリロードの不具合を修正し、プリロードヘルパーが読み込み中のスタイルシートを待つよう改善。Lightning CSS利用時にプリプロセッサをファイルパスから解決する修正や、別の再起動処理中に要求された開発サーバー再起動が破棄される問題の修正も含まれる。",
+      "url": "https://github.com/vitejs/vite/releases",
+      "collectedAt": "2026-10-08T23:06:07Z"
+    },
+    {
+      "title": "Angular v22.2.2 / v22.3.0-next.1 公開 @defer のビューポート指定に scrollMargin を追加",
+      "summary": "Angularは8日、安定版のv22.2.2とプレリリースのv22.3.0-next.1を公開した。コアでは @defer のビューポートオプションに scrollMargin が追加され、コンパイラでは ::ng-deep の検出、<ng-template> のディレクティブ照合、<script> の除去に関する修正が入った。フォームではコントロールバインディングの比較を Object.is に変更し、破棄時に保留中のdebounce値を書き込むよう改善。ルーターはプロトコル相対URLのシリアライズとリダイレクトの不具合を修正した。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-10-08T23:06:07Z"
+    },
+    {
+      "title": "Next.js v16.5.0-canary.4 公開 Node.js 24でのテレメトリ送信を修正",
+      "summary": "Next.jsのv16.5.0-canary.4が8日に公開され、Node.js 24環境でテレメトリが送信されない不具合を修正した。非推奨となった React.FormEvent を SubmitEvent に置き換え、Turbopackの「stopping failed」警告の発生を抑制している。またアップグレード評価用フィクスチャのNext.jsバージョンをCVE-2026-94483対応版へ引き上げた。直前のcanary.3ではcreate-next-appがAGENTS.mdにエージェント向けフィードバック情報を書き出すようになり、ESLint 10を採用している。",
+      "url": "https://github.com/vercel/next.js/releases",
+      "collectedAt": "2026-10-08T23:06:07Z"
+    }
+  ]
+}

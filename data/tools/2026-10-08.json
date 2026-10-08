@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-08",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.295 公開 フック失敗時にアクションを中断する onFailure: \"block\" を追加",
+      "summary": "Claude Code v2.1.295では、コマンドフックとHTTPフックに onFailure: \"block\" が追加され、起動失敗・タイムアウト・想定外の終了コードの場合にアクションを通過させず中断できるようになった。ターミナルが作業中・入力待ち・完了を表示できる Program Status Protocol (OSC 7501) にも対応。モッド向けには $.ui.notify によるネイティブ通知や Button への子要素指定が加わり、[1m]モデルでcontext-1mベータが拒否された際に全リクエストが失敗する不具合なども修正された。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-08T23:06:07Z"
+    },
+    {
+      "title": "Claude Code v2.1.294 公開 指示文として書かれたフックの判定精度を改善",
+      "summary": "Claude Code v2.1.294では、「〜なコマンドをブロックする」のように指示文の形で書かれた prompt フックと agent フックが、本来ブロックすべき操作を通してしまう不具合を修正した。またStopおよびSubagentStopでの指示文フック(例:「ビルドが壊れていても続行する」)の判定方法を改善し、Claudeが早期に作業を終了しにくくなった。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-08T23:06:07Z"
+    },
+    {
+      "title": "GitHub、Triage権限以上のユーザーがプルリクエストをアーカイブ可能に",
+      "summary": "GitHubは8日、これまでリポジトリ管理者のみに許可されていたプルリクエストのアーカイブ/アーカイブ解除を、Triage・Write・Maintain・Admin権限のユーザーにも開放した。アーカイブするとPRはクローズされ会話は読み取り専用となり、コメント・リアクション・自動コメントが禁止される。アーカイブ済みPRは一般には非表示となり管理者のみ閲覧可能。スパムや重複、放置されたPRの対応をWrite権限を与えずに委任できるようにする狙い。",
+      "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+      "collectedAt": "2026-10-08T23:06:07Z"
+    },
+    {
+      "title": "GitHub、ドラフトプルリクエストもPR上限の対象に設定可能へ",
+      "summary": "GitHubは8日、プルリクエストの作成上限にドラフトPRを含める設定をメンテナが選べるようにした。従来はドラフトが除外されていたため、他のPRに上限を設けてもドラフトは無制限に作成できる抜け道が存在していた。低品質なコントリビューションの増加に対応し、スパム的なドラフトによる通知やCI実行の浪費を防ぐ狙いがある。GitHubはCommunity discussionでフィードバックを募っている。",
+      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "collectedAt": "2026-10-08T23:06:07Z"
+    },
+    {
+      "title": "GitHub Copilot CLI、ローカルのOllamaモデルを /model から検出可能に",
+      "summary": "GitHub Copilot CLI v1.0.94-0以降では、/model コマンドで実行中のローカルOllamaインスタンスのモデルを検出し、設定済みモデルやクラウドモデルと並べて一覧表示できるようになった。選択時にプロバイダーとエンドポイントを確認してから追加するため自動登録はされず、再起動なしで現在のセッションから利用できる。利用にはOllamaとモデルの事前インストールが必要で、ツール呼び出しとストリーミングへの対応が条件となる。ローカルモデルの選択はオフラインモードを有効化しない点にも注意が必要。",
+      "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
+      "collectedAt": "2026-10-08T23:06:07Z"
+    }
+  ]
+}
