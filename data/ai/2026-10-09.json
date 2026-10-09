@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-09",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google Cloud、業務向け汎用エージェント「Gemini agent」を発表 Claudeモデルも併用",
+      "summary": "Google Cloudは8日のイベント「Gemini at Work 2026」で、単一のプロンプト欄から調査・知的作業・メディア生成・コード実行までこなす業務向け汎用エージェント「Gemini agent」を発表した。目標を与えるとエージェント自身が計画を立て、スキルやツールを選び、Gmail・Docs・Slidesなど既存の業務環境に成果物を返す。モデルは自社のGemini系（Argon／Flash／Omni／Gemma）に加えAnthropicのClaudeも用途とコストに応じて切り替え、今後は他の商用・オープンモデルにも広げる。",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    },
+    {
+      "title": "OpenAI、AI生成の数学原稿3本を撤回 数学者団体は協力停止を呼びかけ",
+      "summary": "OpenAIは未解決問題に関するAI生成の数学原稿722本を公開した翌日、証明中の符号の誤り（本来-1とすべき箇所が+1）を理由に3本をプレプリントから撤回した。14本を修正し引用も更新した結果、総数は719本となった。これに対し数学者団体Association for Human Mathematics（AHM）は7日、700本超の一斉公開は「学術的成果ではなく力の誇示」だとして数学者にOpenAIとの協力停止を呼びかける声明を出し、テレンス・タオ氏も同調する動きを見せている。",
+      "url": "https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    },
+    {
+      "title": "Reflection AI、5010億パラメータのオープンウェイトMoE「Beam」を発表",
+      "summary": "Nvidiaなどが出資する米Reflection AIは5日、初のオープンウェイトモデル「Beam」を発表した。総パラメータ5010億・アクティブ23Bのスパース混合エキスパート（MoE）構成で、コーディングや推論、エージェント用途を想定し最大100万トークンの文脈長に対応する。同社は高度推論ベンチマークでZ.aiのGLM-5.2と同等の性能を3〜4分の1の推論コストで達成したと主張。重みと技術レポートは10月中にApache 2.0で公開予定で、現在は順番待ちリスト経由の早期アクセスに限られる。",
+      "url": "https://scmp.com/tech/tech-trends/article/3369885/nvidia-backed-reflection-ai-challenges-chinese-dominance-open-weight-models",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    },
+    {
+      "title": "OpenAIの年換算売上高、年末に700億ドル超へ 直前報道の500億ドルから上方観測",
+      "summary": "Bloombergは9日、OpenAIが年末時点で年換算売上高700億ドル超に達する見通しを投資家に示したと関係者の話として報じた。前日にはフィナンシャル・タイムズなどが9月末時点の年換算売上高を約500億ドルと報じ、従来観測より200億ドル少ないとしてナスダックが1%超下落、エヌビディアやオラクル株も売られていた。差は、パートナー経由の売上を含めるかどうかという集計方法の違いによるとみられている。",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-10-09/TMMA5NKJH6V500",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-09",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.296 公開 サブエージェント個別のauto-compactやReadのallow_largeに対応",
+      "summary": "Claude Code v2.1.296 が公開された。サブエージェントのfrontmatterと `--agents` 定義に `autoCompactWindow` が追加され、メイン会話より早く自動コンパクトできるようになった。Readツールには、全文が必要でコンテキストに余裕がある場合に通常のサイズ上限を超えて一度に読める `allow_large` オプションが追加。Claude appsゲートウェイの `managed.policies[]` に `code` キーが加わり、ほかにフックやMCP、Windows環境に関する多数の修正が含まれる。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    },
+    {
+      "title": "GitHub Copilot CLI 1.0.95 公開 macOSでMicrosoft Entraのネイティブブローカー認証に対応",
+      "summary": "GitHub Copilot CLI 1.0.95 が9日に公開され、macOSでMicrosoft Entraのネイティブブローカー認証に対応した（失敗時はブラウザにフォールバック）。`copilot config` がサンドボックス資格情報の `injectHosts` キーをシェル補完付きで扱えるようになり、`--context` が新規・再開のACPセッションに適用される。管理プラグインのセットアップ再試行は毎回のメッセージ失敗時ではなく1時間ごと、またはポリシー変更時に変更された。",
+      "url": "https://github.com/github/copilot-cli/releases",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    },
+    {
+      "title": "OpenAI Codex 0.162.0 / 0.162.1 公開 管理対象Git worktreeの作成・一覧ツールを追加",
+      "summary": "OpenAI Codex は8日に 0.162.0 を公開し、管理対象のGit worktreeを作成・一覧するツール、エージェントCommand Centerでのタスクのピン留め、トランスクリプトのコピー／選択ショートカット、Code Mode向けのJavaScriptヘルパーなどを追加した。カスタムモデルプロバイダ向けにライブWebアクセスとリモートコンパクションも設定可能になった。9日公開の 0.162.1 では、複数行の非同期質問でTUIがクラッシュする問題と、バックグラウンドサーバーの機能設定とCLI既定値の不一致による起動失敗を修正している。",
+      "url": "https://github.com/openai/codex/releases",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    },
+    {
+      "title": "GitHub、CodeQL 2.27.2 を公開 C++の正規表現解析やGoの制御フローグラフを刷新",
+      "summary": "GitHubは9日、CodeQL 2.27.2 を公開した。C/C++で `std::regex` のECMAScript文法の正規表現を解析できるようになり、Comdb2 C APIのSQLインジェクションのシンクモデルを追加。RustではAnyAttr／DocCommentクラス対応とTLSクレートのフローサマリ、JS/TSではWorkflow SDKディレクティブの認識が加わった。Goは共通CFGライブラリへ移行する破壊的変更があり、`BasicBlocks::Cfg` が削除されている。またmacOS 27ではautobuild／manualビルドモードが利用できなくなる点が告知された。",
+      "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    },
+    {
+      "title": "Kiro IDE 1.2.56 公開 Powerの検索と柔軟なHookマッチングを追加",
+      "summary": "KiroはIDE 1.2.56 を8日に公開した。Workflowsへのフィードバックリンク、Power（拡張機能）の検索、より柔軟なHookのマッチングが追加された。あわせてチャット・ターミナル・ソース管理の不具合修正と、Workflowの信頼性改善が含まれる。5日公開のCLI 2.28.0では、Classicユーザーが対話セッションから3.0へ切り替えられる機能やツール種別でのHookマッチングが導入されていた。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    }
+  ]
+}

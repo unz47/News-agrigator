@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-09",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "pnpm 12.11.0 公開 Rustツールチェーン管理と新しい permissions 設定を追加",
+      "summary": "pnpm 12.11.0 が9日に公開され、`cargo.enabled` 設定と `pnpm add rust@<channel>` によるRustツールチェーンの管理、プロジェクト単位のシムが追加された。依存パッケージが同梱するエージェント向けスキルを承認後にリンクする仕組みや、新設の `permissions` 設定と `pnpm permissions` コマンドも導入。スクリプト出力の色が保持され、表示も整理された。",
+      "url": "https://github.com/pnpm/pnpm/releases",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    },
+    {
+      "title": "pnpm 12.11.1 / 12.11.2 公開 packageManager のバージョン欠落による失敗などを修正",
+      "summary": "pnpm は9日、12.11.0 に続いて 12.11.1 と 12.11.2 を公開した。12.11.1 は `packageManager` がレジストリに存在しないバージョンを指定した場合のインストール失敗を修正し、`registry.npmjs.com` をnpmレジストリの別名として扱い、pack/publish に `.npmignore` と `.gitignore` を含めないようにした。12.11.2 は `--workspace-concurrency=Infinity` の解析エラーを修正し、再帰コマンドで `updateConfig` フックが設定した filter を反映するようにした。",
+      "url": "https://github.com/pnpm/pnpm/releases",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    },
+    {
+      "title": "Nuxt v4.6.1 公開 nodenext環境でのnitro型解決や$fetchの型を修正",
+      "summary": "Nuxtは9日にパッチリリース v4.6.1 を公開した。portable eventのWebビューを初回アクセス時に構築して性能を改善し、nodenext環境での `nitro` の型定義解決、`$fetch` の型付け、開発サーバーのハンドラ登録の不具合を修正している。5日公開の v4.6.0 ではNuxt CLI v4の対話型ターミナルUIや新しいサーバーインポート面 `nuxt/server` が導入されていた。",
+      "url": "https://github.com/nuxt/nuxt/releases",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    },
+    {
+      "title": "Storybook v11.0.0-alpha.5 公開 Vitest 5 / Preact 11 / SvelteKit 3 に対応",
+      "summary": "Storybook は9日に v11.0.0-alpha.5 を公開し、Vitest 5 と Preact 11、SvelteKit 3 のサポートを追加した。同時に SvelteKit 2 のサポートを終了し、`storybook ai` コマンド、`changeDetection` 機能フラグ、サイドバーの新規ストーリー作成ボタンを削除している。v11系は破壊的変更が続いており、移行時は各alphaの変更点の確認が必要となる。",
+      "url": "https://github.com/storybookjs/storybook/releases",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    },
+    {
+      "title": "Next.js v16.5.0-canary.6 公開 Reactを更新し image-optimizer-transform を公開サブパス化",
+      "summary": "Next.js は9日に v16.5.0-canary.6 を公開した。同梱するReactを更新し、ビルドのツリービューでのメモリ確保を削減、子ルートから生成された折りたたみパスの分類を改善している。`next/image-optimizer-transform` が公開サブパスとして利用可能になり、`GoogleTagManager#dataLayer` のXSS安全性に関する回帰テストも追加された。",
+      "url": "https://github.com/vercel/next.js/releases",
+      "collectedAt": "2026-10-09T23:07:51Z"
+    }
+  ]
+}
