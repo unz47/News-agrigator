@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-10",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot for JetBrains が更新 管理者による既定モデル指定とMCP自動起動の制御に対応",
+      "summary": "10月10日公開のJetBrains向けCopilotでは、管理者がマネージド設定で任意のCopilotエージェントモデルを新規会話の既定に指定できるようになった（ユーザーは引き続きピッカーで変更可能）。診断の意図メニューに「Fix」アクションが加わり、インラインチャットで修正を依頼できる。CopilotとClaudeが使うMCPサーバーの自動起動を無効化する設定も追加され、JetBrains IDE 2025.1のサポートは終了した（2025.2以降が必須）。",
+      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
+      "collectedAt": "2026-10-10T23:07:44Z"
+    },
+    {
+      "title": "Kiro CLI 2.29.0 公開 ローカルV3セッションに「Memory」を導入",
+      "summary": "10月9日公開のKiro CLI 2.29.0で、ローカルのV3セッションにMemory機能が入った。リポジトリのコマンドや規約といった有用なコンテキストをKiroが保持し、後から呼び出せる。アクセス権は「読み書き」「読み取り専用」「オフ」から選択でき、保存された内容はスラッシュコマンドの /memories で閲覧できる。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-10T23:07:44Z"
+    },
+    {
+      "title": "VS Code 1.141 リリース エージェントセッションのグリッド表示とworktree自動クリーンアップ",
+      "summary": "10月7日に安定版となったVS Code 1.141は、Agentsウィンドウで複数のエージェントセッションを並べて比較できるセッショングリッドを追加した。非アクティブなセッションworktreeのディスク使用量を手動または自動で回収するworktreeクリーンアップも搭載。ターミナルのサンドボックス化がWindows・macOS・Linuxで利用可能になり、ローカルのCopilot CLIやCodexの会話をリロードなしでVS Codeに引き継げるようになった。",
+      "url": "https://code.visualstudio.com/updates",
+      "collectedAt": "2026-10-10T23:07:44Z"
+    },
+    {
+      "title": "GitHub Copilot 週次リリース（10月5日分）公開 ライセンスとリポジトリで別アカウントを併用可能に",
+      "summary": "9日公開の週次まとめでは、Copilotアプリでライセンス用とリポジトリ用に別々のGitHubアカウントを使えるようになった（勤務先提供のライセンスで個人アカウントのリポジトリにアクセスする等）。Copilot CLI のモデル選択コマンドはローカルで動作するOllamaインスタンスのモデルを検出できる。VS Code側（1.141）ではエージェントセッションの並列表示とworktreeクリーンアップが追加された。",
+      "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+      "collectedAt": "2026-10-10T23:07:44Z"
+    }
+  ]
+}

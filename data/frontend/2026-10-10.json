@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-10",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "pnpm 12.12.0 公開 pipelineのリモートタスクキャッシュと依存ビルドのリモートキャッシュに対応",
+      "summary": "pnpm 12.12.0 では pnpm pipeline のタスク結果をマシン間で共有できるようになり、pnprサーバーまたはTurborepo Remote Cache互換サーバーに署名付きアーティファクトとして保存される。依存パッケージのビルド結果も新しい remoteCache 設定でリモート保存できる。TypeScriptが型を解決できるようピア依存の @types を各パッケージ横に配置する addMissingPeerTypes 設定も追加された。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v12.12.0",
+      "collectedAt": "2026-10-10T23:07:44Z"
+    },
+    {
+      "title": "Vue 3.6.0-rc.11 公開 Vaporモードのバグ修正を大量に取り込み正式版へ前進",
+      "summary": "10日公開の 3.6.0-rc.11 は新機能・破壊的変更なしで、Vapor関連の修正に集中している。compiler-vapor では v-model のconstバインディングや v-for/v-slot スコープ変数への代入、キャッシュ識別子周りの不具合が直り、runtime-vapor ではハイドレーション、属性のフォールスルー、v-show、Transition/KeepAlive、スロットやフォーム要素の挙動がVDOMと揃えられた。tsconfigのglobマッチャをキャッシュする性能改善も入っている。",
+      "url": "https://github.com/vuejs/core/releases/tag/v3.6.0-rc.11",
+      "collectedAt": "2026-10-10T23:07:44Z"
+    },
+    {
+      "title": "Next.js v16.5.0-canary.7 公開 実験的なカスタムwebpackサポートを復活",
+      "summary": "canary.7 ではコア変更として実験的なカスタムwebpackサポートが再び有効化された（#99234）。Turbopack側では Pages Router 開発時のクライアントモジュールグラフを連結し、Node.jsの子プロセスが接続できない場合に実用的なエラーを返すよう改善、モジュール解決時の realpath エラーをNodeと同じく無視するようになった。Corepack 0.34.7 と Turborepo 2.11.7 への更新も含む。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.5.0-canary.7",
+      "collectedAt": "2026-10-10T23:07:44Z"
+    },
+    {
+      "title": "Safari Technology Preview 254 公開 CSSの size/min-size/max-size と interpolate-size を追加",
+      "summary": "10月8日公開のSTP 254（macOS Golden Gate / Tahoe向け）は、CSSに size・min-size・max-size プロパティと border-top-radius などの辺ショートハンドを追加した。interpolate-size で auto や fit-content といったキーワードとの間でトランジションが可能になり、calc-size() で内在サイズの計算もできる。SVG画像向けの link-parameters と param()、匿名カウンタースタイルの symbols() も入り、CSS Gridのトラックサイズやline-clampの修正、WebCodecsのHEVC出力対応、macOSでのライブなピンチズームなども含まれる。",
+      "url": "https://webkit.org/blog/18420/release-notes-for-safari-technology-preview-254/",
+      "collectedAt": "2026-10-10T23:07:44Z"
+    },
+    {
+      "title": "Prettier 3.9.10 リリース Markdownテーブル解析の性能問題を修正",
+      "summary": "10日公開の Prettier 3.9.10 は micromark-extension-gfm-table を更新し、Markdownのテーブル解析で発生していた性能問題を修正した（#20266）。パッチリリースで、ほかの言語のフォーマット挙動に変更はない。",
+      "url": "https://github.com/prettier/prettier/releases/tag/3.9.10",
+      "collectedAt": "2026-10-10T23:07:44Z"
+    }
+  ]
+}
