@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-11",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "pnpm 12.12.1 公開 新しい tool: プロトコルとdist-tagのOIDC認証に対応",
+      "summary": "pnpm 12.12.1がリリースされ、pnpm自身がダウンロードするNode.js・Bun・Deno・Yarnを指す新しい tool: プロトコルが追加された（従来の runtime: はエイリアスとして継続）。pnpm dist-tag の add/rm/ls がCI上のOIDC認証で動作するようになり、npmトークンの保存が不要になった。また pnpm publish は NPM_ID_TOKEN の aud クレームが対象レジストリと一致する場合のみ使用するよう安全性が強化された。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v12.12.1",
+      "collectedAt": "2026-10-11T23:09:08Z"
+    },
+    {
+      "title": "TanStack Query v5.104.2 公開 Preact v11対応とリント基盤のoxlint移行",
+      "summary": "TanStack Query 5.104.2がリリースされ、Preact QueryがPreact v11に対応した。Query Coreはウィンドウが非フォーカスでもキュー済みのscoped mutationを開始するようになり、Vue QueryはMutationResult型をエクスポートする。開発基盤ではリントをESLintからoxlintへ、フォーマットをPrettierからoxfmtへ移行し、TypeScript 7.1プレビューでのテストを追加した（Svelte系パッケージは6.3.2）。",
+      "url": "https://github.com/TanStack/query/releases",
+      "collectedAt": "2026-10-11T23:09:08Z"
+    },
+    {
+      "title": "Next.js v16.5.0-canary.8 公開 TurbopackのWebP対応を常時有効化、canaryでGCを既定オン",
+      "summary": "Next.jsの16.5系canary.8が公開され、TurbopackのWebPサポートが常時有効となりフィーチャーフラグが削除された。サーバーエラーインスペクタがエラーメッセージ行をスタックフレームとして扱う不具合も修正されている。canaryチャネルではガベージコレクションが既定で有効になり、依存エッジが中途半端に解除され得るTurbopackのGC経路2件も修正された。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.5.0-canary.8",
+      "collectedAt": "2026-10-11T23:09:08Z"
+    },
+    {
+      "title": "Rollup v4.64.5 リリース 間接的なトップレベルawaitでの動的import循環を防止",
+      "summary": "Rollup 4.64.5が10日に公開された。動的インポートで間接的なトップレベルawaitを使った際に循環が生じる問題を防ぐ修正1件のみを含むパッチリリースで、他の変更は含まれていない。トップレベルawaitを含むモジュールを動的に読み込むコードのビルド安定性が向上する。",
+      "url": "https://github.com/rollup/rollup/releases/tag/v4.64.5",
+      "collectedAt": "2026-10-11T23:09:08Z"
+    }
+  ]
+}

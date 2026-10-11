@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-11",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "OpenCode v1.19.0 公開 OpenCode 2へのメジャーアップグレードコマンドを追加",
+      "summary": "AIコーディングCLIのOpenCode 1.19.0が11日にリリースされ、OpenCode 2へ移行するための opencode upgrade --major コマンドが追加された。TUIでは /update がアップデート処理を担うようになり、更新の自動インストールは行われなくなった。不具合修正としてOpenAIの ultrafast サービスティアを許可し、PTY接続でPTYの存在確認より前にオリジンとチケットを検証するよう変更している。",
+      "url": "https://github.com/sst/opencode/releases",
+      "collectedAt": "2026-10-11T23:09:08Z"
+    },
+    {
+      "title": "GitHub Copilot CLI 1.0.96 プレリリース 対話的なサンドボックス設定とモデルID大文字小文字非依存化",
+      "summary": "GitHub Copilot CLIの1.0.96系プレリリースが10日に公開された。1.0.96-1では対話的なサンドボックス設定が追加され、環境内のシークレット候補を提示したり保存前にマスキング対象ホストを追加できるようになり、企業ポリシーの解決中も /allow-all が使えるよう修正された。1.0.96-2では /model と /config model のモデルIDが大文字小文字を区別しなくなり、正規化されたIDが保存される。",
+      "url": "https://github.com/github/copilot-cli/releases",
+      "collectedAt": "2026-10-11T23:09:08Z"
+    },
+    {
+      "title": "GitHub、Copilotコードレビューの組織課金オプションとレビュー依頼制御を追加",
+      "summary": "GitHubは、Copilotライセンスを持つメンバーが依頼したコードレビューを組織のコストセンターに課金し、個人のCopilot利用枠を消費しない設定を追加した。組織設定のCopilot > Policiesから選択でき、既定はメンバー課金で組織課金にはAI Creditsの有料利用が必要となる。あわせて「認可されたユーザーのみがCopilotコードレビューを起動できる」制御も導入され、組織レベルで有効化するとリポジトリ管理者は無効化できない。",
+      "url": "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls",
+      "collectedAt": "2026-10-11T23:09:08Z"
+    },
+    {
+      "title": "Zed v1.23.2 リリース JSONL/NDJSONのテーブルプレビューとエージェントスレッドの保持設定",
+      "summary": "エディタZedの安定版1.23.2が公開され、JSONLおよびNDJSONファイルをテーブル形式でプレビューできるようになった。エージェントのアイドルスレッド保持数を制御する agent.max_idle_retained_threads 設定が追加され、Google AIが過負荷時にリトライするようになった。GitパネルとGit Graphの改善や各種クラッシュ・UI修正も含まれる。先行版の1.24.1-preでは履歴やGit Graphからのタグ作成、ターミナルタブのエージェントパネルへのドラッグにも対応している。",
+      "url": "https://github.com/zed-industries/zed/releases",
+      "collectedAt": "2026-10-11T23:09:08Z"
+    },
+    {
+      "title": "OpenAI Codex 0.163.0-alpha.5 公開 安定版は0.162.1でTUIクラッシュを修正",
+      "summary": "OpenAI Codexは10日に次期版の0.163.0-alpha.5をプレリリースとして公開した。現行の安定版は9日公開の0.162.1で、複数行の非同期質問でTUIがクラッシュする問題と、バックグラウンドサーバーとCLI既定値の機能設定が食い違って起動に失敗する問題を修正している。0.162.0で入った管理対象Git worktreeツールやコマンドセンターのタスクピン留めがその土台となっている。",
+      "url": "https://github.com/openai/codex/releases",
+      "collectedAt": "2026-10-11T23:09:08Z"
+    }
+  ]
+}
