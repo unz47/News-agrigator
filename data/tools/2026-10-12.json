@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-12",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub、コミットのプッシュ実行者を記録する「Push attribution」を限定パブリックプレビューで提供",
+      "summary": "GitHubが、各コミットを実際にプッシュした認証済みユーザー（pusher identity）を記録する機能を限定パブリックプレビューで公開した。クライアント側で任意に設定できるauthor/committerとは別に保存され、UIとAPIで並べて確認できるため、レビュー時に誰がプッシュしたか分かる。あわせて「Committer must match pusher」というリポジトリルール条件が追加され、書き込み権限者がメンテナーを装ったコミットを作ることを防げる。対象はGitHub Enterprise顧客で、利用には担当チームへの申請が必要。",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "collectedAt": "2026-10-12T23:08:00Z"
+    },
+    {
+      "title": "GitHub Copilot CLI 1.0.97-0 公開 カスタムエージェント単位の宣言的フックに対応",
+      "summary": "Copilot CLIのプレリリース1.0.97-0で、カスタムエージェントにスコープを限定した宣言的フックが追加された。対応ターミナルではインライン画像が既定で表示されるようになり、/settings inlineImages falseで無効化できる。autopilotがpreToolUseフックの「ask」判断を拒否してしまう問題や、Windowsのタスクバーアイコンのグループ化、/usageでの課金済みAIクレジット表示も修正された。",
+      "url": "https://github.com/github/copilot-cli/releases",
+      "collectedAt": "2026-10-12T23:08:00Z"
+    },
+    {
+      "title": "Zed v1.23.3 リリース タブインデントのコードブロックでのクラッシュを修正",
+      "summary": "Zedの安定版v1.23.3が公開され、タブでインデントされたコードブロックでのクラッシュと、編集予測が単一worktreeのファイルを保持し続ける問題が修正された。Node.jsはv24 LTSの最新版に更新され、一部テーマでThreadsサイドバーの背景が透明になる不具合も解消された。同日公開のv1.24.2-preにはエージェントパネルのチェックポイント機能に関するオプトイン型テレメトリが追加されている。",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v1.23.3",
+      "collectedAt": "2026-10-12T23:08:00Z"
+    },
+    {
+      "title": "Cline、Desktop 0.0.45 / CLI 3.0.70 / SDK 0.0.92 を公開 SSHリモート接続の不具合を修正",
+      "summary": "ClineがDesktop v0.0.45を公開し、0.0.38から発生していたSSHリモート接続の不具合を修正した。SDK v0.0.92では推論オフ時に一部のOpenAI・Claudeモデルへ非対応オプションを送って400エラーになる問題を解消し、モデルカタログにClaude Haiku 5.5を追加している。CLI v3.0.70ではcline dashboardがcline hub dashboardへ変更され、旧コマンドは隠しエイリアスとして残された。",
+      "url": "https://github.com/cline/cline/releases",
+      "collectedAt": "2026-10-12T23:08:00Z"
+    }
+  ]
+}

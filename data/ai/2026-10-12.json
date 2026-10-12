@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-12",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Meta、初のフロンティアモデル「Muse Wonder」を公開",
+      "summary": "MetaのSuperintelligence Labが、同社初のフロンティアモデルとなる「Muse Wonder」および「Muse Wonder Full」を公開した。Meta自身のベンチマークでは、Claude Fable 5.1やGPT-6 Astraとほぼ同等の水準とされている。API価格は入力100万トークンあたり4ドル、出力100万トークンあたり20ドルに設定された。",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
+      "collectedAt": "2026-10-12T23:08:00Z"
+    },
+    {
+      "title": "マイクロソフトのブラッド・スミス社長「AI規制は英国が主導すべき」",
+      "summary": "マイクロソフトのブラッド・スミス社長が、グローバルなAI安全規制の主導役として米国やEUより英国が適任だと主張した。牛乳や洗濯機といった消費財の方がAI企業より監督が厳しいと述べ、自主規制では「良い企業しか従わない」として法的枠組みの必要性を訴えた。悪意あるAIエージェントによる侵害を受けた組織への通知義務なども提案している。",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "collectedAt": "2026-10-12T23:08:00Z"
+    },
+    {
+      "title": "IMF専務理事、AIによる雇用への「津波」を警告 世銀・IMF年次総会",
+      "summary": "バンコクで始まったIMF・世界銀行年次総会で、ゲオルギエワ専務理事がAIが世界の労働市場に大きな打撃を与えており、特に若い新卒者が最初に影響を受けると警告した。IMFは世界の約40%の仕事が最終的に「補強・格下げ・消滅」するとの推計を示し、先進国では約60%、低所得国では23%が影響を受けるとしている。",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "collectedAt": "2026-10-12T23:08:00Z"
+    },
+    {
+      "title": "日立製作所、AIが経営者に事業戦略を助言するサービスを開始",
+      "summary": "日立製作所が、競合他社の経営計画などをAIで分析し、自社がとるべき戦略を経営者らに助言するサービスを始めた。AI活用がバックオフィス業務から経営の中枢へ広がりつつある動きの一例とされる。他社でも経営判断そのものにAIを取り入れる取り組みが相次いでいる。",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261012de58173",
+      "collectedAt": "2026-10-12T23:08:00Z"
+    }
+  ]
+}

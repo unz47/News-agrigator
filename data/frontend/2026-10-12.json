@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-12",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Storybook 10.6.2 公開 Preact 11サポート追加と2件のセキュリティ修正",
+      "summary": "Storybookの安定版10.6.2がリリースされ、Preact 11のサポートが追加された。GHSA-f2ph-cmg5-wxc8とGHSA-px85-f4q5-jh77の2件のセキュリティ勧告に対する修正も含まれる。Angular-Viteは@analogjs/vite-plugin-angular 2.7.3以降が必要になり、Yarn 1でCLI出力が隠れる問題も修正された。",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v10.6.2",
+      "collectedAt": "2026-10-12T23:08:00Z"
+    },
+    {
+      "title": "Storybook 9.1.21 / 8.6.19 公開 プレビューとdevサーバーのセキュリティを強化",
+      "summary": "旧系列向けにセキュリティ強化をまとめたパッチが9.1.21と8.6.19として公開された。プレビューのpostMessageを既知のmanagerオリジンに限定し、devサーバーをlocalhost以外のオリジンからiframe埋め込みできないよう変更している。ストーリー名・export名・引数キーの検証追加や、保存先パスのプロジェクトルート内への制限、Vitestブラウザからのファイル書き込み・コマンド実行の無効化も行われた。",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v9.1.21",
+      "collectedAt": "2026-10-12T23:08:00Z"
+    },
+    {
+      "title": "Vitest 5.0.4 リリース トレースビューアの改善とキャッシュ既定有効化",
+      "summary": "Vitest 5.0.4では、キャッシュディレクトリへのCACHEDIR.TAG付与、test.ui.themeオプション、トレースビューアのフィット・ズーム操作、--changed時の影響テスト数表示などが追加された。修正面ではファイルシステムのモジュールキャッシュが既定で有効になり、gitやロケーションフィルタのエラーで実行が失敗するようになった。--changedがプロジェクトファイルとモックを追跡するようにもなっている。",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v5.0.4",
+      "collectedAt": "2026-10-12T23:08:00Z"
+    },
+    {
+      "title": "pnpm 10.34.7 公開 レジストリミラー経由のpackageManager切り替えを修正",
+      "summary": "保守系列のpnpm 10.34.7がリリースされ、npmの署名を削除または再署名するレジストリミラー越しでもpackageManagerで指定したpnpmバージョンへの切り替えが動作するようになった。PNPM_HOMEが未設定の場合は、pnpm self-updateでは置き換えられないためスタンドアロンのインストールスクリプトを案内する更新通知に変わった。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.34.7",
+      "collectedAt": "2026-10-12T23:08:00Z"
+    },
+    {
+      "title": "Astro、@astrojs/vercel 11.0.14 を公開 Vercel上のオンデマンドルート障害を修正",
+      "summary": "Astroが@astrojs/vercel 11.0.14をリリースし、Vercel上でオンデマンドルートがネイティブバインディングのエラーで失敗する問題を修正した。原因はサーバーレス関数が実行時にRolldownを読み込んでいたことだった。直近のastro@7.3.8では内部のバンドルと変換をesbuildからViteのOxcベース変換とRolldownへ移行している。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-10-12T23:08:00Z"
+    }
+  ]
+}
