@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-13",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google、フロンティアモデル「Gemini 4 Argon」を一般提供開始",
+      "summary": "Googleは13日(現地時間)、9月30日に発表したフロンティアモデル「Gemini 4 Argon」の一般提供を開始した。これまではサイバー防御の担当者など限定的な先行提供にとどまっていたが、同日よりグローバルで順次利用可能になる。GeminiアプリではGoogle AI Pro/Ultraの契約者が利用でき、コーディングや金融、法務、科学といった複数ステップの作業を想定している。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2147842.html",
+      "collectedAt": "2026-10-13T23:07:36Z"
+    },
+    {
+      "title": "SpaceXAI、Grok・Cursor・X Premiumを束ねた「The X Subscription」を発表",
+      "summary": "米SpaceXAI(旧xAI)は12日(現地時間)、新しいサブスクリプション「The X Subscription」を発表した。AIアシスタント「Grok」、AIコードエディター「Cursor」、SNSの「X Premium」の特典を1つのプランにまとめた内容となっている。買収したCursorを含め、自社サービスを横断して囲い込む狙いがある。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2147453.html",
+      "collectedAt": "2026-10-13T23:07:36Z"
+    },
+    {
+      "title": "OpenAI、常時稼働エージェント「dots」をスマホからも作成可能に Codex連携も強化",
+      "summary": "OpenAIは、DevDay 2026で発表した常時稼働型のパーソナルAIエージェント「dots」を、スマートフォンのChatGPTアプリからも作成できるようにした。あわせてコーディングエージェントCodexとの連携も強化され、モバイル環境からエージェントに作業を任せやすくなっている。",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2147525.html",
+      "collectedAt": "2026-10-13T23:07:36Z"
+    },
+    {
+      "title": "SB Intuitions、国産AI「Sarashina」を無料公開 チャットと6モデルのAPIを提供",
+      "summary": "ソフトバンク子会社のSB Intuitionsは13日、国産LLM「Sarashina」を無料で試せるサービスの無償ベータ版を公開した。Googleアカウントでログインすれば申し込み不要で、Web上でのチャットや翻訳に加え、文章生成のSarashina3 mini、埋め込み、リランク、安全性判定、日英翻訳など6モデルを呼び出せるAPIが利用できる。レート制限があり、提供終了時期は未定としている。",
+      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002224/",
+      "collectedAt": "2026-10-13T23:07:36Z"
+    },
+    {
+      "title": "NVIDIAとCisco、AIファクトリー拡張に向けた新しいプラガブル光モジュール規格を発表",
+      "summary": "NVIDIAとCiscoは、AIファクトリーの拡張に向けた新たなプラガブル光モジュールのフォームファクター「USFP」を発表した。1レーンあたり400Gb/秒の電気信号に対応し、AIデータセンター内の帯域と消費電力の課題に対応する。両社はネットワーク機器での相互運用を進める方針を示している。",
+      "url": "https://ascii.jp/elem/000/004/442/4442239/",
+      "collectedAt": "2026-10-13T23:07:36Z"
+    }
+  ]
+}

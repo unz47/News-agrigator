@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-13",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Kiro IDE 1.3.0 公開 エージェントのシェル実行を制限するローカルサンドボックスを導入",
+      "summary": "Kiro IDE 1.3.0が13日に公開され、エージェントが実行するシェルコマンドのアクセス範囲を制限するローカルコマンドサンドボックスが追加された。保存済みのWorkflowをチャットから起動できるようになり、エディタータブにセッションの進行状況がライブ表示される。モデルのフォールバック理由の表示やMCPツールのオンデマンド読み込みも入った。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-13T23:08:15Z"
+    },
+    {
+      "title": "Kiro CLI 2.31.0 公開 ローカルサンドボックスと自律モードを全V3ユーザーに開放",
+      "summary": "Kiro CLI 2.31.0が13日にリリースされ、ローカルコマンドサンドボックスとローカル自律モードがすべてのV3ユーザーに提供された。自律モードではコマンドごとの承認なしにローカルタスクを実行できる。MCPツールはオンデマンドで読み込まれるようになり、KIRO_HOME がカバーするV3の設定・状態の範囲も広がった。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-13T23:08:15Z"
+    },
+    {
+      "title": "Cursor、Originのアプリマーケットプレイスを公開 20以上のサービスと連携",
+      "summary": "Cursorは13日、Originがデプロイ・CI・コードレビュー・セキュリティ・監視・プロジェクト管理など20以上のアプリと連携することを発表した。パートナーにはCloudflare、Linear、Sentry、Socket Securityが名を連ねる。マーケットプレイスは開発者ツールを作る任意のチームからの公開申請を受け付けており、自分のネームスペースで非公開に作成してOrigin APIに対して実装したうえで申請する流れとなる。",
+      "url": "https://cursor.com/changelog",
+      "collectedAt": "2026-10-13T23:08:15Z"
+    },
+    {
+      "title": "GitHub Copilotで「Gemini 4 Argon」が一般提供開始",
+      "summary": "GitHubは13日、Googleの新フロンティアモデル「Gemini 4 Argon」をCopilotで一般提供すると発表した。初期検証では全コーディングベンチマークで従来のGeminiより多くのタスクを解決し、特にCopilot CLIでの改善が大きかったという。VS Code、Visual Studio、Copilot CLI、コーディングエージェント、JetBrains、Xcode、Eclipseのモデルピッカーから選択でき、対象はPro+/Max/Business/Enterpriseプランで従量課金となる。",
+      "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
+      "collectedAt": "2026-10-13T23:08:15Z"
+    },
+    {
+      "title": "GitHubのシークレットスキャン、AnthropicのAPIキーを既定でプッシュブロック対象に",
+      "summary": "GitHubは13日、シークレットスキャンにSalesforce、Anthropic、CloudsmithのシークレットタイプのDetectorを追加した。AnthropicのサービスAPIキーとユーザーAPIキーはプッシュプロテクションの既定のブロック対象となり、無料の公開リポジトリを含むシークレットスキャン有効化済みのリポジトリに適用される。Salesforceはパートナーとして参加し、公開リポジトリで見つかったMarketing CloudのOAuth2トークンは失効・ローテーションのため同社へ通知される。",
+      "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+      "collectedAt": "2026-10-13T23:08:15Z"
+    }
+  ]
+}

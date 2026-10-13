@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-13",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Vue 3.5.44 リリース Suspenseやトランジション周りのバグ修正を多数収録",
+      "summary": "Vue 3.5系のパッチリリース3.5.44が13日に公開された。新機能はなく、v-memoのキー括弧付けやv-htmlでの0/falseの文字列化、本番ビルドでのv-showトランジションフラグ注入といったコンパイラの修正が中心となっている。加えて、ネイティブ配列イテレーターの変更回避やSuspenseの非同期プレースホルダー保持、Teleportのアンカー処理、hydrateOnVisibleでのdisplay:contents対応など、ランタイムとSSRの不具合も幅広く解消した。",
+      "url": "https://github.com/vuejs/core/releases/tag/v3.5.44",
+      "collectedAt": "2026-10-13T23:07:56Z"
+    },
+    {
+      "title": "pnpm 12.13.0 公開 pnpm profile / pnpm token コマンドを追加",
+      "summary": "pnpm 12.13.0が13日にリリースされ、npmアカウント情報を扱う pnpm profile と認証トークンを管理する pnpm token の各コマンドが追加された。ネットワーク共有ストア向けの storeIndexFormat 設定や nodePackageMap 設定グループも導入され、Python依存関係の解決も高速化している。macOS/Windowsでの pnpm setup、ロックファイル書き込み、pnpm pipeline の不具合修正も含まれる。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v12.13.0",
+      "collectedAt": "2026-10-13T23:07:56Z"
+    },
+    {
+      "title": "TanStack Start が安定版に @tanstack/vue-start 1.169.0 でVite 8必須・session API削除",
+      "summary": "TanStack Startがリリース候補を終えて安定版となり、@tanstack/vue-start 1.169.0などが公開された。Viteビルドでは Vite 8 が必須となり Vite 7 のサポートは終了、非推奨だった .inputValidator() は .validator() に置き換えられた。組み込みの useSession API と transferResponseBodyOwnership も削除され、セッションは各アプリがcookieヘッダーで明示的に管理する形に変わる。",
+      "url": "https://github.com/TanStack/router/releases/tag/%40tanstack%2Fvue-start%401.169.0",
+      "collectedAt": "2026-10-13T23:07:56Z"
+    },
+    {
+      "title": "Chrome 155でJPEG XLのデコード対応を出荷 Rust製デコーダーjxl-rsを採用",
+      "summary": "Chromeは、画像フォーマットJPEG XL(.jxl)のデコード対応をChrome 155から出荷すると発表した。JPEG比で30〜50%小さいファイルサイズに加え、可逆圧縮やHDR、JPEGからの可逆トランスコードに対応し、高忠実度・可逆用途で特に有効としている。メモリ安全性の観点から純Rust実装のデコーダー jxl-rs を統合し、SIMDを安全に使うことで非メモリ安全な実装に近い性能を確保したと説明している。",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "collectedAt": "2026-10-13T23:07:56Z"
+    },
+    {
+      "title": "Chrome 155〜156のWebGPU新機能まとめが公開",
+      "summary": "Chrome for Developersが、Chrome 155および156で入ったWebGPUの新機能をまとめた記事を公開した。GPU処理を扱うWeb標準APIとしての機能追加や挙動変更が整理されており、WebGPUを使うアプリケーションの移行判断に役立つ内容となっている。",
+      "url": "https://developer.chrome.com/blog/new-in-webgpu-155-156",
+      "collectedAt": "2026-10-13T23:07:56Z"
+    }
+  ]
+}
