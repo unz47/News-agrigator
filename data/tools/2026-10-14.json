@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-14",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "VS Code 1.142 公開 チャット横で作業する「Canvases」をプレビュー提供",
+      "summary": "Visual Studio Code 1.142がリリースされた。目玉はプレビュー機能のCanvasesで、カンバンボードなどのアーティファクトをチャットの横に開いてエージェントと共同編集できる。Agentsウィンドウでは履歴を保ったままチャットを別フォルダーやGit worktreeへ移動でき、管理者はエージェントのサンドボックス化と権限ポリシーを強制できるようになった。モデルピッカーも刷新され、Copilotとbring-your-own-keyがタブで分離された。",
+      "url": "https://code.visualstudio.com/updates/v1_142",
+      "collectedAt": "2026-10-14T23:05:44Z"
+    },
+    {
+      "title": "Claude Code 2.1.300 / 2.1.299 公開 Mod APIの拡張とアイドル時の自動コンパクションを追加",
+      "summary": "Claude Codeが2.1.299と2.1.300を同日公開した。2.1.299ではターミナルでの長い会話に対するアイドル時コンパクション、$.prompt.mediaや$.session.identity()といったMod API、/usageの警告が追加された。2.1.300ではModがプロンプト欄に送信対象外のテキストを描画できるようになり、OpenTelemetryがキャッシュ書き込みをライフタイム別に報告、api.anthropic.comへのリクエストボディが既定でgzip圧縮されるようになった。",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.300",
+      "collectedAt": "2026-10-14T23:05:44Z"
+    },
+    {
+      "title": "GitHub Actions、ワークフロー依存のロックファイルをパブリックプレビューで提供",
+      "summary": "GitHubはActionsのワークフロー依存関係ロックファイルをパブリックプレビューとして公開した。gh actions-lock CLI拡張で.github/workflows/actions.lockを生成し、アクションとその推移的依存、再利用可能ワークフローのコミットを固定できる。タグ付け替えによる実行コードの入れ替わりを防ぐ狙いで、ロックファイル必須化ポリシーやDependabotのバージョン更新との連携も用意される。",
+      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "collectedAt": "2026-10-14T23:05:44Z"
+    },
+    {
+      "title": "GitHub Copilot、複数モデルを束ねる「HydraFusion」を更新し上位版Maxを追加",
+      "summary": "リサーチプレビューのHydraFusionが更新され、Claude Opus 5.5、GPT-6 Astra、GPT-6.1 Sol、GPT-6 Lunaをモデルプールに採用した。ドラフトはmedium、レビューはhighの推論努力を使い分け、Cascadeワークフローには必要な場合のみ修正を要求する判定ステップが加わった。より高い推論努力を適用するHydraFusion MaxもVS Code、GitHub Copilotアプリ、Copilot CLIで利用できる。",
+      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "collectedAt": "2026-10-14T23:05:44Z"
+    },
+    {
+      "title": "GitHub App、最小権限と管理のための改善 refresh token対応の offline_access スコープを追加",
+      "summary": "GitHub Appに最小権限を進める機能が追加された。リポジトリ管理権限なしで作成できるrepository_creation:writeと、インストール対象リポジトリを増減できるinstallation_repositories:writeが新設され、管理者PATへの依存を減らせる。offline_accessスコープでリフレッシュトークンを要求でき、無期限トークンから短命トークンへ段階的に移行できる。クライアントシークレットと鍵ペアは専用のCredentialsタブに分離された。",
+      "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+      "collectedAt": "2026-10-14T23:05:44Z"
+    }
+  ]
+}

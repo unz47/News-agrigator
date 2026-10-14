@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-14",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "React 19.3.1 など4系統が同時リリース React Server Componentsの転送プロトコルを改善",
+      "summary": "Reactチームは19.3.1、19.2.9、19.1.10、19.0.9を同日に公開した。いずれも内容は共通で、React Server Componentsの転送プロトコルの改善を含むパッチリリース。保守中の4つのリリースラインに同じ変更がバックポートされている。",
+      "url": "https://github.com/facebook/react/releases/tag/v19.3.1",
+      "collectedAt": "2026-10-14T23:05:44Z"
+    },
+    {
+      "title": "Node.js v26.12.0 (Current) 公開 httpにwebsocketMask/webSocketUnmaskを追加",
+      "summary": "Node.jsのCurrent系最新版v26.12.0がリリースされた。httpモジュールにwebsocketMask()とwebsocketUnmask()が追加され、WebAssemblyやRXのサポートが欠けている場合はエラーを投げるようになった。ほかにストリームやイテレータの修正、QUICとSQLiteの更新、パーミッションモデルの修正、依存関係の更新が含まれる。",
+      "url": "https://github.com/nodejs/node/releases/tag/v26.12.0",
+      "collectedAt": "2026-10-14T23:05:44Z"
+    },
+    {
+      "title": "Node.js v24.22.0 'Krypton' (LTS) 公開 crypto.parsePKCS12やutil.throttleを追加",
+      "summary": "LTS系のNode.js v24.22.0が公開された。crypto.parsePKCS12()と汎用MAC APIが追加され、OpenSSLプロバイダからの暗号・ハッシュ探索やSIV/GCM-SIVモードに対応した。perf_hooksにSlidingWindowHistogramとCBORの入出力、utilにthrottle()とdebounce()、sqliteのStatementSyncにclose()とSymbol.disposeが加わっている。",
+      "url": "https://github.com/nodejs/node/releases/tag/v24.22.0",
+      "collectedAt": "2026-10-14T23:05:44Z"
+    },
+    {
+      "title": "Playwright v1.64.1 リリース Electronの初回ウィンドウ取りこぼしとChromium 155+のリダイレクト中断を修正",
+      "summary": "Playwrightのパッチリリースv1.64.1が公開された。_electron.launchでパッケージ化されたアプリの最初のウィンドウを取りこぼす不具合と、ルートを登録するとChromium 155以降で一部のクロスオリジンリダイレクトが中断される問題を修正している。",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.64.1",
+      "collectedAt": "2026-10-14T23:05:44Z"
+    },
+    {
+      "title": "TanStack Start/Routerが一斉更新 srvx v1とfetchdts v0.2へ移行",
+      "summary": "TanStack Routerのモノレポから10件のパッケージが同日公開された。start-plugin-core 1.171.53がsrvxをv1に、start-server-core 1.169.43がfetchdtsをv0.2に更新し、型付きヘッダーヘルパーは名前と値の型を維持している。router-utils 1.162.4はdiffをv9へ上げ、Solid/Vue向けStartパッケージなどは依存更新のみとなっている。",
+      "url": "https://github.com/TanStack/router/releases/tag/%40tanstack%2Fstart-plugin-core%401.171.53",
+      "collectedAt": "2026-10-14T23:05:44Z"
+    }
+  ]
+}
