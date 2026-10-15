@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-15",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code 2.1.301 公開 使用量上限待ちを打ち切る設定やvimの%モーションを追加",
+      "summary": "Claude Code 2.1.301が15日に公開された。使用量上限のリセットが遠すぎる場合に無人リトライを打ち切る`CLAUDE_CODE_RETRY_WATCHDOG_MAX_USAGE_LIMIT_WAIT_MS`、vimモードの`%`モーション、OpenTelemetryの`tool_decision`イベントへの`classifier_verdict`等のフィールド追加が入った。VS Code拡張ではLaTeX数式のレンダリングに対応し、未push commitを含む可能性のあるworktreeを終了時に無断削除しない修正も含まれる。",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.301",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    },
+    {
+      "title": "Kiro IDE 1.3.11 公開 Markdownファイルにコメントを付けて一括送信できる機能を追加",
+      "summary": "Kiroは15日、IDE 1.3.11を公開した。`.md`ファイルにコメントを付けて一括でエージェントに送れる「Markdown Review」が追加され、新機能を一覧できるWhat's Newブラウザ、ワークフローのステップ通知の明確化、ステージング前のコミットメッセージ生成にも対応した。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    },
+    {
+      "title": "Kiro、Moonshot AIのオープンウェイトモデル「Kimi K3」を実験的サポート",
+      "summary": "Kiroは15日、Moonshot AIのオープンウェイトモデル「Kimi K3」をIDE・CLI・Crew・Webで実験的に利用できるようにした。対象は米国リージョンのPro、Pro+、Pro Max、Power各プランの顧客で、コンテキストウィンドウは100万トークン、クレジット倍率は2.4倍となっている。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    },
+    {
+      "title": "GitHub、コードスキャンのエージェント自動修正を一般提供開始",
+      "summary": "GitHubは15日、コードスキャンのアラートに対するエージェント自動修正（Agentic autofix）の一般提供を開始した。アラートをCopilotに割り当てると関連コードを調査して修正案を作り、CodeQLを再実行して解消を確認した上でドラフトPRを作成する。GitHub Code Security/Advanced Securityの顧客が対象で、既定ブランチのアラートのみに対応し、Enterprise管理者によるポリシー有効化が必要となる。",
+      "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    },
+    {
+      "title": "GitHub Copilot、一部モデルの11月中旬での提供終了を予告",
+      "summary": "GitHubは15日、GitHub Copilotで選択できる一部モデルを11月中旬に提供終了する予定を告知した。利用者は代替モデルへの切り替え準備が必要となる。同日にはプルリクエスト向けのAI Scanの一般提供や、GitHub Code Qualityのライセンス利用状況のCSVダウンロードも公開されている。",
+      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-15",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Astro 7.4.0 リリース ビルド計測の--timingsや並列プリレンダリングを追加",
+      "summary": "Astro 7.4.0が公開され、ビルドのボトルネックを表示する`astro build --timings`、静的ビルドで独自の`src/pages/3xx.astro`を使える実験的リダイレクトページ、ビルド時と実行時で画像サービスを分ける設定などが加わった。複数CPUコアで静的ページを並列プリレンダリングする実験的フラグも追加された。破壊的変更として最低必要なNode.jsが22.22.0に引き上げられている。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    },
+    {
+      "title": "Angular 22.2.3 など3系統を同時公開 プロトタイプ汚染対策とXSRF保護を強化",
+      "summary": "Angularは14日、22.2.3・22.3.0-next.2・20.3.34を同時に公開した。commonとcompilerでプロトタイプ汚染への耐性を強化し、popoverのプロパティバインディングやドット付きクラスバインディング名への対応、`@boundary`診断の修正が含まれる。20.3.34ではエラー時のi18nフラグ漏れを修正し、XSRF保護を同一オリジンの絶対URLにも適用するようになった。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    },
+    {
+      "title": "Next.js、上流依存の脆弱性に対応するセキュリティ更新を公開",
+      "summary": "Next.jsは14日、上流の依存パッケージに見つかった重大度Critical 2件・High 1件の脆弱性に対応する臨時のセキュリティ更新を公開した。8日の事前告知どおり14日に提供されたもので、利用者は速やかなアップグレードが推奨される。",
+      "url": "https://nextjs.org/blog/nextjs-security-update-october-14-2026",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    },
+    {
+      "title": "Storybook、10.6.2など4系統でセキュリティ強化リリース",
+      "summary": "Storybookは12日、10.6.2・9.1.21・8.6.19・11.0.0-alpha.6を公開し、2件のセキュリティ勧告（GHSA-f2ph-cmg5-wxc8、GHSA-px85-f4q5-jh77）に対応した。プレビューのpostMessageを既知のmanagerオリジンに限定し、開発サーバーのiframe埋め込みをlocalhost以外から遮断、ストーリー保存先をプロジェクトルート内に制限するなどの防御が入っている。10.6.2ではPreact 11サポートも追加された。",
+      "url": "https://github.com/storybookjs/storybook/releases",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    },
+    {
+      "title": "Safari Technology Preview 254 公開 CSSのsizeショートハンドやcalc-size()に対応",
+      "summary": "WebKitは8日、Safari Technology Preview 254のリリースノートを公開した。CSSでは`size`/`min-size`/`max-size`のショートハンドやborder-radiusの辺ごとのショートハンド、`interpolate-size`、`calc-size()`、カウンタースタイルの`symbols()`が追加された。macOSではピンチズーム中も描画が鮮明に保たれるようになり、WebCodecsの`transfer`オプションやVideoEncoderのHEVC出力、WebAssemblyの128ビット整数演算にも対応した。",
+      "url": "https://webkit.org/blog/18420/release-notes-for-safari-technology-preview-254/",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    }
+  ]
+}

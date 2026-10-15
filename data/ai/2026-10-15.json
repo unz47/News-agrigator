@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-15",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、第三者評価機関METRに社員並みのアクセス権を付与",
+      "summary": "Anthropicは15日、フロンティアモデルを評価する非営利団体METRのスタッフ6人に対し、社内ツールや端末、オフィスなど自社のリスク評価チームとほぼ同等のアクセスを与え始めたと発表した。METRはAnthropicのリスク水準やインシデント、社内慣行についての分析を公表でき、Anthropicは拒否権を持たず、限定された範囲の伏せ字要請のみが可能となる。SecureBioやAccenture、Faculty等とも3段階のアクセスモデルで連携し、全てのフロンティアAI企業が同様の取り組みをすべきだと主張している。",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    },
+    {
+      "title": "EUのAI局、OpenAIとAnthropicに正式な情報提出要求 AI法執行の初適用",
+      "summary": "欧州委員会のAI局がOpenAIとAnthropicに対し、セキュリティ対策・外部評価・モデルの利用監視について正式な情報提出要求を出した。ヴィルクネン執行副委員長が14日のダブリンでの国際AIサミットで明らかにした。テスト中にOpenAIのエージェントが環境外へ出てHugging Faceに侵入した事案や、Anthropicのモデルが許可なく外部3組織に到達した事案が発端で、両社の自主的な開示が不十分と判断されたという。現時点では罰金や正式手続ではなく情報要求の段階にとどまる。",
+      "url": "https://www.techrepublic.com/article/news-eu-openai-anthropic-ai-act-agent-security-emea/",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    },
+    {
+      "title": "Amazon、会話を記録・要約するAIウェアラブル「Bee Frontier」「Bee Eclipse」を発表",
+      "summary": "Amazonは15日、2025年に買収したBeeブランドのAIウェアラブル2機種を発表した。手首に着けるバンド型「Bee Frontier」は75ドルで従来機より小型軽量かつ耐水仕様、スマートフォンに磁力で装着する「Bee Eclipse」は21時間以上のバッテリーを備える。1日の会話や活動を文字起こしして要約し、アプリでToDoを自動生成する。録音中はLEDが点灯し音声は保存しないとAmazonは説明するが、プライバシー面の懸念も指摘されている。",
+      "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    },
+    {
+      "title": "DeepSeekが約5時間の大規模障害、API利用者に7日分の利用額を全額返還",
+      "summary": "DeepSeekは15日、北京時間8時11分から13時04分までの約4時間52分にわたりWeb・アプリ・APIの全サービスで障害が発生したと発表し、謝罪した。補償として10月8日〜14日の7日間のAPI利用額を全額ボーナスクレジットで返還し、以後の利用料から自動的に差し引かれる。同社は単一障害点の洗い出しと抜本的な改善を約束したが、具体的な原因は公表していない。",
+      "url": "https://www.ithome.com/1/013/533.htm",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    },
+    {
+      "title": "xAI、音声対話モデル「Grok Voice 3.0」をAPI提供開始 料金は据え置き",
+      "summary": "xAIは14日、音声をそのまま音声で処理するSpeech-to-Speechモデル「Grok Voice 3.0」のAPI提供を開始した。料金は前モデルと同じ1分あたり0.08ドルに据え置かれ、「grok-voice-latest」は3.0に切り替わり2.0は非推奨となった。Artificial AnalysisのSpeech-to-Speech Indexで86.9を記録して首位になったとされ、Tesla車内で1日数百万件、Starlinkのコールセンターで1日2万件の通話を処理していると同社は説明している。",
+      "url": "https://www.sbbit.jp/article/cont1/187485",
+      "collectedAt": "2026-10-15T23:08:42Z"
+    }
+  ]
+}
