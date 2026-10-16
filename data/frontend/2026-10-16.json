@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-16",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js公式ブログ、Partial Prefetchingとエージェントでv0のナビゲーションを改善した事例を公開",
+      "summary": "Vercelは16日、AIアプリビルダーv0全体のナビゲーション体験をNext.js 16.4で改善した事例を公開した。Next.js 16.3で導入されたPartial Prefetchingを全体で有効化し、16.4の新Skill「next-partial-prefetching-optimizer」とPlaywrightの instant() ヘルパーを使って、テストが通るまでエージェントにキャッシュ/プリフェッチのリファクタを繰り返させる手法を紹介している。全体ではRuntime Cache費用が4.3倍に増えた一方、リクエスト処理コストは14.4%減、日次総コストは2.9%減となった。",
+      "url": "https://nextjs.org/blog/improving-navigation-experience-in-v0-with-nextjs-16-4",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    },
+    {
+      "title": "Nuxt 4.6.2 リリース サーバーアイランドのhead処理やルートルール照合を修正",
+      "summary": "Nuxtは16日、パッチリリースのv4.6.2を公開した。サーバーアイランドのhead処理、ルートルールのマッチング、開発サーバーおよびVite周りの不具合が修正されている。10月5日のv4.6.0では nuxt/server インポート面やNuxt CLI v4、セッション用の appSecret ランタイム設定が導入されており、今回はその安定化にあたる。",
+      "url": "https://github.com/nuxt/nuxt/releases/tag/v4.6.2",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    },
+    {
+      "title": "TanStack Start/Router、マニフェストのスクリプトプリロード優先度を引き下げ",
+      "summary": "TanStackは16日、Start/Router系パッケージの一括リリースを公開した。生成されるマニフェストのスクリプトプリロードを fetchPriority=\"low\" で出力するよう変更し、初期描画に必要なリソースとの帯域競合を抑える。あわせてVitestをv5にアップグレードし、ベンチマークを移行している。",
+      "url": "https://github.com/TanStack/router/releases",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    },
+    {
+      "title": "Node.js 26.12.0 と 24.22.0 LTS を公開 WebSocketマスク関数やPKCS#12解析を追加",
+      "summary": "Node.jsは14日、Current系の26.12.0とLTS系の24.22.0「Krypton」を公開した。26.12.0は http に websocketMask() / websocketUnmask() を追加し、WebAssemblyやRXサポートが欠けている場合に例外を投げるよう変更している。24.22.0では crypto.parsePKCS12() と汎用MAC API、node:sqlite の StatementSync.close() と Symbol.dispose 対応、util.throttle / util.debounce などが追加された。",
+      "url": "https://github.com/nodejs/node/releases",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    },
+    {
+      "title": "Chrome 156、デスクトップで早期安定版の配信を開始 CSS random()やcornerショートハンドを搭載",
+      "summary": "Googleは14日、Chrome 156(156.0.8078.35/.36)をWindows/Mac向けに一部ユーザーへ早期安定版として配信開始した。正式な安定版リリースは10月20日が予定されている。CSS関連では乱数を生成する random() 関数、corner系ショートハンドプロパティ、単軸スクロールコンテナ、scroll-snap-type: pair、ナビゲーションの起点要素を選択する navigation-source 疑似クラスなどが追加される。",
+      "url": "https://chromestatus.com/release-notes/156",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    }
+  ]
+}

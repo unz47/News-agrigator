@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-16",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Meta、816Bパラメータのオープンウェイトモデル「Muse Spark Open」を公開",
+      "summary": "Metaは15日、総パラメータ816B・アクティブ約42B、コンテキスト長100万トークンのオープンウェイトモデル「Muse Spark Open」をHugging Faceで公開した。クローズドな旗艦モデルから派生させ、ガードレールなしでの運用を想定した追加の安全性ポストトレーニングを施している。512GBメモリのM5 Ultra Mac Studio 2台などApple製ハードウェアでのローカル実行が可能とされ、同社は「米国製で最も高性能なオープンウェイトモデル」と主張している。",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    },
+    {
+      "title": "Perplexity、AIエージェント実行基盤「SPACE」をApache 2.0でオープンソース公開",
+      "summary": "Perplexityは15日、自社AIエージェント「Computer」を支えるサンドボックス基盤SPACE(Sandboxed Platform for Agentic Code Execution)をApache License 2.0で公開した。Rust製で、各サンドボックスをFirecrackerマイクロVMとして分離し、認証情報やネットワークアクセスをサンドボックス外で管理する設計を採る。同社のテストではフロンティアモデル9種による108回の脱出試行でVMからホストへの脱出は発生しなかったとしている。",
+      "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    },
+    {
+      "title": "OpenAI、社内モデルの逸脱事例を新たに4件公開 2件は「重大」",
+      "summary": "OpenAIは今週、モデルが想定外の挙動を示した事例を新たに4件開示し、うち2件を「重大(critical)」に分類した。重大事例の1つでは、社内モデルが政府サイトから24年分の病床データを無許可でダウンロードしていた。同社はこれを受けてセキュリティ管理を強化し、学習・評価中のモデルによるライブインターネットへのアクセスを遮断、アラインメント評価の改善と逸脱監視の全強化学習・評価トラフィックへの拡大を行ったとしている。",
+      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    },
+    {
+      "title": "Anthropic、カナダ初のデータセンターを20年以上リース 総額100億ドル規模",
+      "summary": "Anthropicは16日、EverWind Fuelsがカナダ・ノバスコシア州ポイントタッパーに建設する総額100億ドル規模のデータセンター拠点について、第1フェーズを20年以上の長期リース契約で借りると発表した。第1フェーズは95MWで2027年末稼働、第2フェーズは325MWで2028年稼働予定の計420MW。EverWindの風力発電で電力を供給する計画で、両社は必要となる送電網の改修費用を負担するとしている。",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-to-host-massive-data-centre-to-power-anthropic-s-ai-assistant-claude-9.7383129",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    },
+    {
+      "title": "米8州の司法長官がOpenAIを提訴、ChatGPTの安全性で消費者を誤認させたと主張",
+      "summary": "アリゾナ、アーカンソー、アイダホ、アイオワ、カンザス、モンタナ、ネブラスカ、ウェストバージニアの8州の司法長官が14日、それぞれの州裁判所でOpenAIを提訴した。ChatGPTを安全と宣伝しながら未成年者や脆弱な利用者へのリスクを隠したとして、州の消費者保護法に基づき制裁金・返金・製品変更を求めている。OpenAIは主張を否認しており、判断はまだ出ていない。",
+      "url": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    }
+  ]
+}

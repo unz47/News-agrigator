@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-16",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code 2.1.302 公開 アイドル時コンパクションのトグルやforkサブエージェントの既定有効化",
+      "summary": "Claude Codeのv2.1.302が公開された。/config にアイドル時コンパクションのトグルが追加され、クライアント側auto modeの分類器モデルを指定する環境変数も新設された。claude -p・Agent SDK・デスクトップアプリ・VS Codeではforkサブエージェントが既定で有効になり、Readツールが128MB超の画像を拒否するよう変更、Windows の exFAT/FAT32 ドライブへの書き込み不具合も修正された。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    },
+    {
+      "title": "Cursor、クラウドエージェントがインタラクティブなキャンバスを作成可能に",
+      "summary": "Cursorは16日、クラウドエージェントがインタラクティブなキャンバスを構築し、リンク共有でチームに配布できる機能を公開した。クラウド環境をプログラムから作成・管理できるEnvironments APIもベータ提供を開始している。あわせてクラウドエージェント環境が最大300リポジトリに対応し、大規模環境の読み込みが5倍高速化された。",
+      "url": "https://cursor.com/changelog",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    },
+    {
+      "title": "GitHub、オープンソースライセンスコンプライアンス機能を一般提供開始",
+      "summary": "GitHubは16日、オープンソースライセンスコンプライアンス機能の一般提供を開始した。依存関係のライセンスを把握し、サプライチェーンセキュリティの観点からポリシー違反を検出できるようになる。同社は前日にもコード品質ライセンス利用状況のCSVダウンロードやXcode 27ランナーイメージのGAを発表しており、関連機能の整備が続いている。",
+      "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    },
+    {
+      "title": "GitHub、プルリクエスト向け「AI Scan」を一般提供開始",
+      "summary": "GitHubは15日、プルリクエストに対するAI Scanの一般提供を開始した。アプリケーションセキュリティ機能の一つとして、PRの変更内容をAIが解析して脆弱性を検出する。同日にはコードスキャンアラートのエージェント型自動修正(agentic autofix)もGAとなっており、AIによるセキュリティ検出から修正までの一連の流れが揃った。",
+      "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    },
+    {
+      "title": "VS Code 1.142 公開 プレビュー版「Canvases」とCopilot harnessの既定化",
+      "summary": "Visual Studio Code 1.142が10月14日に安定版としてリリースされた。チャットの横に開いてエージェントと同じ成果物を編集できるインタラクティブなパネル「Canvases」がプレビュー提供され(chat.canvases.enabled が必要)、Copilot harnessが新規セッションの既定となりAgent Host経由でバックグラウンド継続が可能になった。会話履歴を保ったままチャットを別フォルダやGit worktreeへ移動する機能、エージェントのサンドボックス化を強制できる管理者向け制御も追加された。",
+      "url": "https://code.visualstudio.com/updates/v1_142",
+      "collectedAt": "2026-10-16T23:06:48Z"
+    }
+  ]
+}
