@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-17",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Cline、Desktop 0.0.48 / CLI 3.0.73 / SDK 0.0.95 を公開 GPT-6系モデルの拒否を修正",
+      "summary": "Clineは17日、Desktop v0.0.48、CLI v3.0.73、SDK v0.0.95を公開した。GPT-6系モデルに対して max_completion_tokens を送るよう修正し、OpenAIおよびAzure OpenAI互換エンドポイントでリクエストが拒否される問題を解消した。clineプロバイダーの既定モデルはClaude Sonnet 5.5に戻され、モデルカタログの更新でCommandCodeとReflectionの両プロバイダーが追加されている。SDKではハブデーモンを起動したクライアントを記録し、テレメトリ属性として送るようになった。",
+      "url": "https://github.com/cline/cline/releases",
+      "collectedAt": "2026-10-17T23:16:18Z"
+    },
+    {
+      "title": "Cline 4.1.25 公開 ホスト環境でタスクを実行する「Cline Cloud sessions」を順次提供",
+      "summary": "Clineは16日、VS Code拡張のv4.1.25を公開した。指定したGitHubリポジトリとブランチに対してホスト型サンドボックス上でタスクを実行する Cline Cloud sessions が段階的に提供開始された。clineプロバイダーの既定モデルはGemini 4 Argonとなり、ローカルモデルへの長いリクエストがタイムアウトする問題、OpenAI互換のベースURLが入力どおりに使われない問題、ストリーム開始後のプロバイダーエラーを最大3回リトライする改善も入っている。",
+      "url": "https://github.com/cline/cline/releases/tag/v4.1.25",
+      "collectedAt": "2026-10-17T23:16:18Z"
+    },
+    {
+      "title": "Zed v1.24.2 公開 ターミナルタブをエージェントパネルへドラッグ可能に",
+      "summary": "Zedは14日、安定版 v1.24.2 を公開した。ターミナルのタブをAgent Panelにドラッグできるようになり、Amazon Bedrockのカスタムモデルでツール利用・画像・thinkingの設定に対応、長時間のエージェントスレッドでのメモリとCPU使用量も削減された。Git面では HEAD にタグを作成する git: create tag at head コマンドやGitiles・セルフホストGerritのパーマリンク対応、コミットメッセージエディタの折りたたみが追加され、Linux向けx86_64バイナリは約23%小型化している。",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v1.24.2",
+      "collectedAt": "2026-10-17T23:16:18Z"
+    },
+    {
+      "title": "GitHub Actions、Xcode 27搭載ランナーイメージを一般提供開始",
+      "summary": "GitHubは15日、Xcode 27を搭載したランナーイメージの一般提供を開始した。GitHub ActionsのmacOSランナーで最新のXcodeを使ったビルドやテストが標準で利用できるようになる。Apple系プラットフォーム向けCIを運用しているリポジトリは、ランナーラベルとXcodeバージョンの指定を見直す必要がある。",
+      "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+      "collectedAt": "2026-10-17T23:16:18Z"
+    },
+    {
+      "title": "SlackとTeamsのGitHub連携が複数リポジトリ対応 モデル選択も改善",
+      "summary": "GitHubは15日、SlackおよびMicrosoft Teams向けGitHub連携のアップデートを公開した。複数リポジトリのサポートが追加され、チャット上から複数のリポジトリを横断して作業できるようになった。あわせて利用するモデルの指定に関する改善も行われており、チャットツールからのGitHub操作とCopilotの利用がより実用的になっている。",
+      "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+      "collectedAt": "2026-10-17T23:16:18Z"
+    }
+  ]
+}

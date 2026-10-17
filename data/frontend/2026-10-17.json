@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-17",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "ESLint v10.13.0 公開 no-use-before-define がIIFE内の参照も検出",
+      "summary": "ESLint v10.13.0が16日に公開された。no-use-before-define が即時実行関数式(IIFE)内の参照も報告するようになり、no-obj-calls が globalThis を、no-unsafe-optional-chaining が yield* 式を対象に含めるよう拡張された。no-var と one-var の自動修正を同時に適用した際に let が再宣言されるバグも修正され、no-redeclare は宣言が1つだけの変数でスキャンを省略して高速化している。",
+      "url": "https://github.com/eslint/eslint/releases/tag/v10.13.0",
+      "collectedAt": "2026-10-17T23:16:18Z"
+    },
+    {
+      "title": "Vue 3.6.0-rc.12 公開 Vaporモードのトランジションやスロット周りを集中的に修正",
+      "summary": "Vueは16日、3.6系の12本目のリリース候補 v3.6.0-rc.12 を公開した。runtime-vapor ではトランジショングループ、KeepAliveの移動、out-in/in-out トランジション、スロットアウトレットとフォールバック、ブロックのアンマウント、v-for の範囲処理など多数の不具合が修正されている。リアクティビティではウォッチャーのクリーンアップがコールバック再実行まで保持されるようになり、Vaporのハイドレーション用DOMヘルパーがクライアントバンドルからツリーシェイクされる改善も入った。",
+      "url": "https://github.com/vuejs/core/releases/tag/v3.6.0-rc.12",
+      "collectedAt": "2026-10-17T23:16:18Z"
+    },
+    {
+      "title": "pnpm 12.14.0 公開 sideEffectsCache.exclude 設定を追加",
+      "summary": "pnpm 12.14.0が15日に公開された。システムライブラリなどキャッシュキーに含められない要素に依存するパッケージ向けに sideEffectsCache.exclude 設定が追加され、除外したパッケージは毎回ビルドされローカルでもremoteCacheでもキャッシュされない。pnpm install / pnpm add が日次の更新チェックを待たなくなり、Web経由の pnpm login では npm-notice ヘッダーが表示される。出力の読み手が先に終了した際のコアダンプや、オプショナルなpeer依存の解決に関する複数の不具合も修正された。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v12.14.0",
+      "collectedAt": "2026-10-17T23:16:18Z"
+    },
+    {
+      "title": "Vitest v5.0.5 リリース キャンセル時のテスト中断など15件のバグ修正",
+      "summary": "Vitestは15日、バグ修正のみのパッチ版 v5.0.5 を公開した。実行キャンセル時に走っている全テストを中断するよう修正し、後続フックが失敗した場合にもフックのクリーンアップを実行するようになった。--changed でのクオート付きファイル名の処理、APIトークンファイルに対するViteの既定 fs.deny の維持、ブラウザモードでの合成 pagehide イベントの無視やクローズ済みセッションの遅延接続の破棄なども含まれる。同日には4系へのバックポート v4.1.12 も公開された。",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v5.0.5",
+      "collectedAt": "2026-10-17T23:16:18Z"
+    },
+    {
+      "title": "Rolldown v1.2.14 公開 output.charset オプションを追加",
+      "summary": "Rolldownは14日、v1.2.14を公開した。出力の文字セットを指定する output.charset オプションが追加され、output.minify が false の場合の ascii 指定の不具合も修正された。コード分割では独立したESMの再エクスポートを利用側ごとに振り分けるよう変更され、厳密な実行順序・ツリーシェイキング・ソースマップの修正や、dev モードのwatch修正、close() の再呼び出しをno-op化する変更が入っている。oxcは0.154.0へ更新された。",
+      "url": "https://github.com/rolldown/rolldown/releases/tag/v1.2.14",
+      "collectedAt": "2026-10-17T23:16:18Z"
+    }
+  ]
+}
