@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-18",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Rollup 4.64.10 公開 手動チャンクの遅延読み込みとJSXの実体参照を修正",
+      "summary": "Rollupは10月18日に4.64.10を公開した。動的importが手動チャンクからの再エクスポートのみを含む場合に遅延読み込みが壊れる問題を修正し、JSX文字列属性のHTML実体参照を出力時に正しくデコードするようにした。17日の4.64.8/4.64.9ではソースマップのコメントをチャンクハッシュに含める修正なども入っている。",
+      "url": "https://github.com/rollup/rollup/blob/master/CHANGELOG.md",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    },
+    {
+      "title": "PostCSS 8.5.31 公開 `</style>` エスケープ時のソースマップを改善",
+      "summary": "PostCSSは10月18日に8.5.31を公開し、`</style>` のエスケープ処理でソースマップがより正確になるよう修正した。直前の8.5.30でもエスケープで壊れていたマップを修正しており、HTML内にCSSを埋め込むケースでのデバッグ精度が改善している。",
+      "url": "https://github.com/postcss/postcss/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    },
+    {
+      "title": "TanStack Query 5.104.4 公開 falsyなエラーのリトライ挙動を修正",
+      "summary": "TanStack Queryは10月17日に5.104.4を公開した。throwOnErrorがfalseを返す場合に、falsyなエラーを持つクエリがマウント時にリトライできるよう修正。また react-query 系パッケージで @types/react をオプショナルなpeer依存として宣言するようにした。",
+      "url": "https://github.com/TanStack/query/blob/main/packages/react-query/CHANGELOG.md",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    },
+    {
+      "title": "SvelteKit 3.1.0 公開 CSPのハッシュ報告キーワードとエンドポイントのトレースに対応",
+      "summary": "SvelteKit 3.1.0では、CSPの `report-sha256`/`report-sha384`/`report-sha512` ハッシュ報告キーワードをサポートし、サーバートレース有効時に `+server` ハンドラーの `sveltekit.endpoint` スパンを出力するようになった。プロジェクトが server ディレクトリ配下にある場合に全モジュールがサーバー専用と判定される不具合なども修正されている。",
+      "url": "https://github.com/sveltejs/kit/blob/main/packages/kit/CHANGELOG.md",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    },
+    {
+      "title": "webpack 5.112.0 公開 CSS最小化の新オプションとプラグインのエクスポート整理",
+      "summary": "webpack 5.112.0では、複数設定の配列に指定した plugins を MultiCompiler に適用するようになり、後から上書きされる宣言を削除する `optimization.minimize.css.dropOverriddenDeclarations` が追加された。さらに多くのプラグインを名前空間付きでエクスポートし、従来のルート直下のエクスポートを非推奨にしている。",
+      "url": "https://github.com/webpack/webpack/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    }
+  ]
+}

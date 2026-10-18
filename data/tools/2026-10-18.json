@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-18",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code 2.1.303 公開 不具合修正と安定性の改善",
+      "summary": "Claude Codeは10月18日に2.1.303を公開した。変更点は不具合修正と信頼性向上のみで、新機能の追加はない。直前の2.1.302ではアイドル時コンパクションのトグルやforkサブエージェントの既定有効化など大きめの変更が入っていた。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    },
+    {
+      "title": "OpenCode v2.0.32 公開 /copyで最新の応答だけコピー、ヘッドレス環境のログインを修正",
+      "summary": "OpenCodeは10月16日にv2.0.32を公開した。TUIで `/copy` を実行すると会話全文ではなく最新のアシスタント応答か完了した要約だけをコピーできるようになった。コンテナなどブラウザを開けないヘッドレス環境で `opencode auth login` がクラッシュする問題も修正し、Geminiセッションが断続的な MALFORMED_RESPONSE で即失敗せずリトライするようになった。",
+      "url": "https://github.com/anomalyco/opencode/blob/dev/CHANGELOG.md",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    },
+    {
+      "title": "Cursor、Environments APIをベータ公開 クラウド環境は300リポジトリ対応",
+      "summary": "Cursorは10月16日の更新で、クラウド環境をプログラムから作成・管理できる Environments API をベータ提供開始した。あわせてクラウドエージェントの環境が最大300リポジトリに対応し、大規模な環境の読み込みが従来の5倍速くなったとしている。",
+      "url": "https://cursor.com/changelog",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    },
+    {
+      "title": "Kiro CLI 2.31.1 公開 チャット内でMermaid図を直接描画",
+      "summary": "Kiroは10月14日にCLI 2.31.1を公開し、Mermaid記法の図をチャット内でそのまま描画できるようにした。保存した設定がヘッドレスのV3実行でも反映されるようになり、そのほか複数の不具合修正が含まれる。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    },
+    {
+      "title": "Kiro、ローカルコマンドサンドボックスと自律モードを全V3ユーザーへ開放",
+      "summary": "Kiroは10月13日のIDE 1.3.0／CLI 2.31.0で、エージェントが実行するシェルコマンドのアクセス範囲を制限するローカルコマンドサンドボックス（`/sandbox`）とローカル自律モード（`/autonomous on`）をV3の全ユーザーに提供開始した。保存済みワークフローをチャットから `/workflow-run` で起動でき、MCPツールは必要時に読み込む方式に変わった。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    }
+  ]
+}

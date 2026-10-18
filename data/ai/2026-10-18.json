@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-18",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、株式の約20%を公益に充てる「Public Benefit Fund」設立を発表",
+      "summary": "Anthropicは10月18日、自社株式の5%を新設する「Anthropic Public Benefit Fund」に拠出すると発表した（株主承認が前提）。企業価値が基準から50%増えるごとに取締役会が2%を追加できる仕組みで、創業者の過去の誓約と従業員のマッチングを含めると約20%の株式が公益用途に充てられる。501(c)(3)ではなくLLCとして運営し、ロビー活動や政治献金には使わないとしている。",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    },
+    {
+      "title": "Claude、8種類の量子回路を既存の最良設計より小さく再設計",
+      "summary": "Anthropicは10月16日、自然言語の仕様だけを与えたClaudeが化学・最適化・物理シミュレーション・数論の8タスクで、公開済みの最良回路より少ない量子ビット数とゲート数の設計を見つけたと公表した。楕円曲線の点加算では量子ビットが12%増える代わりにゲート数を17分の1に、DQIデコーダーではゲート数を約12分の1に削減した。限られたハードウェアで有用な量子アルゴリズムを動かす前進と位置づけている。",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    },
+    {
+      "title": "Anthropic、NIST楕円曲線のシード生成方法をClaudeと特定",
+      "summary": "Anthropicの研究チームは10月16日、P-192からP-521までのNIST楕円曲線のシードがハッシュ出力ではなく、Unixタイムスタンプで初期化されたC標準ライブラリの乱数生成器lrand48の出力だったと突き止めたと発表した。Claudeが1990年代の弱い擬似乱数生成器を疑って検出スキャナを書き、LLLによる格子基底縮約で生成器の状態を復元した。暗号の破壊ではないが、曲線にバックドアがあるという説の可能性を下げる結果とされる。",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    },
+    {
+      "title": "Anthropic、AIへの期待のギャップを調査 社員と一般で大きな差",
+      "summary": "Anthropicは10月16日、米国の成人と自社社員のAIへの期待を比較した調査結果を公開した。2030年までにAIがノーベル賞級の発見をすると答えたのは米成人39%に対し社員は91%。社員の半数以上は2030年までに自分の業務の8割以上をAIが担うと予想し、同じ回答をした米国の労働者は約5%にとどまった。",
+      "url": "https://www.anthropic.com/research/ai-expectations-gap",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    },
+    {
+      "title": "Anthropic、自社の雇用の変化を公表 エージェント稼働時間が社員の6倍",
+      "summary": "Anthropicは10月16日、社内の雇用の変化に関する分析を公開した。8月時点で対話型エージェントの稼働時間は社員の労働時間の6倍に達し、技術職の新卒・ジュニア採用の比率は低下。一人当たりの生産量は増え、エージェントが書いたコードが後に取り消される頻度は人間と差がなかったという。採用では実装スキルより自律性と判断力が重視されつつあるとしている。",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "collectedAt": "2026-10-18T23:19:07Z"
+    }
+  ]
+}
