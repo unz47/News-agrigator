@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-19",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "NVIDIA、企業エージェント向けオープンモデル「Nemotron 3.5 Super VL」を公開",
+      "summary": "NVIDIAがオープンウェイトのマルチモーダルモデル「Nemotron 3.5 Super VL」を発表した。総パラメータ1200億のMoE構成でトークンごとに120億が活性化し、テキスト・画像・文書・動画を扱って最大100万トークンのコンテキストに対応する。RTXやDGX Spark上でローカル動作する小型の「Bolt」も合わせて提供し、重みやデータセット、学習レシピも公開するとしている。",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    },
+    {
+      "title": "MiniMax、エージェント向け高速モデル「M3.1 Flash」を正式公開",
+      "summary": "中国のMiniMaxが、プレビュー提供していたエージェント・コーディング特化モデル「M3.1 Flash」を19日に正式公開した。MiniMax APIやM Plan、MiniMax Codeから利用でき、100万トークンのコンテキストを持ちながらAPI料金は入力100万トークンあたり0.15ドル、出力0.60ドルと低価格に設定されている。同社はオープンウェイトの公開を10月23日に予定しているとされ、ライセンス条件は未公表。",
+      "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    },
+    {
+      "title": "Anthropic・Google・OpenAIが新モデルを準備中とThe Informationが報道",
+      "summary": "The Informationは、主要3社がいずれも次期モデルの投入を準備していると報じた。Anthropicは推論力と「意図の把握」を高めたモデルを用意しており、バグ修正を依頼すると背後にある問題のクラス全体を探すような挙動を示すという。GoogleはGemini 4 Argonの上位となる「Gemini 4 Carbon」を開発中、OpenAIは中位の「Terra」系で数週間内に新モデルを出す見通しとされる。",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4957891",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    },
+    {
+      "title": "OpenCodeが情報流出を公表 利用者のOpenAI・Anthropic・GoogleのAPIキーが漏えい",
+      "summary": "OpenCodeを開発するAnomaly Innovationsは17日、Console利用者の約1.4%に影響する侵害を公表した。外部プロバイダーを連携していた利用者が対象で、廃止作業中だったレガシーシステムに保存されていたOpenAI・Anthropic・GoogleのAPIキーが流出した可能性がある。同社は「大規模な蒸留攻撃に関連する」と説明し、該当利用者にキーの失効と再発行を呼びかけている。",
+      "url": "https://cryptobriefing.com/opencode-distillation-attack-api-key-breach/",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    }
+  ]
+}

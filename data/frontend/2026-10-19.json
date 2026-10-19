@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-19",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Astro 7.4.1 公開 画像キャッシュの更新日時保持やアポストロフィを含むパスの不具合を修正",
+      "summary": "Astro 7.4.1がリリースされ、最適化画像のキャッシュと増分ビルド出力で最終更新日時が保持されるようになった。プロジェクトのパスにアポストロフィが含まれるとセッションやミドルウェアが失敗する問題、親tsconfig.jsonを解決できない場合の`TSCONFIG_ERROR`も修正された。ハイドレートされたアイランド内で条件付きレンダリングしたコンポーネントのスタイルが本番で欠落する問題や、dev中にconfigを編集するとメモリ使用量が増える問題にも対応している。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    },
+    {
+      "title": "oxlint v1.89.0 公開 TypeScriptやReact、Vue 3など多数のルールをrecommended化",
+      "summary": "Rust製リンターのoxlint v1.89.0がリリースされ、TypeScript、ESLint、unicorn、import、React、Vue 3、Next.js、JSDoc、Jest/Vitest系の多くのルールがrecommendedに指定された。prefer-constやsort-vars、no-loop-func、sort-keys、no-varなどの誤検知が修正され、安全でない自動修正も削減されている。静的プロパティ名やメンバー名が孤立サロゲートを保持する破壊的変更も含まれる。",
+      "url": "https://github.com/oxc-project/oxc/releases",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    },
+    {
+      "title": "oxfmt v0.74.0 公開 CSS-in-JSやMarkdown、YAMLなどの整形を幅広く修正",
+      "summary": "フォーマッターのoxfmt v0.74.0が公開され、CSS-in-JS、Markdown、YAML、JSON、JSDoc、TOML、Vueにまたがる整形の不具合が多数修正された。BOMの扱いやコメントの配置、TSInstantiationExpressionの括弧付けを見直し、不正なJSONは受け付けないようになった。`--list-different`が末尾に改行を出力するようになり、コメント処理の高速化と不要な文字列書き換えの削減も行われている。",
+      "url": "https://github.com/oxc-project/oxc/releases",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    },
+    {
+      "title": "Vitest v5.1.0-beta.1 公開 --last-failed や Temporal 対応のフェイクタイマーを追加",
+      "summary": "Vitest v5.1.0のベータ版が公開され、失敗したテストだけを実行する`--last-failed`と`--since-last-run`フラグが追加された。`vi.setSystemTime()`が`Temporal.Instant`と`Temporal.ZonedDateTime`を受け付け、フェイクタイマーが`node:timers`と`node:timers/promise`に対応し、リトライや繰り返しごとの結果も参照できる。ブラウザモードではimport map経由のモジュールモックや実験的な`pointer` API、トレースビューでのariaスナップショットが利用できる。",
+      "url": "https://github.com/vitest-dev/vitest/releases",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    },
+    {
+      "title": "create-vite 9.3.0 公開 可能な範囲でTypeScript v7を採用",
+      "summary": "Viteのプロジェクト生成ツールcreate-viteの9.3.0がリリースされ、可能な場合はテンプレートがTypeScript v7を使うようになった。スキャフォールド前にバージョンを表示する挙動も加わり、TanStack Router/Start向けにルーターのみの選択肢が追加された。内部的には`cross-spawn`を`tinyexec`に、`@vercel/detect-agent`を`std-env`に置き換えている。",
+      "url": "https://github.com/vitejs/vite/releases",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    }
+  ]
+}

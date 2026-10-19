@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-19",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code 2.1.304 公開 mod向けの新API追加とサンドボックス・Code Reviewを改善",
+      "summary": "Claude Codeの2.1.304がリリースされた。tool.checkの判定に許可ダイアログやホストのコールバックだけが承認できる`person`デサイダーと`isReadOnly`を追加し、`/auto-mode-setup`の対応プロバイダーを拡大した。LinuxのdenyReadでのサンドボックス不具合やマウントドライブに対する`rm -r`の安全確認も修正され、Code Reviewにはレビュー深度（Quick/Standard/Deep）とGitHub組織全体を対象にする選択肢が加わった。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    },
+    {
+      "title": "Kiro IDE 1.4.0 公開 セッションをまたいで文脈を保持する「Memory」を追加",
+      "summary": "Kiro IDE 1.4.0がリリースされ、リポジトリの規約や検討して却下した方針などをセッションをまたいで引き継ぐ「Memory」が追加された。長いMarkdown Review文書での検索の信頼性も改善されている。サインイン画面でキャンセルが効かない問題と、Ubuntu 24.04で.debインストール後に起動に失敗する不具合も修正された。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    },
+    {
+      "title": "GitHub、Copilotのモデルポリシーを操作するREST APIを一般提供開始",
+      "summary": "GitHubは19日、Copilotが利用できるモデルを管理するREST APIの一般提供を開始した。管理者はGETとPATCHのエンドポイントで、エンタープライズ・エンタープライズチーム・エンタープライズアプリ・Organizationの4階層のモデルポリシーを読み書きできる。エンタープライズ階層のポリシーでは、モデル選択の権限を個々のOrganizationやチーム・アプリに委ねる設定も可能。",
+      "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    },
+    {
+      "title": "GitHub Copilot、GPT-5.5やGrok 4.5など6モデルの提供を終了",
+      "summary": "GitHubは19日、Copilotの大半の機能でGemini 3.7 Flash、GPT-5.5、GPT-5.4、GPT-5.4 mini、GPT-5 mini、Grok 4.5の6モデルを廃止した。代替としてGemini 3.8 Flash、GPT-6.1 Sol、GPT-6 Luna、Grok 4.7が案内されている。エンタープライズの管理者はモデルポリシーで代替モデルを有効化しないとモデルセレクターに表示されない場合があるため、ワークフローや連携の見直しが必要となる。",
+      "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    },
+    {
+      "title": "CodeQL、macOS 27・Xcode 27・Swift 6.4への対応方針を告知",
+      "summary": "GitHubは、Appleがシステムバイナリからx86_64コードを削除したことにより、Xcode 27ではC/C++、C#、Go、Java、Kotlin、Swiftのトレース抽出が利用できなくなると告知した。Swift 6.4はどのプラットフォームでもCodeQL非対応で、Intel Macのサポートは2026年12月中旬に非推奨となる。Swiftをスキャンする場合はランナーイメージをmacOS 26・Xcode 26以前に固定し、C/C++やC#、Javaはビルドモード`none`への移行が推奨されている。",
+      "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+      "collectedAt": "2026-10-19T23:14:48Z"
+    }
+  ]
+}
