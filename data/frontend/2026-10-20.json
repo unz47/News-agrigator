@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-20",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "TypeScript 7.1 Beta 公開 ES2026対応・source phase importsと最大1.9倍の高速化",
+      "summary": "Microsoftは10月20日にTypeScript 7.1 Betaを公開しました。`--target es2026`/`--lib es2026`の安定化、`import source` 構文、アンビエントモジュールでのimport attributes、Vue/Svelte/Astro/MDXなどの埋め込み形式を検査できるcontentMappers、用途別に整理された新しいプログラムAPIが追加されています。7.0比で約1.2〜1.9倍の高速化とメモリ使用量15〜50%削減も報告され、約1か月後にRCが予定されています。",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
+      "collectedAt": "2026-10-20T23:14:47Z"
+    },
+    {
+      "title": "WebKit、メールアドレスを使う「identity resolution」基盤をドメイン単位でブロック",
+      "summary": "WebKitは、ログインやニュースレター登録で集めたメールアドレスを永続的な追跡IDに紐づける「ポストCookie」型のトラッキング手法に対する新しい防御策を公開しました。iOS/iPadOS/macOS/visionOS 27のSafariとWebKitが、こうしたidentity resolution事業者のインフラへのネットワークアクセスをドメイン単位で遮断します。ファーストパーティによるパーソナライズは引き続き可能で、クロスサイト追跡のみを対象としています。",
+      "url": "https://webkit.org/blog/18438/blocking-identity-resolution-infrastructure/",
+      "collectedAt": "2026-10-20T23:14:47Z"
+    },
+    {
+      "title": "create-vite 9.3.1 公開 TypeScriptをv6に固定しTanStackプロジェクトでViteを使用",
+      "summary": "create-vite 9.3.1が10月20日に公開されました。前日の9.3.0で可能な範囲でTypeScript v7を採用していましたが、本リリースでは一旦v6に固定する修正が入っています。あわせてTanStack向けテンプレートでViteを使うよう修正されました。",
+      "url": "https://github.com/vitejs/vite/releases",
+      "collectedAt": "2026-10-20T23:14:47Z"
+    },
+    {
+      "title": "Angular 22.2.3 公開 プロトタイプ汚染対策の強化とpopoverプロパティバインディング対応",
+      "summary": "Angularはパッチリリース22.2.3を公開し、ルーターのパラメータエンコードとJITに対するプロトタイプ汚染の防御を強化しました。ドット付きクラスバインディング名の扱いや、2つのアプリが同じAPP_IDを共有する場合のinitEventReplayのクラッシュも修正されています。プレリリースの22.3.0-next.2ではpopoverプロパティバインディングのサポートも追加されました。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-10-20T23:14:47Z"
+    },
+    {
+      "title": "Node.js 26.12.0（Current）と24.22.0 LTS 公開 WebSocketマスク処理APIなどを追加",
+      "summary": "Node.js 26.12.0では`http`に`websocketMask()`と`websocketUnmask()`が追加され、WebAssemblyやRXのサポートが欠けている場合に例外を投げるようになりました。LTS系の24.22.0 'Krypton'では`crypto.parsePKCS12()`や汎用MAC API、perf_hooksのHistogram機能が追加されています。",
+      "url": "https://github.com/nodejs/node/releases",
+      "collectedAt": "2026-10-20T23:14:47Z"
+    }
+  ]
+}

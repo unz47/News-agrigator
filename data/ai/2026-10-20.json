@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-20",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、Responses APIで12時間のプロンプトキャッシュを提供開始",
+      "summary": "OpenAIはResponses APIで12時間有効なプロンプトキャッシュを利用できるようにしました。キャッシュ書き込みは入力トークン単価の2.5倍かかる一方、キャッシュされた入力は安価になり、数時間離れたリクエスト間でも共通の指示や文脈を再利用できます。長時間稼働するエージェントのコスト削減につながる変更です。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-10-20T23:14:47Z"
+    },
+    {
+      "title": "PFNと米Tenstorrent、生成AI向けプロセッサを含むシステムを共同開発",
+      "summary": "Preferred Networks（PFN）と米Tenstorrentは10月20日、AIの学習・推論を高性能かつ高効率に実行する生成AI向けプロセッサを含むシステムの共同開発を始めると発表しました。CPUをTenstorrentが、AIプロセッサをPFNが担当し、超高メモリ帯域幅や光電融合技術の実装を目指します。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002438/",
+      "collectedAt": "2026-10-20T23:14:47Z"
+    },
+    {
+      "title": "xAIの常時稼働エージェント「Grok Bot」がiPhoneのアクションボタンに対応",
+      "summary": "xAIは常時稼働エージェントツール「Grok Bot」をiPhoneのアクションボタンから起動できるようにしました。ボタン操作だけで音声会話などをすぐに開始できるため、スマートフォン上でのエージェント利用の敷居が下がります。",
+      "url": "https://itmedia.co.jp/aiplus/article/2610/20/2000002411",
+      "collectedAt": "2026-10-20T23:14:47Z"
+    },
+    {
+      "title": "Anthropic、独立評価機関METRのチームに「従業員並み」のアクセスを付与",
+      "summary": "AnthropicはAIの安全性を評価する独立組織METRのチームに対し、社内の従業員と同等レベルのアクセスを与える取り組みを発表しました。評価結果の公表についてAnthropic側は拒否権を持たない形とし、外部からの検証可能性を高める狙いです。",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "collectedAt": "2026-10-20T23:14:47Z"
+    },
+    {
+      "title": "Anthropic、シンガポールにオフィスを開設し政府とMOUを締結",
+      "summary": "Anthropicはシンガポールにオフィスを開設し、シンガポール政府との間で覚書（MOU）を締結したと発表しました。アジア太平洋地域での事業と公共部門での活用拡大を見据えた動きです。",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "collectedAt": "2026-10-20T23:14:47Z"
+    }
+  ]
+}
