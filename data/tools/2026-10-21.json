@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-21",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code 2.1.307 公開 APIバージョン移行コマンドと安全性イベントのテレメトリを追加",
+      "summary": "Claude Code 2.1.307がリリースされ、Claude APIのコードをAPIバージョン2026-10-21へ移行する /claude-api api-version が追加された。権限ルールやサンドボックス、フックがツール呼び出しを止めた際に記録する claude_code.safety_event というOpenTelemetryイベントも新設。Code Reviewでは @claude review stop でPRの常時レビュー購読を解除できるようになった。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    },
+    {
+      "title": "GitHub CLI、自動更新される有効期限付きOAuthトークンをパブリックプレビューで提供",
+      "summary": "GitHub CLI v2.103.0から、短命なアクセストークンとローテーションするリフレッシュトークンを使う方式をオプトインで選べるようになった。gh auth login --expiring または gh config set expiring_credentials enabled で有効化でき、トークンが漏えいしても数時間で無効になる。トークンを一度保存して使い回すスクリプトは毎回 gh auth token を呼ぶ必要がある。",
+      "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    },
+    {
+      "title": "Kiro CLI 2.33.0 公開 V3セッションにワークスペース信頼の確認を追加",
+      "summary": "Kiro CLI 2.33.0では、対話型のV3セッションにワークスペース信頼(workspace trust)が導入され、フォルダのフックやエージェント、MCPサーバーなどの設定を読み込む前に確認を求めるようになった。V3セッションでのモデルフォールバック設定の復活、ワークフローのプランステップツリー、Mermaidのサブグラフ対応も含まれる。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    },
+    {
+      "title": "VS Code 1.143 公開 Copilotハーネスを新規セッションの既定に",
+      "summary": "VS Code 1.143では、Copilotハーネスが新規セッションの既定となり、セッションをバックグラウンドで実行してエディタやAgentsウィンドウから参照できるようになった。複数モデルで同じタスクを走らせて結果を比較・統合するCompare models(プレビュー)や、GPUが必要なオンデバイスモデルMAI Code 1.1 Flash、未使用のエージェントワークツリーを削除してディスクを回収する機能(実験的)も追加されている。",
+      "url": "https://code.visualstudio.com/updates/v1_143",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    },
+    {
+      "title": "GitHub、シークレットスキャニングを更新 トークン失効対応の拡大と監査ログの仕様変更を予告",
+      "summary": "GitHubはシークレットスキャニングの改善を公開した。パブリックプレビューの失効アクションがクラシック/ファイングレインドPATやOAuthトークンなどエンコード済みGitHubトークンに対応し、プライベート・内部リポジトリでも利用できる。また2026年11月12日から監査ログイベントの business フィールドがEnterpriseの表示名からスラッグに変わるため、表示名でフィルタしている連携は business_id への切り替えが必要となる。",
+      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    }
+  ]
+}

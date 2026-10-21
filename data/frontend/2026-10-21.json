@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-21",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Node.js、10件の脆弱性を修正するセキュリティリリース v26.12.1 / v24.22.1 / v22.23.4 を公開",
+      "summary": "Node.jsプロジェクトは10月のセキュリティリリースを公開し、重要度HIGHが4件を含む計10件の脆弱性を修正した。Brotliデコーダの境界外書き込みによるリモートコード実行(CVE-2026-111497)や、全角数字のIPアドレスによるTLS証明書ホスト名検証のバイパスなどが含まれる。c-ares・OpenSSL・SQLite・Undiciの更新や、侵害されたeMudhra中間CA証明書の除去も行われた。",
+      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    },
+    {
+      "title": "Vite 8.3.5 公開 chunk import map の不具合やHMR伝播の問題を修正",
+      "summary": "Viteの最新パッチ8.3.5がリリースされた。chunk import mapが欠落するケースへの対応やpreload依存のハッシュ計算への取り込み、bundled-devでのHMR伝播停止や文字化け対策などビルド・開発サーバ周りの修正が中心となる。内部のLintもOxlintへ移行した。",
+      "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    },
+    {
+      "title": "Vite 6.4.5 公開 server.fs のパス検査をクエリ除去後にも適用",
+      "summary": "保守中のVite 6系にもパッチ6.4.5が公開された。クエリ文字列を取り除いた後にも server.fs の許可パス検査を行うよう修正し、ファイルアクセス制限が回避されうる問題に対処している。8系と同日のリリースとなった。",
+      "url": "https://github.com/vitejs/vite/blob/v6/packages/vite/CHANGELOG.md",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    },
+    {
+      "title": "Astro 7.4.2 公開 コンテンツ同期を大幅高速化し最低Node.jsバージョンを引き上げ",
+      "summary": "Astro 7.4.2では experimental.collectionStorage: \"chunked\" のコンテンツ同期処理を見直し、約4万4000件のストアでチャンク処理が約60秒から1秒未満に短縮された。10月のNode.jsセキュリティリリースを受けて最低サポートバージョンを22.23.4へ引き上げたほか、開発サーバーのロックファイル誤判定やVueのスコープ付きCSSが反映されない問題なども修正している。",
+      "url": "https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    },
+    {
+      "title": "Storybook 10.6.3 公開 Vitest 5 対応と Next.js 16.4 のモッククラッシュを修正",
+      "summary": "Storybook 10.6.3がリリースされ、Addon VitestがVitest 5をサポートした。Next.js 16.4でapp routerのモックがクラッシュする不具合の修正や、Nextjs-Viteでのapp routerモックへの parentRenderTree.bfcacheId の提供などが含まれる。",
+      "url": "https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    }
+  ]
+}

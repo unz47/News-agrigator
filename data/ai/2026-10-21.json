@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-21",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、能動的に動くエージェント型アプリ「Claude Duet」をリサーチプレビュー公開",
+      "summary": "Anthropicは、Claudeがプロアクティブなエージェントとして振る舞う新アプリ「Claude Duet」のリサーチプレビューを開始した。ProプランとMaxプランの利用者が試用できる。ユーザーの指示を待つ従来型のチャットとは異なり、Claudeが自ら作業を進める形を目指す。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    },
+    {
+      "title": "Anthropic、物理学者クリストファー・スタッブス氏をLong-Term Benefit Trustの理事に迎える",
+      "summary": "Anthropicは、ハーバード大学の元理学部長で実験物理学者のクリストファー・スタッブス氏がLong-Term Benefit Trust(LTBT)の理事に就任したと発表した。LTBTは独立した理事がAnthropicの取締役の過半数を任命できる仕組みで、商業的成長と公益使命のバランスを取る役割を担う。同氏は宇宙膨張の加速の発見やVera C. Rubin天文台の初代プロジェクトサイエンティストとして知られる。",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    },
+    {
+      "title": "OpenAI、プロジェクト単位でサービスティアを選択できる設定を追加",
+      "summary": "OpenAIはAPIのPlatform設定で、プロジェクトごとに使用するサービスティアを選べるようにした。組織設定からは全プロジェクトに対して利用可能なティアを制限することもできる。用途に応じてレイテンシやコストの異なるティアを使い分けやすくなる。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    },
+    {
+      "title": "Anthropic、株式の5%を拠出する「Public Benefit Fund」を設立へ",
+      "summary": "Anthropicは、自社株の一部を公益目的で保有する完全子会社「Anthropic Public Benefit Fund」の設立を発表した。株主承認を前提に株式の5%を拠出し、企業価値が基準から50%上昇するごとに最大2%を追加できる設計で、創業者・従業員の既存拠出と合わせると約20%が公益に充てられる。AIによる労働市場への影響などが重点分野で、ロビー活動や政治献金には用いない。",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "collectedAt": "2026-10-21T23:14:34Z"
+    }
+  ]
+}
