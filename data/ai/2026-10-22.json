@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-22",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、「Agent Skills」をLinux Foundation傘下のAgentic AI Foundationに寄贈",
+      "summary": "AnthropicはAIエージェントに専門知識やワークフローを与えるオープン標準「Agent Skills」を、Linux Foundation傘下のAgentic AI Foundation(AAIF)に寄贈すると発表した。名称とロゴ、GitHub組織、agentskills.ioドメインを譲渡し、Anthropic・Google・OpenAIなどのエンジニアが個人の立場で標準を維持する。2025年12月の公開以降、ChatGPTやCursor、GitHub Copilot、VS Codeなど70以上のエージェント基盤が採用し、約100万のスキルが公開され約2億8000万件インストールされている。",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    },
+    {
+      "title": "Anthropic、ライフサイエンス分野の「ゲスト研究者」を公募",
+      "summary": "Anthropicは大学・非営利機関・政府研究所の研究代表者や研究グループを対象に、Claudeを使った特別プロジェクトの公募を開始した。ヒト生物学の因果推論、構造・計算分子生物学、創薬化学、臨床科学などが対象で、選ばれたチームは8〜12週間Anthropicの研究者と共同で作業し、モデルやハーネスの実行費用は無償となる。成果は公開され、データとコードもオープンソース化される方針で、応募期間は約14日間。",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    },
+    {
+      "title": "OpenAI、Decisions APIを「gpt-6-luna」で一般提供開始",
+      "summary": "OpenAIはDecisions APIをgpt-6-lunaとともに一般提供に移行した。共有入力のプロンプトキャッシュ、質問ごとの指示への画像添付、構造化データ向けの`input_json`に対応し、1リクエストあたりの質問数は従来のベータ版の200件から400件まで拡大された。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    },
+    {
+      "title": "OpenAI、PHPの重大脆弱性で協調的開示の枠組み「Patch the Planet」の成果を公表",
+      "summary": "OpenAIは、GPT-5.6 Solを使ってCalif社が発見したPHPの重大な脆弱性2件について、メンテナーや研究者、セキュリティ企業、政府機関と連携した協調的開示の経緯を公表した。検証・事前準備・政府との調整・下流での更新・展開支援からなる5段階の対応フレームワークを提案し、修正公開前に防御側が備える「Defender's Window」を確保したとしている。修正版はPHP 8.5.12、8.4.27、8.3.36、8.2.35。",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    },
+    {
+      "title": "OpenAIのフロンティアモデルとCodexがGoogle CloudのModel Gardenで提供へ",
+      "summary": "OpenAIとGoogle Cloudは提携し、OpenAIのフロンティアモデルとCodexのエージェント型ワークフローをGoogle CloudのModel Gardenで提供すると発表した。購入はGoogle Cloud Marketplace経由で、既存のGCP利用コミットメントを充当できる。一般提供は数週間以内の予定で、Google AntigravityやGemini Agentでも近日利用可能になるとしている。",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-22",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code 2.1.309 公開 サンドボックスと権限チェックの不具合を多数修正",
+      "summary": "Claude Code 2.1.309が公開され、macOS/Linuxでサンドボックス内のBashコマンドが起動ファイルをサンドボックス外で実行していた問題や、`--mcp-config`で渡したMCP設定ファイルが書き換えられる問題を修正した。worktree分離セッションのガード強化、巨大なネストCLAUDE.md読み込み後の繰り返し圧縮の修正、PRやIssueでロール名やプレースホルダーをメンションとして書き無関係なGitHubユーザーに通知してしまう問題の修正も含まれる。直前の2.1.308はバグ修正と信頼性改善のリリースだった。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    },
+    {
+      "title": "GitHub、Copilot利用メトリクスAPIでカスタムスキル・エージェント・MCPサーバー名を表示",
+      "summary": "GitHubはCopilotの利用メトリクスで、利用者が作成したスキル、カスタムエージェント、MCPサーバー、スラッシュコマンド、プラグインの設定名を表示するようにした。従来は「other」「custom」といった汎用ラベルにまとめられていた。各カテゴリの一覧は1レコードあたり5件から25件に拡大され、名前はCopilot CLIやGitHub Copilotアプリ、JetBrainsなどのACP連携、Copilot SDKから取得される。",
+      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    },
+    {
+      "title": "GitHub、Copilotの新機能に対する既定ポリシーを一般提供開始",
+      "summary": "GitHubはCopilot BusinessとEnterpriseで、一般提供済みのCopilot機能に適用されるグローバル既定ポリシーの展開を始めた。管理者が明示的に設定していない対象機能は「有効」「無効」「組織に判断を委ねる」のいずれかの既定値に従う。適用は10月26日までに順次行われ、既に明示設定された項目は保持され、プレビュー機能はオプトインのまま維持される。",
+      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    },
+    {
+      "title": "GitHub、プルリクエストの空白差分設定を保存可能に 分割ビューも改善",
+      "summary": "GitHubはプルリクエストの差分表示で、空白文字の表示設定を「常に表示」「常に非表示」「この差分のみ非表示」から選んで保存できるようにした。設定は個人単位でプルリクエストをまたいで引き継がれ、非表示時には一時的に表示を切り替えるフィルターが現れる。また分割ビューで新規ファイルと削除ファイルが2カラム幅に広がり、行の折り返しが減ってレビューしやすくなった。",
+      "url": "https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    },
+    {
+      "title": "GitHub、Copilot影響ダッシュボードに同業他社との比較機能を追加",
+      "summary": "GitHubはCopilot impact dashboardに、参加企業の集計データと自社のエージェント活用状況を比較できる「Industry comparison」セクションを追加した。エージェントを主に使う利用者や複数エージェント利用者の割合、エージェント利用者のPRマージ率などを28日間でピア中央値や上位10%と比較できる。オプトイン方式で既定は無効、ベンチマークデータは識別情報を含まず30日で削除される。",
+      "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-22",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Safari Technology Preview 255 公開 CSSのline-clampやグリッドのバグを多数修正",
+      "summary": "WebKitはSafari Technology Preview 255を公開した。CSSではline-clamp、グリッドレイアウト、テキストオーバーフロー、フロートに関する修正が中心で、getComputedStyle()の結果やテーブルのbox-sizingも改善された。Web Inspectorにはキーフレームアニメーションエディタやスタックトレースのポップオーバー、WGSLのシンタックスハイライトが加わり、Web APIではcross-origin-isolated権限ポリシーとAudioWorkletへのストリーム転送に対応した。",
+      "url": "https://webkit.org/blog/18482/release-notes-for-safari-technology-preview-255/",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    },
+    {
+      "title": "Biome 2.6.2 公開 YAMLのフォーマットに対応しStylelint設定の移行コマンドを追加",
+      "summary": "Biome 2.6.2が公開され、.yaml/.yml 両方の拡張子を対象にYAMLファイルのフォーマットをサポートした。Stylelintの設定とignore設定をBiome設定に取り込む`biome migrate stylelint`コマンド、解決後の設定値とその由来を診断として表示する`biome inspect config`も追加された。GraphQLの定義を並べ替えるアシストアクション`useGraphqlSortedDefinitions`や、HTML系ファイルでの`useTailwindSortedClasses`対応も入っている。",
+      "url": "https://github.com/biomejs/biome/blob/main/packages/%40biomejs/biome/CHANGELOG.md",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    },
+    {
+      "title": "pnpm 12.15.0 公開 設定ファイルの分割とtar整合性チェックに対応",
+      "summary": "pnpm 12.15.0が公開され、pnpm-workspace.yamlが新しい`include`フィールドで他のYAMLファイルや設定依存に設定を委譲できるようになった。`lockfile.integrityTarget: tar`により非圧縮tarのハッシュを固定し、レジストリが再圧縮してもロックファイルが変わらなくなる。レジストリが要求とは別パッケージのメタデータを返した場合にERR_PNPM_REGISTRY_NAME_MISMATCHで失敗する安全策や、macOSでのファイルリンク高速化も含まれる。",
+      "url": "https://github.com/pnpm/pnpm/releases",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    },
+    {
+      "title": "Rolldown 1.2.15 公開 プラグイン間のthis.resolve再帰やVite連携の不具合を修正",
+      "summary": "Rolldown 1.2.15が公開され、`skipSelf: true`を指定したプラグイン間で`this.resolve`が再帰する問題を修正した。vite-resolveプラグインにはbrowser-externalスタブ形式を選ぶ`isBundled`が追加され、`ssr.target: 'webworker'`での外部`require`の扱いも改善された。モジュールの開始位置を`#region`ペアではなく`// <id>`コメントで示すようになり、内部のoxcは0.155.0に更新された。",
+      "url": "https://github.com/rolldown/rolldown/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    },
+    {
+      "title": "Turborepo 2.11.10 公開 キャッシュのハッシュ計算やWindowsでのハング問題を修正",
+      "summary": "Turborepo 2.11.10が公開され、ルートタスクで非再帰のturboコマンドを許可し、Windowsでpnpmシムの終了時にハングする問題を解消した。バイナリファイル検出やglobalEnvが推論済み環境変数を除外した場合のハッシュ保持など、キャッシュのハッシュ計算も修正されている。pnpm 8の単一プロジェクトlockfileの解析や、出力が既に存在する場合のキャッシュされたシンボリックリンクの復元にも対応した。",
+      "url": "https://github.com/vercel/turborepo/releases",
+      "collectedAt": "2026-10-22T23:16:06Z"
+    }
+  ]
+}
