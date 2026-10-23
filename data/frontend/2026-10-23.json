@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-23",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "WebKit、Safari 27.1の新機能を公開 折りたたみ端末向けAPIをプレビュー提供",
+      "summary": "WebKitはSafari 27.1で追加されるWeb機能を公開した。iPhone Duoなど折りたたみ端末向けに、画面が折れているかを示すDevice Posture APIと、折り目の両側の表示領域を記述するViewport Segments APIをプレビュー提供する。device-postureメディアクエリやviewport-segment-*環境変数、window.viewport.segmentsが使え、いずれも詳細設定のフィーチャーフラグで有効化する必要がある。",
+      "url": "https://webkit.org/blog/18486/webkit-features-for-safari-27-1/",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    },
+    {
+      "title": "Vue 3.6.0-rc.13 公開 Vaporのトランジション修正とinterop部分のツリーシェイキング",
+      "summary": "Vue 3.6.0-rc.13が公開され、Vaporスロットの行をvdomのTransitionGroupの子としてトランジションできるようになった。Vaporコンパイラのv-else-if連鎖のフラット化やforeign contentの解析、ハイドレーションやkeyed v-forのref周りなど多数のバグが修正された。vaporInteropPlugin未使用時のinteropコードや、Transition/KeepAlive/Suspense未使用時のinteropコードがツリーシェイクされる性能改善も入っている。",
+      "url": "https://github.com/vuejs/core/releases/tag/v3.6.0-rc.13",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    },
+    {
+      "title": "Storybook v11.0.0-alpha.8 公開 csf-toolsをBabelからOXCへ移行",
+      "summary": "Storybook v11の8本目のアルファが公開された。CSFのcsf-toolsがBabelからOXCへ移行し、SvelteではCSFファイル内のpreview.meta()対応とdefinePreviewによるCSFファクトリーが追加された。AngularはIvy宣言からコンポーネントのメタデータを読むようになり、Web ComponentsやReactレンダラー（Vitestブラウザーモードでのreact解決）の不具合も修正されている。",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v11.0.0-alpha.8",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    },
+    {
+      "title": "Deno v2.9.8 公開 eMudhra発行の認証局を不信化しパーミッション検査を強化",
+      "summary": "Deno v2.9.8がリリースされ、侵害が報じられたeMudhra発行の認証局を不信化した。動的にインポートされたローカルファイルについてコンパイル時にも読み取り権限を検査するよう変更され、napi_create_dataviewのオーバーフロー境界チェックも追加された。Node.js互換ではX.509v1証明書の扱いをOpenSSLに合わせ、mock.reset()がmock.method()の実装を復元するようになった。",
+      "url": "https://github.com/denoland/deno/releases/tag/v2.9.8",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    },
+    {
+      "title": "pnpm 11.28.8 公開 スタンドアロン版の同梱Node.jsを26.12.1に更新",
+      "summary": "pnpm 11.28.8がリリースされ、@pnpm/exeのスタンドアロンパッケージが同梱するランタイムをNode.js 26.0.0から26.12.1へ更新した。旧ランタイムはNode.jsが既に不信化した一部の中間認証局を信頼していたため、スタンドアロン版pnpmがそれらの発行したTLS証明書を受け入れてしまう問題があった。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.28.8",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    }
+  ]
+}

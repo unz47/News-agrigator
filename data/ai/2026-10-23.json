@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-23",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Meta、パーソナルAIエージェント「Muse」を日本で提供開始",
+      "summary": "Metaは23日、パーソナルAIエージェント「Muse」の日本提供を開始した。9月に先行提供した北米以外では初の提供地域となる。専用の仮想マシン上で動作し、GmailやGoogleカレンダー、Instagramなどと連携する「コネクター」を通じてタスクを実行でき、無料プランも用意されている。",
+      "url": "https://about.fb.com/ja/news/2026/10/muse-personal-ai-agent-launches-in-japan/",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    },
+    {
+      "title": "Moonshot AI、「Kimi K3.1 Pro」を発表 金融調査とコーディング性能を強化",
+      "summary": "中国のMoonshot AI（月之暗面）は23日、新モデル「Kimi K3.1 Pro」を発表した。同社が「DeepSeekモーメント」と呼ばれる注目を集めて以来、初の大型アップグレードとなる。金融リサーチとコーディングの性能を大きく高めたほか、3Dモデリング能力も向上し、ゲームデザインのような用途に適するとしている。",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/moonshot-debuts-first-ai-upgrade-since-its-own-deepseek-moment",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    },
+    {
+      "title": "デジタル庁、ガバメントAI「源内」でAIエージェント環境の提供を開始 「源内基準」も公表",
+      "summary": "デジタル庁はガバメントAI「源内」において、AIエージェントの利用環境の提供を開始した。手軽にエージェントを作成・実行できる「エージェントチャット」を各府省庁へ順次導入し、高度なエージェントを構築する「源内工房」は2026年12月頃までの導入を目指す。対象は全府省庁の約18万人の職員で、利用者・管理者・開発者の責務を定めた安全基準「源内基準」もAIセーフティ・インスティテュートの協力を得て公表された。",
+      "url": "https://www.digital.go.jp/policies/genai/agent-safety-standard",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    },
+    {
+      "title": "Uber、全社員に「ChatGPT Work」を展開 OpenAIと協業",
+      "summary": "OpenAIは22日、Uberが全社員に向けて「ChatGPT Work」の展開を開始したと発表した。3万人超の従業員がChatGPT Enterprise内でエージェントに幅広い業務を任せられるようになり、既定モデルにはGPT-6.1 Solが使われる。大企業における全社規模のエージェント導入事例として位置づけられている。",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    },
+    {
+      "title": "ElevenLabs、音声をその場で90以上の言語に通訳する「Eleven Realtime Translation」をアルファ公開",
+      "summary": "ElevenLabsはライブ音声翻訳モデル「Eleven Realtime Translation」を、ElevenAPIの企業顧客向けアルファとして公開した。低遅延の音声モデル「Eleven v4 Turbo」を既定で用い、90以上の言語を自動言語検出付きで扱う。話者それぞれが自分の言語で話し相手の言語で聞ける仕組みで、ドイツテレコムが通話アシスタント機能の構築に採用している。",
+      "url": "https://elevenlabs.io/blog/realtime-translation",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    }
+  ]
+}

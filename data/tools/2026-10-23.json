@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-23",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "OpenAI、Codex CLI 0.164.0を安定版として公開 再利用可能なプリセットを追加",
+      "summary": "Codex CLI 0.164.0が安定版として公開された。よく使うプロンプトやスラッシュコマンドを10個の番号付きスロットに保存できる再利用可能なプリセットが追加され、/modelと/permissionsはモデルや推論の努力度、権限をインライン引数で指定できる。KittyやSixelに対応した端末での画像プレビュー、エンタープライズMCP接続の認証、リモートBash/Zshセッションでの資格情報マスキングも入った。",
+      "url": "https://github.com/openai/codex/releases",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    },
+    {
+      "title": "GitHub、Microsoft Teams向けアプリを統合 通知スレッドからCopilotにコード作成を依頼可能に",
+      "summary": "GitHubはMicrosoft Teams向けアプリを統合し、従来の「GitHub notifications」を置き換えた。チャンネルやグループチャットに届いた通知にリプライしてGitHubをメンションすると、Copilotが関連するissueやPR、スレッドの会話を踏まえてバグ再現・テスト実行・修正を行い、レビュー用のプルリクエストを作成する。旧アプリは「GitHub (deprecated)」に改称され11月16日に廃止されるため、利用には新アプリのインストールが必要となる。",
+      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    },
+    {
+      "title": "GitHub Appsのエンタープライズインストールが一般提供開始 classic PATからの移行が可能に",
+      "summary": "GitHubはGitHub Appsのエンタープライズ単位でのインストールを一般提供開始した。エンタープライズ管理者が組織横断でアプリを導入でき、自動化をclassic PATからGitHub Appsへ置き換えられる。リポジトリポリシーやルールセットの管理、二要素認証の要件設定、ドメイン検証、IP許可リスト、メンバー権限の管理といったガバナンス・セキュリティ・管理向けの権限とAPIが追加され、GHES 3.24でも利用できる。",
+      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    },
+    {
+      "title": "Kiro IDE 1.4.26 公開 ワークフローの起動頻度を選べる設定を追加",
+      "summary": "Kiro IDE 1.4.26が公開され、チャットでKiroがワークフローを開始する頻度を指定する「Use workflows」設定が追加された。導入済みPowersのIDEおよびCLIをまたいだ信頼性が改善され、Memory設定の既定値はオフとなった。ターミナルや製品内フィードバックの挙動も改善されている。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    },
+    {
+      "title": "Kiro、Claude Fable 5.1とSonnet 5.5、GPT-5.6 Terra/Lunaを一般提供に移行",
+      "summary": "Kiroは Claude Fable 5.1、Claude Sonnet 5.5、GPT-5.6 Terra、GPT-5.6 Luna の4モデルを一般提供（GA）に移行した。キャパシティが拡張され、本番ワークロードでのアクセスの安定性が高まるとしている。Fable 5.1のPreviewラベルとSonnet 5.5・Terra・LunaのExperimentalラベルは外れ、GPT-5.6 SolはExperimentalのまま。反映にはIDEやCLIの再起動が必要となる。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-23T23:17:17Z"
+    }
+  ]
+}
