@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-24",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Biome 2.6.3 公開 約30個のnurseryルールを追加しフォーマッタの不具合を修正",
+      "summary": "Biome CLI v2.6.3が公開され、noArraySortForMinMaxやnoEagerArrayMethodsInLoops、noUnsafeReturnなど約30個のnursery lintルールが追加された。Vue向け(noVueWatchAfterAwaitなど)やTanStack Query、Svelte、React Native向けのチェックも加わり、ESLint移行はreact/self-closing-compなどに対応。JS/TSフォーマッタがインスタンス化式の括弧を保持するようになり、CSSのuseSortedPropertiesが@keyframes内も並べ替えるなど多数の修正が入った。",
+      "url": "https://github.com/biomejs/biome/releases/tag/%40biomejs%2Fbiome%402.6.3",
+      "collectedAt": "2026-10-24T23:15:54Z"
+    },
+    {
+      "title": "Nx 24.0.0 公開 devサーバーの待機を既定化しAngular v22.2に対応",
+      "summary": "モノレポビルドツールのNx 24.0.0がリリースされ、devサーバーが既定で起動完了を待つようになり(準備完了のタイムアウトは10分)、nx affectedが既定で影響のあるタスクを選択するようになった。Angular v22.2対応やrolldownプラグインの追加、@nx/gradleへの統合も含まれる。破壊的変更としてNx Module Federationの公式プラグインへの移管、Remix向けジェネレーター/エグゼキューターの削除、@nx/angularのSCAMジェネレーター削除などがある。23日には多数のバグ修正を含む24.0.1も公開された。",
+      "url": "https://github.com/nrwl/nx/releases/tag/24.0.0",
+      "collectedAt": "2026-10-24T23:15:54Z"
+    },
+    {
+      "title": "Electron 46.0.0-alpha.1 公開 Chromium 158を同梱しsafeStorageの同期APIを削除",
+      "summary": "Electron 46系の最初のアルファ版が公開され、Chromium 158.0.8114.0とNode.js v24.22.1を同梱する。破壊的変更として非推奨だったsafeStorageの同期メソッドの削除、サンドボックス化されたpreloadスクリプトからのevents/timers/urlモジュールの削除、utilityProcessのchild.kill()がPOSIXでSIGTERMを送るようになる変更が含まれる。実験的なWidevine CDMサポートやprotocol.registerSource()、Linuxでの通知アクションボタンなども追加された。",
+      "url": "https://github.com/electron/electron/releases/tag/v46.0.0-alpha.1",
+      "collectedAt": "2026-10-24T23:15:54Z"
+    },
+    {
+      "title": "Rspack 2.3.0-beta.1 公開 ローダーオプションfilter.codeをcodeFilterに改名",
+      "summary": "Rspack 2.3.0-beta.1が公開され、2.3.0-beta.0で導入されたローダーオプションfilter.codeがcodeFilterへ改名される破壊的変更が入った。node_modules内の解決でパッケージディレクトリを優先するパフォーマンス改善や、Node.jsのHMRにおけるhot updateチャンクのパス解決の修正、splitChunksのリクエスト上限をcacheGroupsが継承するようになる修正も含まれる。",
+      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v2.3.0-beta.1",
+      "collectedAt": "2026-10-24T23:15:54Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-24",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code 2.1.310 公開 Monitorツールの対応拡大とゲートウェイ互換性を改善",
+      "summary": "Claude Code 2.1.310が公開され、MonitorツールがBedrock・Vertex・Foundry、およびテレメトリを無効化したセッションでも利用できるようになった。beta値や会話中のsystemメッセージを拒否する一部ゲートウェイでリクエストが失敗する問題を、それらを外して再試行する形で修正。cleanupPeriodDaysが極端に大きい場合に最近のファイルが削除される不具合や、「prompt too long」後のコンパクション挙動も修正され、クラウドセッション向けのカスタムロールやセットアップスクリプトのファイルピッカーも追加された。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-24T23:15:54Z"
+    },
+    {
+      "title": "Kiro、Claude Haiku 5.5を実験的サポートで追加 コンテキストは100万トークン",
+      "summary": "Kiroは10月23日、Claude Haiku 5.5をIDE・CLI・Crew・Webで実験的サポートとして追加したと発表した。コンテキストウィンドウは100万トークンに対応する。同社は10月21日にClaude Fable 5.1・Claude Sonnet 5.5・GPT-5.6 Terra/Lunaを一般提供へ移行しており、モデル選択肢の拡充が続いている。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-24T23:15:54Z"
+    },
+    {
+      "title": "Kiro CLI 2.34.0 公開 ローカルV3セッションでMCPツールが入力を要求可能に",
+      "summary": "Kiro CLI 2.34.0が10月23日に公開され、ローカルのV3セッションでMCPツールがユーザーに入力を求められるようになった。Workflowの制御オプションも拡張され、/memoriesコマンドから記憶を削除できるようになっている。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-24T23:15:54Z"
+    },
+    {
+      "title": "GitHub、Copilot利用メトリクスAPIにtotals_by_clientを追加 OpenCodeなどの利用も計測",
+      "summary": "GitHubはCopilot利用メトリクスAPIを更新し、エンタープライズ・組織・ユーザー各レベルのレポート(1日版/28日版)にtotals_by_client配列を追加した。OpenCodeやClaude Code、Codex、VS Codeといったクライアント単位で、成功リクエスト数・セッション数・プロンプト/出力トークン量をモデルと選択モード別に取得できる。エディタのテレメトリを送らないIDE外ツールの利用がtotals_by_ideから漏れていた問題を、サーバー側でリクエストを数えることで解消する。",
+      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "collectedAt": "2026-10-24T23:15:54Z"
+    },
+    {
+      "title": "GitHubのパブリック監視、アラートのトリアージと有効性チェック・REST API/Webhookに対応",
+      "summary": "パブリックリポジトリで漏えいしたシークレットを検出してエンタープライズに紐付ける「public monitoring」が機能強化された。セキュリティチームはアラートの却下や修正済みマーク、コメント追加、再オープン、リポジトリや委任者・シークレット種別などでの絞り込みができる。対応プロバイダーではトークンが有効かを継続的に確認でき、紐付けられた検出結果を取得するRESTエンドポイントと新規漏えい時のエンタープライズレベルWebhookも追加された。GitHub Enterprise Cloud向けのパブリックプレビューとして提供される。",
+      "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+      "collectedAt": "2026-10-24T23:15:54Z"
+    }
+  ]
+}
