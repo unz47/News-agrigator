@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-25",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "pnpm 10.34.9 公開 新規ロックファイルに packageManager のpnpmバージョンを記録",
+      "summary": "pnpm 10.34.9がリリースされた。新しく生成される pnpm-lock.yaml に package.json の packageManager で固定したpnpmバージョンが記録されるようになり、その後の --frozen-lockfile インストールが失敗しなくなる。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.34.9",
+      "collectedAt": "2026-10-25T23:15:00Z"
+    },
+    {
+      "title": "pnpm 10.34.8 公開 frozen install時のhoist再計算と同梱Node.jsの更新",
+      "summary": "pnpm 10.34.8では3件の修正が入った。frozen install でもhoistされた依存関係が再計算されるようになり、パッケージディレクトリ削除前にbinシムが掃除される。スタンドアロンビルドの同梱Node.jsは、サポートが終了したNode 20からNode.js 24.22.1に更新された。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.34.8",
+      "collectedAt": "2026-10-25T23:15:00Z"
+    },
+    {
+      "title": "Next.js v16.5.0-canary.27 公開 インラインFlightスクリプトをReactの文字列から生成",
+      "summary": "Next.js 16.5のcanary.27では、インラインFlightスクリプトを再エンコードせずReactの文字列からそのまま生成するよう変更された。NFSなどロックファイルのサポートが限られるファイルシステムでのdistディレクトリのロック不具合も修正され、Turbopackと永続化処理の性能改善も含まれる。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.5.0-canary.27",
+      "collectedAt": "2026-10-25T23:15:00Z"
+    },
+    {
+      "title": "Next.js 16.4.3 公開 拡張子なしGoogle FontsのURLやOpenTelemetryのトレース分断を修正",
+      "summary": "安定版への backport リリースとしてNext.js 16.4.3が公開された。拡張子のないGoogle FontsのURLを修正し、proxy.ts でapp-pageランタイムを読み込まないようにした。OpenTelemetryのリクエストトレースが分断されない修正と、Turbopackのローダー無効化変更の巻き戻しも含む。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.3",
+      "collectedAt": "2026-10-25T23:15:00Z"
+    },
+    {
+      "title": "@cloudflare/vite-plugin 1.65.0 公開 experimental.newConfig を削除しWrangler設定のみに",
+      "summary": "Cloudflareのviteプラグイン v1.65.0 では、v1系から experimental.newConfig オプションが削除され、設定はWranglerの設定ファイルのみのサポートとなった。Bun環境で未対応のリモートバインディングを報告するようになり、Container のセットアップ案内の修正、ローカルWorkersランタイムの更新、リモートプレビュートークン更新のリトライ追加も行われた。",
+      "url": "https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare%2Fvite-plugin%401.65.0",
+      "collectedAt": "2026-10-25T23:15:00Z"
+    }
+  ]
+}

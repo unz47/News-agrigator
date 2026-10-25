@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-25",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Gemini CLI、models コマンドと --list-models フラグを追加 キャンセル後の処理も修正",
+      "summary": "Gemini CLIのnightly(v0.67.0-nightly.20261024)で、利用可能なモデルを一覧できる models コマンドと --list-models フラグが追加された。リクエストのキャンセル後に継続ストリームの処理や自動nudgeが止まるよう修正され、相対パスはIDEのワークスペースルート基準で解決されるようになった。Claudeのhookタイムアウトは移行時に秒からミリ秒へ変換される。",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261024.gcd1b45c2d",
+      "collectedAt": "2026-10-25T23:15:00Z"
+    },
+    {
+      "title": "Block、AIエージェント「goose」v1.56.0 を公開 thinkingレベルの自動選択とサブエージェント再開",
+      "summary": "goose v1.56.0では思考レベル(thinking level)の自動選択が入り、失敗・キャンセルしたサブエージェントの再開やUIからのサブエージェントセッション閲覧、同時実行数の上限設定に対応した。デスクトップ版にWindows向けNSISインストーラが追加され、コードモードはPCTXからBoa JavaScriptランタイムへ切り替わった。",
+      "url": "https://github.com/block/goose/releases/tag/v1.56.0",
+      "collectedAt": "2026-10-25T23:15:00Z"
+    },
+    {
+      "title": "Zed v1.26.1-pre 公開 Pyrefly を任意のPython言語サーバーとして追加",
+      "summary": "Zedのプレビュー版 v1.26.1-pre では、Pythonの言語サーバーとして Pyrefly を任意で選べるようになった。デバッガのホバーで変数ツリーを展開できるようになり、JavaScriptデバッガはWebAssemblyのDWARFデバッグに対応した。AI機能やGit周りの修正も多数含まれる。",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v1.26.1-pre",
+      "collectedAt": "2026-10-25T23:15:00Z"
+    },
+    {
+      "title": "OpenCode v1.19.4 公開 同梱Bunを1.4.4に更新しルート証明書を差し替え",
+      "summary": "OpenCode v1.19.4では同梱するBunランタイムがセキュリティ修正を含む1.4.4に更新された。ルート証明書もNSS 3.131.1に更新されている。",
+      "url": "https://github.com/sst/opencode/releases/tag/v1.19.4",
+      "collectedAt": "2026-10-25T23:15:00Z"
+    },
+    {
+      "title": "GitHub Spec Kit v1.2.3 公開 .presetignore とワークフローMCPインベントリに対応",
+      "summary": "GitHubのSpec Kit v1.2.3では、プリセットから除外するファイルを指定する .presetignore と、ワークフローのMCPインベントリが追加された。イベントフックの後片付け、PowerShellでの角括弧付きパス処理、整数のワークフロー入力の不具合も修正され、Pi と Kimi Code へのディスパッチ対応が加わった。",
+      "url": "https://github.com/github/spec-kit/releases/tag/v1.2.3",
+      "collectedAt": "2026-10-25T23:15:00Z"
+    }
+  ]
+}
