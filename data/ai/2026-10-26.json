@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-26",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、SECにS-1を提出 ナスダックに「ANT」で上場申請",
+      "summary": "Anthropicは10月26日、クラスA普通株式の新規株式公開(IPO)に向けてS-1登録届出書を米SECに提出したと発表した。ナスダック・グローバルセレクト・マーケットにティッカーシンボル「ANT」で上場する計画で、引受はゴールドマン・サックスとモルガン・スタンレーが務める。株式数と価格レンジは未定で、届出書は発効前のため販売は開始できない。",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    },
+    {
+      "title": "OpenAI、中位モデル「GPT-6.1 Terra」を公開 視覚推論とコンピュータ操作を強化",
+      "summary": "OpenAIは10月26日、API向けに「GPT-6.1 Terra」をリリースした。視覚推論、コンピュータ操作(computer use)、自然な文章作成に向けた高速・効率重視のモデルと位置づけられている。同社は10月22日にgpt-6-lunaでDecisions APIを一般提供へ移行するなど、GPT-6系の拡充を続けている。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    },
+    {
+      "title": "Meta、AI投資のため約350億ドルの株式公募を開始 NVIDIA・AMD・Broadcomが購入意向",
+      "summary": "Metaは10月26日、クラスA普通株の先渡売却225億ドルとシリーズA強制転換優先株の預託株式125億ドルを合わせた計約350億ドルの公募を開始した。NVIDIA、AMD、Broadcomが他の投資家と同条件で合計最大50億ドルの応募意向を示している(拘束力はない)。2026年の設備投資は1350〜1450億ドルに達する見通しで、2027年以降に最大約600億ドルのATMプログラムも計画する。",
+      "url": "https://qz.com/meta-35-billion-stock-offering-ai-nvidia-amd-102626",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    },
+    {
+      "title": "Oracle、Fusion導入を加速するエージェント型AIプラットフォームを発表",
+      "summary": "Oracleは10月26日、年次イベントAI WorldでFusion Cloud Applicationsの導入を加速するエージェント型AIプラットフォームを発表した。Fusionの設定ナレッジを基盤に、要件定義から設定、テストまでをAIエージェントが支援する。あわせてFusion向けの業務エージェントアプリ群や、業務目標を設定してエージェントに作業を任せる新しいUI体験も公開された。",
+      "url": "https://www.oracle.com/news/announcement/ai-world-oracle-unveils-agentic-ai-platform-to-accelerate-implementation-of-oracle-fusion-cloud-applications-2026-10-26/",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-26",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "WebKit、Safari 27.2の新機能を公開 カスタマイズ可能なselectとGrid Lanesを改良",
+      "summary": "WebKitは10月26日、Safari 27.2の新機能を公開した。新しい擬似要素::field-contentにより、<selectedcontent>を使わずに選択中のオプションの表示を直接スタイリングできるようになり、appearance: base-selectの既定スタイルも改善された。Grid Lanesではflow-toleranceプロパティがfit-toleranceに改名され(旧名は非推奨エイリアスとして継続)、アクセシビリティやWebGPU、WebRTCなど20件の不具合も修正された。",
+      "url": "https://webkit.org/blog/18515/webkit-features-for-safari-27-2/",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    },
+    {
+      "title": "CSS-Tricksのオーナーが交代 運営体制の変更を発表",
+      "summary": "CSS前線の老舗メディアCSS-Tricksが10月26日、新しいオーナーに移行したことを発表した。2022年のDigitalOcean買収以降は更新が停滞していたが、今回の体制変更でサイトの今後の運営方針が示された。CSSやフロントエンドの技術記事アーカイブの扱いにも関わるため、読者の関心を集めている。",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    },
+    {
+      "title": "Svelte 5.57.3 公開 a11yロールチェックとハイドレーション時の属性書き込みを修正",
+      "summary": "Svelteは10月26日にパッチ版5.57.3を公開した。アクセシビリティのロール検査、ハイドレーション時の属性書き込み、コンポーネント初期化中のステートプロパティ検査に関する不具合を修正している。あわせて不要コードの整理も行われた。",
+      "url": "https://github.com/sveltejs/svelte/releases/tag/svelte%405.57.3",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    },
+    {
+      "title": "Cloudflare wrangler 4.153.0 公開 origin推論のオプトアウトと秘密情報ファイルの変数展開に対応",
+      "summary": "Cloudflareは10月26日にwrangler 4.153.0を公開した。ローカルのwrangler devでルートからのorigin推論を無効にする--infer-origin-from-routes=falseを追加し、--secrets-fileのdotenv入力で$VARと${VAR}の参照を展開できるようになった(未設定の参照は空文字列になるため既存ファイルの挙動が変わる)。Undiciを7.30.1に更新して不正なレスポンスによるクラッシュ(GHSA-xjj6-f33q-929c)を修正し、ローカルモードでkv key listが1000件しか返さない問題も解消した。",
+      "url": "https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.153.0",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    },
+    {
+      "title": "Nx 24.0.2 公開 Next.jsの重大なRCE修正版への更新とAngular SSRの不具合修正",
+      "summary": "Nxは10月26日に24.0.2をリリースした。重大なリモートコード実行の脆弱性を修正したNext.js 15系・16系へ依存を引き上げ、atomized targetでJestが正しいテストファイルを選ぶよう修正した。Angular SSRの開発サーバーとangular-rspackの修正、run-commandsのreadyWhen処理や--nx-bail時の終了コードの改善も含まれる。",
+      "url": "https://github.com/nrwl/nx/releases/tag/24.0.2",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    }
+  ]
+}

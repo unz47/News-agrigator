@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-26",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code 2.1.311 公開 起動時のフリーズや1Mコンテキスト超過時の停止を修正",
+      "summary": "Claude Codeは10月26日に2.1.311を公開した。CLAUDE.mdに非常に長いリスト項目がある場合の起動時やファイル読み書き後の長時間フリーズ、200Kトークンを超えた際に「Usage credits required for 1M context」で停止する問題(自動コンパクトして継続するよう変更)を修正。self-hosted-runnerに--hold-idle-fileと--max-hold-minを追加し、MCPサーバー応答待ち中の中断が効かない不具合やサブエージェントからMCPツールが使えない問題も解消した。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    },
+    {
+      "title": "GitHub Copilot、OpenAIの「GPT-6.1 Terra」を一般提供 Pro/Business/Enterpriseで利用可能",
+      "summary": "GitHubは10月26日、GPT-6.1 TerraをCopilotで一般提供すると発表した。日常的なエージェント型コーディングとターミナル作業向けで、GPT-6.1 Solより低コスト。社内評価ではGPT-5.6 Terraよりターミナル作業とC#のタスク解決率が明確に向上したという。VS Code、Visual Studio、Copilot CLI、クラウドエージェント、JetBrains、Xcode、Eclipse、GitHub Mobileなど広範な環境で段階的に展開される。",
+      "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    },
+    {
+      "title": "Qwen Code v0.26.2-preview.0 公開 セッション単位の権限ルールと自動承認を追加",
+      "summary": "Alibaba系のCLIコーディングエージェントQwen Codeは10月26日、v0.26.2-preview.0をプレリリースした。セッション単位の権限ルールとAuto承認、ヘッドレス実行向けの実験的な共有エージェントループ、ターン途中のユーザーメッセージを保持するキューを追加している。OpenTUIとWeb Shell周りの不具合も多数修正された。",
+      "url": "https://github.com/QwenLM/qwen-code/releases",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    },
+    {
+      "title": "Cline、v4.1.26とDesktop v0.0.49を公開 ローカル/クラウドモデル切り替えを追加",
+      "summary": "Clineは10月26日、拡張機能v4.1.26、Desktop v0.0.49、CLI v3.0.74、SDK v0.2.0をまとめて公開した。ローカル/クラウドのモデル切り替えトグルとクラウドサンドボックスの進捗カードを追加し、GPT-6エンドポイントにも対応。Desktop側には変更差分ボタン、プロジェクトファイルパネル、統合ターミナル、PRステータスヘッダーが加わり、CLIは別アプリで実行中のタスクへ再アタッチできるようになった。",
+      "url": "https://github.com/cline/cline/releases",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    },
+    {
+      "title": "OpenAI Codex CLI、0.165.0-alpha.3をプレリリース 安定版0.164.0に続く開発版",
+      "summary": "OpenAIは10月26日、Codex CLIの0.165.0-alpha.3をプレリリースとして公開した。10月23日に安定版として出た0.164.0では、保存したプロンプトやスラッシュコマンドを10枠に登録できる/presets、/modelと/permissionsのインライン引数、エンタープライズ向けMCP認証などが追加されている。alpha版には個別のリリースノートは付いていない。",
+      "url": "https://github.com/openai/codex/releases",
+      "collectedAt": "2026-10-26T23:19:44Z"
+    }
+  ]
+}
