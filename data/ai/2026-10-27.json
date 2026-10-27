@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-27",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、Claudeによる創薬加速の初期成果を公開 6社との共同研究で前臨床の実績",
+      "summary": "Anthropicは10月27日、BigHat Biosciences、ブリストル・マイヤーズ スクイブ、Divergence Labs、Enveda、Generate Biomedicines、The Column Groupとの共同研究で得られた創薬領域の初期成果を公開した。Generate BiomedicinesではClaude Codeが標準より約70%短いCAR-T遺伝子設計を提案し、がん認識受容体が約10倍得られたという。Envedaでは1061ページの製造・規制文書で人間が見つけた11件の問題をすべて検出し、さらに7件を追加指摘して査読時間を89%削減した。多くは前臨床段階で、今後は臨床試験への展開を進めるとしている。",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "collectedAt": "2026-10-27T23:20:00Z"
+    },
+    {
+      "title": "Anthropic、米GSAとの提携を拡大 Claudeを政府向けに40%割引で提供",
+      "summary": "Anthropicは10月27日、米国の調達機関GSAとの新たな合意により、Claude Enterprise・Claude for Government・Claude APIを40%割引で提供すると発表した。GSAのMultiple Award Scheduleを通じて購入でき、州・地方・部族・準州政府も対象で、最低利用額の確約は不要。政府全体で約10億ドルの削減効果を見込む。すでに約500の米連邦・州・地方組織がClaudeを利用し、連邦民生機関の利用は1年で約20倍に拡大。Claude for GovernmentはFedRAMP Highの認定を受けている。",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "collectedAt": "2026-10-27T23:20:00Z"
+    },
+    {
+      "title": "NVIDIAとOracle、Vera Rubinをマルチギガワット規模へ拡張 OCIでVera CPUも一般提供",
+      "summary": "OracleとNVIDIAは10月27日、Vera Rubin NVL72を基盤とするOCI Superclusterをマルチギガワット規模へ拡張する計画を発表した。あわせてVera Rubin NVL72とVera CPUのOCIでの一般提供を開始した。1ラックで72基のGPUをNVLinkで接続し、Oracle AcceleronネットワーキングとSpectrum-X Ethernet、BlueField-4 DPUを組み合わせて数十万GPU規模へ拡張できるという。将来はx86サーバー構成のHGX Rubin NVL8も投入予定で、OpenAIが初期顧客として挙げられている。",
+      "url": "https://www.oracle.com/news/announcement/ai-world-nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-2026-10-27/",
+      "collectedAt": "2026-10-27T23:20:00Z"
+    },
+    {
+      "title": "KDDI、大阪堺データセンターの推論環境にGeminiなどを拡充 2027年度にHGX Rubin NVL8導入",
+      "summary": "KDDIは10月27日、大阪堺データセンターのAI推論環境で利用できるAIモデルを12月から順次拡充すると発表した。GoogleのGeminiなどが追加され、国内データセンター上で多様なモデルを選択できるようにする。さらに2027年度にはNVIDIAのHGX Rubin NVL8の導入を計画しており、生成AIの推論需要の拡大に備える。",
+      "url": "https://cloud.watch.impress.co.jp/docs/news/2151521.html",
+      "collectedAt": "2026-10-27T23:20:00Z"
+    }
+  ]
+}

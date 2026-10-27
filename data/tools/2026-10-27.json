@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-27",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code 2.1.312 公開 巨大なCLAUDE.mdの上書き不具合やcd後のスキル検出を修正",
+      "summary": "Claude Codeは10月27日に2.1.312を公開した。非常に大きなCLAUDE.mdやルール、@インクルードファイルを冒頭だけ読んで上書きしてしまう問題や、Bashのcdでgitリポジトリに入った後にディレクトリ単位/paths指定のスキルが見つからない問題を修正。プロンプト/エージェントのフックは1セッションあたり同時24件までに制限され、利用上限のメッセージは「5-hour limit」表記に変更された。クラウドセッションではRoutineにエフォートレベルの選択が追加され、セットアップスクリプト用のBashエディタも加わった。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-27T23:20:00Z"
+    },
+    {
+      "title": "GitHub Copilot、サーバー間認証をパブリックプレビューで提供 ユーザー資格情報なしで利用可能",
+      "summary": "GitHubは10月27日、組織にインストールしたGitHub Appによるサーバー間(server-to-server)認証をCopilotでパブリックプレビュー提供すると発表した。Copilot SDKで作ったサービスやエージェントが、サインイン中のユーザーの資格情報を使わずワークロード自身のIDでCopilotリクエストを実行できる。読み取り専用の組織権限「Copilot Requests」を付与し、短命のインストールアクセストークンをSDKに渡す仕組みで、利用はインストール先組織に課金され、組織のモデルポリシーや予算上限が適用される。",
+      "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+      "collectedAt": "2026-10-27T23:20:00Z"
+    },
+    {
+      "title": "Gemini CLI v0.66.0 公開 Gemini 4未最適化の注意バナーとMCP OAuthの私設エンドポイント対応",
+      "summary": "Gemini CLIは10月27日に安定版v0.66.0を公開した。同梱のレンダリングを見直して出力の同期やスピナー表示、ビューポート更新時のスクロールバックを修正し、ツール呼び出しのグルーピングをスケジューラ側へ移動した。Windowsでのdiff引数処理やSKILL.mdのフロントマター解析、終了シグナルの転送も修正。MCPのOAuthフローでオプトインの私設ネットワークエンドポイントを追加し、Gemini 4向けには最適化が済んでいない旨のバナーを表示する。",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0",
+      "collectedAt": "2026-10-27T23:20:00Z"
+    },
+    {
+      "title": "GitHub Copilot、「assisted permissions」を一般提供 LLMが安全な実行要求を自動承認",
+      "summary": "GitHubは10月26日、Copilot CLI・Copilotアプリ・VS Codeで「assisted permissions」を一般提供した。Copilotがコマンド実行やファイルパスへのアクセス、URLの開封を求めた際に言語モデルが要求を審査し、安全と判断したものだけ自動で進め、それ以外は従来どおりユーザー承認を求める。CLIの/permissionsなど各ツールの権限設定から有効化でき、企業管理者は「Allow All」の禁止や支援モードの無効化、新規セッションの既定モード指定が可能。",
+      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+      "collectedAt": "2026-10-27T23:20:00Z"
+    }
+  ]
+}
