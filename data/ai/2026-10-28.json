@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-28",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google、新フロンティアモデル「Gemini 4 Carbon」を発表 コーディングとサイバー防御を強化",
+      "summary": "Googleは10月28日、新しいフロンティアモデル「Gemini 4 Carbon」を発表した。コーディングやエージェント型タスク、サイバーセキュリティ分野での性能向上を主眼としており、Artificial Analysisの指標では59で首位に立ったと報じられている。前世代のGemini 4 Argonが一般提供を開始した10月13日からわずか2週間での投入で、当面は一部のサイバー防御担当者向けに限定提供される。",
+      "url": "https://9to5google.com/2026/10/28/gemini-4-carbon-announcement/",
+      "collectedAt": "2026-10-28T23:20:00Z"
+    },
+    {
+      "title": "Anthropic、「AI for Science」を財団・研究機関に拡大 20のパートナーを公表",
+      "summary": "Anthropicは10月28日、研究者へClaudeのクレジットを無償提供する「AI for Science」プログラムを、個人の科学者から財団・研究機関・研究グループとの提携へ拡大したと発表した。スローン財団やサイモンズ財団、米NSF、ウェルカム・サンガー研究所、フランシス・クリック研究所など20のパートナーが名を連ねる。多くのプロジェクトはオープンデータやオープンソースソフトウェアなどの公共財を生み出すことが期待されている。",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "collectedAt": "2026-10-28T23:20:00Z"
+    },
+    {
+      "title": "OpenAI、ChatGPT Pro/Business契約者に月最大500ドルのAPIクレジットを無償提供",
+      "summary": "OpenAIは10月28日、対象となるChatGPT ProおよびBusinessの契約者が、自ら所有するAPI組織を連携させることで月最大500ドル分のAPIクレジットを無償で受け取れるようにしたとAPIチェンジログで告知した。ChatGPTのサブスクリプションからAPI利用へ開発者を呼び込む施策とみられる。同チェンジログでは10月26日にGPT-6.1 Terraを公開したことも記載されている。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-10-28T23:20:00Z"
+    },
+    {
+      "title": "Broadcomと大手銀行ら、Anthropic向けAIチップに630億ドルの融資枠を組成",
+      "summary": "Broadcomはバンク・オブ・アメリカ、シティ、モルガン・スタンレー、ブラックストーンと組み、特別目的会社(SPV)を通じて総額630億ドルの融資コミットメントを完了したと10月26日に発表した。調達資金でBroadcomのAIアクセラレーターとネットワーク機器を購入し、Anthropicにリースする仕組みで、納入は2027年に始まる見込み。約434億ドルが第一順位担保付き債務で、Broadcomが残余価値保証を付ける一方、供給者が貸し手も兼ねる「循環的投資」への懸念も指摘されている。",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62608696/broadcom-anthropic-63-billion-financing-banks-blackstone-ai-chips",
+      "collectedAt": "2026-10-28T23:20:00Z"
+    }
+  ]
+}

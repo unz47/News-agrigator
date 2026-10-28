@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-28",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub、モデルを自動で選び組み合わせる「Copilot Fusion」を一般提供",
+      "summary": "GitHubはUniverseに合わせて10月28日、タスクに応じて複数のAIモデルを自動でルーティング・協調させる「Copilot Fusion」を一般提供した。Standard/High/Maxの3段階の努力レベルがあり、単一モデル処理・下書きを検証して必要なら上位モデルへ引き上げるCascade・別モデルがレビューするCritiqueの3パターンを使い分ける。Fusion MaxはArtificial AnalysisのCoding Agent Indexで60点を記録し、Opus 5.5 MaxのClaude Codeと2点差ながらAPIコストは約半分とされる。",
+      "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+      "collectedAt": "2026-10-28T23:20:00Z"
+    },
+    {
+      "title": "GitHub Agentic Workflows が一般提供開始 Markdownで書くAIエージェント自動化",
+      "summary": "GitHub Nextのオープンソースプロジェクト「GitHub Agentic Workflows」が一般提供となった。Markdownに自然言語で書いた自動化を標準のActions YAMLへコンパイルし、Issueのトリアージやビルド失敗の分析、ドキュメント更新などをコーディングエージェントに任せられる。既定で読み取り専用権限・サンドボックスコンテナ・Agent Workflow Firewall・脅威検知ジョブといった安全策を備え、プレビュー以降にセルフホストランナー対応や予算予測コマンド `gh aw forecast` の正式化、モデルルーターなどが追加された。",
+      "url": "https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available",
+      "collectedAt": "2026-10-28T23:20:00Z"
+    },
+    {
+      "title": "GitHub、PRのCI失敗やコンフリクトを自動修正する「Agent Merge」をPR画面に統合",
+      "summary": "GitHubは、プルリクエストを監視してマージを妨げる問題を自動で直すCopilotの機能「Agent Merge」を、GitHub.comのPR画面に組み込んだ。マージボックスの「Watch and fix」ボタンから、失敗したワークフローの修正とマージコンフリクトの解消のどちらを任せるかを選べる。Copilotはクラウド開発環境で修正を行い、auto-mergeと組み合わせれば条件を満たした時点で自動マージされる。有料Copilotプラン向けの提供となる。",
+      "url": "https://github.blog/changelog/2026-10-28-agent-merge-watches-and-fixes-pull-requests-in-the-cloud",
+      "collectedAt": "2026-10-28T23:20:00Z"
+    },
+    {
+      "title": "GitHub Actions のワークフローロックファイルが一般提供 実行コミットを固定",
+      "summary": "GitHub Actionsで、ワークフローが実行するアクションのコミットを固定する「ワークフローロックファイル」が一般提供となった。`.github/workflows/actions.lock` に各アクションと推移的依存関係が記録され、YAML側は読みやすいタグ参照のまま運用できる。生成にはCLI拡張 `gh actions-lock` を使い、Dependabotのバージョン更新も同じPRでロックファイルを更新する。管理者向けに「ロックファイル必須」ポリシーやCIでの陳腐化チェックも用意された。",
+      "url": "https://github.blog/changelog/2026-10-28-github-actions-workflow-lockfiles-are-generally-available",
+      "collectedAt": "2026-10-28T23:20:00Z"
+    },
+    {
+      "title": "VS Code 1.144 公開 セッション継続・Copilot Fusion・コンピュータ操作を搭載",
+      "summary": "Visual Studio Code 1.144が10月28日に公開された。リモート環境を一箇所で管理し、PCの電源が落ちていてもセッションや自動化を継続できる機能が目玉となる。ほかにCopilot Fusionによるモデルのルーティングとモデル比較、チャット内での画像生成(プレビュー)、エージェントにデスクトップアプリを操作させるコンピュータ操作(実験的)、エージェントの編集内容を確認して採否を決めるWorking set(実験的)、assisted permissionsの一般提供などが含まれる。",
+      "url": "https://code.visualstudio.com/updates/v1_144",
+      "collectedAt": "2026-10-28T23:20:00Z"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-28",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js、AIエージェント向けバンドル最適化スキル「next-bundle-optimizer」を公開",
+      "summary": "Vercelは10月28日、Next.js 16.4でTurbopackのモジュールグラフをAIエージェントに開放し、バンドル最適化を自動化するエージェントスキル「next-bundle-optimizer」を公開した。想定外のstatic importで遅延読み込みが効かない箇所などを最小カットで特定し、修正まで適用できる。Vercelではこのスキルでv0とvercel.comから圧縮後で合計約2MBのJavaScriptを削減したという。バンドルアナライザー側にもルート別のサマリーやスナップショット比較、クリティカルレンダリングパスの表示が追加された。",
+      "url": "https://nextjs.org/blog/ship-less-javascript-with-ai",
+      "collectedAt": "2026-10-28T23:20:00Z"
+    },
+    {
+      "title": "Node.js v26.13.0「Lithium」公開 Node.js 26系がLTSへ移行",
+      "summary": "Node.jsは10月28日、v26.13.0「Lithium」を公開し、26系を長期サポート(LTS)に移行した。サポートは2029年4月末まで継続される。process.releaseなどのメタデータ更新が中心で、v26.12.1からの機能変更はない。なお、Node.js 25以降の公式Linuxバイナリはlibatomicにリンクしているため、22や24のLTSから上げる場合はディストリビューションによって別途インストールが必要になる。",
+      "url": "https://github.com/nodejs/node/releases/tag/v26.13.0",
+      "collectedAt": "2026-10-28T23:20:00Z"
+    },
+    {
+      "title": "Astro 7.4.4 公開 astro add が公式アダプターのタグ付きバージョンを設定可能に",
+      "summary": "Astroは10月28日、パッチリリースとなる astro@7.4.4 を公開した。変更は1点で、`astro add` コマンドが公式アダプターのタグ付きバージョンを指定して設定できるようになった。同日には @astrojs/vercel 11.0.17 や @astrojs/react 7.1.2 など、周辺インテグレーションのパッチも一斉にリリースされている。",
+      "url": "https://github.com/withastro/astro/releases/tag/astro%407.4.4",
+      "collectedAt": "2026-10-28T23:20:00Z"
+    },
+    {
+      "title": "Storybook v10.6.5 公開 アンダースコア始まりのフォルダを本番コンパイルから除外",
+      "summary": "Storybookは10月27日にv10.6.5を公開した。修正は1件で、ダブルアンダースコアで始まるフォルダをすべて本番ビルドのコンパイル対象から除外するTypeScript関連の不具合修正が入っている。前日のv10.6.4に続く小規模なパッチリリースとなる。",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v10.6.5",
+      "collectedAt": "2026-10-28T23:20:00Z"
+    }
+  ]
+}
