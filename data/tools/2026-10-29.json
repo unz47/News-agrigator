@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-29",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "OpenAI Codex CLI 0.166.0 公開 トランスクリプトのキーボード操作とGPT-6.1 Terra対応",
+      "summary": "Codex CLI 0.166.0が公開された。トランスクリプトを単語・行・ページ単位でキーボード選択でき、検索やショートカット設定にも対応。GPT-6.1 Terraがバンドル版・Vertex AI・Amazon Bedrockのモデルカタログに追加され、`codex doctor --network-only`で接続診断だけを実行できるようになった。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    },
+    {
+      "title": "Qwen Code v0.26.4 公開 生成UIのテーマ追従とmanaged agentの独立worktree",
+      "summary": "Qwen Code v0.26.4がリリースされた。生成されたUIビューがホストのテーマに追従し、値の調整が必要な場面では対話的に操作できる。managed agentがメインセッションで独立したworktreeを使えるようになり、CI autofixにはラウンド数の上限が設けられた。破壊的変更はないとしている。",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.26.4",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    },
+    {
+      "title": "GitHub、Webhook配信元のIPレンジをMeta APIに追加 許可リスト運用者は設定更新が必要",
+      "summary": "GitHubは10月29日、github.comからのWebhook配信に使うIPレンジをMeta APIのhooksフィールドに追加した。静的な許可リストを手動管理している場合は`9.234.98.160/28`など3つのCIDRを追加する必要がある。Meta APIから自動同期している環境では対応不要で、GitHub Enterprise Cloudを含む全プランが対象。",
+      "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    },
+    {
+      "title": "Kiro IDE 1.4.62 公開 Windows向けシステム全体インストーラーを追加",
+      "summary": "Kiro IDE 1.4.62がリリースされ、Windowsのx64/ARM64向けにシステム全体へインストールできるインストーラーが追加された。Shiftキーを押さずにファイルをチャットへドラッグできるようになり、Mermaid図はダークテーマでも読みやすい枠付き表示になった。スラッシュコマンドが実行されない不具合なども修正している。",
+      "url": "https://kiro.dev/changelog/ide/1-4-62/",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    },
+    {
+      "title": "GitHub Copilot CLI 1.0.105 公開 長コンテキストでのFusionモデル選択不具合を修正",
+      "summary": "GitHub Copilot CLI 1.0.105が公開された。長いコンテキストのセッションから`/model`でCopilot Fusion HighまたはMaxを選択できない不具合を修正している。直前の1.0.104では、Assisted Permissionsが実験モードなしで利用可能になるなどの変更が入っていた。",
+      "url": "https://github.com/github/copilot-cli/releases",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    }
+  ]
+}

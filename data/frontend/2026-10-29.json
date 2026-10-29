@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-29",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Angular 22.2.4 公開 i18nハイドレーションやSignal Formsの不具合を修正",
+      "summary": "Angular 22.2.4がリリースされた。i18nハイドレーション時に共有ICUキューを書き換えてしまう問題や整数オーバーフロー、paramsが変わっていないのにリソースを再読み込みする問題を修正。Signal Forms関連ではformControlNameに対応するコントロールがない場合のクラッシュも解消した。",
+      "url": "https://github.com/angular/angular/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    },
+    {
+      "title": "Rolldown 1.2.16 公開 dev modeでの共通チャンクインライン化とコード分割を改善",
+      "summary": "Rust製バンドラーRolldownの1.2.16が公開された。experimentalInlineCommonChunksがdev modeでも利用できるようになり、import.meta.hotを使うチャンクのインライン化にも対応。コード分割ではランタイムの配置やチャンクimportの順序保持、tree-shakingの不具合などを修正している。",
+      "url": "https://github.com/rolldown/rolldown/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    },
+    {
+      "title": "Rsbuild 2.3.0 公開 publicDirの環境別設定とHMR改善",
+      "summary": "Rsbuild 2.3.0がリリースされ、@rspack/coreを2.3.0に更新した。publicDirを環境ごとに設定できるようになり、api.transformにcodeFilterオプション、プレビューサーバー終了時のフックが追加された。HMRはWeb環境のコンパイル完了後に適用される挙動に変わり、dev server周りの不具合も多数修正されている。",
+      "url": "https://github.com/web-infra-dev/rsbuild/releases",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    },
+    {
+      "title": "Wrangler 4.156.0 公開 d1 insightsがDB名なしで全データベースを集計",
+      "summary": "Cloudflareのwrangler 4.156.0が公開された。実験的な`wrangler d1 insights`コマンドがデータベース名の指定なしで実行できるようになり、アカウント内の全D1データベースを横断して重いクエリを報告する。CIやコーディングエージェント環境でのautoconfig誤動作の防止や、.assetsignoreの自動生成による機密ファイル公開防止も含まれる。",
+      "url": "https://github.com/cloudflare/workers-sdk/releases",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    },
+    {
+      "title": "Solid 2.0.0-rc.20 公開 ストア配列への初回書き込みを大幅高速化",
+      "summary": "SolidJS 2.0のリリース候補rc.20が公開された。1万行規模のストア配列への初回書き込みが約10.7msから0.15msへ改善し、<For>も内部配列を差分比較するようになった。非同期処理やエラーバウンダリの復帰、ストリーミング途中切断時のハイドレーションなどの修正も入っている。",
+      "url": "https://github.com/solidjs/solid/releases",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    }
+  ]
+}

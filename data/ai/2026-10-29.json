@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-29",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Claude Platform、使用量・コスト分析API「Usage and Cost Analytics API」をベータ公開",
+      "summary": "Anthropicは10月29日、Claude Platformの利用状況とコストを分析するUsage and Cost Analytics APIをベータで公開した。従来のUsage and Cost APIとEnterprise向け利用レポートはレガシー扱いとなるが、引き続きサポートされる。組織単位での支出可視化を進めやすくなる。",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    },
+    {
+      "title": "Claude API、Messages/Token Counting APIのリクエスト上限を32MBから128MBへ拡大",
+      "summary": "Anthropicは10月28日、Claude APIのMessages APIとToken Counting APIで受け付ける1リクエストの最大サイズを32MBから128MBに引き上げた。長大なドキュメントや多数の添付ファイルを一度に渡す用途で、分割処理の必要性が下がる。",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    },
+    {
+      "title": "Amazon、生成AIアシスタント「Alexa+」を日本で早期アクセス開始",
+      "summary": "アマゾンジャパンは10月29日、生成AIを搭載した次世代アシスタント「Alexa+」の早期アクセスを日本で開始したと発表した。自然な対話で家電操作や予定管理などをこなす点が特徴で、Amazonプライム会員は追加料金なしで利用できる。",
+      "url": "https://av.watch.impress.co.jp/docs/news/2152019.html",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    },
+    {
+      "title": "Google DeepMind、ワールドモデル「Genie 4」を発表 音声生成とリアルタイム操作に対応",
+      "summary": "Google DeepMindはリアルタイム対話型シミュレーションの新世代ワールドモデル「Genie 4」をリサーチプレビューとして発表した。映像に加えて音楽・環境音・会話をネイティブに生成し、自然言語でカメラ移動や天候変更など実行中のシーンを操作できる。出力にはSynthIDの電子透かしが付与される。",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    },
+    {
+      "title": "Oracle、OCIにGoogleのTPUを導入 第8世代TPU 8t/8iを2027年から提供",
+      "summary": "OracleはOracle AI Worldで、Google CloudのTPUをOracle Cloud Infrastructureで提供すると発表した。対象は第8世代で、学習向けのTPU 8tと推論向けのTPU 8iの2系統。提供開始は2027年で、複数年かけて段階的に拡張する計画としている。",
+      "url": "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27/",
+      "collectedAt": "2026-10-29T23:19:27Z"
+    }
+  ]
+}
