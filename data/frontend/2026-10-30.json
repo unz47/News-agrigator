@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-30",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Rolldown、性能計測パッケージ @rolldown/perf-kit 0.0.1 を独立リリース",
+      "summary": "Rolldown は10月30日、性能計測ツール @rolldown/perf-kit をバージョン0.0.1として本体から独立してリリースしました。生成出力を元のビルドと比較検証する機能、Node/Deno のサーバー起動モード、コーディングエージェント向けのブラウザページ読み込み計測ハーネスを備えます。前日の v1.2.16 で取り込まれた機能群を、個別パッケージとして配布する形になりました。",
+      "url": "https://github.com/rolldown/rolldown/releases",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    },
+    {
+      "title": "Node.js v27.0.0-alpha.0.0.0 公開 V8 15.6 と OpenSSL 4.1.0 へ更新",
+      "summary": "Node.js は10月29日、次期メジャーとなる v27.0.0 の最初のアルファ版を公開しました。V8 を15.6、OpenSSL を4.1.0 に更新し、バンドルされた FIPS プロバイダービルドの廃止や OpenSSL 3 以降の要求といった破壊的変更が含まれます。10月28日には v26.13.0「Lithium」が公開され、Node.js 26系が LTS に移行しています。",
+      "url": "https://github.com/nodejs/node/releases",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    },
+    {
+      "title": "Firefox 161（Nightly）が CSS の random() 関数のトライアルを開始",
+      "summary": "CSS-Tricks は10月29日、Firefox 161 の Nightly で CSS の random() 関数が試験的に導入されたと伝えました。random() はスタイルシート内で乱数を扱える関数で、JavaScript なしでばらつきのある表現を書けるようになります。現時点では Nightly でのトライアル段階で、対応構文や正式提供の時期は示されていません。",
+      "url": "https://css-tricks.com/byte-199/",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    },
+    {
+      "title": "Firefox 159 がスクロール駆動アニメーションに対応 Baseline 入りを達成",
+      "summary": "CSS-Tricks は10月27日、Firefox 159 がスクロール駆動アニメーション（scroll-driven animations）をサポートしたと報じました。これにより主要ブラウザが揃い、同機能は Baseline に到達しています。scroll-timeline や view-timeline を使ったスクロール連動の演出を、JavaScript なしで実装しやすくなります。",
+      "url": "https://css-tricks.com/byte-198/",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    },
+    {
+      "title": "CSS-Tricks「What's !important #19」公開 scroll-state() や @custom-media を総覧",
+      "summary": "CSS-Tricks は10月27日、休止していたフロントエンド動向のまとめ記事「What's !important」を第19回として再開しました。CSS のみで実現する背景の屈折表現、stuck/snapped などを判定する scroll-state() コンテナクエリ、コンテナスタイルクエリをフォールバックに使う @custom-media の命名ブレークポイントなどを取り上げています。あわせて Firefox 155/157、Chrome 153/154、Safari 27 の新機能と実装状況の差も整理されています。",
+      "url": "https://css-tricks.com/whats-important-19/",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    }
+  ]
+}

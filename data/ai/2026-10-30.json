@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-30",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Claude Platform、Claude Opus 4.8 の fast mode を廃止予告 11月30日に削除",
+      "summary": "Anthropic は10月30日付のリリースノートで、Claude Opus 4.8 における fast mode の非推奨化を告知しました。2026年11月30日の削除後は、claude-opus-4-8 に speed: \"fast\" を指定したリクエストはエラーになります。fast mode を使い続ける場合は Claude Opus 5.5 への移行が必要で、移行ガイドも案内されています。",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    },
+    {
+      "title": "OpenAI、生物学推論に特化した「GPT-6 Rosalind」を公開 利用はトラステッドアクセス限定",
+      "summary": "OpenAI は10月30日、生命科学研究向けに生物学的推論と科学ツール利用に特化したモデル gpt-6-rosalind を公開しました。利用は Rosalind Research のトラステッドアクセスプログラムで承認された組織に限定され、当該組織内の研究用途が前提です。APIの価格は変更履歴には記載されず、ライフサイエンス向けモデルの価格ページが案内されています。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    },
+    {
+      "title": "OpenAI、Model Spec を大幅改訂 5つの価値観に再編しモデル呼称を「GPT」に変更",
+      "summary": "OpenAI は10月29日版の Model Spec で、全体構成を「人間の意図への忠実さ」「危害の最小化」「誠実さと透明性」「人間の主体性の促進」「配慮をもって行動する」という5つの価値観に再編しました。あわせて文書内のモデル呼称を「the assistant」から「GPT」に変更し、文脈・メモリ・パーソナライズの扱いを定めた新節を追加しています。副作用の制御と伝達をユーザーレベルの原則に格上げする一方、詳細な文体ガイダンスの多くは削除されました。",
+      "url": "https://model-spec.openai.com/2026-10-29.html",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    },
+    {
+      "title": "OpenAI、ChatGPT Pro/Business Premium の「Work」「Codex」利用枠を2倍に拡大",
+      "summary": "OpenAI は現地時間10月29日、ChatGPT の Pro および Business Premium プランに含まれる「Work」「Codex」の利用枠を2倍に引き上げました。9月末に告知していた「Pro 200」の利用枠削減も撤回され、低い枠だったユーザーは同じ上限まで引き上げられます。「dots」向けの拡張枠は当面継続され、通常の利用枠とは別扱いのままとされています。",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2152456.html",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-30",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.314 公開 作業ディレクトリ外への書き込み禁止設定とアイドル圧縮を追加",
+      "summary": "Claude Code は10月30日に v2.1.314 を公開しました。新設定 permissions.blockWritesOutsideWorkingDirectories により、Write/Edit/NotebookEdit がどの権限モードでも作業ディレクトリ外のパスを拒否できます。VS Code と Desktop の Code タブにアイドル圧縮が入り、20万トークンを超えて放置された会話を要約するほか、claude -p が起動失敗時にエラーを出して終了コード1を返すよう修正されました。",
+      "url": "https://github.com/anthropics/claude-code/releases",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    },
+    {
+      "title": "opencode v2.2.3/v2.2.4 公開 Claude Agent プロバイダー内蔵と実験的アーティファクト機能",
+      "summary": "opencode は10月30日に v2.2.3 と v2.2.4 を公開しました。v2.2.3 では claude auth login の認証をそのまま使える Claude Agent プロバイダーが組み込みで追加され、管理ポリシーの integration.use が mcp.use / skill.use / plugin.use に分割される破壊的変更が入っています。v2.2.4 では experimental.artifacts を有効にするとエージェントが HTML や静的ファイルを公開・更新・配信できるようになり、デスクトップのターミナルがセッションに属してサーバー再起動後もスクロールバックを保持します。",
+      "url": "https://github.com/sst/opencode/releases",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    },
+    {
+      "title": "Gemini CLI v0.67.0-nightly.20261030 公開 レート制限のクールダウン表示を追加",
+      "summary": "Gemini CLI は10月30日のナイトリービルドで、429レート制限時のクールダウンとカウントダウンをローディング表示に出すようにしました。Windows でのパスルート判定を大文字小文字を区別しない形に修正し、IDE プロセス検出に PowerShell のフォールバックを追加しています。@ によるファイル補完の先頭スラッシュや、LLM プロンプトテンプレート内の $ パターン破損なども修正されました。",
+      "url": "https://github.com/google-gemini/gemini-cli/releases",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    },
+    {
+      "title": "Qwen Code、CUA Driver v0.27.0 を公開 各OS向けビルド配布とMCPペイロードフィルタを追加",
+      "summary": "Qwen Code は10月30日、コンピュータ操作用の cua-driver-rs v0.27.0 をプレリリースしました。macOS 向けは署名・公証済みのユニバーサルバイナリと QwenCuaDriver.app、Linux と Windows 向けは未署名のビルドが同梱され、Windows の UIAccess は配布側での署名と信頼設定が必要です。相対座標を有効にする CUA_DRIVER_RS_COORDINATE_SPACE と、MCP ペイロードのテキストフィルタを有効にする MCP_MODEL_PAYLOAD_FILTER がオプトインフラグとして追加されました。",
+      "url": "https://github.com/QwenLM/qwen-code/releases",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    },
+    {
+      "title": "Kiro Web を更新 セッションの要約保持と「Schedule」への刷新",
+      "summary": "Kiro は10月28日、Kiro Web のアップデートを公開しました。セッションが短い要約を保持するようになり、Agent Config と Settings がサイドバーの別セクションに分離されています。ワークフローが計画・レビュー時に入力を求められるようになり、従来の Automations は Schedule に置き換わりました。再開したセッションはサンドボックス起動中でも操作できます。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-30T23:19:26Z"
+    }
+  ]
+}
