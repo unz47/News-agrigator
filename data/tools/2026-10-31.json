@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-31",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code v2.1.316 公開 ultrathink 無効化とサブエージェントの effort 設定を追加",
+      "summary": "Claude Code は10月31日に v2.1.316 を公開しました。`CLAUDE_CODE_DISABLE_ULTRATHINK` で ultrathink キーワードを無効化でき、`CLAUDE_CODE_SUBAGENT_EFFORT` でサブエージェントの既定 effort を指定できるようになりました。macOS/Linux で Claude Code が自ら終了した後もシェルコマンドが残る問題が修正され、Opus 4.8 の fast mode は10月30日付で非推奨、11月30日に削除予定と告知されています。",
+      "url": "https://github.com/anthropics/claude-code/releases",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    },
+    {
+      "title": "opencode v2.2.5 公開 ワークツリー選択のショートカットと割合指定の圧縮バッファ",
+      "summary": "opencode は10月30日に v2.2.5 を公開しました。Ctrl+Alt+O でワークツリー、Ctrl+Alt+B でそのベースブランチを選べるショートカットと、Ctrl+Shift+X でのシェルモード切り替えが加わりました。`\"compaction\": {\"buffer\": \"20%\"}` のようにモデルのコンテキスト長に対する割合で圧縮バッファを確保できるようになり、10MiB超の MCP stdio メッセージで切断する不具合も修正されています。",
+      "url": "https://github.com/sst/opencode/releases",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    },
+    {
+      "title": "Kiro CLI 2.36.0 公開 対話型V3セッションに「Approve for me」を追加",
+      "summary": "Kiro は10月29日、CLI 2.36.0 を公開しました。対話型のV3セッションに「Approve for me」が追加され、定型的な操作は Kiro が自動承認し、危険な操作はブロック、判断に迷う場合は確認を求めます。承認された操作は「Approved for you」と表示され、`/permissions` から有効化でき、設定はワークスペースごとに保存されます。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    },
+    {
+      "title": "Gemini CLI v0.67.0-nightly.20261031 公開 モデル選択の保持と拡張機能の同時インストール対策",
+      "summary": "Gemini CLI は10月31日、ナイトリー版 v0.67.0-nightly.20261031 を公開しました。一時的なフォールバックやキャンセル、巻き戻しをまたいで選択中のモデルが保持されるようになり、拡張機能の同時インストールを拡張ごとのロックで直列化する修正が入りました。shadow repo が `.git/info/exclude` と `core.excludesFile` を尊重するなど、細かな不具合修正が中心です。",
+      "url": "https://github.com/google-gemini/gemini-cli/releases",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    },
+    {
+      "title": "Zed v1.26.2 公開 Python の Pyrefly 内蔵とデバッガーの変数ツリー表示",
+      "summary": "Zed は10月28日、安定版 v1.26.2 を公開しました。Python 向けの言語サーバーとして Pyrefly を任意で内蔵できるようになり、デバッガーのホバーでは変数を展開可能なツリーとしてキーボード操作で辿れます。JavaScript デバッガーが WebAssembly ソースの DWARF デバッグに対応し、未ステージの変更を破棄するとステージ済みの変更も消える不具合も修正されました。",
+      "url": "https://github.com/zed-industries/zed/releases",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-31",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "AI関連株が急落 AI投資の採算への疑念が市場に広がる",
+      "summary": "CNBCは10月30日、投資家がAI支出の見返りを疑い始めたことでAI関連株が売られたと報じました。AmazonとIntelの決算がAI設備投資への懸念を深め、ナスダック総合指数は6月5日以来で最大の下落となる2.9%安を記録しました。Nvidiaが3%安、AMDが9.3%安となるなど半導体株にも売りが波及しています。",
+      "url": "https://www.cnbc.com/2026/10/30/ai-stocks-selloff-ai-spending-returns.html",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    },
+    {
+      "title": "Anthropic のナスダック上場への道が険しさを増す CNBCが報道",
+      "summary": "CNBCは10月31日、AI市場の減速と高い評価額への懸念から、Anthropicの新規株式公開(IPO)を取り巻く環境が一段と厳しくなっていると報じました。同社は10月26日にSECへS-1を提出しており、売上高は16.3億ドル規模まで伸びたとされます。一方で上場後の格付けは投機的等級にとどまる見通しだとの報道も出ています。",
+      "url": "https://cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    },
+    {
+      "title": "ナスダックは1年超で最悪の月 AI投資への不安が市場を揺らす",
+      "summary": "CNNは10月30日、AI投資をめぐる不安が市場を揺らし、ナスダックが1年以上で最悪の月となったと伝えました。10月6日に付けた終値での最高値からは7.8%下落しており、月間ではナスダック100から2兆ドル超の時価総額が失われたとされます。Meta・Alphabet・AmazonがいずれもAIインフラ投資の見通しを引き上げたことが、かえって採算懸念を強めました。",
+      "url": "https://edition.cnn.com/2026/10/30/investing/us-stocks-ai-investment",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    },
+    {
+      "title": "大手テックの自社株買いが83%減 AI投資が手元資金を圧迫",
+      "summary": "Reutersの分析として、大手テック企業の自社株買いが83%減少したと報じられました。AIインフラへの支出が拡大し、株主還元に回す現金が圧迫されている構図です。AI設備投資の規模が企業財務のかたちを変え始めていることを示す数字として注目されています。",
+      "url": "https://thenextweb.com/news/big-tech-buybacks-fall-ai-spending-reuters",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    }
+  ]
+}

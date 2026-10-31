@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-31",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "CSS-Tricks「The Frankenstein Table」公開 table以外のレイアウト手法で表を組む",
+      "summary": "CSS-Tricksは10月29日、Preethi氏による記事「The Frankenstein Table」を公開しました。CSS Gridなど table 要素以外のレイアウト手法を組み合わせて表を構築する方法を扱っています。レスポンシブ対応やセマンティクスとの折り合いをどう付けるかという、表組みの実務的な悩みに踏み込んだ内容です。",
+      "url": "https://css-tricks.com/the-frankenstein-table/",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    },
+    {
+      "title": "Vue 3.6.0-rc.14 公開 Vapor モードのハイドレーション修正と大幅な性能改善",
+      "summary": "Vue は10月30日、3.6.0 の14番目のリリース候補 v3.6.0-rc.14 を公開しました。runtime-vapor に devtools 向けコンポーネントフックが追加され、v-if チェーンのハイドレーションやサーバーレンダリング済みの静的テンプレートのミスマッチ復帰など、Vapor 周りの不具合が多数修正されています。compiler-vapor と compiler-core では変換・コード生成のアロケーション削減やキャッシュ追加など十数件の性能改善が入りました。",
+      "url": "https://github.com/vuejs/core/releases",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    },
+    {
+      "title": "pnpm 12.17.0 公開 peers check --global と overrides の依存グループ指定に対応",
+      "summary": "pnpm は10月30日、12.17.0 と 11.28.10 を同時に公開しました。12.17.0 では `pnpm peers check --global` が追加され、overrides で依存グループのセレクターやワイルドカードが使えるようになり、`pnpm outdated`/`update` がランタイムや Cargo、Python の更新も扱えるようになりました。11.28.10 では cacheDir が他ストアの親を指す場合に `store prune` が他のストアを削除してしまう問題が修正されています。",
+      "url": "https://github.com/pnpm/pnpm/releases",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    },
+    {
+      "title": "Angular 22.3.0-next.3 公開 単位が必要なCSSプロパティの数値チェックを追加",
+      "summary": "Angular は10月29日、プレリリースの 22.3.0-next.3 を公開しました。単位の指定が必要なCSSプロパティに数値だけが渡されていないかを検査する機能が追加され、多くの診断メッセージが ngtsc の表現と揃えられています。同日公開の安定版 22.2.4 と合わせ、コンパイラとプリプロセッサ周りの整備が進んでいます。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    },
+    {
+      "title": "Biome v2.6.4 公開 Vue向けルールを含む nursery ルールを多数追加",
+      "summary": "Biome は10月28日、CLI v2.6.4 を公開しました。noConsoleSpaces、noNull、noReturnArrayPush といった nursery ルールが追加され、noVueMutatingProps や noVueUnusedRefs など Vue 向けのルールも加わりました。useVueDefineOptions や noYamlBooleanKeys も新設され、Vue と YAML のサポート強化が続いています。",
+      "url": "https://github.com/biomejs/biome/releases",
+      "collectedAt": "2026-10-31T23:17:40Z"
+    }
+  ]
+}
