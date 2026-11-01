@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-01",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAI・Google・Microsoftが対応表明",
+      "summary": "サイト運営者がAI学習への利用拒否を1行で伝えられる共通シグナル「User-Agent: __usage_ai-training」に、OpenAI・Google・Microsoftが対応を表明した。AnthropicがIETFのAI Preferences(AIPREF)関連ドラフトとして提案したもので、同社も実装を進めているという。クロール自体を止める仕組みではないため、クロール拒否には従来どおり個別のDisallow設定が必要で、GoogleとMicrosoftの適用開始は2027年とされている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "collectedAt": "2026-11-01T23:17:22Z"
+    },
+    {
+      "title": "OpenAI、ChatGPTのWork機能を通常のChatに統合へ Codexと利用枠も共通化",
+      "summary": "OpenAIは、ChatGPTの「Work」タブの機能を通常のChat画面に取り込む方針を明らかにした。まず少数のユーザーを対象に、ChatタブとWorkタブを一体化したテストを数週間以内に開始する予定で、会話から複雑なタスクまでモードを切り替えずに移行できるようにする。あわせてChatGPTとCodexの利用枠を共通化し、Proの利用枠を2倍にするとしている。",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+      "collectedAt": "2026-11-01T23:17:22Z"
+    },
+    {
+      "title": "デジタル庁、国会答弁作成支援AIアプリを政府職員18万人に試験提供",
+      "summary": "デジタル庁は生成AI基盤「ガバメントAI 源内」上に国会答弁作成支援AIアプリのプロトタイプを追加し、約18万人の政府職員が利用できるようにした。議事録や法令の検索から答弁草案の作成、想定問答となる「更問」の提案までを支援し、長時間勤務が課題の国家公務員の負担軽減を狙う。開会中の臨時国会で試験運用し、2027年1月召集の通常国会での本格提供を目指すが、最終的な判断と精査は職員が行うとしている。",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2152739.html",
+      "collectedAt": "2026-11-01T23:17:22Z"
+    },
+    {
+      "title": "Apple Intelligence、中国では12月にiOS 27.3で提供 SiriにAlibabaのQwenを採用",
+      "summary": "Appleは中国本土向けApple Intelligenceの最初の機能群をiOS 27.3として12月に提供すると明らかにし、開発者ベータは11月4日に始まる。AlibabaのQwenがSiri、作文ツール、Visual Intelligenceの一部リクエストを処理し、利用者はQwenアカウントまたはAppleアカウントでサインインする。WWDC 2026で公開された新しいSiriは今回の中国向け提供には含まれず、サインイン時のデータ取り扱いについて両社は詳細を明らかにしていない。",
+      "url": "https://thenextweb.com/news/apple-intelligence-china-ios-27-3-alibaba-qwen",
+      "collectedAt": "2026-11-01T23:17:22Z"
+    }
+  ]
+}

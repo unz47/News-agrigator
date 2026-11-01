@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-01",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Qwen Code v0.26.5 公開 Generated UIを既定で有効化しWeb Shellにショートカット追加",
+      "summary": "Qwen CodeのCLIとデスクトップ版v0.26.5が公開され、Generated UIが既定で有効になり、チャットから対話的なカードの値を利用できるようになった。Managed local H2とHosted MySQLでSQL履歴クエリの範囲が制限され、Web Shellのキーボードショートカットやステータスバーへのバックグラウンドエージェント数表示が加わった。Managed Agent向けに1コマンドで実行できる実験的なHelmデプロイも追加されている。",
+      "url": "https://github.com/QwenLM/qwen-code/releases",
+      "collectedAt": "2026-11-01T23:17:22Z"
+    },
+    {
+      "title": "GitHub Copilot CLI 1.0.106-2 公開 /resumeで実行中のバックグラウンドセッションに切り替え",
+      "summary": "GitHub Copilot CLIのプレリリース1.0.106-2が公開され、/resumeで実行中のバックグラウンドセッションに切り替えられるようになった。スクリーンリーダーモードではエラーと警告に接頭辞が付き、HTTP MCPの起動タイムアウトが一度だけ適用されるよう修正された。シンボリックリンクされたmcp-config.jsonが保存時に維持される修正も入っている。",
+      "url": "https://github.com/github/copilot-cli/releases",
+      "collectedAt": "2026-11-01T23:17:22Z"
+    },
+    {
+      "title": "Kiro、Claude Opus 5.5とGPT-5.6 Solを正式提供 Experimental表記を削除",
+      "summary": "KiroがClaude Opus 5.5とGPT-5.6 Solを一般提供(GA)に移行し、Experimentalラベルを削除した。両モデルはKiroの全面サポート対象となり、Kiro Excluded Modelsの免責対象外となる。利用するにはIDEやCLIの再起動、Crewではkirocrew restart、Webではリロードが必要。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-01T23:17:22Z"
+    },
+    {
+      "title": "Zed v1.27.0-pre 公開 コミットメッセージをリポジトリの履歴に合わせて生成",
+      "summary": "コードエディタZedのプレリリースv1.27.0-preが公開され、AIによるコミットメッセージ生成がリポジトリ直近のコミットのスタイルに追従するようになった。Go 1.27のジェネリックメソッドのシンタックスハイライトに対応し、READMEを既定で開くオプションも追加されている。",
+      "url": "https://github.com/zed-industries/zed/releases",
+      "collectedAt": "2026-11-01T23:17:22Z"
+    },
+    {
+      "title": "Crush v0.99.0 公開 Catwalk v3へ移行しフックをセッション・権限・圧縮まで拡張",
+      "summary": "Charmbracelet製のターミナルAIコーディングツールCrushのv0.99.0が公開され、プロバイダー型の記述方式が変わるCatwalk v3へ移行した(既存設定は自動移行)。フックがセッション、ターン、権限、コンテキスト圧縮まで対象を広げ、クライアント/サーバーモードではホスト側のテーマ適用やコンテキスト受け渡し、セッションの共同閲覧、権限応答のパイプ入力が可能になった。SIGHUPでの設定リロードとターミナル終了時の正常なシャットダウンにも対応している。",
+      "url": "https://github.com/charmbracelet/crush/releases",
+      "collectedAt": "2026-11-01T23:17:22Z"
+    }
+  ]
+}

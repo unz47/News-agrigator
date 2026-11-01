@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-01",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Rspack v2.3.0 公開 パーサーをSWC Nextへ移行しES2026ターゲットに対応",
+      "summary": "Rspack 2.3.0が公開され、JavaScriptパーサーがSWC Nextに切り替わった。ローダーの内容ベースのフィルタリング(codeFilter)やmodule.parser.javascript.dynamicUrl、ES2026ターゲットのサポートが追加され、Stats JSONで新キャッシュの統計を参照できるようになった。メモリ診断の追加や多数の性能改善・バグ修正も含まれる。",
+      "url": "https://github.com/web-infra-dev/rspack/releases",
+      "collectedAt": "2026-11-01T23:17:22Z"
+    },
+    {
+      "title": "oxlint v1.90.0 / oxc crates v0.156.0 公開 新ルールとサロゲート文字列の畳み込み変更",
+      "summary": "Rust製リンターoxlintの1.90.0が公開され、no-unsafe-enum-assignmentルールとawait-thenableのallowMixedPromiseArraysオプション、Oxlintrc型のエクスポートが追加された。同時にリリースされたoxc crates 0.156.0では、JSStr定数によるサロゲート文字列の畳み込みが破壊的変更として入り、範囲外の文字列インデックスの畳み込みやReact Compiler関連の修正も行われた。フォーマッターoxfmt 0.75.0ではコメントや括弧の扱いが修正され、FormatElementを16バイトに縮小する性能改善が入っている。",
+      "url": "https://github.com/oxc-project/oxc/releases",
+      "collectedAt": "2026-11-01T23:17:22Z"
+    },
+    {
+      "title": "React Router v8.5.1 公開 <Await unstable_promise> でReactのuse()と併用可能に",
+      "summary": "React Router 8.5.1がリリースされ、実験的な<Await unstable_promise>によってクライアントコンポーネントでReactのuse()を使いつつerrorElementやuseAsyncValue、useAsyncErrorを維持できるようになった。ssr: falseの開発サーバーで不正なパーセントエンコードがURIErrorになる問題や、フェッチャーの再検証エラーがルートまで伝播する問題、エンコードされたactionへのForm送信で履歴が重複する問題などが修正されている。失敗したlazyインポートをキャッシュせず再試行する変更も入った。",
+      "url": "https://github.com/remix-run/react-router/releases",
+      "collectedAt": "2026-11-01T23:17:22Z"
+    },
+    {
+      "title": "pnpm 11.28.10 公開 store pruneが他のストアを削除する不具合を修正",
+      "summary": "pnpm 11.28.10が公開され、cacheDirが他のストアの親ディレクトリを指している場合にpnpm store pruneがそれらのストアまで削除してしまう不具合が修正された。グローバルコマンドがホイストされた依存関係を読み込んでしまう問題も修正されている。同日には最新系列のpnpm 12.17.0もリリースされている。",
+      "url": "https://github.com/pnpm/pnpm/releases",
+      "collectedAt": "2026-11-01T23:17:22Z"
+    }
+  ]
+}
