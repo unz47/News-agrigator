@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-02",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Angular、v21.2.26とv20.3.35を公開 ダウングレードコンポーネントの不具合を修正",
+      "summary": "Angularチームは11月2日、サポート中の2系統に対するパッチリリースを同時に公開した。いずれもAngularJSとの共存で使うdowngradeComponentについて、テンプレートの中身だけをコンパイルするよう挙動を修正している。最新のv22系は22.3.0-next.3が開発中。",
+      "url": "https://github.com/angular/angular/releases/tag/v21.2.26",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    },
+    {
+      "title": "Astro 7.4.5 公開 dev/previewサーバーのロックファイル削除やビルド時の不具合を修正",
+      "summary": "Astro 7.4.5では、実行中のdev/previewサーバーのプロセスにシグナルを送れないユーザーがバックグラウンドのサーバーコマンドを実行した際にロックファイルを消してしまう問題を修正した。astro buildで$を含むimport.meta.envの値が壊れる不具合や、不正なパーセントエンコードのパスに対してエラーログの代わりに400を返す変更も含まれる。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    },
+    {
+      "title": "@astrojs/cloudflare 15.0.0-beta.5 公開 Viteプラグインの設定APIへ全面移行",
+      "summary": "AstroのCloudflareアダプターのベータ版が更新され、Viteプラグインのフル設定APIを利用する形に移行した。ユーザーが定義したWorkerの設定やバインディング、Containersの指定は保持される。同日公開の14.4.4では、import.meta.glob()のimportオプションなどフロントマターのキー名が原因でdev依存スキャンがエラーになる不具合も修正された。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    },
+    {
+      "title": "oxc crates v0.157.0 公開 パーサーの厳格化とパフォーマンス最適化",
+      "summary": "Rust製JavaScriptツールチェーンoxcのcratesがv0.157.0になった。JavaScriptでのTypeScript default exportやオプショナルなクラスメンバーを拒否し、sloppyモードのlet式やラベルを正しく解釈するなどパーサーの正しさを強化。文字列になり得るオペランドで数値の+を畳み込まないよう修正し、浮動小数の整形をdragonboxからzmijへ置き換えた。",
+      "url": "https://github.com/oxc-project/oxc/releases/tag/crates_v0.157.0",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    },
+    {
+      "title": "CSS-Tricks「What's !important #20」公開 スクロール演出やrandom()を紹介",
+      "summary": "CSS-Tricksの定期まとめ連載の第20回が公開された。GTA 6のサイトで使われているスクロール演出や、スクロール位置に応じて目次をハイライトするスクロールスパイの実装、CSSのrandom()関数などフロントエンドの最新トピックを取り上げている。",
+      "url": "https://css-tricks.com/whats-important-20/",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    }
+  ]
+}

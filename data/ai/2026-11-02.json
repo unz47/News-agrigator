@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-02",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、IPOで日本の投資家向けに最大5528億円を調達へ",
+      "summary": "Anthropicは新規株式公開に合わせ、日本で最大35億ドル(約5528億円)を調達する方針を明らかにした。6月に上場したスペースXの調達額を6割上回る規模で、みずほ証券が日本での販売を取りまとめ、ゴールドマン・サックス証券やSBI証券なども取り扱う。米ナスダック上場で全体では1000億ドル規模の調達が見込まれている。",
+      "url": "https://www.nikkei.com/article/DGXZQOUB020LO0S6A101C2000000/",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    },
+    {
+      "title": "Anthropic、修正S-1でAI研究加速の閾値に「間もなく到達の可能性」と開示",
+      "summary": "Anthropicが11月2日にSECへ提出した修正目論見書(S-1/A)のリスク要因に、将来モデルの社内見積もりから責任あるスケーリング方針(RSP)の「AIによる劇的に加速した進歩」の定義に間もなく該当し得るとの記述が加わった。現行モデルは閾値超過と認定しておらず、データの評価を継続中としている。研究開発の一部判断に人間のレビューと承認を求めるRSP改定も検討しているという。",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    },
+    {
+      "title": "Claude、「Max 20x」を「Ultra」に改称 認証済みは5時間制限を撤廃",
+      "summary": "Anthropicは月200ドルの「Max 20x」プランを「Ultra」に改称し、月100ドルの「Max 5x」を単に「Max」とした。価格は変わらず既存契約者は自動的に移行する。Ultraでは認証済みアカウントの5時間ごとの利用制限が撤廃され、週単位の上限のみとなる(未認証の新規アカウントは認証完了まで一時的に5時間制限が残る)。",
+      "url": "https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    },
+    {
+      "title": "Geminiアプリ、チャット内でのファイル生成・プレビュー・編集に対応",
+      "summary": "GoogleはGeminiアプリのWeb版とモバイル版で、チャット内から直接ファイルを生成・プレビュー・編集できるようにしたと発表した。PDFはWebとモバイルの両方に対応し、ドキュメント・スプレッドシート・スライド・Markdown・TXT・コードはWeb限定。全画面ビューで直接入力したり、テキストを選択してGeminiに修正させることもできる。",
+      "url": "https://workspaceupdates.googleblog.com/2026/10/create-preview-and-edit-files-directly-in-the-Gemini-app.html",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    },
+    {
+      "title": "OpenAI、ChatGPT Pro/Businessに月最大500ドル分のAPIクレジットを付与",
+      "summary": "OpenAIはAPIチェンジログで、対象となるChatGPT ProおよびBusinessの契約者が特典として月最大500ドル分の無料APIクレジットを受け取れるようになったと公表した。自分が所有するAPI組織をリンクすることで有効化する。Anthropicが先に始めたMax/Teamプランへの月次APIクレジット付与に追随する動きとなる。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    }
+  ]
+}

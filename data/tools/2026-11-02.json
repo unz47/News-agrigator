@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-02",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot CLI v1.0.106-4 公開 フックの再帰防止とKerberosプロキシ対応",
+      "summary": "コマンドフックに COPILOT_HOOK_DEPTH が渡されるようになり、フックから起動したセッションがagentStopの再帰的な連鎖を止められるようになった。KerberosのNegotiate認証を要求するプロキシ経由でリモートHTTP MCPサーバーに接続できるようになり、Ctrl+Oでオブジェクトや配列の引数の実際の値を表示する。括弧や引用符の内側に書いた@fileメンションもファイルが添付されるよう修正された。",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.106-4",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    },
+    {
+      "title": "GitHub Copilot CLI v1.0.106-3 公開 セッション管理ツールとローカルセッションの@mentionsを追加",
+      "summary": "オプトイン方式のセッション管理ツールと、オプトインしたローカルセッションへの@mentionsが追加された。保存済みのMCP OAuth認証情報が有効なら再サインインなしで再利用し、組み込みのドキュメントツールはインストール済みCLI自身のコマンドとヘルプトピックを返すようになった。/add-dirと/cdが引用符付きのパスを受け付ける。",
+      "url": "https://github.com/github/copilot-cli/releases",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    },
+    {
+      "title": "Qwen Code v0.26.6 公開 Web Shellのサイドバーと分割ビュー、RPMインストーラーを追加",
+      "summary": "Web Shellにサイドバーのアクティビティビューと、セッションの「Add to Split View」が追加された。トークン使用量パネルには成功率・出力速度・初回トークン遅延のメトリクスが加わり、Modsがヘッドレス実行でもprompt.submitフックを実行できるようになった。Fedora 44とRHEL 10向けのRPMインストーラーも配布開始。破壊的変更はない。",
+      "url": "https://github.com/QwenLM/qwen-code/releases",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    },
+    {
+      "title": "Kiro CLI 2.37.0 公開 V2エージェントのV3自動アップグレードとACPサインインに対応",
+      "summary": "V3セッションの開始時にV2形式のエージェントが既定でV3へ自動アップグレードされるようになった(各ファイルは.json.bakとしてバックアップされ、chat.enableAutoAgentUpgradeをfalseにすればV2のまま維持できる)。ターミナル認証に対応したACPクライアントが「Log in to Kiro」でkiro-cli loginを実行できるようになり、Mermaid図のノード形状と入れ子サブグラフのサポートも拡充された。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    },
+    {
+      "title": "GitHub Actions、publicリポジトリで pull_request_target を12月2日から既定ブロック",
+      "summary": "GitHubはpublicリポジトリにおいて、Actionsのイベントポリシーで明示的に許可しない限り pull_request_target イベントを既定でブロックすると発表した。基底リポジトリのコンテキストで動きシークレットにアクセスできるため、フォークの信頼できないコードを実行するとパイプラインの侵害や情報漏えいにつながる点が理由。適用は当初の11月2日から12月2日に延期され、事前に11月9日と16日の16〜18時(UTC)にブラウンアウトが実施される。",
+      "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+      "collectedAt": "2026-11-02T23:15:53Z"
+    }
+  ]
+}
