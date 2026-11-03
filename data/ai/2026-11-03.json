@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-03",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、旧Claudeモデル3種にテキスト電子透かしを拡大",
+      "summary": "Anthropicは11月3日、Claude Mythos 5・Claude Opus 4.7・Claude Sonnet 4.6が生成するテキストにも電子透かしを付与すると公表した。8月2日以降に公開したモデルから適用してきた措置の拡大で、EU AI法の透明性義務への対応が背景にある。ただしClaude Sonnet 4.6では、temperatureやtop_p、top_kを既定値から変えて生成したテキストには透かしが入らない場合があるとしている。",
+      "url": "https://support.claude.com/en/articles/16266773",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    },
+    {
+      "title": "Claude API、「メッセージスレッド」をベータ公開 長い会話の初回応答を高速化",
+      "summary": "Anthropicは11月2日、Messages APIで会話をサーバー側に保持する「メッセージスレッド」をパブリックベータとして公開した。2回目以降のリクエストで新しいメッセージだけを送れるため、長い会話やエージェントループでリクエストが小さくなり、最初のトークンまでの時間が短縮される。`message-threads-2026-08-12`ベータヘッダーで有効化し、スレッドは最終リクエストから5分で期限切れとなる。",
+      "url": "https://platform.claude.com/docs/en/release-notes/api",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    },
+    {
+      "title": "OpenAI、電力網の逼迫時にデータセンターの需要を抑える「Grid Protectors Program」を発表",
+      "summary": "OpenAIは11月2日、米国の電力網が逼迫した際に自社開発のデータセンターの電力需要を抑える「Grid Protectors Program」を発表した。法的拘束力のない枠組みで、取り決めは電力会社ごとに個別に交渉する。ジョージア州エフィンガム郡の新キャンパス「Project Camellia」では、Georgia Powerとの25年契約の下で最大1000メガワットを出力抑制に充てるパイロットを実施する。",
+      "url": "https://openai.com/index/grid-protectors-program/",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    },
+    {
+      "title": "OpenAI、ライフサイエンス研究向けモデル「GPT-6 Rosalind」を提供開始",
+      "summary": "OpenAIはAPIチェンジログで、10月30日にライフサイエンス研究向けモデル「gpt-6-rosalind」の提供を開始したと公表した。利用できるのはトラステッドアクセスプログラムで承認された組織に限られる。同社は10月26日にも、視覚推論やコンピュータ操作、自然な文章生成に強い高速モデル「GPT-6.1 Terra」を公開している。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    },
+    {
+      "title": "Gemini APIの画面操作ツール「Computer Use」が正式提供(GA)に",
+      "summary": "Googleは10月30日、Gemini APIの画面操作ツール「Computer Use」をInteractions APIとGenerateContent APIの両方で正式提供(GA)に移行した。2025年10月のプレビュー公開から約1年での一般提供となる。GA後も実際のクリック操作やスクリーンショットの取得、安全性チェックはクライアントアプリ側が担う構成は変わらない。",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    }
+  ]
+}

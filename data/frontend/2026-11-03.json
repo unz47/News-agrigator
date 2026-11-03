@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-03",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js、11月のセキュリティリリース公開 16.4.5と15.5.29で7件の脆弱性を修正",
+      "summary": "Vercelは11月3日、Next.jsの定例セキュリティリリースとしてv16.4.5(Active LTS)とv15.5.29(Maintenance LTS)を公開した。最も深刻なHigh評価の問題は、Cache Components利用時に同じ`use cache`関数を直接と`unstable_cache`経由の両方から呼ぶとテナント間でキャッシュ内容が漏れるもの(GHSA-mfr8-8qww-v76h)。ほかに画像最適化でのSVG拒否のバイパスやEdgeルートでのCookie値露出など、Medium評価の問題も修正された。",
+      "url": "https://nextjs.org/blog/november-2026-security-release",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    },
+    {
+      "title": "CSS-Tricks、モダンCSSで:nth-child()を再実装する記事を公開",
+      "summary": "CSS-Tricksは11月3日、Temani Afif氏による「Re-Implementing :nth-child() With Modern CSS」を公開した。スタイルクエリと`sibling-index()`を組み合わせ、条件に応じて子要素を選択する手法を解説している。従来の`:nth-child()`では書きにくかった柔軟な条件指定をモダンCSSで実現する内容になっている。",
+      "url": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    },
+    {
+      "title": "WebKit、Safari 27.3ベータの「Adaptive Dark Mode」を解説",
+      "summary": "WebKitは11月3日、Safari 27.3ベータの新機能「Adaptive Dark Mode」を紹介した。ユーザーが有効にすると、ダークモード未対応で明るい配色のサイトをSafariが解析して暗く表示し、色相を保ったまま輝度を反転させてWCAGの4.5:1のコントラスト比を目指す。`color-scheme`でダークモード対応を宣言したサイトは対象外で、開発者は`color-scheme: light only`でオプトアウトできる。",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    },
+    {
+      "title": "oxlint v1.91.0 公開 ルールのアロケーション追跡とreact/capitalized-callsの除外設定を追加",
+      "summary": "Rust製リンターoxlintのv1.91.0が11月3日に公開された。リンタールールごとのアロケーション追跡が導入され、`react/capitalized-calls`には`allow`と`allowPattern`オプションが追加された。多数のバグ修正とパフォーマンス改善も含まれている。",
+      "url": "https://github.com/oxc-project/oxc/releases",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    },
+    {
+      "title": "oxfmt v0.76.0 公開 HTMLの整形を新クレートに移行する破壊的変更",
+      "summary": "フォーマッターoxfmtのv0.76.0が11月3日に公開された。破壊的変更として、`parser:html`を指定したファイルの整形が`oxc_formatter_htmlish`クレートに切り替わった。HTML向けフォーマッターの新しいバリアントが加わり、JS内のHTMLテンプレートリテラルの扱いも改善されている。",
+      "url": "https://github.com/oxc-project/oxc/releases",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    }
+  ]
+}

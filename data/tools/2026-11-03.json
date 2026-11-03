@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-03",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Kiro CLI 3.0.0 公開 V3が既定になりClassicとデスクトップアプリは廃止",
+      "summary": "AWSのKiroは11月3日、CLI 3.0.0を公開し、対話セッションの既定エージェントをV3に切り替えた。V2形式のカスタムエージェントは自動でV3形式に移行され、クラウドセッションやメモリ、`/sandbox`、`/autonomous on`などV3の機能が使える。Classic(V1)インターフェースとデスクトップアプリ、インライン補完は廃止され、V2を使い続けるには`kiro-cli --v2`を指定する。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    },
+    {
+      "title": "GitHub Copilot、JetBrains Airで利用可能に",
+      "summary": "GitHubは11月3日、JetBrains AirでGitHub Copilotが使えるようになったと発表した。Agent Client Protocol(ACP)を用いた統合で、Airのエージェントピッカーから選び、JetBrains IDE内またはクラウドでタスクを実行できる。クラウドタスクはAir Teamsの機能で、JetBrains AIクレジットではなくCopilotのプランを消費し、毎回新しい仮想マシン上のDockerコンテナで実行される。",
+      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    },
+    {
+      "title": "Dependabot、AIエージェント向けの「Agent Package Manager」に対応",
+      "summary": "GitHubは11月3日、Dependabotのバージョン更新がAgent Package Manager(APM)に対応したと発表した。APMはAIエージェントのスキルやプロンプト、指示書を管理するツールで、`apm.yml`に宣言したgit依存関係を更新するプルリクエストを作成し、`apm.lock.yaml`があれば再生成する。`.github/dependabot.yml`に`apm`エントリを追加して有効化し、対象はバージョン更新のみでセキュリティ更新は含まない。",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    },
+    {
+      "title": "CodeQL 2.27.3 公開 Python 3.15対応とデータ拡張のJSON記述に対応",
+      "summary": "GitHubは11月3日、コードスキャンの解析エンジンCodeQL 2.27.3を公開した。データ拡張ファイルをJSONで記述できるようになり、LLMが生成したデータを対象とするオプトインの`ai`脅威モデルも加わった。PythonはUnicode 17識別子などの3.15構文に対応し、C/C++は`_BitInt(N)`をサポート。GitHub Actionsのクエリは制御フローグラフが共通ライブラリに移行したため破壊的変更となる。",
+      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    },
+    {
+      "title": "Claude Code 2.1.317 公開 メールアドレス送信前の確認とSDKフックのブロック指定を追加",
+      "summary": "Claude Code 2.1.317が公開された。Webやシェルのツールがアカウントのメールアドレスをネットワークへ送る前に確認を求めるチェックが入り、Agent SDKのフックコールバックには失敗時に処理をブロックする`onFailure: \"block\"`が追加された。`/schedule`で意図しないコネクタが付いたクラウド定期タスクに警告が出るようになり、Claude apps gatewayの管理APIには期間ごとの支出を返すコストレポートが加わった。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-11-03T23:19:15Z"
+    }
+  ]
+}
