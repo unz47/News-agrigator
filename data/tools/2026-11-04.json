@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-04",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Visual Studio Code 1.145 リリース、リモートエージェントとcron自動化に対応",
+      "summary": "11月4日公開のVS Code 1.145では、統合ブラウザがリモートエージェントホストのページやキャンバスを読み込めるプレビュー機能が入った。ネストしたセッションが親と別のハーネスを使える「混在エージェントハーネス」や、5フィールドのcron式を使えるローカル自動化も追加。Copilotハーネスが新規セッションの既定になり、Agent Host経由でバックグラウンド実行できるようになった。",
+      "url": "https://code.visualstudio.com/updates/v1_145",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    },
+    {
+      "title": "GitHub Copilot、Xcode標準のコーディングアシスタントで利用可能に",
+      "summary": "GitHubは11月4日、CopilotがXcodeに内蔵されたコーディングアシスタント内で直接動くようになったと発表した。パブリックプレビューで、Xcode 27.3 betaとmacOS Tahoe 26.6以降が必要。XcodeのIntelligence設定から有効化でき、すべてのCopilotプランが対象。従来のGitHub Copilot for Xcode拡張も引き続き別の選択肢として利用できる。",
+      "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    },
+    {
+      "title": "Kiro、組織でクレジットを共有できる「クレジットプーリング」を提供開始",
+      "summary": "Kiroは11月4日、企業管理者が席をまたいでクレジットを共有できるクレジットプーリング（コンソール上の名称はCredit sharing）を追加した。月20ドルの席ごとに500クレジットが共有プールに加算され、使い切らなかった分を他のユーザーが利用できる。ユーザー・グループ・プロファイル単位の上限設定や利用状況の監視が可能で、新規プロファイルはプーリングのみ、既存契約からの切り替えは不可逆となる。",
+      "url": "https://kiro.dev/changelog/general/credit-pooling/",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    },
+    {
+      "title": "Claude Code v2.1.318 公開、--continue の履歴消失やmacOSの停止を修正",
+      "summary": "11月4日公開のClaude Code v2.1.318では、ツール呼び出しのリトライ後に--continueが会話履歴を失う不具合（2.1.314のリグレッション）や、Bashコマンドを多数動かしたmacOSセッションが停止する問題が修正された。claude auth statusと claude -p のJSONにログイン有効期限（loginExpiresAt / credential_expires_at）が追加され、期限10日前からstderrに警告が出る。IDEターミナルから起動した際にIDE拡張を自動インストール・更新しない変更も入った。",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    },
+    {
+      "title": "CodeQL 2.27.4、解析精度とクエリメタデータを改善",
+      "summary": "GitHubは11月4日、コードスキャニングの解析エンジンCodeQL 2.27.4を公開した。Java/Kotlin、Rust、C/C++でクエリの精度が向上し、意図的なポインタ演算や[[maybe_unused]]変数への誤検知が減った。複数言語の正規表現／ReDoS系クエリからCWE-730タグを削除するメタデータ修正も含む。github.comには自動展開され、GHES 3.24に同梱される。",
+      "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    }
+  ]
+}

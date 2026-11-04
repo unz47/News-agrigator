@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-04",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
+      "summary": "Googleは現地時間11月3日、K-12（幼稚園〜高校）の生徒向けアカウントでGeminiやGemini in Classroom、Google検索を初期設定で無効にする方針を発表した。管理者が個別に有効化する形になるが、検索に組み込まれたAI概要やAIモードだけを切ることはできず、AIを禁じる学校では生徒が検索自体を使えなくなる。適用は2027年初めからと報じられ、学校管理者や子どもの安全を重視する団体から批判が上がっている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    },
+    {
+      "title": "Apple、iOS 27.3開発者ベータでSiri AIをすべてのアプリに開放",
+      "summary": "Appleは11月3日に公開したiOS 27.3の開発者ベータで、App Intents経由のSiri AI連携を特別な権限なしに全開発者へ開放した。複数のApp Intentsを連結してSiri起点のワークフロー（スキル）を組めるようになり、Apple純正15アプリでもSiriが操作を実行できる。App Storeへの提出受け付けは2027年春からで、EUのiOS/iPadOS/watchOSは対象外とされている。",
+      "url": "https://www.macrumors.com/guide/ios-27-3-beta-features/",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    },
+    {
+      "title": "Claude Platform、Mythos 5・Opus 4.7・Sonnet 4.6の生成テキストに透かしを追加",
+      "summary": "Anthropicは11月3日付のリリースノートで、Claude Mythos 5、Claude Opus 4.7、Claude Sonnet 4.6が生成したテキストにもAnthropicのテキスト透かしが付与されるようになったと公開した。対象プラットフォームでの生成物が識別可能になる。ただしClaude Sonnet 4.6では、temperature・top_p・top_kを既定値以外に設定した場合は透かしが付かないことがあると注記されている。",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    },
+    {
+      "title": "OpenAI、ChatGPTの「Chat」と「Work」タブを一つの体験に統合へ",
+      "summary": "OpenAIがChatGPTのChatタブとWorkタブを単一のインタフェースに統合する変更を進めていると報じられた。現在は一部ユーザーへの段階的なロールアウト段階で、利用上限に関するヘルプセンターの更新で確認されたという。コード中心の作業向けには、デスクトップのWork体験が引き続き分離されたまま残されるとされる。",
+      "url": "https://www.techtimes.com/articles/329951/20261103/openais-chatgpt-getting-merged-chat-work-feature-under-one-experience-similar-claude.htm",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    },
+    {
+      "title": "OpenAI、ライフサイエンス研究向け「GPT-6 Rosalind」を公開",
+      "summary": "OpenAIのAPIチェンジログによると、10月30日にライフサイエンス研究向けモデル「GPT-6 Rosalind」がリリースされた。利用は信頼済みアクセスプログラムで承認された組織に限定されている。同チェンジログでは10月28日に、対象のChatGPT Pro／Businessの契約者が月最大500ドル分のAPIクレジットを受け取れるようになったことも告知されている。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    }
+  ]
+}

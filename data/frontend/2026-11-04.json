@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-04",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Tailwind CSS v4.3.4 公開、Next.js向けTurbopackローダーを追加",
+      "summary": "Tailwind CSSのv4.3.4がリリースされ、Next.jsでTailwindを使うためのTurbopackローダー「@tailwindcss/turbopack」が追加された。@scopeを使ったバリアントやネストしたスコープの扱い、ユーティリティの正規化、CSSパース（文字列やurl()内の!importantなど）に関する多数の不具合も修正。Viteプラグインやwatchモード、@tailwindcss/oxideのWASMフォールバックなどビルド周りの修正も含む。",
+      "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.3.4",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    },
+    {
+      "title": "Vitest v5.1.0 リリース、--last-failed などテスト再実行フラグを追加",
+      "summary": "Vitest 5.1.0では、失敗したテストだけを再実行する--last-failedと、直近の変更分のみ走らせる--since-last-runが追加された。フェイクタイマーがnode:timersに対応し、vi.setSystemTime()がTemporalオブジェクトを受け取れるようになったほか、スナップショットの対話的レビューも可能になった。ブラウザモードではimport map経由のモックや実験的なpointer APIが入り、既定ポートが23315に変更された。",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v5.1.0",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    },
+    {
+      "title": "Nuxt v4.6.4 はセキュリティリリース、8件の脆弱性を修正",
+      "summary": "Nuxt v4.6.4が公開され、Nuxt側の8件のアドバイザリを修正し、nitropackを2.13.6へ更新してNitro側の3件も修正した。挙動の変更として、本番環境ではcreateErrorで作ったもの以外のエラー詳細が出力されなくなり、開発サーバーがHostヘッダーを検証するようになったため、独自ホスト名ではdevServer.allowedHostsの設定が必要になる。キャッシュされたルートルールやエンコードされたスラッシュのマッチングにも変更がある。",
+      "url": "https://github.com/nuxt/nuxt/releases/tag/v4.6.4",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    },
+    {
+      "title": "ESLint v10.14.0 公開、脆弱な依存を避けるminimatch更新を含む",
+      "summary": "ESLint v10.14.0がリリースされ、func-name-matchingのプロパティディスクリプタ処理に関する機能改善が入った。脆弱性のあるbrace-expansion依存を避けるためのminimatch更新、no-restricted-globalsとno-invalid-thisのクラッシュ修正、yodaやobject-shorthandの自動修正の不具合修正など7件のバグ修正を含む。loadESLint()のv10向けドキュメント更新なども行われた。",
+      "url": "https://github.com/eslint/eslint/releases/tag/v10.14.0",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    },
+    {
+      "title": "CSS-Tricks、デザインシステムとAIに絞ったSmashing AI Conferenceを紹介",
+      "summary": "CSS-TricksがGeoff Graham名義で、12月1日に開催されるSmashingのオンラインイベント「Smashing AI Conference」を紹介した。デザインシステムにおけるAIをテーマにしたライブ配信型のカンファレンスで、登壇者にはBrad FrostやChristine Vallaure、Vitaly Friedman、TJ Pitreが名を連ねる。参加費は50ユーロで、CSS-Tricks読者向けの割引コードも案内されている。",
+      "url": "https://css-tricks.com/smashing-ai-conference/",
+      "collectedAt": "2026-11-04T23:17:31Z"
+    }
+  ]
+}
