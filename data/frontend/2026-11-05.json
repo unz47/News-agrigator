@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-05",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "CSS-Tricks、モダンCSSリセットでタイポグラフィを整える記事を公開",
+      "summary": "11月5日公開の記事「Taming Typography: Building a Modern CSS Reset」で、Stu Robson氏がタイポグラフィを基点にしたCSSリセットの組み立て方を解説している。ブラウザ既定のマージンや行間を整え、本文の可読性を担保する実践的な指針を示す内容。",
+      "url": "https://css-tricks.com/taming-typography-modern-css-reset/",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    },
+    {
+      "title": "Astro 7.4.6 / 7.4.7 公開、i18nフォールバックや画像エンドポイントの不具合を修正",
+      "summary": "11月5日にAstroのパッチリリース 7.4.6 と 7.4.7 が公開された。7.4.6ではi18nのページグラフ帰属、globローダーの除外パターン、オンデマンドページのi18nフォールバック、route.generate() のTypeErrorなど多数を修正。7.4.7は大文字小文字を区別するファイルシステムでの画像エンドポイントの判定を修正した。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    },
+    {
+      "title": "Vite v8.3.6 公開、CSS依存収集やチャンクのimport mapハッシュを修正",
+      "summary": "11月5日公開の Vite 8.3.6 は、プラグインコンテナのclose呼び出しの重複、クエリ付き動的importでのCSS依存収集、チャンクのimport mapハッシュ、server.fs 外の .wasm 読み込みなどを修正した。サーバー側でHTML属性をエスケープし、cssScopeTo のパフォーマンス問題も解消している。",
+      "url": "https://github.com/vitejs/vite/releases",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    },
+    {
+      "title": "Safari Technology Preview 256 公開、font-palette-mix() などに対応",
+      "summary": "11月4日公開のSafari Technology Preview 256では、CSSの font-palette-mix() と ::marker への text-combine-upright が追加された。embed/object内のSVG文書で object-fit・object-position が使えるようになり、非セキュアコンテキストでのGeolocationはブロックされる。document.querySelector() の結果キャッシュなど性能改善も含む。",
+      "url": "https://webkit.org/blog/18602/release-notes-for-safari-technology-preview-256/",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    },
+    {
+      "title": "Biome CLI v2.6.5 公開、nursery に新ルールを多数追加",
+      "summary": "11月4日公開の Biome CLI 2.6.5 は、nursery グループに多数のLintルールを追加したパッチリリース。noArrayForEach、noAwaitInPromiseMethods、noChainedComparison、noDynamicDelete、noMapSpread、noSyncMethods、noMissingThrow などが含まれる。",
+      "url": "https://github.com/biomejs/biome/releases",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    }
+  ]
+}

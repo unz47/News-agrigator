@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-05",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub、新しいプルリクエスト概要ページをパブリックプレビュー公開",
+      "summary": "GitHubは11月5日、プルリクエストの新しい概要(Overview)ページをパブリックプレビューとして公開した。レビューに必要な情報を1画面にまとめ、変更内容や状態を把握しやすくする狙い。既存のPR画面と並行して試せる。",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    },
+    {
+      "title": "GitHub Secret scanning、検出器を強化しSpaceXをパートナーに追加",
+      "summary": "11月5日、GitHubはSecret scanningの検出器をアップグレードし、パートナープログラムにSpaceXを追加した。パートナー追加により、該当する認証情報が公開リポジトリに漏れた際に発行元へ自動通知され、失効処理につなげられる。",
+      "url": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    },
+    {
+      "title": "Cursor、クラウドエージェントがWebアプリを構築・ホストできる「Build Live Apps」を公開",
+      "summary": "Cursorは11月5日、クラウドエージェントがWebアプリを構築してそのままホスティングし、チームに共有できる Build Live Apps を公開した。公開されたアプリはCursorのサインインの背後に置かれ、チームメンバーだけがアクセスできる。",
+      "url": "https://cursor.com/changelog/build-live-apps",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    },
+    {
+      "title": "Kiro、Claude Haiku 5.5 と Kimi K3 を正式提供(GA)に",
+      "summary": "Kiroは11月4日、Claude Haiku 5.5 と Kimi K3 を Kiro IDE・CLI・Crew・Web で正式提供(GA)にした。いずれも通常のモデル選択から利用できる。ただし Kimi K3 は引き続き Kiro Excluded Model として扱われる。",
+      "url": "https://kiro.dev/changelog/models/claude-haiku-5-5-and-kimi-k3-generally-available/",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    },
+    {
+      "title": "Gemini CLI v0.67.0 公開、models コマンドとコンテナサンドボックス連携を追加",
+      "summary": "11月4日公開の Gemini CLI 0.67.0 では、利用可能なモデルを一覧する models コマンドと --list-models フラグが追加され、IDEコンパニオンをコンテナサンドボックス内へ橋渡しできるようになった。読み取り専用ファイルやハードリンクを尊重する書き込み、非対話モードでのシグナル処理などの修正も含む。",
+      "url": "https://github.com/google-gemini/gemini-cli/releases",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    }
+  ]
+}

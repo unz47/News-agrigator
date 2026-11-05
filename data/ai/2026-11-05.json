@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-05",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Claude Enterprise にセキュリティセンターなど新しい管理・統制機能",
+      "summary": "11月5日のリリースノートで、Claude Enterprise プラン向けにセキュリティセンター、推論フック、集中管理、追加のアクセス制御が追加されたことが公表された。いくつかの機能はベータ提供となる。企業がClaudeの利用状況を一元的に監視・制御できるようになる。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    },
+    {
+      "title": "Claude、銀行口座を連携できる「Personal Finance」をベータ公開",
+      "summary": "Claudeに銀行口座・クレジットカード・ローン・投資口座を連携し、残高や支出を1ページで確認できる Personal Finance 機能がベータ提供された。家計についてClaudeに質問することもできる。対象は米国のPro・Max・Ultraプラン利用者に限られる。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    },
+    {
+      "title": "OpenAI、脆弱性調査向けモデル「GPT-6-Cyber」をAPIに追加",
+      "summary": "OpenAIは11月5日、API向けに GPT-6-Cyber を追加した。脆弱性の調査、許可されたテスト環境での再現、修正の検証までを支援するモデルで、利用には初回リクエスト前に「Daybreak」のセットアップを完了する必要がある。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    },
+    {
+      "title": "OpenAI、AIパイプラインでLinuxカーネルの権限昇格脆弱性948件を検証",
+      "summary": "OpenAIの研究チームは、自律的に脆弱性を発見・再現・修正するパイプラインを公開前のサイバー向けモデルで1回実行し、Linuxカーネルの権限昇格(LPE)脆弱性948件について実証コードと修正候補を生成したと発表した。候補となる指摘2308件のうち1724件を動的に再現したという。API利用料は約120万ドルで、OpenAIは重大な脆弱性からメンテナへの報告を進めている。",
+      "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    },
+    {
+      "title": "OpenAI、画像生成モデル「GPT-Image-2.6 Sunburst / Flare」を公開",
+      "summary": "11月4日、OpenAIは画像生成・編集向けの GPT-Image-2.6 Sunburst と GPT-Image-2.6 Flare をリリースした。複雑さの調整、SVG出力、アニメーションGIFの生成に対応する。マークアップで指示する編集機能は GPT Image 2.5 / 2.6 の対応モデルでも利用できるようになった。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-11-05T23:13:36Z"
+    }
+  ]
+}
