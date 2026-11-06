@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-06",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Cursor、エージェントとリアルタイム音声通話できる「Voice Chat」を公開",
+      "summary": "Cursorは11月6日、エージェントとリアルタイムの音声通話ができる Voice Chat を追加した。Agents Window・IDE・Web・iOS 版から、エージェントがアイドルで入力欄が空のときに波形ボタンを押して通話を開始でき、iOSでは Siri からの発信やロック画面でのミュート・終話も可能。音声エージェントはコーディング作業をチャット側のエージェントに引き継ぎ、進捗を短く音声で報告する。基盤には Grok Voice を使い、従来の音声入力(ディクテーション)とは別機能となる。",
+      "url": "https://cursor.com/changelog/voice-chat",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    },
+    {
+      "title": "GitHub、Copilot インパクトダッシュボードに Chat と VS Code エージェントの利用状況を追加",
+      "summary": "GitHubは11月6日、Copilot インパクトダッシュボードが Copilot Chat と VS Code の Agents ウィンドウの利用状況を計測対象に加え、追跡機能が計9つになったと発表した。従来「Passive users」と呼ばれていた導入コホートは「Chat-first users」に改称された。Enterprise/Organization の28日間利用メトリクスAPIでも copilot_feature_engagement.totals_by_feature に chat と vscode_agent の項目が追加される。",
+      "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    },
+    {
+      "title": "Claude Code v2.1.319 公開、Bash 権限バイパスの脆弱性を修正しMCPタスクをバックグラウンド実行に",
+      "summary": "Claude Code 2.1.319 が11月6日にリリースされた。細工した環境変数のプレフィックスでコマンドの一部を隠せる Bash 権限バイパスと、accept-edits/auto モードで sed コマンドが権限チェックを回避できる問題が修正された。MCPタスクは既定でバックグラウンド実行となり、権限プロンプトで待機するツール呼び出しを拒否してターンを継続する permissions.denyInsteadOfPrompting 設定も追加された。",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    },
+    {
+      "title": "Kiro IDE 1.4.121 / CLI 3.1.0 公開、コンパクション用フックとサブエージェントのメモリ参照を追加",
+      "summary": "Kiro は11月5日、IDE 1.4.121 と CLI 3.1.0 を公開した。コンテキスト圧縮の前後に処理を挟める Pre/Post Compaction フックが追加され、Pre Compaction フックが終了コード2を返すと圧縮を中止できる。Workflow Runs ビューに検索機能が加わり、サブエージェントが親のメモリを読み取り専用で参照できるようになった。CLI 側では /usage にセッションクレジットの使用量が表示される。",
+      "url": "https://kiro.dev/changelog/ide/1-4-121/",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    },
+    {
+      "title": "GitHub、Copilot 利用メトリクスAPIにコードレビューの詳細と対応率を追加",
+      "summary": "GitHubは11月5日、Copilot の利用メトリクスAPIにコードレビュー関連の詳細データと、レビューコメントが対応された割合(addressed rate)を返す項目を追加した。同日には、テレメトリやバージョンの欠損を検知してフラグを立てる改善も入っている。Copilot コードレビューの導入効果を定量的に追跡しやすくなる。",
+      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    }
+  ]
+}

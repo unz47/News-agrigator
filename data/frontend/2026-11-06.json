@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-06",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Angular v22.2.5 公開、rxResource の debugName や forms の updateOn 対応を追加",
+      "summary": "Angular 22.2.5 が11月6日にリリースされた。core では rxResource に debugName オプションが加わり、img/video の src が null・undefined のときに属性自体を削除するよう修正された。forms では compat フィールドに required バリデータが反映されるようになり、カスタム FormValueControl で updateOn の blur/submit がサポートされた。router では navigation extras から focusReset を読み取るようになっている。",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.5",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    },
+    {
+      "title": "Tailwind CSS v4.3.5 公開、color-mix() のクラッシュや WASM ビルドのハングを修正",
+      "summary": "Tailwind CSS 4.3.5 が11月6日に公開された。色の補間方法を指定しない color-mix() がクラッシュしたり誤った色のフォールバックを返す問題が修正され、WebContainers のような環境で @tailwindcss/oxide-wasm32-wasi がハングせず読み込まれるようになった。関数バリアントの値が大量にあるプロジェクトでの正規化処理も高速化されている。",
+      "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.3.5",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    },
+    {
+      "title": "Biome CLI v2.6.6 公開、nursery に12個の新ルールを追加しリントを高速化",
+      "summary": "Biome 2.6.6 が11月6日にリリースされ、noConstantComparisons や noUninvokedArrayCallback、usePackageJsonEngines など12個の nursery ルールが追加された。256個を超えるルールを持つグループで設定が別のルールに適用されてしまう不具合や、SCSS の負の補間リストのパース不具合も修正されている。有効なルールが参照しない構文ノードをスキップすることでリント性能も改善した。",
+      "url": "https://github.com/biomejs/biome/releases/tag/%40biomejs%2Fbiome%402.6.6",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    },
+    {
+      "title": "Firefox 162(Nightly)が CSS の ident() 関数をトライアル導入",
+      "summary": "CSS-Tricks の11月6日付の記事によると、Firefox 162 の Nightly 版で CSS の ident() 関数のトライアル実装が始まった。ident() は CSS Values Level 5 のドラフト仕様にある機能で、文字列や数値を連結して識別子を動的に組み立てられるようにするもの。カスタムプロパティやカウンタ名などを計算で生成する用途が想定されている。",
+      "url": "https://css-tricks.com/byte-203/",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    },
+    {
+      "title": "Astro の各種インテグレーションが更新、React アイランドのリソースリンク欠落や Node.js 26 の不具合を修正",
+      "summary": "11月5日に withastro/astro から複数のインテグレーションのパッチリリースが公開された。@astrojs/react 7.1.3 では React アイランドの出力でコンポーネントが描画したスタイルシートや preload などのリソースリンクが保持されるようになった。@astrojs/node 11.1.10 は staticHeaders 有効時に Node.js 26 でオンデマンドルートのリクエストボディが空になる問題を修正し、@astrojs/vercel 11.0.19 は NFT の依存解決警告で Vercel のビルドがクラッシュする問題を修正している。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    }
+  ]
+}

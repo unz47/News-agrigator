@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-06",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Claude Enterprise にプロジェクト単位の支出タグ機能(ベータ)が追加",
+      "summary": "Anthropicは11月6日のリリースノートで、対象のEnterprise組織がプロジェクトに既存の請求コード(チャージコードや顧客・案件番号など)をタグ付けできる「Project spend tags」をベータ公開したと発表した。タグ別にプロジェクトの支出の大部分を可視化でき、社内の部門別・案件別のコスト配賦に使える。前日のセキュリティセンターや集中管理機能に続く、Enterprise向け管理機能の拡充となる。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    },
+    {
+      "title": "Thinking Machines、594BのMoEモデル「Inkling 2 Small」を発表 来週Apache 2.0で重み公開予定",
+      "summary": "元OpenAI CTOのミラ・ムラティ氏らが率いるThinking Machines Labが、総パラメータ594B・トークンあたり17Bがアクティブになるエージェント志向のMoEモデル「Inkling 2 Small」を公開した。画像入力に対応し、Artificial Analysis Intelligence Index v5.0.1で31を記録している。現時点では同社のTinker経由で重み非公開のまま提供され、外部の安全性テストとレッドチーミングの完了後、来週Apache 2.0ライセンスで完全な重みを公開する予定という。",
+      "url": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    },
+    {
+      "title": "Google、動画生成モデル「Gemini Omni 1.2 Flash」をGA 最長15秒・価格3割引き下げ",
+      "summary": "Googleは11月5日、動画生成モデル Gemini Omni 1.2 Flash を一般提供(GA)にした。クリップ長が従来の最長10秒から3〜15秒に延び、720p出力の価格は1秒あたり約0.10ドルから0.07ドルへと約30%引き下げられた。チャットのやり取りで背景・照明・アスペクト比などを再生成せずに修正でき、Gemini APIやGemini for business、Google Vidsから利用できる。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    },
+    {
+      "title": "Tencent、視覚理解とコンピュータ操作に対応した「Hunyuan Hy4」正式版を公開",
+      "summary": "Tencentの混元(Hunyuan)大規模モデルチームは11月4日、Hy4の正式版を公開した。8月のプレビュー版に比べ事前学習・事後学習の規模を大幅に拡大し、パラメータ数は約770Bとされる。同シリーズで初めて視覚理解とコンピュータ操作の能力を備え、BlenderやCADなどのソフト向けの専用学習も行われたという。Tencent Cloud TokenHubやCodeBuddy、元宝などで利用でき、低コスト版のHy4 Flashも近日提供予定とされる。",
+      "url": "https://www.caixinglobal.com/2026-11-05/tencent-launches-upgraded-hy4-ai-model-with-visual-understanding-102501068.html",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    },
+    {
+      "title": "OpenAI、データセンター建設を巡る反発を受け「National Community Compact」を公表",
+      "summary": "米中間選挙で民主党が議会の支配権を得た翌日の11月5日、OpenAIはAIインフラ計画に関する「National Community Compact」を公表した。計画中のデータセンターについて自社で電力費用を負担することを約束する内容で、地域の電気料金への転嫁懸念に応えるものとされる。ブルームバーグによると、同社はデータセンターの用地交渉で秘密保持契約(NDA)を用いない方針も示している。",
+      "url": "https://www.thenationalnews.com/future/technology/2026/11/06/moratorium-on-data-centers-openai-compact/",
+      "collectedAt": "2026-11-06T23:13:35Z"
+    }
+  ]
+}
