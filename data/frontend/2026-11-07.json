@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-07",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "oxlint v1.92.0 公開、tsrs を自動検出して型認識リントに対応",
+      "summary": "Rust製リンターoxlintのv1.92.0が11月6日に公開され、型を使ったリントのために tsrs を自動検出する機能が加わった。no-redeclare には宣言マージを無視する ignoreDeclarationMerge オプションが追加され、require-param や no-fallthrough など約15件のルール修正も含む。import グラフのバッチ処理を並行化し、ワーカーのポーリングをやめて高速化した。",
+      "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.92.0",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    },
+    {
+      "title": "Rolldown v1.3.0 公開、import attributes を実験的にサポート",
+      "summary": "RustベースのバンドラーRolldown v1.3.0が11月5日に公開され、import attributes の実験的サポートが入った。同じファイルでも属性が異なれば別モジュールとして扱われ、JSON・テキスト・バイト列のインポートがプラグインなしで動く。エージェント向けのMarkdown/JSONビルドレポートも実験的に追加された一方、preserveModules のファイル名がRollup準拠になる破壊的変更があり、Vite 8.3.6以前との併用は非推奨とされている。",
+      "url": "https://github.com/rolldown/rolldown/releases/tag/v1.3.0",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    },
+    {
+      "title": "Playwright v1.65.0 公開、テストランナーが Bun 上で実行可能に",
+      "summary": "Playwright v1.65.0が11月5日にリリースされ、--bun フラグでテストランナーをBun上で動かせるようになった(watchモードなど一部機能は挙動が異なる)。失敗したテストのみを出力する failures レポーターと、HTML/JSON/JUnit向けの onlyFailures オプションも追加。TypeScriptのクラスフィールドが useDefineForClassFields に従うなどの破壊的変更があり、Node.js 20はテスト対象外となった。",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.65.0",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    },
+    {
+      "title": "pnpm 12.18.0 公開、プラットフォーム別バリアントの公開・導入に対応",
+      "summary": "pnpm 12.18.0が11月5日に公開され、pnpr レジストリ向けにプラットフォーム別バリアントを含むパッケージのpack・publish・installに対応した。エージェントのスキルを個別に承認する仕組みと、ダウンロード済みtarballからオフラインで導入できる pnpm store add も追加。変更のないワークスペースでは package.json の読み込みを省いて再インストールを高速化し、peer依存の解決バグも複数修正している。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v12.18.0",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    },
+    {
+      "title": "CSS-Tricks がリデザインをソフトローンチ、CSSを軽量化しライトテーマを既定に",
+      "summary": "CSS-Tricksは11月6日、RSS購読者向けにサイトリデザインのプレビュー記事を公開した。19年分の古いコードを整理し、フォーマッタやリンタ、GitHub Actions、自動キャッシュバスティングを導入。Sassの書き換えでCSSを180KBから169KB(gzip後31.7KB→24.6KB)に削減し、色やフォントのデザイントークンを整備したうえで、長年のダークな見た目に代えてクリーム色のライトテーマを既定にした。",
+      "url": "https://css-tricks.com/css-tricks-redesign-preview/",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    }
+  ]
+}

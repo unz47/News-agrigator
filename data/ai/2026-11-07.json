@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-07",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、セキュリティ企業Hacktronと提携し自社システムの脆弱性を探索",
+      "summary": "OpenAIは11月6日、AIエージェントで脆弱性調査やレッドチーミングを行うHacktronとの提携を発表した。両社のエンジニアが優先度の高い領域を共同で選び、特に自社システムと外部サービスの連携部分を重点的に検証する。提携に伴いHacktronには「Daybreak Red」を通じてフロンティアモデルへのアクセスが拡大される。",
+      "url": "https://openai.com/index/partnering-with-hacktron/",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    },
+    {
+      "title": "Claude API に IP許可リスト(ベータ)と全デバイス強制サインアウト機能が追加",
+      "summary": "Anthropicは11月5日、Claude Consoleで組織管理者がAPIアクセスを承認済みのIPv4/IPv6アドレスやCIDR範囲に制限できる「IP許可リスト」をベータ提供した。1組織あたり最大1000件まで登録でき、APIキーが漏洩した場合の悪用範囲を限定できる。あわせてAdmin APIからClaude Enterpriseのメンバーを全デバイスで強制サインアウトさせる機能もベータで追加された。",
+      "url": "https://platform.claude.com/docs/en/release-notes/api",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    },
+    {
+      "title": "Mistral、企業向け「Mistral Studio」にマネージドエージェントとアプリを追加",
+      "summary": "Mistral AIは11月5日、企業向けプラットフォームMistral Studioにマネージドエージェントとアプリをパブリックプレビューで追加した。エージェントは複数段階のタスク実行、サンドボックスでのコード実行、サブエージェントへの委譲に対応し、アプリはホスティングや認証・アクセス制御を提供する。ワークフローはMistral Cloudで正式提供となり、プライベートクラウドとオンプレミス版は11月末の予定。",
+      "url": "https://mistral.ai/news/build-with-studio/",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    },
+    {
+      "title": "MetaのAIエージェント「Muse」が音声対話と表情付きアバターに対応",
+      "summary": "Metaは現地時間11月5日、AIエージェント「Muse」にリアルタイム音声対話機能と、会話に応じて表情や身ぶりが変わるアバター機能を追加した。まず米国でモバイル・Web・Mac向けアプリに提供され、数百種類の音声から選択できる。会話を続けながらバックグラウンドでタスクを処理でき、今後AIグラスや「Muse Charm」での音声会話にも対応予定とされる。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    },
+    {
+      "title": "フジテレビ、2027年10月めどに全ドラマで生成AIを活用できる体制へ",
+      "summary": "フジテレビは2027年10月をめどに、制作する全ドラマで作品やシーンに応じて生成AIを活用できる体制を整える方針を示した。『救命病棟24時』の爆発事故シーンでAI生成の空撮映像に煙を合成する手法を実証し、一部の映像制作工程で作業工数を最大8割削減できたという。9月に始動した実験場「AI Sandbox」で制作・技術スタッフとAI企業が連携して検証を進める。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002962/",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    }
+  ]
+}

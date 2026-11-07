@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-07",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot CLI v1.0.108 公開、/index コマンドとWindows向けサンドボックス権限を追加",
+      "summary": "Copilot CLI v1.0.108-0/-1が11月7日に公開された。/index コマンドと対象リポジトリでの共有tgrepインデックスが既定で有効になり、Windows向けに列挙のみを許可する sandbox.userPolicy.filesystem.enumeratePaths 設定が追加された。Assisted Permissions併用時のAutopilotは権限確認で止まらず別手段を試して結果を報告する方式になり、Grok 4.7/4.6でのPDF添付やサンドボックス下のMCPサーバー再起動も修正された。",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.108-1",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    },
+    {
+      "title": "opencode v2.2.6 公開、MCP接続の共有プールとgit worktree実行に対応",
+      "summary": "opencode v2.2.6が11月6日に公開され、同じMCPサーバー構成のプロジェクト間で接続を1本に共有するオプトイン設定 pool: true が加わった。opencode run -w で新しいgit worktree上にセッションを開始でき、--archived でCI用セッションを一覧から除外できる。GUIプラグインがテーマやコードブロックを拡張できるようになり、webfetchが資格情報を含むURLを拒否するなどセキュリティ面の変更も含む。",
+      "url": "https://github.com/sst/opencode/releases/tag/v2.2.6",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    },
+    {
+      "title": "GitHub、SlackとTeamsの「@GitHub」を正式提供 Teamsではキャンバスも追加",
+      "summary": "GitHubは11月6日、SlackとMicrosoft Teamsの「@GitHub」連携を正式提供(GA)にした。チャット上で不具合調査からIssue作成、コード変更、プルリクエスト作成まで行える。Teamsには実装計画やコード変更、プレビューを会話の横で確認できるキャンバスが追加され、メッセージからリポジトリを自動判別してセッションを開始できるようになった。作成されたIssueやPRには発端の会話と起動者が記録される。",
+      "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    },
+    {
+      "title": "GitHub、Copilot コードレビューをAPIから管理可能に レビュー概要も刷新",
+      "summary": "GitHubは11月6日、Copilotコードレビューの設定をRESTおよびGraphQL APIから管理できるようにした。エンタープライズのポリシーからリポジトリ単位までを制御でき、Copilotのレビューやコメントの識別、使われたレビュー強度、参照したスキルやMCPサーバー・カスタム指示も取得できる。レビュー概要は指摘を先頭に表示する構成に変わり、自動レビュー規則のバイパスリストや失敗時の自動再試行も追加された。",
+      "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    },
+    {
+      "title": "GitHub、Copilot の週次アップデートまとめを公開 JetBrains Air と Xcode に対応",
+      "summary": "GitHubは11月6日、11月2日週のCopilotアップデートまとめを公開した。JetBrains AirでCopilotが利用可能になり、複数のエージェントセッションをローカルまたはクラウドで追跡できる。XcodeではXcode 27.3ベータからコーディングアシスタント内でパブリックプレビュー提供を開始。Copilot CLIでは /settings がプラグインやMCPサーバーを横断検索できる統合ダッシュボードになった。",
+      "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
+      "collectedAt": "2026-11-07T23:15:54Z"
+    }
+  ]
+}
