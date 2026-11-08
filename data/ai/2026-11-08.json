@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-08",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "東京科学大、AIエージェントだけの実験チームがダイヤモンドの量子スピン応答を予測する法則を導出",
+      "summary": "東京科学大学の研究チームは、AIエージェントのみで構成した実験チームが、ダイヤモンド中の量子スピンの応答を予測する法則を導き出し、実機で検証したと発表した。仮説の立案から実験計画、検証までを自律的に回す体制で科学的発見に至った事例となる。AIエージェントを研究プロセスそのものに組み込む「AI for Science」の具体例として注目される。",
+      "url": "https://ledge.ai/articles/science_tokyo_ai_agents_quantum_spins",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    },
+    {
+      "title": "@IT、マルチエージェント設計の「15のパターン」を整理した解説記事を公開",
+      "summary": "GitHub・Google・Siemensが公開した知見をもとに、マルチエージェントシステムの設計パターン15種と、エージェントの「暴走」を防ぐ6つの基本原則を図解付きで整理した記事が公開された。データ形式を統一する型付きスキーマ、実行可能な操作を絞るアクションスキーマ、処理を順に繋ぐシーケンシャルパイプライン、並行分岐・集約などが挙げられている。LLMは暗黙の意図ではなく明示的な指示にのみ従う、という前提の重要性も指摘している。",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    },
+    {
+      "title": "PFN、翻訳特化LLM「PLaMo 3 Translate」をオープンウェイトで公開 スマホでオフライン翻訳も",
+      "summary": "Preferred Networksは、翻訳に特化した大規模言語モデル「PLaMo 3 Translate」の重みをHugging Faceで公開した。0.8B／2B／8B／31Bの4サイズを用意し、量子化版やGGUF・MLX形式も提供され、日本語・英語を含む53言語に対応する。最小の0.8BモデルはスマートフォンやノートPCで動作し、ネット接続なしでも高速に翻訳できるとしている。",
+      "url": "https://www.preferred.jp/ja/news/pr20261105",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    },
+    {
+      "title": "Perplexity、長期タスクを任せられるエージェント「Teammates」を公開",
+      "summary": "Perplexityは、継続的で複雑な業務を任せられる個人向けAIエージェント「Teammates」を発表した。プロジェクトの計画と調整を自律的に進め、結果をユーザーのレビューに回すほか、改めて指示しなくても作業を監視して動くことができる。各エージェントは独立した環境とブラウザセッションで動作し、当初はWebのMax加入者向けリサーチプレビューとして提供され、既定モデルはClaude Opus 5.5となっている。",
+      "url": "https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    },
+    {
+      "title": "Google Vids、動画生成モデル「Omni 1.2 Flash」を無料枠で提供 15秒クリップに対応",
+      "summary": "GoogleはGoogle Vidsの動画生成を最新モデル「Omni 1.2 Flash」に切り替え、Googleアカウントまたは Workspace 契約があれば月3本まで15秒のHD動画を無料で生成できるようにした。Omni 1.2 Flashはネイティブ生成・編集の長さが従来の10秒から15秒に伸び、1秒単位で3〜15秒を指定できる。720p動画のAPI価格はOmni 1.1比で3割引き下げられ、1秒あたり0.07ドルとなっている。",
+      "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    }
+  ]
+}

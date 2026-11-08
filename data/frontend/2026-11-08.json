@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-08",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.5 の canary.44 公開、キャッシュ再検証やImage priorityのドキュメントを整備",
+      "summary": "Next.js 16.5の開発版となる v16.5.0-canary.44 が11月7日に公開された。キャッシュのリフレッシュ挙動、next/image の priority 指定、メタデータ画像の優先順位に関するドキュメントの整備が中心で、ビルドに使うRustツールチェーンの更新も含まれる。直前の canary.43 では再検証時にプリレンダー済みLinkヘッダーが積み重なる不具合の修正や、ビルドと解析を1パスで行う変更が入っている。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.5.0-canary.44",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    },
+    {
+      "title": "oxfmt v0.77.0 公開、Vueテンプレートの整形に対応 parser:vue は新クレートへ移行",
+      "summary": "Rust製フォーマッタ oxfmt の v0.77.0 が公開され、Vueテンプレートの整形と、テンプレート内の式・イベントハンドラーを JsRoot として扱う機能が追加された。破壊的変更として parser:vue のファイルは oxc_formatter_htmlish で整形されるようになった。Tailwindのクラス並べ替えやレイアウト、doctypeの大文字小文字、style属性内のCSSコメントなどの不具合も修正され、Prettierワーカーをオンデマンド起動する性能改善も入っている。",
+      "url": "https://github.com/oxc-project/oxc/releases/tag/oxfmt_v0.77.0",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    },
+    {
+      "title": "Storybook v11.0.0-beta.0 公開、Astro の init サポートを追加",
+      "summary": "Storybook の次期メジャーである v11.0.0-beta.0 が公開された。Astro プロジェクトでの init サポートが追加され、非推奨のUIコンポーネントと公開パッケージ内の未使用ドキュメント画像が削除された。サイドバーの無限再帰、composition ref のクラッシュ、固定表示行でのコンテキストメニューなど複数の不具合も修正されている。",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v11.0.0-beta.0",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    },
+    {
+      "title": "Rspack v2.3.1 公開、ランタイムモジュールの差分更新に対応",
+      "summary": "Rspack v2.3.1 が公開され、ランタイムモジュールのインクリメンタル更新が追加された。statsのキャッシュ情報を既定で無効化し、ネイティブウォッチャーのバッチをまとめ、stats生成時にissuerパスをキャッシュするなど性能面の改善が多い。CSSのホットアップデートやCSSリンクのランタイム制御、sourcemapのハッシュ、Module Federationの非同期起動に関する不具合も修正されている。",
+      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v2.3.1",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    },
+    {
+      "title": "pnpm 11.28.11 公開、ワークスペースでの pnpm link の参照先を修正",
+      "summary": "pnpm のメンテナンスリリース 11.28.11 が公開された。excludeLinksFromLockfile を使った状態で frozen install が失敗する不具合と、ワークスペース内で pnpm link がワークスペースルートではなく現在のプロジェクトを参照するよう修正されている。壊れたシンボリックリンクがある状態での pnpm deploy や、verifyDepsBeforeRun が不要なインストールを始める問題も解消された。",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.28.11",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    }
+  ]
+}

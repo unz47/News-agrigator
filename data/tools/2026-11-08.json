@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-08",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Qwen Code v0.27.0 公開、マネージドエージェントの複数質問待ちとGitHubリポジトリフィルタを追加",
+      "summary": "Qwen Code CLI の v0.27.0 が11月8日に公開された。マネージドエージェントのセッションで子エージェントからの質問を複数同時に保留できるようになり、Web Shell にタスクQ&Aのヒートマップ、GitHubチャネルにリポジトリフィルタが追加された。shell の sed 編集が CRLF やUnicodeで安全になり、中断したコマンドの報告も改善されている。既知の破壊的変更はないとされる。",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.27.0",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    },
+    {
+      "title": "Qwen Code Desktop v0.27.0 公開、対応する視覚モデルを拡大しSkill起動に対応",
+      "summary": "Qwen Code のデスクトップ版 v0.27.0 も同日公開された。GitHubチャネルの受信復旧に関する不具合が修正され、マネージドエージェントとコアの性能改善が入っている。画像入力に対応する視覚モデルが追加され、Skillのアクティベーションにも対応した。あわせて TypeScript SDK v0.1.30 が CLI v0.27.0 を同梱して公開されている。",
+      "url": "https://github.com/QwenLM/qwen-code/releases/tag/desktop-v0.27.0",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    },
+    {
+      "title": "OpenAI Codex CLI v0.167.0 公開、エージェント一覧を管理する「agent command center」を追加",
+      "summary": "Codex CLI の安定版 rust-v0.167.0 が公開された。`codex agents --no-daemon` で起動するエージェントの司令塔画面が追加され、未読の結果が分かるようになった。セッションピッカーから下書きを保ったままバックエンドを切り替えられる機能、作成中の画像プレビュー、Google Cloud Vertex AI のセットアップウィザード（フラグ付き）、macOS/Windowsのシステムプロキシ対応も入った。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    },
+    {
+      "title": "Crush v0.100.0 公開、バックグラウンドのサブエージェントと「sysadmin モード」を追加",
+      "summary": "Charm の TUI コーディングエージェント Crush の v0.100.0 が公開された。サブエージェントをバックグラウンドで走らせ、状況確認・追加指示・停止・モデル変更ができるようになった。任意のコマンドを実行できる sysadmin 権限モードと、コマンドを安全／ブロック指定する permissions コマンド群が追加され、SSHのパスワードやGPG・YubiKeyのプロンプトも直接扱える。",
+      "url": "https://github.com/charmbracelet/crush/releases/tag/v0.100.0",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    },
+    {
+      "title": "Zed v1.28.0-pre 公開、Gitの自動フェッチとGit Graphの列幅調整に対応",
+      "summary": "エディタ Zed のプレリリース v1.28.0-pre が公開された。Gitの自動フェッチをオプションで有効にできるようになり、Git Graph の Refs 列の幅を変更できる。Gitパネルのファイルをターミナルやエディタにドラッグできるようになり、差分表示とターミナルでマウスホイールによるフォント拡大縮小にも対応した。",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v1.28.0-pre",
+      "collectedAt": "2026-11-08T23:20:19Z"
+    }
+  ]
+}
