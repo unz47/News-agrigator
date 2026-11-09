@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-09",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.4.6 公開、ルートハンドラのレスポンス自動圧縮とTurbopack devのGC修正",
+      "summary": "11月9日に Next.js 16.4.6 がリリースされ、未圧縮のルートハンドラのレスポンスを自動で圧縮する変更が入った。あわせて create-next-app とテストスイートでの Tailwind のバージョンを4.3.3に固定し、Turbopack dev のガベージコレクション周りの不具合も修正されている。canary の保留中の変更はすべて含まれないバックポート中心のリリース。",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.6",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    },
+    {
+      "title": "Vite v8.3.7 公開、Rolldown を v1.2.18 に更新",
+      "summary": "11月9日に Vite v8.3.7 がリリースされ、バンドラの Rolldown を v1.2.18 に更新した。あわせて lint ルールの追加や shim-deps プラグインでのソースマップ生成といったビルド周りの改善も入っている。11月5日の v8.3.6 では server.fs 外の .wasm ファイルを拒否する修正など、バグ修正とパフォーマンス改善がまとめて行われた。",
+      "url": "https://github.com/vitejs/vite/releases/tag/v8.3.7",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    },
+    {
+      "title": "Angular v22.2.5 公開、rxResource に debugName オプションを追加",
+      "summary": "11月6日に Angular v22.2.5 がリリースされ、rxResource にデバッグ用の名前を付けられる debugName オプションが追加された。Forms ではコンパチフィールドへの required バリデータの反映と、カスタム FormValueControl での updateOn(blur/submit)のサポートが入った。Router はナビゲーション extras から focusReset を読み取るようになっている。",
+      "url": "https://github.com/angular/angular/releases/tag/v22.2.5",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    },
+    {
+      "title": "WebKit、ライトテーマのサイトを自動でダークにする「Adaptive Dark Mode」を発表",
+      "summary": "WebKitブログが11月3日、Safari 27.3ベータの新機能 Adaptive Dark Mode を公開した。ダークモード未対応のライトなサイトだけを判別して明度を反転し、色相を保ちつつ本文のコントラスト比4.5:1を目標に調整する。SVGアイコンや単色ロゴも補正される一方、写真やcanvasは基本的に変換されず、サイト側からこのモードの有効化は検知できない。",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    },
+    {
+      "title": "Safari Technology Preview 256 公開、font-palette-mix() や line-clamp の continue: collapse に対応",
+      "summary": "11月4日公開の Safari Technology Preview 256 では、CSSに font-palette-mix()(Cocoaプラットフォーム)、::marker への text-combine-upright、line-clamp と組み合わせる continue: collapse が追加された。Canvas のテキスト描画スタイルに fontKerning や fontStretch などが加わり、WebGPU には texture-component-swizzle が実装。非セキュアコンテキストでの Geolocation はブロックされるようになった。",
+      "url": "https://webkit.org/blog/18602/release-notes-for-safari-technology-preview-256/",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    }
+  ]
+}

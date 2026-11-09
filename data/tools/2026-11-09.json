@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-09",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot で Claude Fable 5.2 が利用可能に",
+      "summary": "GitHub Changelog が11月9日、Anthropic の新モデル Claude Fable 5.2 を GitHub Copilot で利用できるようになったと発表した。Anthropic の公開と同日の対応で、Copilot のモデル選択から新モデルを選べるようになる。同日には GitHub Actions のワークフローログ内のシークレットを検出する Secret scanning の強化も告知された。",
+      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    },
+    {
+      "title": "Claude Code 2.1.321 公開、Fable 5.2 を既定のFableモデルに採用",
+      "summary": "Claude Code の最新版 2.1.321 では、Claude Fable 5.2 が既定の Fable モデルとして追加され、100万トークンのコンテキストウィンドウに対応した。Remote Control には起動するすべてのセッションへ設定ファイルを適用する --settings オプションが追加。MCP の OAuth シークレットがリダイレクト先ホストへ送信される問題や、cp/mv で書き込まれたファイルが deny ルールの対象外になる権限の抜け穴も修正されている。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    },
+    {
+      "title": "Cursor、エージェントとの音声通話「Voice Chat with Agents」を追加",
+      "summary": "Cursor の changelog によると11月6日、Agents ウィンドウ・IDE・Web・iOS アプリでエージェントとリアルタイム音声通話ができる Voice Chat が追加された。Grok Voice を基盤に複数の音声を選択でき、従来の Voice Mode(ディクテーション)とは別機能となる。プライバシーモード有効時はゼロデータリテンションで動作する。",
+      "url": "https://cursor.com/changelog",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    },
+    {
+      "title": "Kiro、IDE 1.4.121 と CLI 3.1.0 を公開 コンパクション前後のHookトリガーを追加",
+      "summary": "11月5日公開の Kiro IDE 1.4.121 では、Pre/Post Compaction の Hook トリガー、Workflow Runs ビューの検索、サブエージェントによるメモリの読み取り専用アクセスが追加された。同日の CLI 3.1.0 も PreCompact/PostCompact Hook に対応し、/usage やステータスラインでセッションのクレジット消費を確認できるようになった。11月3日の CLI 3.0.0 では V3 ハーネスが既定となり、Classic インターフェースやデスクトップアプリが廃止されている。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    },
+    {
+      "title": "VS Code 1.145 リリース、リモートエージェントのプレビューと異種ハーネスの混在に対応",
+      "summary": "11月4日に Visual Studio Code 1.145 が安定版としてリリースされた。Agents ウィンドウからリモートエージェントホスト上のアプリのプレビューやキャンバスを利用できるプレビュー機能が入り、入れ子セッションで親と異なるエージェントハーネス(Claude や Codex など)を使えるようになった。ローカルの自動化は5フィールドのcron式に対応し、files.exclude では ! 接頭辞で除外フォルダ内の特定ファイルを表示できる。",
+      "url": "https://code.visualstudio.com/updates",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    }
+  ]
+}

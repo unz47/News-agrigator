@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-09",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、最上位モデル「Claude Fable 5.2」「Claude Mythos 5.2」を発表",
+      "summary": "Anthropicが11月9日、コーディング・推論・視覚認識を強化した最上位モデル Fable 5.2 と Mythos 5.2 を公開した。トークン生成は5.1比で最大30%高速化し、エージェント型コーディングのFrontierSWE v2では69.9%(Opus 5.5は62.3%)を記録。価格は入力100万トークンあたり8ドル/出力40ドルで、Mythosはサイバー・ライフサイエンス分野の審査済み組織限定の提供となる。",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    },
+    {
+      "title": "OpenAI、脆弱性調査向けモデル「GPT-6-Cyber」をAPIで提供開始",
+      "summary": "OpenAIのAPI changelogによると、11月5日に脆弱性の調査・再現・修正検証に特化した GPT-6-Cyber がリリースされた。認可されたテスト環境での脆弱性再現を想定した用途で、利用には事前に Daybreak のセットアップが必要となる。直前の11月4日には画像生成・編集モデル GPT-Image-2.6 Sunburst/Flare も公開されている。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    },
+    {
+      "title": "Claude、Enterprise向けセキュリティセンターや個人資産管理「Personal Finance」を追加",
+      "summary": "Claudeのリリースノートでは11月5日に、Enterprise向けのセキュリティセンター・推論フック・集中管理といった管理機能が追加された(一部ベータ)。同時に米国のPro/Max/Ultraユーザー向けに、銀行口座やクレジットカードを連携して残高や支出をClaudeに質問できる Personal Finance(ベータ)が提供開始。11月6日にはプロジェクト単位で支出を集計できる「支出タグ」もベータ公開された。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    },
+    {
+      "title": "Sakana AI、同社初のモバイルアプリを開発中と発表 テスターを募集",
+      "summary": "Sakana AIが同社として初のモバイルアプリ(仮称「Sakana AI App」)を開発中であることを明らかにし、あわせてテスターの募集を開始した。研究開発中心だった同社がコンシューマー向けプロダクトへ踏み出す動きとして注目される。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003008/",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    },
+    {
+      "title": "画像生成AIは既存キャラクターをどれだけ出力するか ソニーAIらが14モデルを調査",
+      "summary": "Sony AIなどの研究者が、画像生成AI 14モデルを対象に既存IPのキャラクターがどの程度そのまま生成されるかを検証した研究を公開した。オープンウェイトの3モデルでは生成拒否率が0%となり、著作権リスクへの対策がモデルによって大きく異なることが示された。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
+      "collectedAt": "2026-11-09T23:14:20Z"
+    }
+  ]
+}
