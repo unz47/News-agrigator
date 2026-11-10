@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-10",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Kiro IDE 1.4.154 公開、判断を任せるチャット権限モード「Approve for me」を追加",
+      "summary": "Kiroは11月10日にIDE 1.4.154を公開し、チャットの権限モード「Approve for me」を追加した。Kiroが定型的な操作は自動承認し、リスクのある操作はブロックし、判断に迷う場合はユーザーに確認する。組織が一括管理する設定、Memoryの並べ替えと絞り込み、ワークフロー実行画面の改善も含まれる。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    },
+    {
+      "title": "Claude Code 2.1.322 公開、Vertex のグローバル／米国／EUリージョンで高速モードに対応",
+      "summary": "Claude Code 2.1.322が11月10日に公開された。Vertex AI経由の利用で、グローバル・米国・EUの各リージョンで高速モード(fast mode)が使えるようになった。Vertex側が高速モードを受け付けない場合は、同じモデルの通常速度へ自動的にフォールバックする。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    },
+    {
+      "title": "GitHub Copilot で Google の「Gemini 4 Carbon」が利用可能に",
+      "summary": "GitHubは11月10日、GitHub CopilotでGoogleの新モデル「Gemini 4 Carbon」が選択できるようになったと発表した。前日にはClaude Fable 5.2も追加されており、Copilotで選べるフロンティアモデルの選択肢がさらに広がった形だ。",
+      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    },
+    {
+      "title": "GitHub、非アクティブなリポジトリでは Dependabot アラートを一時停止へ",
+      "summary": "GitHubは11月10日、更新が止まっているリポジトリに対するDependabotアラートの生成を一時停止する変更を発表した。開発が続いていないリポジトリで通知が積み上がるのを防ぎ、実際にメンテナンスされているリポジトリの対応に集中できるようにする狙い。リポジトリの活動が再開すればアラートも再開される。",
+      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    },
+    {
+      "title": "GitHub、ダッシュボードを刷新しより多くの情報を一覧表示",
+      "summary": "GitHubは11月10日、ログイン後のダッシュボードの改善を発表した。自分に関係するアクティビティや対応が必要な項目をより見つけやすく並べ、日々の作業の起点として使いやすくする。コラボレーション機能の改善として提供される。",
+      "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    }
+  ]
+}

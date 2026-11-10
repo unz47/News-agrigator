@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-10",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Rspack v2.3.2 公開、コード分割時のHMRが安定化し実験的な rule.as を追加",
+      "summary": "Rspack v2.3.2が11月10日に公開された。コード分割によってチャンクが追加・再編成された際のフルリロードが減り、新しいチャンクはHMRのacceptコールバック実行前に読み込まれるようになった。実験的な`rule.as`では、マッチしたファイルが以降のルール照合に別パスを使いつつ、ローダーには元ファイルを読み込ませられる。`sideEffects`がfalseなら`export *`のみの中継モジュールを飛ばして元モジュールへ直結する最適化も入った。",
+      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v2.3.2",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    },
+    {
+      "title": "Storybook v10.6.7 公開、init がコミュニティ製フレームワークのプレリリースに対応",
+      "summary": "Storybook v10.6.7が11月10日に安定版として公開された。`storybook init`がコミュニティ製フレームワークのプレリリース版を認識できるようになった。またMCP関連では、ホスティングされたStorybookが実際に配信しているコンポジションスキーマを公開するよう修正された。",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v10.6.7",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    },
+    {
+      "title": "CSS-Tricks、宣言を一度だけ書く最適化手法「UDJO」は今も有効かを検証",
+      "summary": "CSS-Tricksは11月10日、Jens Oliver Meiert氏による記事を公開し、同じ宣言を一度しか書かない最適化手法「Using Declarations Just Once(UDJO)」が現在のCSSでも効果があるかを検証した。重複宣言の排除がファイルサイズや保守性にどう影響するかを、現代のCSS機能や圧縮の前提のもとで整理している。",
+      "url": "https://css-tricks.com/css-using-declarations-just-once/",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    },
+    {
+      "title": "oxlint v1.93.0 公開、promise/prefer-catch に修正提案を実装",
+      "summary": "oxlint v1.93.0が11月9日に公開された。`promise/prefer-catch`ルールに修正提案(suggestion)が実装され、`no-useless-undefined`や`react/exhaustive-deps`、`no-lone-blocks`、`no-unreachable-loop`など多数のルールの不具合が修正された。`--fix`は未使用の`oxlint-disable`ディレクティブを削除するようになり、通常のlint前にtsgolintを起動する性能改善も入った。",
+      "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.93.0",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    },
+    {
+      "title": "Rolldown v1.3.1 公開、import.meta.ROLLDOWN_FILE_URL_* で共通チャンクのインライン化に対応",
+      "summary": "Rolldown v1.3.1が11月9日に公開された。`import.meta.ROLLDOWN_FILE_URL_*`を使って共通チャンクをインライン化できる機能が追加された。`--environment`のCLI処理やsticky正規表現のマッチ、IIFE/UMDの名前空間マーカー、ツリーシェイキングやimport周りの複数の不具合が修正され、増分リビルドとチャンク到達判定も高速化した。",
+      "url": "https://github.com/rolldown/rolldown/releases/tag/v1.3.1",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-10",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、IPOロードショーを開始 8億2500万株を70〜78ドルで提示しNasdaqに「ANT」で上場申請",
+      "summary": "Anthropicは11月10日、Class A普通株の新規株式公開(IPO)に向けたロードショーを開始したと発表した。総額8億2500万株のうち8億0135万1354株を同社が、2364万8646株を既存株主が売り出し、想定価格は1株70.00〜78.00ドル。Nasdaq Global Select Marketへティッカー「ANT」で上場申請済みで、引受幹事はGoldman SachsとMorgan Stanleyが務める。",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    },
+    {
+      "title": "Google DeepMind、「AlphaProof Code」でSignalの暗号プロトコル実装を形式検証",
+      "summary": "Google DeepMindは11月10日、AIエージェント基盤「AlphaProof Code」を発表し、メッセージングアプリSignalの暗号プロトコル実装を形式検証したと公開した。エージェントはGemini 4 Carbonを基盤に300万行を超えるLeanの証明を生成したとされる。検証済みのバグを意図的に再導入したテストでは、改変後のコードが安全でないことを示す数学的証明を生成したと報じられている。",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    },
+    {
+      "title": "Claude API、Fable 5.2の高速モードを追加 computer useは新ツールセットが必須に",
+      "summary": "Anthropicは11月9日のAPIリリースノートで、Claude Fable 5.2とMythos 5.2の提供開始に伴うAPI仕様の変更を公開した。Fable 5.2では`speed: \"fast\"`を指定する高速モードが入力100万トークン16ドル／出力80ドルで利用できる。またcomputer useは`computer_toolset_20260801`が必須となり、従来の`computer_20251124`はAmazon Bedrock以外のプラットフォームで400エラーを返す。",
+      "url": "https://platform.claude.com/docs/en/release-notes/api",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    },
+    {
+      "title": "OpenAI、画像生成モデル「GPT-Image-2.6 Sunburst／Flare」を公開 SVGとGIF生成に対応",
+      "summary": "OpenAIは11月4日、画像生成・編集向けの新モデル「GPT-Image-2.6 Sunburst」と「GPT-Image-2.6 Flare」をAPIで提供開始した。生成の複雑さを調整できるオプションに加え、SVG生成とアニメーションGIF生成に新たに対応した。マークアップで編集箇所を指示する機能も、対応するGPT-Image-2.5／2.6モデルで利用できるようになった。",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    },
+    {
+      "title": "Claude Enterprise、プロジェクトにコストコードを付けて利用額を集計できる機能をベータ提供",
+      "summary": "Anthropicは11月6日、Claude Enterprise向けに「プロジェクトタグ」のベータ提供を開始した。対象組織は既存の請求コード(チャージコードや顧客・案件番号など)をプロジェクトに付与できる。タグ単位でプロジェクト利用額の大部分を参照でき、部門やクライアントごとのコスト按分が可能になる。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-11-10T23:30:00+09:00"
+    }
+  ]
+}
