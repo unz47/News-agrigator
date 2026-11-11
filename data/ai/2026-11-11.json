@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-11",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Google、最上位AI「Gemini 4 Carbon」を一般提供開始 Antigravityにマルチエージェント編成「/swarm」も",
+      "summary": "Googleは10月に発表後サイバーセキュリティプログラム経由で一部企業に限定提供していた「Gemini 4 Carbon」を、Google AI Studio のAPIとGemini for businessで一般提供した。個人向けにはAI Ultra加入者に対しAntigravity・Geminiアプリ・検索のAIモードへ順次展開される。同時に、1つの指示を複数エージェントに分担させ進捗をリアルタイム確認できる「/swarm」もプレビュー提供を始めた。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    },
+    {
+      "title": "Alibaba、中国AI「Qwen4」を発表 最上位「Qwen4-Max」のプレビュー提供を開始",
+      "summary": "Alibabaは「Qwen4」シリーズを発表し、最上位モデル「Qwen4-Max」のプレビュー版をサブスクリプション「Token Plan」で提供開始した。深い知識と世界理解の向上、コーディングおよびエージェント能力の強化を掲げ、複雑なプログラミングやソフトウェア業務を主な用途とする。今後はFlash、Plus、オンプレミス展開向けの27Bモデルも予定されている。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003098/",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    },
+    {
+      "title": "Notion、委託先への不正アクセスで「AIとのチャット記録」漏えいの恐れ",
+      "summary": "Notionは委託先が不正アクセスを受け、AI機能で蓄積されたチャット記録が外部に流出した可能性があると発表した。AIアシスタントに業務情報を入力する運用が広がる中、サプライチェーン経由での情報漏えいリスクを示す事例となった。影響範囲の詳細は調査中とされている。",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    },
+    {
+      "title": "Google、高速・高信頼の判断用API「Gemini Decisions API」を公開",
+      "summary": "Googleは、文章生成ではなく可否判断や多肢選択に特化した「Gemini Decision 1」モデルを使う「Gemini Decisions API」を公開した。確率値と信頼度スコアを返し、エンドツーエンドのレイテンシは150〜250ミリ秒とされる。Google AI StudioのGemini API経由で利用できる。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    },
+    {
+      "title": "Anthropic、IPOの想定価格レンジを70〜78ドルに設定 11月19日のNasdaq上場を視野",
+      "summary": "AnthropicはClass A株8億2500万株を1株70〜78ドルで売り出す内容に修正登録し、Nasdaqで「ANT」として取引を始める計画を示した。上限価格なら調達額は最大約643億ドルとなり、完全希薄化後の評価額は1兆ドル超と報じられている。関係者によると価格決定は11月18日、取引開始は19日が見込まれる。",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    }
+  ]
+}

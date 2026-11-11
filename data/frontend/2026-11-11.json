@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-11",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Vite v8.3.8 公開、インラインWorkerのアセット出力やCSSエントリポイントの不具合を修正",
+      "summary": "Viteのパッチリリース v8.3.8 が公開された。インラインWorkerからのアセット出力、型のみのimportに対するネイティブローダーの判定、build.cssCodeSplit が false のときのCSSエントリポイントなどの不具合を修正している。Sassを一度だけ読み込む性能改善と、Windowsでコンソールウィンドウを表示しない修正も含まれる。",
+      "url": "https://github.com/vitejs/vite/releases/tag/v8.3.8",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    },
+    {
+      "title": "Rolldown v1.3.2 公開、Node ESM出力のCJSモジュールに __dirname / __filename を提供",
+      "summary": "Rolldown v1.3.2 では、Node ESM出力内のCommonJSモジュールに __dirname と __filename が渡されるようになり、magic-string に hires オプションが追加された。厳格な実行順序における再エクスポートの順序、フックが返したソースマップの利用、無意味なinit呼び出しの除去といった修正も入っている。同日に v1.2.19 / v1.1.8 / v1.0.5 も公開され、linux-x64-gnu ビルドが古いCPUでも動作するようになった。",
+      "url": "https://github.com/rolldown/rolldown/releases/tag/v1.3.2",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    },
+    {
+      "title": "Biome v2.6.7 公開、nursery に約24個の新しいLintルールを追加",
+      "summary": "Biome CLI v2.6.7 が公開され、noAsyncPromiseFinally や noInvalidFetchOptions、noSvelteAsyncStore、useAtomicUpdates など約24個のnurseryルールが追加された。JavaScriptプラグインAPIからは semantic() クエリが削除され、ast() に { semantic: true } を渡す方式へ変更された。Markdownの引用・表・リンク整形やSCSSマップのコメント処理などフォーマッタの修正も多数含まれる。",
+      "url": "https://github.com/biomejs/biome/releases/tag/%40biomejs%2Fbiome%402.6.7",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    },
+    {
+      "title": "Tailwind CSS v4.3.4 公開、Next.js向けTurbopackローダー「@tailwindcss/turbopack」を追加",
+      "summary": "Tailwind CSS v4.3.4 で、Next.jsのTurbopack用ローダー @tailwindcss/turbopack が新たに追加された。@scope の扱いに関する多数の不具合、var() のフォールバック空白、max-[64rem] のような任意ブレークポイントを max-lg へ正規化する処理などを修正している。ネイティブバイナリがない環境でのWASMフォールバックや、macOS向けスタンドアロンバイナリの署名問題も修正された。",
+      "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.3.4",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    },
+    {
+      "title": "Astro、@astrojs/runtime 0.1.1 を公開 スコープ付きスタイルでclassが膨らむ不具合を修正",
+      "summary": "Astroは @astrojs/runtime 0.1.1 を公開し、スコープ付きスタイルを持つ要素にオブジェクトをスプレッドすると、そのオブジェクト自体が書き換えられる不具合を修正した。別モジュールからimportした定数を毎回スプレッドしていた場合、リクエストごとに class の値が増え続ける問題が起きていた。同日、@astrojs/react や @astrojs/vue など各レンダラも依存更新のパッチリリースが行われた。",
+      "url": "https://github.com/withastro/astro/releases/tag/%40astrojs%2Fruntime%400.1.1",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    }
+  ]
+}

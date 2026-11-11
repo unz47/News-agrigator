@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-11",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "VS Code 1.146 リリース、通知を集約する「Inbox mode」やチャット専用ウィンドウを実験提供",
+      "summary": "VS Code 1.146 が公開され、対応が必要・実行中・マージ可能なセッションを一覧できる実験機能「Inbox mode」が追加された(sessions.list.inboxEnabled で有効化)。チャットを独立ウィンドウで開く機能やAgents windowからの拡張機能管理もプレビュー/実験として提供される。Copilotハーネスが既定となり、Localハーネスは2027年2月に削除される予定。",
+      "url": "https://code.visualstudio.com/updates",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    },
+    {
+      "title": "Kiro CLI 3.2.1 公開、ツール呼び出しの表示詳細度を /settings で調整可能に",
+      "summary": "Kiro CLI 3.2.1 では、ツール呼び出しをどこまで詳しく表示するかを /settings で制御できる設定が追加された。GUIセッションのないLinuxホストでのサインイン不具合を修正し、/model fallback やワークフロー、スペック、Skills、ファイル検索、権限、セッション再読み込みの問題も解消している。前日公開の 3.2.0 では横長Mermaid図の全画面ビューアとOAuth設定不要なMCPサーバーへのサインインが追加された。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    },
+    {
+      "title": "GitHub、Issue Typesとカスタムフィールドを個人アカウントでも利用可能に",
+      "summary": "これまでOrganization向けだったIssue Types(課題の種別)とカスタムフィールドが、個人アカウントのリポジトリでも使えるようになった。バグ・機能要望・タスクなどの種別付けや独自フィールドでの管理が個人開発でも可能になる。既存のラベル運用と併用しながら、Issueの構造化がしやすくなる。",
+      "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    },
+    {
+      "title": "Kiro、AWSコンソールから一括管理する「Enterprise Management」をプレビュー提供 Crew LTSも登場",
+      "summary": "Kiroは管理者がAWSコンソールで1つのポリシーを書くと、Kiro IDE・CLI・Web・Crew LTS すべてに適用される「Enterprise Management」をプレビュー公開した。US East(バージニア北部)の新規プロファイルから利用できる。Enterprise Managementを使う組織向けの別エディション「Kiro Crew LTS」も同時に提供が始まった。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    },
+    {
+      "title": "GitHub、Enterprise の Copilot シート管理を GitHub App から行えるように",
+      "summary": "GitHub Appを使ってEnterpriseのGitHub Copilotシートを管理できるようになった。これまで管理画面やPATに依存していたシートの割り当て・解除を、App権限で自動化できる。大規模組織でのCopilotライセンス運用をスクリプト化しやすくなる。",
+      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "collectedAt": "2026-11-11T23:14:40Z"
+    }
+  ]
+}
