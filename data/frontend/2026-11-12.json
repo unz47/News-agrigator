@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-12",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Angular v22.2.6 公開、v22.3.0-rc.0 では HttpClient.query() を追加",
+      "summary": "Angular v22.2.6 が公開され、アニメーションのレンダラにあったメモリリーク、ICU式の解析不能時のエラーメッセージ、ハイドレーション時のマップ参照のガードなどが修正された。signal forms が AbstractControl を保持しなくなる性能改善や、httpResource の未使用転送キャッシュのツリーシェイク対応も入っている。同日公開の v22.3.0-rc.0 では HTTP QUERY メソッドを送る HttpClient.query() と、明示的な ng-template への不明なプロパティバインディングを検出する新しいコンパイラ診断が追加された。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    },
+    {
+      "title": "Prettier 3.10 公開、新しいFlow／JavaScript構文とYuku製の新プラグインに対応",
+      "summary": "コードフォーマッタ Prettier の 3.10 が公開された。新しいFlow構文と新しいJavaScript構文のサポートに加え、Yukuによる新しいプラグインが導入されている。3.9系からのマイナーアップデートで、翌日にはパッチ版の 3.10.1 も公開された。",
+      "url": "https://github.com/prettier/prettier/releases/tag/3.10.0",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    },
+    {
+      "title": "Storybook 11.0.0-beta.2 公開、docgen が TypeScript 7.1 ネイティブAPIへ移行",
+      "summary": "Storybook 11 のベータ2が公開され、ReactとAngularのdocgenがTypeScript 7.1のネイティブAPI上で動作するようになった。CLIからjscodeshiftとBabelを除去し、インストール時に取得するパッケージ数が128から13に削減されている。SvelteKitが $app モジュールをStorybookのモックAPIで差し替えるようになり、Windows+webpackビルダーでストーリーが読み込めない不具合なども修正された。",
+      "url": "https://github.com/storybookjs/storybook/releases",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    },
+    {
+      "title": "Astro 7.4.11 公開、X-Forwarded-* ヘッダーの検証を security.allowedDomains と統合",
+      "summary": "Astro 7.4.11 では X-Forwarded-Proto / X-Forwarded-Host / X-Forwarded-Port を security.allowedDomains に対してまとめて検証するようになり、ftp や ws などHTTP(S)以外の転送プロトコルは受け付けなくなった。Host と X-Forwarded-Host はポート省略可のホスト名のみ許可され、ポート443(httpでは80)の設定はポート無しのホストにも一致する。不正なパーセントエンコードのパスは500ではなく400 Bad Requestを返すよう改善され、astro build が Vite の build.license で生成したライセンスファイルを削除する不具合も直った。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    },
+    {
+      "title": "CSS-Tricks、12カラムグリッドから離れて個性あるレイアウトを設計する手法を解説",
+      "summary": "CSS-Tricksが「Beyond 12 Columns」を公開し、慣習となっている12カラムグリッドに頼らないレイアウト設計を論じている。CSS Gridの名前付きライン、サブグリッド、非対称なトラック構成を使い、コンテンツ主導でグリッドを組み立てるアプローチを紹介する。どのサイトも似た見た目になりがちな状況への処方として、設計段階からグリッドを疑う視点を提案している。",
+      "url": "https://css-tricks.com/beyond-12-columns/",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    }
+  ]
+}

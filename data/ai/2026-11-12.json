@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-12",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "エヌビディア、ジェンスン・フアンCEOが辞任 暫定トップにクレスCFO",
+      "summary": "エヌビディアは12日、ジェンスン・フアン最高経営責任者(CEO)が同日付で辞任したと発表した。取締役会が解任の可否を検討していると報じられた直後の発表で、理由は明らかにされていない。後任が決まるまでコレット・クレス最高財務責任者(CFO)が暫定CEOを務め、同社株は取引開始直後に11%以上急落した。",
+      "url": "https://www.nikkei.com/article/DGXZQOGN121U30S6A111C2000000/",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    },
+    {
+      "title": "Google、日常用途向けAI「Gemini 4 Hydrogen」を発表 エージェント処理に最適化",
+      "summary": "Googleは最上位のGemini 4 Carbon／Argonの下位に位置する日常用途モデル「Gemini 4 Hydrogen」を公開した。価格は入力100万トークンあたり1.50ドル、出力7.50ドルで、100万トークンのコンテキスト全域で同一料金となる。Google AI Studio・Gemini API・Android Studioから利用でき、Antigravityではセッション中にCarbonとHydrogenを切り替える「Orchestrator」も導入された。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    },
+    {
+      "title": "Google検索のAIモードに「Gemini 4 Hydrogen」を導入 グローバル展開",
+      "summary": "GoogleはGemini 4 Hydrogenを検索のAIモードに組み込み、世界規模での提供を開始した。複数の要素を含む複雑な質問への対応が改善され、回答の視覚表現が増え、参照リンクの幅も広がったとしている。従来のGemini 3.8 Flash世代より高速に応答する点を強みに挙げている。",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    },
+    {
+      "title": "Anthropic、ビデオ会議に同席する「Claude Meetings」をベータ提供開始",
+      "summary": "AnthropicはTeam／EnterpriseプランでGoogle Meetの通話にClaudeが参加者として加わる「Claude Meetings」のベータ提供を始めた。議事録作成や質問への回答に加え、通話中にドキュメント・ホワイトボード・スライドなどのArtifactを生成できる。既定では社外参加者がいる会議には参加しない設定で、参加時には通知を投稿する。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    },
+    {
+      "title": "OpenAI、インド国内でのAPIデータ処理と推論実行を開始 タタ系と提携",
+      "summary": "OpenAIは対象となるAPIリクエストとモデル推論をインド国内のサーバーで処理する体制を整えた。まず「GPT-6 Luna」から提供し、既存のインド向けデータレジデンシー機能を拡張する形となる。あわせてタタ・グループと国内AIデータセンター容量の確保で提携したと報じられている。",
+      "url": "https://business-standard.com/amp/technology/artificial-intelligence/openai-to-process-api-data-run-ai-inference-locally-for-indian-companies-126111201464_1.html",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    }
+  ]
+}

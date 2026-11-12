@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-12",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code 2.1.323 公開、ツール呼び出しをJavaScriptで書く実験機能「Code Mode」を追加",
+      "summary": "Claude Code 2.1.323 で、ClaudeがJavaScriptを書いて自身のツールを呼び出す実験的オプトイン機能「Code Mode」が追加された。plugin.json に engines[\"claude-code\"] を指定できるようになり、対応バージョン外のプラグインは読み込まれず、install/update は条件に合う最新版を選ぶ。claude plugin validate にTypeScript製フックの型チェックが入り、/compact の再実行で未応答メッセージが消える不具合やサインイン周りの多数の修正も含まれる。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    },
+    {
+      "title": "Kiro、Android向け「Kiro Mobile」をGoogle Playで提供開始",
+      "summary": "Kiro MobileのAndroid版がGoogle Playで公開され、PCを起動したままにしなくてもスマートフォンからKiroのクラウドセッションを操作できるようになった。セッションの開始・追跡、軌道修正の指示、画像の添付、エージェントからの質問への回答、実行停止に対応する。編集されたファイルはスマホサイズの差分カードとして表示され、Pro／Pro+／Pro Max／Powerプランが必要となる。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    },
+    {
+      "title": "Kiroのツール呼び出しをAWS CloudTrailで監査可能に",
+      "summary": "us-east-1 と eu-central-1 のプロファイルについて、Kiroサービス側MCPツールの呼び出しがCloudTrailに記録されるようになった。誰がいつどのツールを実行し、完了したかどうかをログで追跡できる。権限を要する呼び出しは既定で管理イベントとして記録され、ツール一覧取得や読み取り専用呼び出しはデータイベントを有効にすると記録される(引数はマスク、結果は非記録)。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    },
+    {
+      "title": "GitHub Actions、ARM32(Linux／Windows)のジョブ実行を12月8日までに終了",
+      "summary": "GitHub Actionsのホステッドランナーにおける、Windows／Linux上のARM32ジョブ実行(ネイティブAArch32ユーザー空間での実行)が2026年12月8日までに廃止される。ActionsでのNode 20サポート終了に伴い、Node 24がARM32に対応していないことが理由とされている。該当ワークフローを持つ利用者は期限までに対応プラットフォームへの移行計画が必要となる。",
+      "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    },
+    {
+      "title": "GitHub Secret scanning、Cloudflareのサービストークンを検出対象に追加",
+      "summary": "GitHubのSecret scanningがCloudflareのサービストークンを検出できるようになった。リポジトリにコミットされた該当トークンを自動で見つけ、アラートとして通知する。Cloudflare連携を使う開発者は、誤ってトークンを公開した際の発見が早まる。",
+      "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
+      "collectedAt": "2026-11-12T23:30:00Z"
+    }
+  ]
+}
