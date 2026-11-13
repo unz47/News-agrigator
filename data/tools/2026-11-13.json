@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-13",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot、12月14日に Claude Fable 5 や Gemini 3.8 Flash など6モデルを廃止",
+      "summary": "GitHubは、2026年12月14日に全Copilot環境で Claude Fable 5、Claude Haiku 4.5、Gemini 3.8 Flash、Gemini 4 Argon、Grok 4.6、Kimi K3 を廃止すると告知した。それぞれ Fable 5.2、Haiku 5.5、Gemini 4 Hydrogen、Gemini 4 Carbon、Grok 4.7 への移行が推奨され、Kimi K3 の代替は未発表。既定モデル有効化が有効な組織では代替が自動で有効になるが、グローバル既定を無効にしている場合はモデルポリシーで個別に設定する必要がある。",
+      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    },
+    {
+      "title": "GitHub Copilot で Google の「Gemini 4 Hydrogen」が選択可能に",
+      "summary": "GitHubは Gemini 4 Hydrogen を Copilot Pro／Pro+／Max／Business／Enterprise で提供開始した。VS Code、Visual Studio、Copilot CLI、coding agent、Copilotアプリ、github.com、GitHub Mobile、JetBrains、Xcode、Eclipse、Copilot SDK のモデルピッカーから選べる(段階的ロールアウト)。課金は使用量ベースでプロバイダーのリスト価格に準じ、Business／Enterprise管理者はモデルポリシーでアクセスを管理できる。",
+      "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    },
+    {
+      "title": "GitHub Copilot アプリが GitHub Enterprise Server 対応を一般提供",
+      "summary": "GitHub Copilot アプリ v1.2.0 以降で、GitHub Enterprise Server アカウントを追加して GHES 上のリモートリポジトリ・Issue・プルリクエストを扱えるようになった。これまではオプトインのプレビュー提供だったものが一般提供に移行した形で、まず GitHub.com または GHE.com アカウントでサインインしたうえで Settings > Accounts から GHES アカウントを追加する。なお GHES ではクラウドセッションは利用できない。",
+      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    },
+    {
+      "title": "GitHub、リポジトリ単位の AI Scan を REST API で管理可能に(パブリックプレビュー)",
+      "summary": "GitHubは既存の AI Scan エンドポイントに repository_scan 設定を追加し、組織・リポジトリ単位での AI Scan の有効化／無効化を REST API から行えるようにした。既存の pr_scan と同様に組織が無効化すれば配下リポジトリは有効化できず、Enterprise ポリシーで許可されていない場合は 422 エラーを返す。設定を有効にしてもスキャンは自動開始せず、write 権限を持つユーザーが実行するたびに GitHub Code Security の AI クレジットを消費する。",
+      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    },
+    {
+      "title": "Claude Code 2.1.325 公開、圧縮レスポンスのデコードに関するセキュリティ問題を修正",
+      "summary": "Claude Code 2.1.325 では圧縮レスポンスのデコード処理に存在したセキュリティ問題を修正し、サンドボックスが削除済みの作業ディレクトリでのコマンド実行を防ぐようになった。plan モードのモデルが opusplan／haiku の場合でもサブエージェントが自身のモデルを維持し、サードパーティゲートウェイ経由のセッションはコンテキスト長超過時に失敗せず圧縮するよう改善。異常終了後の再開セッションで直近のやり取りが失われる不具合や、deny／ask 権限ルールの判定も修正された。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-13",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Astro 7.4.12 公開、content layer 同期後にエントリを解放して build 時のメモリ使用量を削減",
+      "summary": "Astro 7.4.12 では content layer の同期後にコンテンツコレクションのエントリを解放し、astro build のメモリ使用量を削減した。@astrojs/* 依存のバージョン固定を外してキャレット範囲で解決できるようにし、フォントの cssVariable が不正な場合のエラーメッセージの誤字も修正。同時に create-astro 5.3.2 がカレントディレクトリへの生成時の命名を修正し、nub パッケージマネージャーに対応した。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    },
+    {
+      "title": "Storybook v11.0.0-beta.3 公開、ストーリー切り替え時の再描画とプリロードを最適化",
+      "summary": "Storybook v11.0.0-beta.3 は Manager のストーリー切り替え時の再レンダリングとストア書き込みを削減し、ストーリーのプリロード性能を改善した。ストーリーインデックスのバージョンカウンターを差し替え可能なファイルスロットに置き換え、composed ref が dev サーバーの起動を妨げる問題も解消。nextjs-vite の静的画像インポートにおける Windows パスの不具合も修正された。",
+      "url": "https://github.com/storybookjs/storybook/releases",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    },
+    {
+      "title": "pnpm 12.21.0 公開、pnpm store add がtarball／git依存をオフライン導入用に準備",
+      "summary": "pnpm 12.21.0 では pnpm store add が tarball 依存と git 依存をオフラインインストール向けに準備できるようになった。再インストール時に peer dependency の選択結果が保持されるようになり、lockfile.format: v13、nodeLinker: hoisted、pnpm deploy での不具合も修正。pnpr サーバーが設定を拒否した場合はローカルで解決するよう挙動が変わった。",
+      "url": "https://github.com/pnpm/pnpm/releases",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    },
+    {
+      "title": "pnpm 11.28.12 公開、レジストリURLの${VAR}プレースホルダを拒否するセキュリティ修正",
+      "summary": "pnpm 11.28.12 は、pnpm-workspace.yaml やプロジェクトの .npmrc に書かれたレジストリURL内の ${VAR} プレースホルダをエラーとして扱うセキュリティ修正を含む。従来は意図しない別のレジストリからパッケージが取得される恐れがあった。同梱の node-gyp から undici 6 を除外して CVE-2026-84947 のスキャナ警告も解消している。",
+      "url": "https://github.com/pnpm/pnpm/releases",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    },
+    {
+      "title": "Node.js、全LTS系列でセキュリティリリース http2／tlsのHigh深刻度脆弱性を修正",
+      "summary": "Node.js は 11日に 26.13.1(Lithium)、24.22.3(Krypton)、22.23.5(Jod)のセキュリティリリースを公開した。http2 のストリーム・バッファ保持や放置ストリーム、tls の再ネゴシエーション時のSNI変更やmTLSセッション処理といったHigh深刻度の問題を修正し、26系と24系ではリモートから到達可能なサーバークラッシュ(CVE-2026-126051)も対処された。httpのプロキシ資格情報の秘匿やfs.watchの権限チェックも併せて修正されている。",
+      "url": "https://github.com/nodejs/node/releases",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    }
+  ]
+}

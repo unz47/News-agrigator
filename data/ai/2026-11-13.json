@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-13",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、AIエージェントが代理決済する「ChatGPT Wallet」を発表",
+      "summary": "OpenAIは13日、ChatGPTのAIエージェント「dots」がユーザーに代わって買い物を行える決済機能「ChatGPT Wallet」を発表した。American Express、Mastercard、Visaと連携して構築され、購入はユーザーの承認を前提とする。提供はまず米国のChatGPT Pro加入者(成人)に限定され、加盟店や銀行、決済ネットワークとの調整を進めながら段階的に拡大する。",
+      "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    },
+    {
+      "title": "OpenAI、AIがWebアプリを攻撃・修復する「Daybreak Red Team」「Defense Factory」を公開",
+      "summary": "OpenAIは12日のイベント「Cyber at the Frontier」で、セキュリティ構想Daybreakの新製品2つを発表した。Red TeamはAIエージェントがWebアプリの脆弱性を探して実際に悪用可能かを検証し、Defense Factoryは確認された指摘を調査してパッチ案を作成する。Defense FactoryはWizやSnyk、Endor Labsの検出結果も取り込めて、エージェントはGPT-6 Cyber上で動作する。",
+      "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    },
+    {
+      "title": "Anthropic、製造業向けプラグイン「Claude for Manufacturing」を提供開始",
+      "summary": "Anthropicは12日、見積担当や品質エンジニア、技術者、購買担当など製造現場の役割に向けた17のスキルを備えたプラグイン「Claude for Manufacturing」を公開した。Autodesk Fusion、Infor、Microsoft 365、Oracle NetSuiteと接続し、見積依頼の作成やサプライヤー入札の比較、承認を経た発注や生産計画の変更まで扱える。顧客やサプライヤーに届く前に担当者が確認・承認する設計で、設備の操作は行わない。",
+      "url": "https://www.manufacturingdive.com/news/anthropic-launches-claude-for-manufacturing/874303/",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    },
+    {
+      "title": "Anthropic、修正S-1で計算資源の長期コミットメントを約9009億ドルと開示",
+      "summary": "AnthropicはIPOに向けた修正S-1で、計算資源とインフラに関する債務が約9009億ドルに達することを明らかにした。Microsoftへの最低コミットメントは2033年6月までに472億〜492億ドルへ引き上げられ、Googleのクラウド契約は約1213億ドル規模。解約条項や未達条件の対象となる金額は2138億ドルから1862億ドルへ減少した。",
+      "url": "https://www.unite.ai/anthropic-details-long-term-compute-commitments-in-amended-ipo-filing/",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    },
+    {
+      "title": "エヌビディア株、2012年以来最長の週間連続下落 時価総額1.7兆ドル減",
+      "summary": "ジェンスン・フアンCEOの辞任を受け、エヌビディア株は12日に一時16%下落し終値は4.3%安となった。CNBCによると週間ベースの下落は2012年以来最長の連敗で、時価総額は1.7兆ドル減少した。ニードハムは目標株価を300ドルから200ドルへ引き下げ、HSBCは「ホールド」に格下げしており、17日の決算発表が次の焦点となる。",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "collectedAt": "2026-11-13T23:15:24Z"
+    }
+  ]
+}
