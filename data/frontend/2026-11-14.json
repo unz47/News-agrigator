@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-14",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Safariが「Apple HomeView」に対応 音声操作・7インチ画面向けのWeb対応指針をWebKitが公開",
+      "summary": "WebKitブログは11月13日、7インチ画面を主に音声で操作するApple HomeViewでSafariが動作することを紹介した。多くのサイトは変更不要だが、音声利用者はポインタで操作しないため実体のあるbuttonやlink、ラベル付きフォームを使うセマンティックHTMLが重要になる。HomeViewはiOSのUAを返すためUA判定を避けて機能検出を使い、固定の画面向きや最低画面高を前提にせずモーダルはmax-height: 90svh程度に抑えて448×364で検証するよう求めている。",
+      "url": "https://webkit.org/blog/18608/safari-on-apple-homeview/",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    },
+    {
+      "title": "ESLint v10.15.0 公開、設定解決の高速化と9ルールのエッジケース修正",
+      "summary": "ESLintは11月13日にマイナーリリースのv10.15.0を公開した。最大の変更は設定(config)解決の高速化で、新ルールの追加はない。accessor-pairs、default-case、func-names、no-invalid-this、no-prototype-builtins、no-shadow、no-unneeded-ternary、no-useless-rename、prefer-arrow-callbackの各ルールについて、エッジケースの扱いや報告位置の分かりやすさが改善されている。",
+      "url": "https://eslint.org/blog/2026/11/eslint-v10.15.0-released/",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    },
+    {
+      "title": "vue-router 5.5.1 公開、experimental版にRouterLink／useLinkを追加しマッチ失敗はnullを返す仕様へ",
+      "summary": "Vue Routerは11月13日に5.5.1を公開し、experimental_createRouter向けのRouterLinkとuseLinkを追加した。マッチ失敗時にスタックトレースを作らない性能改善や、静的パストークン内の | のエスケープ、相対オブジェクト位置を現在のルートから解決する修正なども入っている。vue-router/experimental利用者向けには、マッチャがミス時に例外ではなくnullを返し、MatchMissがErrorを継承しなくなる破壊的変更が含まれる。",
+      "url": "https://github.com/vuejs/router/blob/main/packages/router/CHANGELOG.md",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    },
+    {
+      "title": "PostCSS 8.5.33 公開、url()のパース不具合やソースマップ注釈削除時の改行を修正",
+      "summary": "PostCSSは11月13日に8.5.33を公開した。カンマの後に /* を含む引用符なしのurl()値、括弧の前に空白がある url (…) が誤ってURLと解釈される問題、引用符なしの大文字 URL() のパースが修正された。あわせて長い行でCssSyntaxErrorのsourceが空になる不具合、ソースマップ注釈を削除した際の改行の扱い、Declaration#importantの型定義も修正されている。",
+      "url": "https://github.com/postcss/postcss/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    },
+    {
+      "title": "Google、コーディングエージェント向け「Modern Web Guidance 1.0」安定版を公開 FirefoxとEdgeも参画",
+      "summary": "Googleは、AIコーディングエージェントにWebプラットフォームの知識と互換性データを与える「Modern Web Guidance」の安定版1.0を公開した。検証済みの知識ギャップを埋める200以上のガイドに加え、既存のHTML／CSS／JavaScriptを分析して安全に改修できる箇所を探すモダナイゼーションワークフローが追加された。各ガイドはBaselineなどの互換性情報を持ち、プロジェクトの対応ブラウザに応じて実装方法が変わる。FirefoxとEdgeも参画しクロスブラウザの取り組みになった。",
+      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    }
+  ]
+}

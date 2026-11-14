@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-14",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Google Antigravity 2.29、クラウドでエージェントが働く「リモートエージェント」と音声モードを追加",
+      "summary": "AIエージェント開発環境Google Antigravityがバージョン2.29を公開し、クラウド上でエージェントを動かす「リモートエージェント」と、音声で指示できる「音声モード」を追加した。セッションとツールはローカルPCではなくGoogleが管理する隔離されたリモート環境で実行されるため、ブラウザを閉じたりPCをスリープさせても長時間タスクを継続できる。機能は段階的に展開されている。",
+      "url": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    },
+    {
+      "title": "GitHub Copilot CLI v1.0.112 公開、リモートクライアントからのセッション作成フラグを追加",
+      "summary": "GitHub Copilot CLIが11月13日にv1.0.112を公開した。リモートクライアントが保存済み設定を変えずに一度だけCLIホスト上でセッションを作成できる --host-allow-session-creation フラグが加わり、組織のポリシーでMCPサーバーが無効な場合は組み込みのGitHub MCPサーバーが利用できなくなった。終了処理中にセッションが作成・切り替わらない修正や、macOS／Linuxでの終了時バックグラウンドシェル停止も含まれる。",
+      "url": "https://github.com/github/copilot-cli/releases",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    },
+    {
+      "title": "AWS、ローカルでAWS APIを再現する「AWS Emulator」の一般提供を開始 アカウント不要で無償",
+      "summary": "AWSは、既存のSDKやCLIの呼び出し先をローカルのエミュレーターに向けてアプリをテストできる「AWS Emulator」の一般提供を開始した。AWSアカウントやデプロイが不要で追加料金もかからず、S3やDynamoDB、SQSを含む200以上のサービス、400超のAPIモデルに対応する。ソースはGitHubでCC0 1.0として公開され、AWSはコードの大部分を自律型AIエージェントが記述・テストしたと説明している。",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-emulator-now-available/",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    },
+    {
+      "title": "ターミナル基盤ライブラリ「libghostty-vt 1.0」公開、C ABIが安定版に JetBrains IDEなどが採用",
+      "summary": "Ghostty作者のMitchell Hashimoto氏が、ターミナルエミュレータのコア部分を汎用ライブラリ化したlibghostty-vtの1.0をリリースした。ライブラリ本体とC ABIの双方が安定版となり、セマンティックバージョニングの約束と互換性を確認するCIチェック、オフラインビルド用の署名付きtarballが用意されている。MITライセンスで、JetBrains IDEのターミナルが既に移行し、NeovimやKDE、Turborepo、OrbStackなども採用している。Windows版マルチプレクサ「Rex」も近日登場予定。",
+      "url": "https://www.publickey1.jp/blog/26/libghostty_10windowsrex.html",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    },
+    {
+      "title": "Kiro CLI 3.3.0／IDE 1.4.178 公開、過去の応答をコピーする /copy やワークフローの逐次追跡を追加",
+      "summary": "Kiroは11月12日にCLI 3.3.0とIDE 1.4.178を公開した。CLIには過去の応答をコピーする /copy N・/copy last N コマンドが加わり、V3セッションでは自動コンパクションの発動しきい値となるコンテキスト使用率を設定できる。エージェントモニターは各サブエージェントのタスクを表示する。IDEはWorkflowタブからワークフロー実行をステップごとに追跡でき、コンパクション後に要求されたスキルとsteeringファイルを再読み込みするよう改善された。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    }
+  ]
+}

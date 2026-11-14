@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-14",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "OpenAI、ロボティクス専任チームを解散 汎用モデルでロボットを動かす体制へ",
+      "summary": "OpenAIは独立したロボティクス研究チームを解散し、研究者を本体の研究部門(Mark Chen最高研究責任者の下)に、応用・ハードウェア担当をGreg Brockman社長の部門に移したことを認めた。汎用モデル「GPT-6 Astra」でロボットを動かせるようになったためで、撤退ではなく開発加速が目的と説明している。同社は2027年の初公開デモを目標に自社ヒューマノイドロボットの開発を続けている。",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    },
+    {
+      "title": "ローカル推論基盤「llama.cpp」とggmlがv1.0.0に到達 公開C APIの安定を約束",
+      "summary": "ローカルでLLMを動かすllama.cppとggmlが11月13日にv1.0.0をリリースし、約3年半続いた0.x系に区切りをつけた。公開C APIの破壊的変更はメジャー更新のみとするセマンティックバージョニングを採用し、非推奨関数35個やllama_set_warmupなどを削除、NextN投機的デコードAPIをllama.hへ移した。FP8 KVキャッシュやMoEエキスパートキャッシュ、llama-serverの音声合成エンドポイントも加わっている。",
+      "url": "https://github.com/ggml-org/llama.cpp/releases",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    },
+    {
+      "title": "Anthropic、エージェント基盤を自社環境で動かせる「セルフホスト版Claude Managed Agents」をプライベートベータ提供",
+      "summary": "Anthropicは11月12日、Claude Managed Agentsを顧客自身のクラウドやオンプレミスで運用できるセルフホスト版のプライベートベータを開始した。従来はコード実行用サンドボックスのみ自社環境に置けたが、ハーネスや認証情報、セッション履歴も顧客環境内に収まる。認証情報はサンドボックス外のプロキシが付与し自社のシークレット管理に保存できる一方、推論自体は外部(Anthropic APIやBedrock、Foundryなど)で実行される。",
+      "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    },
+    {
+      "title": "NVIDIA、人間の映像から動作を学ぶロボット向け「GR00T 2」を発表 Isaac Lab 3.0も同時公開",
+      "summary": "NVIDIAはロボット学習の国際会議CoRLで、Cosmosを基盤とする「ワールドアクションモデル」GR00T 2を発表した。ロボットの次の動作と近い将来の映像を同時に予測する構造で、学習外のタスク50件中40件を事前実演なしで少なくとも1回成功、各タスク5件の実演で追加学習すると平均成功率95%に達したとしている。学習基盤Isaac Lab 3.0や新ベンチマークも併せて公開され、重みとコードは12月公開予定。",
+      "url": "https://www.unite.ai/nvidia-introduces-gr00t-2-for-robots-learning-from-human-video/",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    },
+    {
+      "title": "Anthropic、IPOの価格決定を11月18日に設定 19日にティッカー「ANT」でNasdaq上場へ",
+      "summary": "AnthropicのIPOは米国時間11月18日に公開価格が決定し、19日からNasdaq Global Select Marketで取引が始まる見通しとなった。Class A普通株8億2500万株を1株70〜78ドルの価格帯で売り出し、上限なら調達額は約643億ドル、完全希薄化ベースの評価額は最大約1.405兆ドルに達する。売り出し株のうち約2364万株は既存株主分で、その分の資金は同社には入らない。",
+      "url": "https://labmemo.com/anthropic-ipo-price-range-70-78-roadshow-2026-11/",
+      "collectedAt": "2026-11-14T23:17:10Z"
+    }
+  ]
+}
