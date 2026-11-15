@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-15",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "OpenAI Codex 0.169.0 公開、ターミナルにサイドチャットのタブ機能と過去タスク検索を追加",
+      "summary": "Codex 0.169.0が11月13日に公開された。ターミナルワークスペースで複数のサイドチャットをタブとして切り替えられるようになり、保存したローカルのサイドチャットは再起動後も開き直せる。エージェントのコマンドセンターからは過去のタスクを名前・プロンプトのプレビュー・作業ディレクトリで検索できる。カスタムモデルプロバイダをターミナルから追加・編集でき、macOS/LinuxではオプトインのCloud接続で画像送信やモデル・推論強度の選択にも対応した。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    },
+    {
+      "title": "GitHub Copilot CLI 1.0.111 公開、企業管理のシェル権限ルールが正規表現に対応",
+      "summary": "GitHub Copilot CLI 1.0.111が11月13日に公開され、Enterpriseが管理するShell／Bash／PowerShellの権限ルールで正規表現が使えるようになった。リモートクライアントが起動1回分だけCLIホスト上にセッションを作成できる--host-allow-session-creationフラグも追加。MCPでは重複OAuth再接続の防止やKerberos必須プロキシ経由のOAuth対応、/usageのプレミアムリクエスト割合の更新、狭い端末での表示崩れやCJK折り返しの修正など多数の改善が入った。",
+      "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.111",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    },
+    {
+      "title": "Zed v1.28.1 公開、Gitの自動フェッチとGitパネルからのドラッグ&ドロップに対応",
+      "summary": "エディタZedの週次アップデート v1.28.1が11月11日に公開された。upstreamと既定ブランチのリモートを自動フェッチする設定(既定は無効)、Git Graphのリサイズ可能な「Refs」列、Gitパネルのファイルをターミナルやエディタへドラッグ&ドロップする操作、ワークツリーピッカーでのブランチ名検索が加わった。AI面ではAgent Client Protocolとの互換性向上やread_fileツールが2000文字超の行を切り詰める変更が入り、リモートワークスペースとSSH関連の修正も多数含まれる。",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v1.28.1",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    },
+    {
+      "title": "Gemini CLI v0.68.0 公開、拡張機能の検証コマンドと429レート制限のカウントダウン表示",
+      "summary": "Gemini CLI v0.68.0が11月10日に公開され、拡張機能を検証するコマンド(評価テスト付き)が追加された。ローディング表示には429レート制限のクールダウンとカウントダウンが出るようになり、モデル選択はフォールバック・キャンセル・巻き戻しをまたいで保持される。shadowリポジトリで.git/info/excludeとcore.excludesFileを尊重、rootlessなPodmanサンドボックスを--userns=keep-idで対応、SubagentStopフックイベントのマッピング追加など計32件の変更が入った。",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.68.0",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    },
+    {
+      "title": "Turborepo v2.11.11 公開、turbo setupを刷新しwatchモードが新規パッケージを自動検出",
+      "summary": "Turborepo v2.11.11が11月11日に公開された。turbo setupは出力表示を刷新しフローを簡素化、管理対象ツールを共有のコンテンツアドレスストアに導入することで初回・再実行ともに高速化した。watchモードは編集の集中時に再ビルドをデバウンスし、新しく追加されたワークスペースパッケージを自動検出する。保存されたVercel認証情報をVercelのエンドポイントに限定するセキュリティ強化や、シンボリックリンクのハッシュをリポジトリ境界内に限定する変更も入った。",
+      "url": "https://github.com/vercel/turborepo/releases/tag/v2.11.11",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-15",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Biome v2.6.8 公開、nurseryに25個の新ルールを追加し条件型の型推論に対応",
+      "summary": "Biome CLI v2.6.8が11月15日に公開され、nurseryグループに25個の新しいLintルールが加わった。Node.js向けのnoBufferConstructor/noDynamicRequire、Vue向けのnoVueDefineModelDefaultなど7ルール、YAMLの空マップ検出3ルール、テストモック向けのuseSpyOn/useCalledWithなどが含まれる。型推論では条件型(T extends U ? X : Y、inferを含む)を両分岐の合併ではなく実際に評価するようになり、サプレッションコメントのないファイルのLintが最大61%高速化した。",
+      "url": "https://github.com/biomejs/biome/releases/tag/%40biomejs%2Fbiome%402.6.8",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    },
+    {
+      "title": "Solid 2.0.0-rc.22 公開、Contextプロバイダのノード割り当て削減とmoveBefore()活用",
+      "summary": "SolidJS 2.0の23番目のRCが11月15日に公開された。Contextプロバイダが独自のownerを作らなくなり、プロバイダごとのノードとバインド関数の割り当てが1つ減る。flushレコードは各ドレイン中に画面上で変化したシグナル・メモ・ストアのプロパティを列挙するようになった。@solidjs/webではリスト再構成が利用可能な環境でmoveBefore()を使うことで並べ替えが高速化し、Portalと委譲イベントのメモリリークも修正された。",
+      "url": "https://github.com/solidjs/solid/releases/tag/solid-js%402.0.0-rc.22",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    },
+    {
+      "title": "UnoCSS v66.13.0 公開、ESLintプラグインがOxlint JSプラグインに対応",
+      "summary": "UnoCSS v66.13.0が11月13日に公開され、ESLintプラグインがOxlintのJSプラグイン形式をサポートした。補完候補に最小限のLRUキャッシュが入り、coreがsortRulesをエクスポート、インスペクタにはプロジェクト設定から生成される対話型のドキュメントタブが追加された。CLIのwatchモードで起動時にCSSを生成するようになり、Astroの開発時にスタイルが重複する問題やVite設定リロードの順序など多数の不具合も修正されている。",
+      "url": "https://github.com/unocss/unocss/releases/tag/v66.13.0",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    },
+    {
+      "title": "SvelteKit 3.2.0 公開、開発サーバーのログからリモート関数呼び出しへジャンプ可能に",
+      "summary": "@sveltejs/kit 3.2.0が11月10日に公開され、開発サーバーのログにリモート関数の呼び出し箇所へ飛べるクリック可能なリンクが表示されるようになった。パッチ修正では、resolveがURL入力を拒否、存在しないルートへのデータリクエストがエラーページではなくJSONを返す、ハイドレーション中のafterNavigateで正しいrouteとparamsが設定される、などの変更が入った。動的importやリモート関数由来のアセットもbuilder.findServerAssetsに含まれる。",
+      "url": "https://github.com/sveltejs/kit/releases/tag/%40sveltejs%2Fkit%403.2.0",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    },
+    {
+      "title": "Hono v4.13.18 公開、validatorのバリデーション回避など4件のセキュリティ修正",
+      "summary": "Hono v4.13.18が11月11日に公開され、GHSA付きの4件のセキュリティ問題が修正された。Content-Typeに余分な空白や末尾の「;」があるとvalidator('json')/('form')が検証をスキップする問題、bodyLimit()がチャンクごとにオブジェクトを保持し上限内のリクエストでもメモリを枯渇させうる問題、プレフィックスを付与するgetPath併用時にmount()がパスを1セグメント多く削ってミドルウェアを回避できる問題、allowPercentInPath有効時にserveStatic()がパスを二重デコードする問題が対象。",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.13.18",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    }
+  ]
+}

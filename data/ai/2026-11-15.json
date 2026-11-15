@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-15",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "ジェンスン・フアン氏がエヌビディアCEO復帰を検討と英FT報道 支持者が取締役会に働きかけ",
+      "summary": "英フィナンシャル・タイムズは15日、12日にエヌビディアCEOを辞任したジェンスン・フアン氏が、側近と復帰を協議していると報じた。支持者はシリコンバレー経営者による「作戦司令室」を組織して取締役会への働きかけとホワイトハウスの支援獲得を狙っているという。取締役会は暫定CEOのコレット・クレスCFOへの信頼を示しつつ後任探しを始めており、復帰を公には否定していない。エヌビディアは17日に決算を発表する。",
+      "url": "https://thenextweb.com/news/jensen-huang-is-discussing-a-return-to-nvidia-ft-reports",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    },
+    {
+      "title": "Gemini 4 CarbonがMathArenaで首位 ただし実行コストはGPT-6.1 Solの約15倍",
+      "summary": "数学ベンチマークMathArenaの最新結果で、GoogleのGemini 4 Carbonが85.4%(±3.0)を記録し、Claude Fable 5.2(82.8%)とGPT-6.1 Sol(80.6%)を上回って首位に立った。ただしベンチマーク1回の実行コストはCarbonが15.70ドル、Solが1.07ドル、Fable 5.2が40.20ドルで、Carbonは約15倍のコストがかかる。上位3モデルの信頼区間は重なっており、コスト効率ではSolが現実的な選択肢と評価されている。",
+      "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    },
+    {
+      "title": "EU首脳が初のAI専門サミットをダブリンで開催 米中への遅れと資金問題を協議",
+      "summary": "EU加盟27カ国の首脳が13日、アイルランドのダブリンで初めてAIに特化した首脳会議を開いた。アントニオ・コスタ欧州理事会議長が「首脳レベルでの初の専門的議論が必要だ」として招集したもので、米国と中国に対する遅れをどう取り戻すか、資金調達の課題などが話し合われた。Mistral CEOのアルチュール・メンシュ氏やジェフリー・ヒントン氏が首脳向けに説明を行った。",
+      "url": "https://thenextweb.com/news/eu-ai-summit-dublin-first-leaders-meeting",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    },
+    {
+      "title": "イーライリリーCEO、Anthropicダリオ・アモデイ氏の「10年でがん克服」予測に異議",
+      "summary": "Anthropicのダリオ・アモデイCEOは10日公開のIPOロードショー動画で「がん、アルツハイマー、心疾患、精神疾患は10年以内に過去の遺物になる」と予測した。これに対しイーライリリーのデイブ・リックスCEOは12日、X上で「素晴らしいことだが、起こりそうにない。生物学の地図はまだほとんど白紙で、ランダム化されたヒト試験が最大のボトルネックだ」と反論した。医師や研究者からも同様の懐疑的な声が出ている。",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63262902/anthropic-amodei-promises-an-age-of-miracles",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    },
+    {
+      "title": "Hugging FaceのドランゲCEO、フアン氏退任後もオープンソースAIのために戦うと表明",
+      "summary": "エヌビディアによる129億ドルでの買収が進行中のHugging Faceについて、クレモン・ドランゲCEOはジェンスン・フアン氏の辞任を「本当に悲しい日」と述べ、何が起きてもオープンソースのために戦い続けると表明した。フアン氏はオープンウェイト推進の強力な支持者だったため、後任がより慎重な姿勢を取るのではないかとオープンソースコミュニティで懸念が広がっている。買収は2027年前半の完了が見込まれている。",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "collectedAt": "2026-11-15T23:17:11Z"
+    }
+  ]
+}
