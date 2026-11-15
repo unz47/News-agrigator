@@ -5,6 +5,12 @@ function extractDomain(url) {
   try { return new URL(url).hostname.replace('www.', ''); } catch { return url; }
 }
 
+// 記事に任意で付く補足ブロック（フィールド名, 見出し）
+const NOTE_FIELDS = [
+  ['explanation', 'かみくだき解説'],
+  ['reason', 'おすすめ理由'],
+];
+
 function formatDate(dateStr) {
   const d = new Date(dateStr + 'T00:00:00');
   const days = ['日', '月', '火', '水', '木', '金', '土'];
@@ -79,13 +85,16 @@ export default function NewsFeed({ data: { dates, data, categories } }) {
                 <li key={i}>
                   <a className="article" href={article.url} target="_blank" rel="noopener noreferrer">
                     <h3 className="article-title">{article.title}</h3>
-                    <p className="article-summary">{article.summary}</p>
-                    {article.explanation && (
-                      <div className="article-explanation">
-                        <span className="article-explanation-label">かみくだき解説</span>
-                        <p>{article.explanation}</p>
-                      </div>
+                    {(article.author || article.published) && (
+                      <p className="article-byline">{[article.author, article.published].filter(Boolean).join(' · ')}</p>
                     )}
+                    <p className="article-summary">{article.summary}</p>
+                    {NOTE_FIELDS.filter(([key]) => article[key]).map(([key, label]) => (
+                      <div key={key} className="article-explanation" style={{ borderLeftColor: cat.color }}>
+                        <span className="article-explanation-label" style={{ color: cat.color }}>{label}</span>
+                        <p>{article[key]}</p>
+                      </div>
+                    ))}
                     <span className="article-meta">{extractDomain(article.url)}<ArrowUpRight /></span>
                   </a>
                 </li>

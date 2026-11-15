@@ -194,6 +194,11 @@ body {
   color: var(--color-ink-2);
   overflow-wrap: anywhere;
 }
+.article-byline {
+  margin-top: var(--space-2xs);
+  font-size: var(--text-sm);
+  color: var(--color-muted);
+}
 .article-explanation {
   margin-top: var(--space-sm);
   padding: var(--space-sm) var(--space-md);

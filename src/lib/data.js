@@ -9,6 +9,7 @@ const CATEGORIES = [
   { id: 'frontend', label: 'FE', color: 'var(--cat-frontend)' },
   { id: 'tools', label: '開発ツール', color: 'var(--cat-tools)' },
   { id: 'papers', label: 'AI論文', color: 'var(--cat-papers)' },
+  { id: 'books', label: 'おすすめ本', color: 'var(--cat-books)' },
 ];
 
 function getDatesForCategory(category) {
