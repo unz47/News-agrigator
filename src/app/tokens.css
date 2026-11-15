@@ -17,6 +17,7 @@
   --cat-ai:       oklch(50% 0.19 285);
   --cat-frontend: oklch(56% 0.12 170);
   --cat-tools:    oklch(58% 0.16 45);
+  --cat-papers:   oklch(52% 0.17 330);
 
   /* type */
   --font-display: 'Space Grotesk', 'IBM Plex Sans JP', sans-serif;

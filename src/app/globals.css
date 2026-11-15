@@ -194,6 +194,27 @@ body {
   color: var(--color-ink-2);
   overflow-wrap: anywhere;
 }
+.article-explanation {
+  margin-top: var(--space-sm);
+  padding: var(--space-sm) var(--space-md);
+  background: var(--color-paper-2);
+  border-left: 3px solid var(--cat-papers);
+  border-radius: 4px;
+}
+.article-explanation-label {
+  display: block;
+  margin-bottom: var(--space-2xs);
+  font-size: var(--text-xs);
+  font-weight: 700;
+  color: var(--cat-papers);
+}
+.article-explanation p {
+  font-size: var(--text-base);
+  line-height: 1.8;
+  color: var(--color-ink-2);
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+}
 .article-meta {
   margin-top: var(--space-sm);
   display: inline-flex;

@@ -80,6 +80,12 @@ export default function NewsFeed({ data: { dates, data, categories } }) {
                   <a className="article" href={article.url} target="_blank" rel="noopener noreferrer">
                     <h3 className="article-title">{article.title}</h3>
                     <p className="article-summary">{article.summary}</p>
+                    {article.explanation && (
+                      <div className="article-explanation">
+                        <span className="article-explanation-label">かみくだき解説</span>
+                        <p>{article.explanation}</p>
+                      </div>
+                    )}
                     <span className="article-meta">{extractDomain(article.url)}<ArrowUpRight /></span>
                   </a>
                 </li>
