@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-16",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Vite v8.4.0-beta.1 公開、environment.addSafeModule と server.fs.strict:'extended' を追加",
+      "summary": "11月16日公開のVite v8.4.0-beta.1では、`environment.addSafeModule`と`server.fs.strict: 'extended'`が追加され、Workerチャンクがビルドマニフェストに含まれるようになった。CSSのプリロード失敗時のリトライ、バンドル版devモードのSSR対応、WASMのsource phase importsにも対応し、`--configLoader`が安定化(`--configLoader=runner`は非推奨)。既定でCSSを外部化しない変更が入り、`optimizeDeps.rollupOptions`は削除された。",
+      "url": "https://github.com/vitejs/vite/releases",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    },
+    {
+      "title": "Angular 22.2.6 と 22.3.0-rc.0 公開、HTTP QUERY メソッド向け HttpClient.query() を追加",
+      "summary": "Angularは11月12日に安定版22.2.6とリリース候補22.3.0-rc.0を公開した。22.3.0-rc.0ではHTTP QUERYリクエストを送る`HttpClient.query()`が追加され、コンパイラが明示的な`ng-template`要素上の未知のプロパティバインディングを報告するようになった。両バージョンにはレンダラのメモリリーク修正、`HttpParams`から空配列を除外する修正、resourceのURLプロパティでnull/undefinedバインディングを許容する修正が含まれる。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    },
+    {
+      "title": "Playwright v1.65.1 公開、useDefineForClassFields:false でのクラス読み込み回帰を修正",
+      "summary": "Playwright v1.65.1が11月13日に公開された。`useDefineForClassFields: false`の設定下でstaticフィールドを持つデコレータ付きクラスが読み込めなくなる回帰と、Bun 1.4.4以降でテスト位置の列番号が1つずれる不具合を修正している。同梱ブラウザはChromium 159、Firefox 159.0、WebKit 27.2。直前のv1.65.0ではBun上でのテストランナー実行(`--bun`)やfailuresレポーターが追加されていた。",
+      "url": "https://github.com/microsoft/playwright/releases",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    },
+    {
+      "title": "Node.js 27.0.0-alpha.0.1.0 公開、subprocess.timedOut や dns.lookup() の統合を追加",
+      "summary": "11月12日公開のNode.js 27.0.0-alpha.0.1.0では、child_processに`subprocess.timedOut`が追加され、cryptoがCSRを伴うX.509証明書生成に対応した。同時に発行された`dns.lookup()`リクエストを1本に束ねる最適化や、Single Executable ApplicationのVFSモジュール向けコンパイルキャッシュも入った。nghttp2、ngtcp2、undici、npmが更新されている。",
+      "url": "https://github.com/nodejs/node/releases",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-16",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Alibaba、総パラメータ2.4兆の「Qwen4-Max」を一般提供開始 100万トークン対応",
+      "summary": "Alibabaは11月16日、11日開始の限定プレビューを経てフラッグシップモデル「Qwen4-Max」をQwenCloud経由で一般提供開始した。MoE構成で総パラメータ2.4兆、画像を直接扱えるマルチモーダル対応で、コンテキスト長は最大100万トークン。料金は入力100万トークンあたり1.50ドル/出力4.50ドルで、Work360ベンチマークでの平均タスクコストは約58%減少したという。より小型のQwen4モデルのオープンウェイト公開も予告されている。",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2156687.html",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    },
+    {
+      "title": "OpenAI、LVMHのメディア部門と戦略的提携 17ブランドにChatGPT Enterpriseを導入",
+      "summary": "OpenAIは11月16日、LVMHグループのメディア部門(Groupe Les Echos-Le Parisien)との戦略的提携を発表した。Les Echos、Le Parisien、Paris Matchなど17ブランド・約1800人(記者約700人)にChatGPT Enterpriseを導入し、資料調査・文書比較・下訳などの業務でAI活用を進める。ChatGPT側では同部門の記事が要約や抜粋として出典リンク付きで表示される。OpenAIにとってフランス大手メディアとの提携は2025年のFigaro Groupに続く2件目となる。",
+      "url": "https://openai.com/index/lvmh-media-division-partnership/",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    },
+    {
+      "title": "非営利4団体がOpenAI・Anthropic・Google・Meta・SpaceXを提訴 フロンティアAI開発の差し止め求める",
+      "summary": "Public Citizenなど非営利4団体が11月12日、サンフランシスコ郡上級裁判所にOpenAI、Anthropic、Google、Meta、SpaceXを相手とする訴えを起こした。63ページの訴状は、現時点の最先端モデルを超える性能のAIシステムの開発・提供と、AIが自律的にAI研究を指揮することの禁止を求めている。カリフォルニア州の不公正競争法に基づく請求で、AIが公的な危険(public nuisance)を生じさせていると主張。裁判所はまだ差し止めの申し立てに判断を示していない。",
+      "url": "https://www.justsecurity.org/164494/nonprofits-lawsuit-freeze-frontier-ai-development/",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    },
+    {
+      "title": "Anthropic、Google Meetに参加して議事録と成果物を作る「Claude Meetings」をベータ提供",
+      "summary": "Anthropicは11月12日、Team・EnterpriseプランでClaudeおよびClaude Desktop向けに「Claude Meetings」のベータ提供を開始した。ClaudeがGoogle Meetの通話に可視の参加者として加わり、議事録の作成や質問への回答を行う。会議中にドキュメント、ホワイトボード、スライドなどのアーティファクトを生成することもできる。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    },
+    {
+      "title": "韓国でAI制作曲が音源チャート初の1位 Melon TOP100でK-POPグループを上回る",
+      "summary": "韓国の音楽配信サービスMelonのTOP100で13日、AI音楽プロジェクト「モムル」のデジタルシングル「夢見ていた大人になれましたか？」が1位となり、生成AIで制作された楽曲が韓国の音源ランキングで初めて首位に立った。ILLITやRESCENEなど人気K-POPグループを抑えた形で、作曲と歌唱に生成AI(Suno)を使い、作曲家チームGlory Waveが企画・作詞・プロデュースを担った。AI音楽が大衆音楽市場で商業的に成立した最初の明確な事例と評価されている。",
+      "url": "https://www.nikkei.com/article/DGXZQOGM165SP0W6A111C2000000/",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    }
+  ]
+}

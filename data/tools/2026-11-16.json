@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-16",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "Claude Code 2.1.326 公開、エージェントチーム有効時のCode Mode併用と権限チェックを強化",
+      "summary": "Claude Code 2.1.326では、エージェントチームを有効にしたままCode Modeを利用できるようになった。不完全なツールルールに対する起動時警告、プロバイダや環境変数が機能を無効化している状況を示す`/status`の行、隠れた起動時通知を表示する`Ctrl+O`が追加された。Bashの権限チェックがより多くのケースで確認・拒否するよう変更され、サンドボックスの書き込み先フォルダが削減、`/update-config`の消費コンテキストも大幅に削減されている。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    },
+    {
+      "title": "GitHub Copilot 週次リリース(11月9日分)公開、VS Code 1.146でInboxモードとチャットウィンドウを追加",
+      "summary": "GitHubは11月16日、11月9日週のCopilot週次リリースを公開した。Copilotアプリではクラウド/Codespacesセッションをスマホに引き継ぐ「Open in」メニュー、GitHub Enterprise Server対応のGA、プロジェクト自動化の分単位/cronスケジュール、多言語音声ディクテーションが追加。VS Code 1.146側では全ワークスペース横断のInboxモード(実験的)、チャットを独立ウィンドウに切り出す機能(プレビュー)、モデル比較、Agentsウィンドウからの拡張機能管理が入り、Copilotハーネスが新規セッションの既定となった(Localハーネスは2027年2月に削除予定)。",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    },
+    {
+      "title": "GitHub Copilot、Claude Opus 4.8／Opus 5／GPT-5.6 Terra を11月16日付で廃止",
+      "summary": "GitHubは予告どおり11月16日、Copilotで提供していたClaude Opus 4.8、Claude Opus 5、GPT-5.6 Terraを廃止した。置き換えはClaude Opus 5.5およびGPT-6.1 Sol／GPT-6 Lunaで、EnterpriseとBusinessでは管理者が既定を無効化していない限り自動的に有効になる。Claude Opus 4.8は年額プランの個人契約者には引き続き提供され、Claude Opus 5はモデルピッカーから削除されたが実行時の拒否に対するフォールバックとして残る。",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    },
+    {
+      "title": "GitHub、AI Scanを最大20リポジトリまで一括開始できる機能をパブリックプレビュー公開",
+      "summary": "GitHubは11月16日、デフォルトブランチの脆弱性を検査する「AI Scan」を最大20リポジトリまで一括で開始できる機能をパブリックプレビューで公開した。Organization単位の設定でリポジトリを選択する方法、Organizationのコードスキャニングアラート画面から開始する方法、個別リポジトリのアラート画面から開始する方法の3通りに対応する。AI ScanはCodeQLが対応しない言語もカバーし、Copilotライセンスは不要。github.comとデータレジデンシー対応のGitHub Enterprise Cloudで利用できる。",
+      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    },
+    {
+      "title": "Kiro、LLMリクエストとツール呼び出しのリアルタイムOpenTelemetry配信とPrivateLink対応を追加",
+      "summary": "Kiroは11月16日、エンタープライズ管理者がLLMリクエストとツール呼び出しをリアルタイムのOpenTelemetryイベントとしてストリーミングできる機能を追加した。日次CSVレポートとメトリクスも利用でき、プライベート配信にはAWS PrivateLinkとAmazon VPC Latticeを選べる。提供リージョンは米国東部(バージニア北部)と欧州(フランクフルト)で、日次メトリクスの生成時刻は11月26日に00:30 UTCへ移行する。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-16T23:14:28Z"
+    }
+  ]
+}
