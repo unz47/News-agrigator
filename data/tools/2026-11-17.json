@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-17",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot に GPT-6.2 Astra / GPT-6.2 Sol が追加 コードレビューでの検出数が向上",
+      "summary": "GitHubは11月17日、OpenAIの GPT-6.2 Astra と GPT-6.2 Sol を Copilot で利用可能にした。対象プランは Pro+ / Max / Business / Enterprise で、VS Code・Visual Studio・Copilot CLI・コーディングエージェント・Copilotアプリ・github.com・GitHub Mobile・JetBrains・Xcode・Eclipse に順次展開される。初期テストでは Astra がGPT-6 Astraより少ないトークンでより多くのレビュー指摘を検出し、Sol はGPT-6.1 Solの約2倍の実在する問題を精度を保ったまま発見したという。課金はプロバイダ定価のusage-basedで、Business/Enterpriseは model policy で制御できる。",
+      "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+      "collectedAt": "2026-11-17T23:16:29Z"
+    },
+    {
+      "title": "GitHub Copilot にMicrosoftの「MAI Code 2」「MAI Code 2 Flash」が登場",
+      "summary": "GitHubは11月17日、Microsoft AI製のコーディングモデル MAI Code 2 と MAI Code 2 Flash を Copilot に追加した。MAI Code 2 は深いデバッグ、複数ファイルにまたがる変更、リファクタリング、リポジトリ全体の推論といった複雑な作業向けの汎用モデルで、Pro/Pro+/Max/Business/Enterprise が対象。MAI Code 2 Flash はコードの説明やピンポイントな編集、定型的な修正など日常作業向けの軽量・低コストモデルで、Free/Student も利用できる。どちらもエージェント型ワークフロー前提の設計で、各IDEのモデルピッカーから選択できる。",
+      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "collectedAt": "2026-11-17T23:16:29Z"
+    },
+    {
+      "title": "GitHub Copilot がブラウザを操作できる「browser use」をパブリックプレビュー公開",
+      "summary": "GitHubは11月17日、Copilot がユーザーのWebブラウザを操作する browser use をパブリックプレビューで公開した。Webアプリのリアルタイムなデバッグ、ブラウザテストの自動化、複数手順にまたがるWeb作業に使え、computer use と組み合わせるとWebベースのワークフローにより直接アクセスできる。利用には GitHub Copilot の Chrome拡張が必要で、Copilot CLI では /plugin から、Copilotアプリでは Settings > Computer Use > Enable Browser Use、VS Code / JetBrains では Settings から有効化する。拡張の設定で権限レベルの管理もできる。",
+      "url": "https://github.blog/changelog/2026-11-17-let-github-copilot-interact-with-your-browser",
+      "collectedAt": "2026-11-17T23:16:29Z"
+    },
+    {
+      "title": "Kiro CLI 3.4.0 公開、ツール入力を書き換えるフックと PermissionRequest フックを追加",
+      "summary": "Kiroは11月16日、CLI 3.4.0 と IDE 1.4.215 を公開した。CLIではツール実行前に入力を書き換えられるフックと、ツール呼び出しを許可/拒否できる新しい PermissionRequest フックが追加され、/memories に4つの選択肢、クラウドセッションの再開・一覧表示の導線も増えた。IDEは任意のターンからのチャット分岐、ワークフロー実行のクレジット表示、カスタムエージェントやPlanでのチャット同時実行に対応。あわせてKiro Webにセッションのワークスペースでコマンドを実行できるターミナルが会話の横または下にドッキングする形で追加された。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-17T23:16:29Z"
+    },
+    {
+      "title": "Claude Desktop にリリースチャンネルを追加 Stable と Latest を選択可能に",
+      "summary": "Anthropicは11月17日、Claude Desktop に受け取るバージョンを選べるリリースチャンネルを追加した。既定の Stable はより多くのテストを経てから更新されるため更新頻度が低く、Latest はおおよそ毎日更新されるため修正や新機能が早く届く。新機能を早く試したい開発者と、安定性を優先したい利用者で使い分けられる。",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "collectedAt": "2026-11-17T23:16:29Z"
+    }
+  ]
+}

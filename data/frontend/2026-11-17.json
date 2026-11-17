@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-17",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.jsチーム、増え続けるセキュリティ勧告の背景とAI活用の対策を公開",
+      "summary": "Vercelは11月17日、Next.jsのセキュリティ勧告が2024年6件→2025年14件→2026年51件と増えた理由を説明した。LLMで脆弱性探索が安価になったためで、2026年の脆弱性のうち70%は1年以上前のコード、43%は3年以上前のコードに起因していた。対策としてバグバウンティ、Eveで作った社内の脆弱性トリアージbot、Trail of Bitsによる監査に加え、全PRでVercel AgentのSecurity Reviewが攻撃者視点で侵入を試みる体制を導入。Next.js 16.4以降は next dev / next build が脆弱なバージョンを警告し、`npx next@canary upgrade --agent` でコーディングエージェントに安全な版への更新を任せられる。",
+      "url": "https://nextjs.org/blog/how-were-using-ai-to-make-nextjs-more-secure",
+      "collectedAt": "2026-11-17T23:16:29Z"
+    },
+    {
+      "title": "WebKit、3Dコンテンツを宣言的に扱う「spatial CSS」の開発者プレビューを公開",
+      "summary": "WebKitは11月16日、<model>要素による3DコンテンツをCSSで宣言的に構成する提案API「spatial CSS」の機能プレビューを公開した。子要素が共有する3D空間を作る `spatial: portal`、ポータル内でモデルを個別に動かす空間 transform、他モデルのアンカー点に揃える `position-anchor` / `position-context: anchor`、360度HDR画像による再利用可能な照明環境 `@environment-map`、シーンを回せる `portal-action: orbit`、ポータルの内容を物理空間に出す `requestVolumetricScene()` を備える。visionOS 27.3のSafariで、設定の Feature flags > CSS Portals から有効化できる。",
+      "url": "https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/",
+      "collectedAt": "2026-11-17T23:16:29Z"
+    },
+    {
+      "title": "Vitest v5.1.1 公開、fsモジュールキャッシュの環境変数追加と約25件の修正",
+      "summary": "テストフレームワークVitestのv5.1.1が11月17日に公開された。fsモジュールキャッシュを制御する環境変数が追加され、設定リスタート後のファイル変更での再実行、テスト実行開始前の --shard 適用、リトライ間での expect.assertions / hasAssertions のローカル状態リセット、試行ごとの新しい signal 付与、CLIの --bail パース、停止したorphanedフォークワーカーの終了など約25件のバグ修正が入った。パフォーマンス面ではソースマップを文字列でワーカーへ渡し、CLIのファイルフィルタ解決をテストファイルごとではなく一度だけ行うようにした。",
+      "url": "https://github.com/vitest-dev/vitest/releases",
+      "collectedAt": "2026-11-17T23:16:29Z"
+    },
+    {
+      "title": "@astrojs/cloudflare 15.0.0-beta.6 公開、ビルド出力先が .cloudflare/output/v1/ に変更",
+      "summary": "AstroのCloudflareアダプタ @astrojs/cloudflare の15.0.0-beta.6が11月17日にプレリリースとして公開された。@cloudflare/vite-plugin を2.0.0-rc.0に更新し、ビルド出力先が .cloudflare/output/v1/ に移動した。既存プロジェクトは astro preview の実行やcf経由のデプロイの前に再ビルドが必要になる。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-11-17T23:16:29Z"
+    },
+    {
+      "title": "Node.js 27.0.0-alpha.0.1.1 公開、macOS tarball内の bin/node をnotarize対応",
+      "summary": "Node.js 27系のアルファ版 27.0.0-alpha.0.1.1 が公開された。macOS(darwin)向けtarball内の bin/node がnotarize(Appleの公証)されるようになり、配布バイナリの実行時の扱いが改善される。ビルド面では --shared-simdutf 時に同梱simdutfを含めないよう変更し、LinuxでPIEを有効化。依存ではnghttp3を1.19.0に更新しV8のバックポート2件を取り込み、X509Certificateの有効期間やpackage exportsのフォールバック配列に関するドキュメントも更新された。",
+      "url": "https://github.com/nodejs/node/releases",
+      "collectedAt": "2026-11-17T23:16:29Z"
+    }
+  ]
+}
