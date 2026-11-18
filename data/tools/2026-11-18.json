@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-18",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub Copilot に Supabase・Box・Calendly などの外部コネクタが追加",
+      "summary": "GitHubは18日、Copilotから接続できる外部サービスのコネクタとしてSupabase、Box、Calendlyなどを追加したと発表した。MCPベースの連携により、コーディング中にデータベースやファイル保管、日程調整といった外部データへCopilotが直接アクセスできるようになる。開発ワークフローの外にある業務データをエージェントの作業対象へ取り込む流れがさらに進んだ形だ。",
+      "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    },
+    {
+      "title": "GitHub Copilot に Google の「Gemini 4 Neon」が追加",
+      "summary": "GitHubは18日、同日Googleが発表した新モデル「Gemini 4 Neon」をCopilotで選択できるようにしたと公開した。Gemini 4ファミリーの中位モデルで、Carbonに近い品質を低いコストと高速な応答で提供することを狙ったモデルとされる。Copilotのモデル選択肢はOpenAI・Anthropic・Google・Microsoft系が並ぶ状態が続いており、用途ごとの使い分けがますます重要になっている。",
+      "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    },
+    {
+      "title": "GitHub、セキュリティリスク評価を GitHub Team で自動実行",
+      "summary": "GitHubは18日、セキュリティリスク評価（security risk assessments）がGitHub Teamプランのリポジトリで自動的に実行されるようになったと発表した。これまで上位プランや手動設定が前提だった評価が、チームプランでも既定で回るようになる。小規模組織でもリスクの可視化を初期設定なしで受けられる点が実務上の変化となる。",
+      "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    },
+    {
+      "title": "OpenAI Codex 0.170.0 公開、TUIのリアルタイム音声通話にWebRTCネゴシエーションを導入",
+      "summary": "OpenAIは18日、Codex 0.170.0を公開した。TUIでのリアルタイム音声通話にWebRTCネゴシエーションが入り、OpenTelemetry HTTPエクスポーター向けの認証ヘッダー自動更新や、環境をまたいで同名のMCPサーバーを扱う実験的サポートも追加された。修正面では大きなリクエストでのWebSocketからHTTPへのフォールバック、MCPのOAuth資格情報の競合、Cloud会話の再接続、Windowsのファイル・サンドボックス周りの不具合に対応している。",
+      "url": "https://github.com/openai/codex/releases",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    },
+    {
+      "title": "Zed v1.29.1／v1.29.2 公開、Gitパネルにベースブランチ差分モードとLinux向けSnapパッケージ",
+      "summary": "Zedは18日、v1.29.1とv1.29.2を公開した。Gitパネルにベースブランチ以降の変更ファイルを一覧するモードが加わり、ブックマークピッカーやGit日付フォーマットの設定も導入された。AnthropicのBYOK利用者向けにClaude Fable 5.2のサポート、スレッドタイトルの自動生成を切るagent.auto_generate_thread_titles設定も追加。v1.29.2ではLinux向けの公式Snapパッケージ提供が始まった。",
+      "url": "https://github.com/zed-industries/zed/releases",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-18",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Angular v22.3.0 公開、Rust製プリプロセッサのWASM同期実行とテンプレート診断を強化",
+      "summary": "Angularは18日にマイナーリリースv22.3.0を公開した。compiler-cliにRust製プリプロセッサのWASM同期実行サポートとserveツールの移植が入り、単位が必要な数値CSSプロパティのチェックも追加された。コンパイラ側ではng-template上の未知プロパティバインディングの報告、@forでの非イテラブル値の警告復活、コロン始まりの属性・プロパティ名の禁止など診断が厳格化されている。同日にはパッチ版v22.2.7も公開された。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    },
+    {
+      "title": "Safari Technology Preview 257 公開、select multipleのドロップダウン表示と印刷の96dpi化",
+      "summary": "WebKitは18日、Safari Technology Preview 257のリリースノートを公開した。macOSで`<select multiple size=\"1\">`がドロップダウンとして描画されるようになり、既定オフのプレビューとしてmultiple付きselectのリストボックス表示も加わった。AudioWorklet.portによるページとワークレット間のメッセージ交換、WebGPUのデュアルソースブレンディング対応、印刷時のレイアウトを仕様準拠の96 CSSピクセル/インチへ変更する修正も含まれる。",
+      "url": "https://webkit.org/blog/18652/release-notes-for-safari-technology-preview-257/",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    },
+    {
+      "title": "SvelteKit 3.4.0 と adapter-cloudflare 9.0.0 公開、Cloudflare Pagesサポートを削除する破壊的変更",
+      "summary": "SvelteKitは18日、kit 3.4.0とアダプタ群を同時公開した。adapter-cloudflare 9.0.0はメジャー更新でCloudflare Pagesサポートとfallbackオプション・paths.assetsを削除し、Wranglerのmain設定を自動化する。adapter-auto 9.0.0もPagesではなくWorkersを既定ターゲットにする。kit側はアダプタが独自プレビューサーバーを持つ場合にNodeプレビューを無効化できるvite.customPreviewや、リモート関数トレースへの属性追加を導入した。",
+      "url": "https://github.com/sveltejs/kit/releases",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    },
+    {
+      "title": "Astro 7.4.13 公開、開発ツールバーのアクセシビリティ監査の誤検知やフォント周りを修正",
+      "summary": "Astroは18日に7.4.13を公開し、非表示のアンカーや見出しに対する開発ツールバーのアクセシビリティ監査の誤検知を修正した。コンテンツコレクションのバンドルやi18n.fallbackのカスタムパス、可変フォントのプリロードの不具合も解消し、フォントを使わないプロジェクトの起動が高速化した。同日は@astrojs/node 11.1.14や@astrojs/sitemap 3.7.6などアダプタ・インテグレーションも併せて更新されている。",
+      "url": "https://github.com/withastro/astro/releases",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    },
+    {
+      "title": "React Router v8.5.2 / v7.18.6 公開、href()のパス生成とRSCクライアントミドルウェアを修正",
+      "summary": "React Routerは18日にv8.5.2とv7.18.6を公開した。href()・generatePath()・リンク・フォーム・フェッチャー・リダイレクト全体でパス生成とURL検証を見直し、必須paramがnullのときhref()が例外を投げるようになった。RSCクライアントナビゲーション中にclientMiddlewareを実行しHMRをまたいで維持する修正や、sessionStorageが使えない環境で`<ScrollRestoration>`が例外を投げる問題の解消も含まれる。",
+      "url": "https://github.com/remix-run/react-router/releases",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    }
+  ]
+}

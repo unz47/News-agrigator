@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-18",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、IPO価格を想定レンジ上限超えの1株83ドルに決定 19日にNasdaq上場",
+      "summary": "Anthropicは18日、IPOの公開価格を1株83ドルに決定した。当初の想定レンジ70〜78ドルを上回る水準で、19日にティッカー「ANT」でNasdaqでの取引を開始する。完全希薄化ベースの評価額は約1.5兆ドルとされ、約260億ドルの私募を含めると調達総額は900億ドル超に達する見込み。GoogleとNVIDIAがそれぞれ約100億ドルを出資すると報じられている。",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    },
+    {
+      "title": "Google、Gemini 4ファミリーに「Gemini 4 Neon」を追加 Carbon級の品質を低コストで",
+      "summary": "Googleは18日、Gemini 4ファミリーのHydrogenとCarbonの中間に位置する新モデル「Gemini 4 Neon」を公開した。入力100万トークンあたり3ドル・出力15ドルで、コンテキストは約100万トークン、思考レベルはlow〜xhighの4段階から選べる。高い思考レベルでのタスクあたりコストはCarbonより約32%低いとされ、Geminiアプリ（AI Pro/Ultra）やAPI、Antigravityなどに展開されている。",
+      "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    },
+    {
+      "title": "Microsoft Ignite 2026開幕、Copilotを「仕事のための新しいOS」に 自律実行の「Autopilot」発表",
+      "summary": "Microsoftは年次イベントIgnite 2026で、Copilotを対話・共同作業・開発・自律実行まで統合した「仕事のための新しいOS」と位置づける構想を示した。毎回指示しなくても定例業務を進める長時間稼働エージェント「Autopilot」と、人とAIエージェントがチームとして働く共有空間「Copilot Workspaces」を発表。Foundryへのモデル追加や自社設計CPU「Cobalt 200」のVM一般提供も併せて公開された。",
+      "url": "https://www.techno-edge.net/article/2026/11/18/5755.html",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    },
+    {
+      "title": "NVIDIA決算、四半期売上1158億ドルで前年比103%増 Vera採用にMeta・OpenAI・CoreWeaveが加わる",
+      "summary": "NVIDIAは18日発表の四半期決算で売上高1158億ドル（前年同期比103%増）と市場予想を上回り、強気の見通しとともにAIインフラ関連株を押し上げた。決算説明では新CPU「Vera」の採用企業としてMeta、OpenAI、CoreWeave、Nscaleが新たに挙げられ、既存採用先にはAWSが含まれる。CPU事業の売上は2028年に2倍以上へ、フィジカルAI関連は250億ドル規模に近づくとの見通しを示した。",
+      "url": "https://www.benzinga.com/markets/earnings/26/11/63381943/nvidia-says-meta-openai-and-coreweave-adopt-vera-expects-cpu-revenue-to-more-than-double-in-2028-as-physical-ai-revenue-nears-25-billion",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    },
+    {
+      "title": "OpenAI、自社がChatGPT上でどう紹介されるかを企業が確認できる機能を提供開始",
+      "summary": "OpenAIは、企業がChatGPT上で自社がどのように紹介・言及されているかを確認できる企業向け機能の提供を始めた。ブランドの誤認や古い情報の流通を企業側が把握できるようにする狙いで、先に発表された「Businesses in ChatGPT」の企業情報管理機能（Business Hub／Business Agent）と連なる動き。生成AI経由の情報露出をどう管理するかという新しい課題に対応するものだ。",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html",
+      "collectedAt": "2026-11-18T23:40:00Z"
+    }
+  ]
+}
