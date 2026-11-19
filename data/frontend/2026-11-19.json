@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-19",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js 16.5.0-canary.56 公開、next start向け実験的Goフロントサーバーとボット判定のプリレンダーバイパス",
+      "summary": "Vercelは19日、Next.js 16.5.0-canary.56 を公開した。ボットやHTTPメソッドに基づいてプリレンダーをバイパスする仕組み、ルートバンドル統計のRust実装、`next start` 向けの実験的なGo製フロントサーバーが入っている。直近のcanaryではTurbopackの最大チャンクサイズ指定やGCの既定有効化、クライアント参照マニフェストの小型化も進んでいる。",
+      "url": "https://github.com/vercel/next.js/releases",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    },
+    {
+      "title": "WebKit、Global Privacy Control（GPC）をアプリから有効化できるAPIを公開",
+      "summary": "WebKitは18日、ユーザーの「情報の共有・文脈を越えたターゲティング広告の拒否」を示すWeb標準 Global Privacy Control をアプリ側で有効化できるAPIを公開した。WKWebViewでは `WKWebpagePreferences.globalPrivacyControlEnabled`、SwiftUIの WebPage では `isGlobalPrivacyControlEnabled` を設定すると、JavaScriptの `navigator.globalPrivacyControl` が有効になり `Sec-GPC: 1` ヘッダーが送られる。設定はそのナビゲーション配下のメインフレーム・サブフレーム・サブリソース全体に効き、iOS／iPadOS／visionOS／macOS 27から利用できる。",
+      "url": "https://webkit.org/blog/18646/global-privacy-control-gpc-webkit-api/",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    },
+    {
+      "title": "Angular 22.2.7 公開、ハイドレーション失敗時にTypeErrorではなくNG0502/NG0512を投げる",
+      "summary": "Angularは18日、パッチリリース 22.2.7 を公開した。coreのハイドレーションで原因が分かりにくいTypeErrorになっていた箇所を、NG0502／NG0512として明示的なエラーにし、テスト環境ではハイドレーション警告を抑制するよう変更した。formsではControlValueAccessorを持つコントロールのDate型min/maxを正しくフォーマットする修正が入っている。",
+      "url": "https://github.com/angular/angular/releases",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    },
+    {
+      "title": "SvelteKit、スタンドアロンサーバー用の共通基盤「@sveltejs/adapter-server 0.1.0」を新設",
+      "summary": "SvelteKitチームは18日、スタンドアロンサーバーを生成するアダプタ向けの共通部品となる @sveltejs/adapter-server 0.1.0 を公開し、@sveltejs/adapter-node 6.0.5 をこの基盤の上に作り直した。あわせて kit 3.4.0 では `vite.customPreview: true` でSvelteKit内蔵のNodeプレビューサーバーを無効化でき、リモート関数のトレーススパンに `sveltekit.remote.call.file` 属性が付くようになった。",
+      "url": "https://github.com/sveltejs/kit/releases",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    },
+    {
+      "title": "Biome CLI v2.6.8 公開、Vue・YAML・テスト向けのnurseryルールを多数追加",
+      "summary": "Biome CLI v2.6.8 が15日に公開され、`noBufferConstructor`、`noMisusedSpread`、`noTripleSlashReference` などのnurseryルールが追加された。`noVueAsyncComputed` などのVueルール、`noYamlEmptyMapKeys` などのYAMLルール、`useCalledWith`／`useSpyOn` といったテスト向けルールも入り、JS/TS以外への対応範囲が広がっている。",
+      "url": "https://github.com/biomejs/biome/releases",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    }
+  ]
+}

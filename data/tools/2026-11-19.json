@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-19",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "VS Code 1.147 公開、チャット依頼を予約送信する「Send Later」とブラウザ操作プレビュー",
+      "summary": "VS Code 1.147 が18日にリリースされた。Agentsウィンドウでチャット依頼を指定時刻に実行する「Send Later」と、未送信の依頼を文脈や設定ごと保存しておける「Draft requests」が実験的機能として入った。既定ブラウザ（Chrome/Edge）をエージェントが操作する「Browser Use」のプレビュー、応答にHTMLプレビューやチャートを含める表示、タスク種別ごとにモデルを割り当てる「Model routers」、安全とみなす操作をレビュアーに伝えられる権限設定も追加された。",
+      "url": "https://code.visualstudio.com/updates",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    },
+    {
+      "title": "Kiro Crew 0.13.0 公開、Conductorモードを標準提供しチャットアプリからの返信に対応",
+      "summary": "Kiroは19日、Crew 0.13.0 を公開した。旧Ultraモードに当たるConductorモードが標準ビルドでも有効になり、サイドバーやチャットアプリからセッションへ返信できるようになった。チャットの再オープンやフォークにも対応し、FilesパネルとGitパネルはエージェントによる変更を先頭に表示する。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    },
+    {
+      "title": "Claude Code 2.1.329 公開、/tasksでスケジュール済みタスクや/loopの再開予定を一覧表示",
+      "summary": "Claude Code 2.1.329 では、`/tasks` がそのセッションのスケジュール済みタスク・`/loop` のウェイクアップ・ゴール・会話フォークを一覧表示し、`x` キーで確認のうえ停止できるようになった。フォルダのフックがどこで宣言されているかを示す信頼ダイアログの警告や、OpenTelemetry有効時のCode Mode対応も追加。`~/.claude.json` が初期化される不具合や、`/code-review <PR番号>` がPRではなくチェックアウト中のブランチをレビューする問題も修正された。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    },
+    {
+      "title": "GitHub Actions、Red Hat Enterprise Linuxランナーイメージが一般提供開始",
+      "summary": "GitHubは19日、GitHub Actions向けのRed Hat Enterprise Linux（RHEL）ランナーイメージを一般提供に移行した。RHEL環境を前提とするエンタープライズのビルドやテストを、ホストランナー上でそのまま実行できるようになる。",
+      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    },
+    {
+      "title": "GitHub、Azure DevOpsからのエンタープライズ・ライブマイグレーションを一般提供",
+      "summary": "GitHubは19日、Azure DevOpsからGitHubへ移行する「Enterprise Live Migrations」を一般提供にした。同日には、OpenID Connectを使うS3監査ログストリーミングがGHE.comでも利用できるようになったことも発表されている。",
+      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    }
+  ]
+}

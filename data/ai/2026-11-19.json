@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-19",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropicがナスダック上場初日に17%高 調達額813億ドルで史上最大のIPO",
+      "summary": "AnthropicのClass A普通株が19日、ティッカー「ANT」でナスダックに上場した。公開価格83ドルに対し初値は111.50ドル（34%高）で、一時114.99ドルまで上昇し時価総額は2兆ドルを超えた。終値は97.17ドルの17%高で、調達額813億ドルは史上最大のIPOとなった。ナスダック指数自体は同日下落しており、AI関連の大型上場だけが市場を支える構図となった。",
+      "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    },
+    {
+      "title": "OpenAI、ChatGPTに話しながら文字起こしされる「Live Dictation」を全プランへ展開",
+      "summary": "OpenAIは18日、話した内容がリアルタイムで文字になる「Live Dictation」をChatGPTのWeb・デスクトップ・iOS・Androidに展開した。無料プランを含む全ティアで世界的に利用でき、従来10分だった録音時間の上限も撤廃された。波形アイコンのタップで文字起こし表示のオン／オフを切り替えられる。",
+      "url": "https://www.digitaltrends.com/computing/chatgpt-now-supports-live-dictation-openai-removes-the-10-minute-recording-limit/",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    },
+    {
+      "title": "Google DeepMindの世界モデル「Genie 4」がProject GenieでAI Ultra加入者に開放",
+      "summary": "Google DeepMindは、操作に応じてインタラクティブな仮想世界をリアルタイム生成する世界モデル「Genie 4」を、Google AI Ultra加入者向けの新体験「Project Genie」で利用できるようにしたと報じられている。公式ブログではトラステッドテスター向けの研究プレビューとして公開され、Ultra加入者とGemini API／Google AI Studioの早期アクセスパートナーへの提供が予告されていた。参照画像の入力や生成途中での環境変更、音声付きの世界生成に対応するとされる。",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    },
+    {
+      "title": "Microsoft、Ignite 2026でMAI系7モデルを投入 低コストを前面に",
+      "summary": "MicrosoftはIgnite 2026で、MAI Code 2／MAI Code 2 Flash、MAI Cyber 2 Flash、MAI Transcribe 2などを含む7つの自社AIモデルを発表した。コーディングのベンチマークでGPT-6.1 SolやClaude Opus 5.5への対抗をうたいつつ、より安い価格を前面に出している（ただし比較はプロモーション価格が前提）。コーディング系はGitHub Copilotから、一部モデルはFoundryのプレビューで利用できる。",
+      "url": "https://www.eweek.com/news/microsoft-seven-ai-models-openai-anthropic/",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    },
+    {
+      "title": "Microsoft、Foundry IQにナレッジグラフを追加 Azure Cobalt 200 VMもGA",
+      "summary": "MicrosoftはIgnite 2026で、エージェント向け検索基盤「Foundry IQ」にナレッジグラフと権限を考慮したSharePoint連携、エージェント専用の検索モデルを追加した。Azure側では独自ArmプロセッサのCobalt 200 VMとAzure Copilotのデプロイエージェントが一般提供入りし、Foundryからオープンウェイトモデルやエージェントを顧客のAKSクラスタへ展開する機能もプレビューとなった。発表された215機能のうち即日GAは76件との分析もある。",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
+      "collectedAt": "2026-11-19T23:18:14Z"
+    }
+  ]
+}
