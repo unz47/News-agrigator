@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-20",
+  "category": "ai",
+  "articles": [
+    {
+      "title": "Anthropic、IPOの完了を発表 調達総額は約1195億ドルに",
+      "summary": "Anthropicは20日、クラスA普通株のIPO完了を発表した。引受人のオプション行使分1億4700万株を含む11億2700万株を1株83ドルで売り出し、総額約935億ドル（うち同社取り分は約916億ドル）を調達。AMD、Broadcom、Google、Micron、Microsoft、NVIDIA、TSMC Partnersを引受先とするクラスN株の私募3億1325万株（約260億ドル）も同時に完了し、合計の調達総額は約1195億ドルとなった。ティッカーは「ANT」。",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    },
+    {
+      "title": "OpenAI、創薬化学の推論力を測る「MedChemBench」を公開 GPT-6.2 Astraが84.5%",
+      "summary": "OpenAIは20日、医薬品化学におけるAIの推論能力を測るベンチマーク「MedChemBench」を公開した。117本の論文・特許から作った99問・761の分子構造で構成され、構造の再構成精度、証拠に基づく科学的推論、化合物の選択と順位付け、数値物性の予測の4領域を採点する。xhigh推論設定でGPT-6.2 Astraが84.5%、GPT-6 Astraが83.3%を記録したが、OpenAIは化合物選択と数値予測では半分程度の得点にとどまり、新薬発見能力を示すものではないと注意を促している。",
+      "url": "https://openai.com/index/introducing-medchembench/",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    },
+    {
+      "title": "Google、Gemini APIに「Tool Retrieval」をプレビュー提供 ツールのスキーマを必要時だけ読み込む",
+      "summary": "Googleは19日、Gemini APIのInteractions APIで「Tool Retrieval」をプレビュー公開した。リクエストに`tool_search`ツールを加え、遅延させたいツールに`defer_loading: true`を設定すると、モデルは各ツールの名前と説明だけを見て、必要になった時点でパラメータスキーマを読み込む。ツール数が多いエージェントの入力トークンとレイテンシを削減できる。検索は既定でサーバー側で実行されインデックスの構築は不要、クライアント側検索も選べる。追加課金はなく、Gemini 3.6以降とGemini 4ファミリーで利用可能。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    },
+    {
+      "title": "Mac版Geminiアプリに「computer use」追加 アプリやWebをAIが代わりに操作",
+      "summary": "Googleは、Mac版Geminiアプリにユーザーの代わりにアプリやWebサイトを操作する「computer use」機能を追加した。チャットで指示するとクリックや文字入力、メニュー操作、フォーム入力を代行し、Mac内のファイルや複数アプリをまたぐ作業にも対応する。処理はユーザーの画面とは別の隔離されたバックグラウンドウィンドウで進み、ログインや支払いの場面では一時停止して確認を求める。まず米国の有料プラン・英語環境から提供される。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    },
+    {
+      "title": "OpenAI、ChatGPTの速度劣化をCodexエージェントが調査・修正する「Performance Factory」を公開",
+      "summary": "OpenAIは19日、ChatGPTの性能劣化を自動で検知・調査・修正するクラウド基盤「Performance Factory」の内部構造を公開した。タスクサービスがジョブの状態を管理し、ディスパッチループがCodexエージェントに割り当て、エージェントはコード・メトリクス・ログ・トレース・プロファイルを参照して原因を特定する。最初に稼働した「Regression Workflow」は3カ月強で1700件以上の調査を行い600件超の根本原因を特定、1日あたり約17件のペースで、人手による100件の抽出レビューでは70%が正確と評価された。",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    }
+  ]
+}

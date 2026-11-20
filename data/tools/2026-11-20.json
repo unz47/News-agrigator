@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-20",
+  "category": "tools",
+  "articles": [
+    {
+      "title": "GitHub、セキュリティアドバイザリの権限をカスタムリポジトリロールで付与できる機能を一般提供",
+      "summary": "20日、リポジトリのセキュリティアドバイザリと非公開の脆弱性報告へのアクセスを、カスタムリポジトリロールで付与できる機能が一般提供になった。Organizationのオーナーは、リポジトリ管理者や組織全体のsecurity manager権限を渡さずに、閲覧のみ／作成・編集・管理／非公開報告の受理とアドバイザリの開閉／アドバイザリ公開とCVE申請の4つの権限を割り当てられる。一時的なプライベートフォークのマージや削除は従来どおり管理者権限が必要。",
+      "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    },
+    {
+      "title": "GitHub Enterprise Server 3.23 のリリース候補が公開 CPUだけで動く非構造化シークレット検出を搭載",
+      "summary": "20日、GHES 3.23のリリース候補が公開された。ProjectsのフィルターでOR・AND・括弧を組み合わせられるようになり、GPUやホスト型LLM・外向き通信なしでアプライアンスのCPU上で非構造化シークレットを検出するAIシークレット検出がパブリックプレビューで加わる。悪意あるパッケージの検出はnpmに加えPyPI・Maven・RubyGems・NuGet・Go・Rust・Composerへ拡大し、Dependabotはバージョン公開から既定で3日待ってPRを作成する。OAuthトークンの8時間有効期限もプレビュー提供。",
+      "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    },
+    {
+      "title": "GitHub、ダッシュボードに表示するリポジトリを選べる「Favorite repositories」を追加",
+      "summary": "20日、新ダッシュボード有効時にダッシュボードへ表示するリポジトリを自分で選べる「Favorite repositories」が追加された。EditまたはAddからピッカーを開いて検索・選択し、Saveで反映する。選んだリポジトリはGitHub Mobileのピン留めと同期され、どちらで変更しても再読み込み後に反映される。ピン留めは両方合わせて最大25件まで。",
+      "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    },
+    {
+      "title": "Claude Code 2.1.330 公開、Enterprise Admin Console管理組織へのサインインとチャート描画モド「easel」を追加",
+      "summary": "`claude auth login`後にAnthropicのEnterprise Admin Consoleで管理されている組織へサインインし、組織の設定やクラウドプロバイダ・ゲートウェイを適用できるようになった。依頼時やMCPメトリクス結果の下でチャートを描く組み込みモド「easel」がPro・Maxなど向けにmacOS/Linuxで追加（自動描画は`/config`で無効化可能）。長い会話のcompact直後に数分フリーズする問題、WebFetchがセッションを止める問題、`ExitWorktree`が別セッションの作業中worktreeを削除する問題なども修正された。",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    },
+    {
+      "title": "Kiro IDE 1.5.11 公開、SSH接続やDev Container・クラウドセッションのリモート開発に対応",
+      "summary": "20日公開のKiro IDE 1.5.11でリモート開発がサポートされた。自分のLinuxマシンにSSHで接続したり、プロジェクトをDev Containerで開いたり、クラウドセッションを独立したウィンドウで開けるようになった。前日の19日には全プランに含まれるKiro for VS Code拡張（1.5.0、VS Code 1.145以降が必要）も登場し、サイドバーのチャット・スペック・ファイル単位の変更レビュー・チェックポイントに対応している。",
+      "url": "https://kiro.dev/changelog/",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    }
+  ]
+}

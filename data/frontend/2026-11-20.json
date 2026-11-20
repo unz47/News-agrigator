@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-20",
+  "category": "frontend",
+  "articles": [
+    {
+      "title": "Next.js v16.5.0-canary.58 公開、jest-workerを独自ワーカープールに置き換え",
+      "summary": "20日公開のv16.5.0-canary.58で、ビルド時の並列処理に使っていたjest-workerを独自実装のワーカープールに差し替えた。throwできない箇所での`use cache`タイムアウトエラーをスキップし、owner stackの整形を遅延化する修正も入った。前日のcanary.57では`next start`向け実験的フロントサーバーの名称が「Switchyard」に変更され、Request Insightsのジャーナルがgzip圧縮されている。",
+      "url": "https://github.com/vercel/next.js/releases",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    },
+    {
+      "title": "Svelte 5.59.0 公開、カスタムレンダラーAPIを追加 async modeではgetAbortSignal()の呼び出し位置に破壊的変更",
+      "summary": "20日に5.58.1・5.59.0・5.59.1が相次いで公開された。5.59.0でカスタムレンダラーAPIが追加され、5.59.1は`hydrate`と`mount`の型引数を揃えて両者のユニオンを呼び出せるようにした。5.58.1では`on()`のイベントリスナー処理やフォームリセット時の`bind:files`を修正する一方、実験的なasyncモードで`getAbortSignal()`をawaitより前に呼ぶ必要があるという破壊的変更が入っている。",
+      "url": "https://github.com/sveltejs/svelte/releases",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    },
+    {
+      "title": "Storybook v10.6.8 公開、Viteビルダーがバンドラーグラフ全体をpreview-stats.jsonに出力",
+      "summary": "20日公開のv10.6.8で、Viteビルダーがバンドラーのグラフ全体をpreview-stats.jsonに書き出すようになり、バンドル構成の解析がしやすくなった。マネージャー側のストーリープリロード性能も改善している。並行して進むv11.0.0ベータではBabelとjscodeshiftを置き換えてインストールパッケージを128から13へ削減する作業が進んでいる。",
+      "url": "https://github.com/storybookjs/storybook/releases",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    },
+    {
+      "title": "Vite v8.4.0-beta.1 公開、environment.addSafeModuleとserver.fs.strict: 'extended'を追加",
+      "summary": "Vite 8.4系の最初のベータが公開された。`environment.addSafeModule`、`server.fs.strict`の`'extended'`オプション、ビルドマニフェストへのワーカーチャンク出力が追加され、CSSのプリロード再試行、CSS `url()`でのsubpath imports、WASMのsource-phase importsにも対応した。一方で`optimizeDeps.rollupOptions`は削除されている。",
+      "url": "https://github.com/vitejs/vite/releases",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    },
+    {
+      "title": "CSS-Tricks、Andy Clarkeに新著『Standout Designs for the Web』を6つの質問で聞くインタビューを公開",
+      "summary": "20日公開の記事で、Webデザイナーのアンディ・クラークが新著『Standout Designs for the Web』について6つの質問に答えている。似通ったレイアウトが増えた現在のWebで、どうやって印象に残るデザインを作るかという問題意識と、CSSの新機能をデザイン表現にどう生かすかが語られている。",
+      "url": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
+      "collectedAt": "2026-11-20T23:15:31Z"
+    }
+  ]
+}
